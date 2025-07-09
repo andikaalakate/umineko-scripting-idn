@@ -940,28 +940,28 @@
 ` ...Mungkin itulah mengapa Kinzo-san sangat mempercayaimu."`
 `"Jika begitu, aku tersanjung..."`
 `Saat Nanjo tertawa kecil, dia kembali menatap epitaf itu.`
-`"......Lihatlah sungai ikan sweetfish, mengalir melalui rumah lamaku yang tercinta.`
-` Kau yang mencari Tanah Emas, ikuti jalurnya ke hilir mencari kunci..."`
-`Inilah yang tertulis pada epitaf di bawah potret penyihir tercintaku {f:5:Beatrice}:`
-`{e:070:Lihatlah sungai ikan sweetfish, mengalir melalui rumah lamaku yang tercinta.`
-`{n}Kau yang mencari Tanah Emas, ikuti jalurnya ke hilir mencari kunci.`
-`{n}{n}Saat kau menyusurinya, kau akan melihat sebuah desa.`
-`{n}Di desa itu, carilah pantai yang dibicarakan dua orang.`
-`{n}Di sana kunci menuju Tanah Emas tertidur.`
-`{n}{n}Kau yang menyentuh kunci harus melakukan perjalanan sebagai berikut menuju Tanah Emas.}`
-`{e:070:Pada senja pertama, korbankan enam yang terpilih oleh kunci.`
-`{n}Pada senja kedua, yang tersisa akan merobek dua yang dekat.`
-`{n}Pada senja ketiga, yang tersisa akan memuji namaku yang mulia.`
-`{n}Pada senja keempat, cabut kepala dan bunuh.`
-`{n}Pada senja kelima, cabut dada dan bunuh.`
-`{n}Pada senja keenam, cabut perut dan bunuh.`
-`{n}Pada senja ketujuh, cabut lutut dan bunuh.`
-`{n}Pada senja kedelapan, cabut kaki dan bunuh.`
-`{n}Pada senja kesembilan, sang penyihir bangkit, dan tak ada yang tersisa hidup.`
-`{n}Pada senja kesepuluh, perjalanan berakhir, dan kau akan tiba di Rumah Emas.}`
-`{e:070:Sang penyihir akan memuji yang bijak, dan menganugerahkan empat harta.`
-`{n}{n}Satu akan menjadi semua emas Tanah Emas.`
-`{n}Satu menghidupkan kembali semua jiwa yang mati.`
-`{n}Satu bahkan menghidupkan kembali semua cinta yang mereka miliki.`
-`{n}Dan satu untuk sang penyihir beristirahat abadi.`
-`{n}{n}Beristirahatlah dengan damai, penyihir tercintaku, {f:5:Beatrice}.}`
+`"...Lihatlah sungai sweetfish yang mengalir melalui kampung halamanku tercinta. `
+`Engkau yang mencari Tanah Emas, ikutilah alirannya ke hilir untuk menemukan kunci..." `
+`Inilah yang tertulis pada epitaf di bawah potret penyihirku tercinta, {f:5:Beatrice}: `
+`{e:070:Lihatlah sungai sweetfish yang mengalir melalui kampung halamanku tercinta. `
+`{n}Engkau yang mencari Tanah Emas, ikutilah alirannya ke hilir untuk menemukan kunci. `
+`{n}{n}Saat menelusurinya, kau akan melihat sebuah desa. `
+`{n}Di desa itu, carilah pantai yang akan ditunjukkan oleh dua orang. `
+`{n}Di sanalah kunci menuju Tanah Emas tertidur. `
+`{n}{n}Orang yang memperoleh kunci harus menempuh perjalanan menuju Tanah Emas sesuai aturan berikut.} `
+`{e:070:Pada senja pertama, persembahkan enam orang yang dipilih oleh kunci sebagai korban. `
+`{n}Pada senja kedua, yang tersisa akan mencabik dua orang yang paling dekat. `
+`{n}Pada senja ketiga, yang tersisa akan memuji namaku yang mulia. `
+`{n}Pada senja keempat, cungkil kepala dan bunuh. `
+`{n}Pada senja kelima, cungkil dada dan bunuh. `
+`{n}Pada senja keenam, cungkil perut dan bunuh. `
+`{n}Pada senja ketujuh, cungkil lutut dan bunuh. `
+`{n}Pada senja kedelapan, cungkil kaki dan bunuh. `
+`{n}Pada senja kesembilan, sang penyihir akan bangkit kembali, dan tak ada yang tersisa hidup. `
+`{n}Pada senja kesepuluh, di akhir perjalanan, engkau akan memperoleh kekuatan harta Tanah Emas, sekali dan untuk terakhir kalinya.} `
+`{e:070:Sang penyihir akan memuji yang bijak, dan menganugerahkan empat harta. `
+`{n}{n}Satu, seluruh emas Tanah Emas. `
+`{n}Satu, kebangkitan semua jiwa yang telah mati. `
+`{n}Satu, kebangkitan cinta yang telah hilang. `
+`{n}Satu, untuk menidurkan sang penyihir selamanya. `
+`{n}{n}Tidurlah dengan damai, penyihirku tercinta, {f:5:Beatrice}.} `
