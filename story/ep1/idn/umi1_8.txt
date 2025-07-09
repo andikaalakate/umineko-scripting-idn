@@ -198,910 +198,910 @@
 `"Pertama-tama, kalau {f:5:Beatrice} benar-benar ada dan ingin memperkenalkan dirinya pada semua orang, maka dia bisa saja muncul langsung di hadapan kita semua. `  
 `Tapi alih-alih itu, dia memilih metode samar dengan muncul lewat seorang gadis kecil bernama Maria-chan... dan hanya memberi kita kesan samar tentang siapa dia sebenarnya. `  
 `Kontradiksi. `  
-`Let's go a little deeper, shall we?" `
-`"......She appeared in front of Maria, trying to give us the impression that a 19th person existed, and yet, `
-`she still hasn't appeared before us and is hiding somewhere at this very moment. `
-`Think about those contradictions. `
-`......You've got to keep these things in mind when you spin the chessboard around." `
-`"In short, if a person wants to leave us with the impression that {f:5:Beatrice} exists as the 19th person, what might their goal be?" `
-`"......If this person wanted to hide, then they wouldn't have made their presence known. `
-`And if they wanted to show themselves, they wouldn't have used the roundabout approach of entrusting someone with a letter. `
-`......Which means...?" `
-`"It's simple. `
-`{f:5:Beatrice} is one of the 18 people. `
-`That's why they want to create the illusion that there are more than 18 people. `
-`...The 19th person was revealed so spectacularly. `
-`If someone were to profit from this, it wouldn't be some 19th person in hiding. `
-`It'd be one of the original 18 people. `
-`......Of course, this reasoning is full of holes. `
-`If you turn over even a few of its premises, it'll simply fall apart. `
-`But I'm almost completely certain it's correct." `
-`...This is starting to feel pretty creepy. `
-`Someone lent Maria the umbrella and handed her the letter. `
-`Supposedly, none of the 18 did this. `
-`And yet, {f:5:Beatrice} was hidden among those 18. `
-`What was this person planning, hiding their true form and pretending to be {f:5:Beatrice}...? `
-`"I suspected it might've been Maria-chan playacting, but the contents of the message were extremely complicated, and it's hard to imagine Maria-chan writing that herself. `
-`......However, I can't deny the possibility that Maria-chan is working together with someone." `
-`"W-Wait a sec, ...Maria's a nine-year-old kid, right?! `
-`What could she possibly be planning, and with whom?! `
-`And what about her straightforward, overly-honest, obedient nature?!" `
-`"Yes, I also understand what kind of a person Maria-chan is. `
-`......But that's exactly why I think it's possible. `
-`That girl's a dreamer who can't help but look up to and blindly accept the existence of witches. `
-`So if a person appeared in front of her and claimed to be the witch {f:5:Beatrice}, Maria-chan would happily swallow it up, I think." `
-`".........So you're saying that if someone disguised themselves by wearing that fancy dress from the portrait, tricking Maria wouldn't be that hard?" `
-`"Of course, with that reasoning, all of us women would become the primary suspects. `
-`...Anyway, who did Maria-chan encounter? `
-`Learning the details of that question would be the best key to solving this riddle." `
-`"...But this key has been firmly locked away inside Maria-chan's heart. `
-`Everyone denied the existence of the witch without listening to her, barraging her too much with questions about who {f:5:Beatrice} actually was. `
-`...She probably won't open her heart to the adults now." `
-`In the dim hall, in front of the portrait of {f:5:Beatrice}, ......Maria was sobbing. `
-`"......Uu-... `
-`Uu-. `
-`...No one believes I met {f:5:Beatrice}! `
-`......Uu-...... `
-`Uu-...... `
-`Even though I showed them the letter {f:5:Beatrice} gave, they still don't believe...! `
-`.........Uu-......u, `
-`...u, `
-`......hic, `
-`...hic!" `
-`"Anyway, Maria-chan's holding the key. `
-`The key to whether {f:5:Beatrice} is one of the 18 people or a 19th person." `
-`"...Maria's stubborn, right? `
-`When that girl gets angry, it's pretty hard to make her feel better." `
-`"Battler-kun, I think a kid like you would be better at cheering her up than an adult like me. `
-`...After she's feeling better, try asking. `
-`......I know you don't care about all this back and forth about the inheritance, `
-`but don't you find this Western mansion mystery situation exciting? `
-`Who in the world is this person who gave Maria-chan the letter? `
-`...It makes your intellectual curiosity ache." `
-`"You're actually pretty tough, considering you're still excited after being dragged through that endless money talk... `
-`Adults can be pretty amazing." `
-`I shrugged exasperatedly. `
-`...But I did notice something. `
-`Kyrie noticed how dejected I was after overhearing our parents' turbulent discussion... `
-`and was probably trying to clear the air. `
-`...At the very least, I'd recovered enough to voice my complaints. `
-`......She wasn't my real mother, so I've never felt like calling her Mom. `
-`...But it did make me think "she's a real adult". `
-`"Hey brats, so this is where you were. `
-`Kyrie, you really took your time fixing your makeup, didn't you? `
-`Think I'll make a habit of going out to touch up my makeup too." `
-`"I'm sorry. `
-`A woman's makeup takes a long time. `
-`......So? `
-`How has the discussion been without me?" `
-`"Hehehe, I'm sure everything was all peaceful and harmonious." `
-`Kyrie-san poked the weak spot under my arm with her elbow. `
-`"...We decided to take a break to cool our heads a little. `
-`It looks like we'll be at it all night. `
-`Makes me wanna cry." `
-`His way of talking hadn't changed, but he couldn't completely hide his fatigue. `
-`...I couldn't say I was sympathetic, but he looked pitiful compared to his normal, energetic self. `
-`"Still, that rain's just awful. `
-`I really don't wanna go back to the guesthouse. `
-`It looks like Natsuhi nee-san set things up so we could spend the night here in the mansion. `
-`What'll we do?" `
-`"......We don't need to decide until you're done, right? `
-`If you run so low on energy that you can't return to our room, then we can take them up on their offer." `
-`"You're right. `
-`We can think about it later. `
-`......What about you, Battler?" `
-`"If I stayed, I'd just get in the way. `
-`I'll be nice and go back over there." `
-`".........I see. `
-`Will you go back soon?" `
-`"I dunno. `
-`It'd be lonely to head back by myself. `
-`I'll gather all the kids and we'll head out." `
-`"Okay. `
-`You go do that. `
-`............Also, Battler, `
-`you won't be going to sleep that easily tonight, right?" `
-`"Yeah, I'll probably be up talking with the cousins. `
-`Sounds like we'll be up all night. `
-`Is there a problem with that?" `
-`"......I see. `
-`If you're still awake when the adults' discussion is over, I want to have a little talk as a family." `
-`"...A what? `
-`That doesn't sound like you." `
-`Apparently, Kyrie-san was thinking the same thing. `
-`"What are you talking about?" `
-`She asked him in a small voice. `
-`...It looked like Kyrie-san didn't have a clue what Dad meant either. `
-`"......I also want to talk to you about it, Kyrie. `
-`......I'll tell you later, so don't ask now. `
-`Please." `
-`"..................?" `
-`I don't know anyone who neglects the concept of "family" as much as this old bastard. `
-`...And now he's saying we're gonna have a talk as a family. `
-`......Both Kyrie-san and I couldn't help but get wide-eyed. `
-`"Don't look so terrified. `
-`I'm the one who should be terrified. `
-`............After all......" `
-`At that point, he swallowed his words for an instant. `
-`...Even though putting on airs of importance wasn't much like my dad. `
-`"...You're freaking me out, Dad. `
-`Everyone in our family's gathered here now, right? `
-`Don't make a big deal out of it and spit it out." `
-`"..................I'm probably... `
-`.........I will probably... `
-`be killed." `
-`There was a huge crash of thunder. `
-`It must've been really close. `
-`Dad's expression, brightly illuminated by the lightning, was burned into my eyes. `
-`Dad's face, which always looked so sure of itself and which always wore a taunting expression, `
-`......was strangely frail in a way I couldn't really explain. `
-`...It was so worn out that he looked like a different person. `
-`"Wh-What...?! `
-`...What are you talking about?! That doesn't sound like you!" `
-`"*giggle* `
-`I agree. `
-`What happened? You look so timid all of a sudden. `
-`It's not like you." `
-`".........I'm gonna go fix my makeup too. `
-`Don't follow me." `
-`Dad turned away, weakly. `
-`After that, only Kyrie and I were left, still wide-eyed. `
-`"What did he say......? `
-`Tonight, he'll be killed? `
-`You don't think that mysterious letter scared him, do you? `
-`He's been watching too many serial murder movies." `
-`"............Hmmmmmmmm." `
-`Kyrie-san didn't answer my lighthearted words...and continued to stare at my dad's disappearing back... `
-`"...Battler-kun, when you told Rudolf-san to spill the beans right away, he left without telling us anything. `
-`Even though he said he had something to say to both of us, he didn't answer you. `
-`Why? `
-`...Spin the chessboard around. `
-`.........What do you see?" `
-`"Well, when he said he wanted to talk but then couldn't, that's a contradiction. `
-`...What, can you see something by looking from Dad's perspective?" `
-`"......*giggle* `
-`Yes, I can see something. `
-`He wants to talk about something. `
-`However, he doesn't have the courage to bring it up. `
-`So he actually means "chase after me, talk to me, and ask me about it yourself." `
-`By saying "Don't follow me", he actually means the opposite. `
-`He actually means "Follow me and force me to answer." `
-`......Seriously, what a spoiled brat." `
-`"Whaaaa-?! `
-`Can you really call that reasoning?! `
-`Th-That's ridiculous." `
-`"Heheheh, can great private and police detectives deduce the emotions and feelings between men and women? `
-`They can't, right? `
-`Figuring out the feelings of the opposite sex is an even more advanced art than exposing the tricks in difficult crime cases. `
-`If you ask me, romance novels have much deeper mysteries than masterpiece mystery novels." `
-`"I-I see. `
-`Is that how it is......" `
-`"I'll stand alongside that spoiled brat. `
-`......He normally loves to bluff, but tonight, he's completely tired out from that heated discussion. `
-`He probably wants someone to lean on at the moment. `
-`And responding to that need is the role of his partner." `
-`"Haah. `
-`Sounds passionate. `
-`Then I'll leave that old bastard in your hands." `
-`"Yes, leave it to me." `
-`I called out to Kyrie-san's departing back. `
-`"......Huh? `
-`What?" `
-`"Um, I wanted to say thanks. `
-`Thanks to you, my gloomy mood has cleared up a lot." `
-`"That's good. `
-`Communication is important." `
-`After answering with a wink, Kyrie-san followed after Dad... `
-`Natsuhi could be found in a dimly lit hallway. `
-`Now and then, the thunder would crash, but this had no effect on Natsuhi's expression. `
-`......She looked completely worn out. `
-`The discussion that had just taken place between the relatives in the dining hall was repeating itself inside Natsuhi's mind... `
-`{f:5:Beatrice} had proclaimed that in addition to the gold, all of the inheritance and property of the Ushiromiya family would be given to the person who could solve the riddle. `
-`...In other words, she planned to undermine the absolute guarantee that Krauss, as the oldest brother, had to succeed the Family Head. `
-`Originally, the other siblings had absolutely no chance to inherit the Headship. `
-`To them, this "proposal" by {f:5:Beatrice} was extremely desirable. `
-`It was obvious that they would accept it. `
-`...There was no need to play some clumsy detective game. Natsuhi knew that this so-called 19th person, {f:5:Beatrice}, couldn't exist. `
-`Naturally, {f:5:Beatrice} was nothing more than a fictional character used to pass a message that Kinzo had written himself. `
-`As proof, Kinzo had remained stubbornly neutral as to that letter's authenticity. `
-`......He was completely ignoring these reckless claims that he shouldn't be able to ignore: that he had given up the Head's Ring. `
-`............In short, Kinzo had wordlessly admitted that the letter held his own message. `
-`Most likely, one of the servants had given Maria the letter. `
-`Kinzo had probably worked out an elaborate plan where the dress from the portrait would be prepared, `
-`......and someone, probably Shannon, would be made to wear it and deliver the letter and the umbrella. `
-`By doing that, he could make it seem like the witch from the portrait actually existed. `
-`...No, if anything, that alone was proof that Kinzo was behind all this. `
-`In that case, ......it was the same as Kinzo trying to butt in on the siblings' private discussion. `
-`Then Kinzo, by announcing that he'd give everything to the person who solved the riddle, could weaken Krauss's overwhelming advantage. `
-`.........Now it was certain. `
-`Kinzo had eavesdropped on the siblings' discussion in the parlor earlier that day. `
-`So he had known how Krauss had staved off the attack by the other three, `
-`and to make the scales of the battle go back into balance, he had sent out this strange letter, which benefited Krauss's rivals. `
-`He was trying to push this crazy theory so that Rosa, who had a weak position among the siblings because of her age, would join with Eva and Rudolf. `
-`Then, with a three-to-one advantage, they'd be able overwhelm Krauss yet again and make their ridiculous theories get accepted by force. `
-`...And by doing that, he gave them the power to resettle what had once been a nearly decided conflict. `
-`They had now started repeatedly pressing Krauss to pay them a large amount of money... Using the condition that all of the siblings would guarantee Krauss's position as the Successor, talk about advance payments was being brought up again despite having been rejected once. `
-`Of course, even without the story about the hidden gold, the Ushiromiya family's store of wealth was vast. `
-`That store of wealth alone was more than enough. `
-`Even if the hidden gold was buried forever along with Kinzo's death, there would be more than enough to satisfy. `
-`Therefore, even if they weren't that interested in the gold itself, `
-`Kinzo had managed to instill the lifelong fear that, on the off-chance that someone found the gold, that person would be granted the Headship. `
-`And this kind of Achilles' heel would definitely be taken advantage of by someone sooner or later. `
-`The only person with this fatal weakness was the Successor, Krauss. `
-`......The other siblings had found... `
-`no, they had been told by Kinzo about something that only Krauss could lose, and they had thoroughly taken advantage of that. `
-`...Natsuhi, as Krauss's only ally in his painful position and as his wife, wanted to fight alongside him. `
-`She kept trying to explain to him that the existence of the gold itself was a farce and that there was no need for him to compromise. `
-`Krauss had always told Natsuhi. `
-`He had told all of the siblings. `
-`He always, always said that the hidden gold was nothing more than an illusion created by Kinzo. `
-`Therefore, Natsuhi had believed it as his wife, and had supported her husband on that foundation. `
-`Even so, Natsuhi's words didn't reach Krauss. `
-`...Even though Natsuhi had fought so hard and had lent all of her strength, he continued to fight by himself and was trying to compromise with the other three siblings... `
-`Natsuhi sadly and weakly wondered why she could not be of use to him, then started getting angry. `
-`It had happened when everyone decided to take a short break to cool their heads. `
-`Natsuhi had flared up against Krauss. `
-`Enraged, she had asked why she could not be useful to him. `
-`......He had then told her that he wanted to talk about something...and invited her into a room that she was normally not allowed to enter. `
-`That room had been sealed with a heavy-looking padlock, and just looking at it had given her an uncomfortable feeling... `
-`"There's no need for you to worry about anything said by those three, or even this suspicious person who calls herself {f:5:Beatrice}!! `
-`After all, the gold is just a ruse created by Father. `
-`There's no way something like that could be found!! `
-`Your position as the Successor is a solid fact. `
-`What are you afraid of?!" `
-`Krauss removed the padlock on the door. `
-`He then motioned for Natsuhi to enter. `
-`"Enter." `
-`"...Wh-What is this?" `
-`"There's something I want you to see. `
-`......I've never shown you this before." `
-`Natsuhi timidly opened the door with a dubious expression on her face... `
-`It was pitch black. `
-`She searched for a switch to turn on the lights, but since this was her first time in the room, she didn't know where it was. `
-`Krauss entered behind her, pushing her in, and when he closed the door before turning on the lights, the two were swallowed up by the darkness. `
-`Only the sound of Krauss locking the door rang out through the dark. `
-`"Wh-What are you doing...? `
-`Th-The lights..." `
-`"I am turning them on now. `
-`Wait." `
-`Just as he said, when Krauss pushed a switch on the wall, a flickering light turned on and lit up the room. `
-`"...............Th- `
-`That is......?" `
-`Natsuhi had her breath taken away. `
-`The room had no windows, and at a glance, it appeared to be empty. `
-`In the middle of the room, a small, round table had been set, `
-`and the lights brightened only that table, as if it were the leading part in a play. `
-`On top of the table, a red tablecloth of elaborate design had been set out, covered with dust, `
-`......and on top of that, "something" about the size of a grown man's arm had been set down. `
-`......That something took Natsuhi's breath away. `
-`"It's a gold ingot of incredible purity. `
-`Without this, no one would have believed in the Legend of the Gold." `
-`It was an ingot of solid gold. `
-`Even in the faint light, it sparkled with a noble and dignified glint... `
-`"This is not a proper ingot. `
-`I don't even know whether it was cast inside or outside the country." `
-`It took a high level of skill to make the purest of solid gold ingots. `
-`And in order to verify that purity, it was standard to have the original foundry and the name of the bank that guaranteed it imprinted on the gold. `
-`...However, this ingot did not have that kind of seal. `
-`.........This mysterious gold bar had come from an unknown foundry. `
-`"Look here. `
-`............There's nothing to be afraid of. `
-`It's just a bar of gold." `
-`Natsuhi, following Krauss's words, timidly approached the ingot... `
-`"Right there." `
-`Krauss pointed at the surface of the ingot. `
-`...Natsuhi concentrated on that section... `
+`"Mari kita gali sedikit lebih dalam, ya?" `  
+`"......Dia muncul di hadapan Maria, mencoba memberi kesan bahwa ada orang ke-19, tetapi, `  
+`sampai sekarang dia belum juga muncul di hadapan kita dan sedang bersembunyi entah di mana. `  
+`Pikirkan kontradiksi-kontradiksi itu. `  
+`......Kau harus mengingat hal-hal semacam ini saat memutar papan caturnya." `  
+`"Singkatnya, jika seseorang ingin membuat kita percaya bahwa {f:5:Beatrice} benar-benar ada sebagai orang ke-19, apa tujuannya?" `  
+`"......Kalau orang itu ingin bersembunyi, maka dia tidak akan menampakkan dirinya. `  
+`Dan kalau dia ingin memperkenalkan dirinya, dia tidak akan menggunakan cara berputar-putar dengan menitipkan surat pada orang lain. `  
+`......Yang berarti...?" `  
+`"Sederhana saja. `  
+`{f:5:Beatrice} adalah salah satu dari 18 orang. `  
+`Itulah sebabnya dia ingin menciptakan ilusi bahwa ada lebih dari 18 orang. `  
+`...Orang ke-19 diungkapkan dengan sangat mencolok. `  
+`Kalau ada yang akan diuntungkan dari ini, pastinya bukan orang ke-19 yang bersembunyi. `  
+`Melainkan salah satu dari 18 orang yang asli. `  
+`......Tentu saja, cara berpikir ini penuh celah. `  
+`Kalau kau balik beberapa premis saja, semuanya langsung runtuh. `  
+`Tapi aku hampir yakin sepenuhnya bahwa ini benar." `  
+`...Ini mulai terasa cukup menyeramkan. `  
+`Seseorang meminjamkan payung pada Maria dan memberinya surat. `  
+`Katanya, tidak ada satu pun dari 18 orang yang melakukannya. `  
+`Namun, {f:5:Beatrice} bersembunyi di antara 18 orang itu. `  
+`Apa yang direncanakan orang ini, menyembunyikan identitas aslinya dan berpura-pura sebagai {f:5:Beatrice}...? `  
+`"Aku sempat curiga Maria-chan sedang berakting, tapi isi pesan itu sangat rumit, dan sulit membayangkan Maria-chan bisa menulisnya sendiri. `  
+`......Namun, aku tidak bisa menyangkal kemungkinan bahwa Maria-chan bekerja sama dengan seseorang." `  
+`"T-Tunggu dulu, ...Maria itu anak umur sembilan tahun, kan?! `  
+`Apa yang mungkin bisa dia rencanakan, dan dengan siapa?! `  
+`Lalu bagaimana dengan sifat jujurnya yang lurus dan terlalu patuh?!" `  
+`"Ya, aku juga tahu seperti apa Maria-chan itu. `  
+`......Tapi justru karena itu aku pikir hal ini mungkin saja. `  
+`Gadis itu adalah pemimpi yang tak bisa menahan diri untuk tidak memuja dan mempercayai keberadaan penyihir. `  
+`Menurutku, jadi kalau ada seseorang muncul di hadapannya dan mengaku sebagai penyihir {f:5:Beatrice}, Maria-chan pasti akan menerimanya dengan senang hati." `  
+`".........Jadi kau bilang kalau seseorang menyamar dengan mengenakan gaun mewah seperti di potret itu, menipu Maria tidak akan sulit?" `  
+`"Tentu saja, kalau pakai logika itu, semua wanita di sini akan jadi tersangka utama. `  
+`...Yang penting sekarang adalah siapa yang ditemui Maria-chan? `  
+`Mengetahui detail soal itu akan menjadi kunci terbaik untuk memecahkan teka-teki ini." `  
+`"...Tapi kunci itu sudah terkunci rapat di dalam hati Maria-chan. `  
+`Semua orang menyangkal keberadaan penyihir tanpa mendengarkannya, membombardirnya dengan pertanyaan soal siapa sebenarnya {f:5:Beatrice}. `  
+`...Dia mungkin tidak akan membuka hatinya pada orang dewasa sekarang." `  
+`Di lorong yang remang, di depan potret {f:5:Beatrice}, ......Maria sedang terisak. `  
+`"......Uu-... `  
+`Uu-. `  
+`...Tidak ada yang percaya aku bertemu {f:5:Beatrice}! `  
+`......Uu-...... `  
+`Uu-...... `  
+`Padahal aku sudah tunjukkan surat yang {f:5:Beatrice} berikan, mereka tetap tidak percaya...! `  
+`.........Uu-......u, `  
+`...u, `  
+`......hik, `  
+`...hik!" `  
+`"Pokoknya, kunci ada di tangan Maria-chan. `  
+`Kunci untuk menentukan apakah {f:5:Beatrice} itu salah satu dari 18 orang, atau orang ke-19." `  
+`"...Maria itu keras kepala, kan? `  
+`Kalau gadis itu sudah marah, cukup sulit untuk menenangkannya." `  
+`"Battler-kun, menurutku anak sepertimu lebih cocok buat menghiburnya dibanding orang dewasa sepertiku. `  
+`...Setelah suasana hatinya membaik, cobalah tanya padanya. `  
+`......Aku tahu kau tidak peduli soal perebutan warisan ini, `  
+`tapi bukankah misteri di mansion bergaya Barat ini cukup menarik? `  
+`Siapa sebenarnya orang yang memberikan surat itu ke Maria-chan? `  
+`...Bikin rasa ingin tahumu gatal, bukan?" `  
+`"Kau cukup tangguh juga, ya, masih bisa antusias setelah ditarik-tarik dalam pembicaraan uang yang nggak ada habisnya... `  
+`Orang dewasa bisa luar biasa juga." `  
+`Aku mengangkat bahu dengan kesal. `  
+`...Tapi aku sadar akan sesuatu. `  
+`Kyrie menyadari betapa murungnya aku setelah mendengar pertengkaran orang tua kami... `  
+`dan mungkin dia mencoba mencairkan suasana. `  
+`...Setidaknya aku sudah cukup pulih untuk bisa mengeluh. `  
+`......Dia bukan ibu kandungku, jadi aku tidak pernah merasa ingin memanggilnya Ibu. `  
+`...Tapi kali ini aku benar-benar merasa "dia orang dewasa sejati." `  
+`"Heh, dasar bocah. Jadi kalian di sini rupanya. `  
+`Kyrie, dandanmu lama banget ya. `  
+`Mungkin aku akan membiasakan diri untuk keluar dan memperbaiki riasanku juga." `  
+`"Maaf. `  
+`Riasan wanita memang memakan waktu. `  
+`......Lalu? `  
+`Gimana diskusinya tanpaku?" `  
+`"Hehehe, pasti semuanya rukun dan damai banget." `  
+`Kyrie-san menyikut bagian bawah lenganku yang sensitif. `  
+`"...Kami putuskan untuk istirahat sebentar buat menenangkan kepala. `  
+`Sepertinya diskusinya bakal lanjut sampai malam. `  
+`Bikin pengen nangis." `  
+`Gaya bicaranya memang tidak berubah, tapi dia tidak sepenuhnya bisa menyembunyikan rasa lelahnya. `  
+`...Aku tidak bisa bilang aku simpati, tapi dibanding biasanya yang penuh energi, dia kelihatan menyedihkan. `  
+`"Tapi hujannya parah banget. `  
+`Aku bener-bener nggak pengen balik ke rumah tamu. `  
+`Sepertinya Natsuhi nee-san sudah atur agar kita bisa bermalam di mansion. `  
+`Apa yang akan kita lakukan?" `  
+`"......Kita tidak perlu putuskan sebelum semuanya selesai, kan? `  
+`Kalau kau sampai kehabisan tenaga untuk kembali ke kamar, kita bisa terima tawaran mereka." `  
+`"Benar juga. `  
+`Kita pikirkan nanti saja. `  
+`......Kalau kau sendiri gimana, Battler?" `  
+`"Kalau aku tinggal, aku cuma bakal ganggu saja. `  
+`Aku bakal baik-baik dan kembali ke sana." `  
+`".........Begitu ya. `  
+`Kau akan segera kembali?" `  
+`"Entahlah. `  
+`Rasanya sepi kalau balik sendirian. `  
+`Aku akan kumpulkan semua anak-anak, lalu kami pulang bareng." `  
+`"Oke. `  
+`“Kau lakukan saja itu. `  
+`............Oh ya, Battler, `  
+`malam ini kau tidak akan tidur sesantai itu, kan?”`  
+`“Iya, aku mungkin akan mengobrol dengan para sepupu sampai larut. `  
+`Kayaknya kami bakal terjaga sepanjang malam. `  
+`Ada masalah?”`  
+`“......Begitu ya. `  
+`Kalau kau masih bangun saat diskusi orang dewasa selesai, aku ingin bicara sekeluarga.”`  
+`“Apa maksudmu? `  
+`Terdengar seperti bukan dirimu saja.”`  
+`Ternyata Kyrie-san juga memikirkan hal yang sama. `  
+`“Apa maksudmu?”`  
+`Dia bertanya dengan suara pelan. `  
+`...Terlihat Kyrie-san juga tidak tahu apa maksud Ayah. `  
+`“......Aku juga ingin bicara denganmu soal itu, Kyrie. `  
+`......Nanti akan aku ceritakan, jadi jangan tanya sekarang. `  
+`Tolong.”`  
+`“..................?”`  
+`Aku tidak kenal siapa pun yang mengabaikan konsep “keluarga” sebanyak bajingan tua ini. `  
+`...Dan sekarang dia bilang kita akan bicara sekeluarga. `  
+`......Baik Kyrie-san maupun aku tidak bisa menahan tatapan tercengang.`  
+`“Jangan terlihat ketakutan begitu. `  
+`Aku yang seharusnya ketakutan. `  
+`............Bagaimanapun juga......”`  
+`Saat itu, dia menelan kata-katanya untuk sesaat. `  
+`...Meskipun berlagak penting bukan gaya Ayah.`  
+`“Ayah, ini menakutkan. `  
+`Sekarang semua anggota keluarga sudah berkumpul, kan? `  
+`Jangan dibuat ribet, katakan saja.”`  
+`“..................Aku mungkin... `  
+`.........Aku mungkin akan... `  
+`dibunuh.”`  
+`Suara petir menggelegar dengan sangat keras. `  
+`Sepertinya sangat dekat. `  
+`Wajah Ayah, yang diterangi kilatan petir, terpatri di mataku. `  
+`Wajahnya yang biasanya begitu percaya diri dengan ekspresi mengejek—`  
+`......tampak rapuh dengan cara yang sulit kujelaskan. `  
+`...Dia terlihat begitu lelah hingga seperti orang lain.`  
+`“A-Apa...?! `  
+`...Apa maksudmu?! Itu bukan gaya Ayah!”`  
+`“*cekikikan* `  
+`Aku setuju. `  
+`Apa yang terjadi? Kau tiba-tiba tampak begitu penakut. `  
+`Seperti bukan dirimu saja.”`  
+`“.........Aku akan memperbaiki makeupku juga. `  
+`Jangan ikut aku.”`  
+`Ayah menoleh pergi dengan lesu. `  
+`Setelah itu, hanya Kyrie dan aku yang tersisa, mata kami masih terbelalak. `  
+`“Apa yang dia katakan......? `  
+`Malam ini, dia akan dibunuh?”`  
+`"Kau nggak mikir surat misterius itu membuat Ayah takut, kan? `  
+`Dia pasti kebanyakan nonton film pembunuhan berantai." `  
+`"............Hmmmmmmmm." `  
+`Kyrie-san tidak menjawab kata-kataku yang ringan itu... dan terus menatap punggung Ayah yang semakin menjauh... `  
+`"...Battler-kun, waktu kau bilang ke Rudolf-san buat langsung bicara, dia pergi tanpa mengatakan apa-apa. `  
+`Padahal dia bilang ada yang ingin dia bicarakan dengan kita berdua, tapi dia nggak menjawabmu. `  
+`Kenapa? `  
+`...Putar papan caturnya. `  
+`.........Apa yang kau lihat?" `  
+`"Yah, kalau dia bilang ingin bicara tapi nggak jadi, itu kontradiksi. `  
+`...Apa, kau bisa lihat sesuatu kalau melihat dari sudut pandang Ayah?" `  
+`"......*cekikikan* `  
+`Iya, aku bisa lihat sesuatu. `  
+`Dia ingin bicara tentang sesuatu. `  
+`Tapi dia nggak punya keberanian untuk mengatakannya. `  
+`Jadi sebenarnya maksudnya adalah “kejar aku, ajak aku bicara, dan tanyakan langsung padaku.” `  
+`Saat dia bilang “Jangan ikuti aku,” sebenarnya dia justru bermaksud sebaliknya. `  
+`Dia sebenarnya bilang “Ikuti aku dan paksa aku untuk bicara.” `  
+`......Sungguh, manja sekali orang itu." `  
+`"Apaaa-?! `  
+`Bisa dibilang itu penalaran?! `  
+`I-Itu konyol." `  
+`"Heheheh, apakah detektif swasta dan polisi hebat bisa menebak perasaan dan emosi antara pria dan wanita? `  
+`Mereka nggak bisa, kan? `  
+`Memahami perasaan lawan jenis itu seni yang jauh lebih rumit daripada mengungkap trik kasus kriminal sulit. `  
+`Kalau kau tanya aku, novel roman punya misteri yang jauh lebih dalam daripada novel detektif legendaris." `  
+`"A-Aku mengerti. `  
+`Begitu ya......" `  
+`"Aku akan berdiri di samping si anak manja itu. `  
+`......Dia biasanya suka membual, tapi malam ini dia benar-benar kelelahan akibat diskusi panas itu. `  
+`Dia mungkin sedang ingin ada seseorang buat dia sandarkan. `  
+`Dan menanggapi kebutuhan itu adalah tugas dari pasangannya." `  
+`"Haah. `  
+`Terdengar penuh gairah. `  
+`Kalau begitu, aku serahkan bajingan tua itu padamu." `  
+`"Iya, serahkan saja padaku." `  
+`Aku memanggil ke arah punggung Kyrie-san yang mulai menjauh. `  
+`"......Hah? `  
+`Apa?" `  
+`"Umm, aku mau bilang terima kasih. `  
+`Berkatmu, suasana hatiku yang suram jadi jauh lebih baik." `  
+`"Baguslah. `  
+`Komunikasi itu penting." `  
+`Setelah menjawab dengan sebuah kedipan mata, Kyrie-san pun menyusul Ayah... `  
+`Natsuhi bisa ditemukan di lorong yang remang-remang. `  
+`Kadang terdengar gelegar petir, tapi itu sama sekali nggak memengaruhi ekspresi wajah Natsuhi. `  
+`......Dia tampak benar-benar kelelahan. `  
+`Diskusi yang baru saja berlangsung antara para kerabat di ruang makan kini berulang di benaknya... `  
+`{f:5:Beatrice} telah menyatakan bahwa selain emas, seluruh warisan dan properti keluarga Ushiromiya akan diberikan kepada siapa pun yang berhasil memecahkan teka-teki itu. `  
+`...Dengan kata lain, dia berniat menggoyahkan jaminan mutlak bahwa Krauss, sebagai putra tertua, akan mewarisi kedudukan Kepala Keluarga. `  
+`Awalnya, saudara-saudara lainnya sama sekali tidak punya kesempatan untuk mewarisi jabatan Kepala Keluarga. `
+`Bagi mereka, "usulan" dari {f:5:Beatrice} ini adalah sesuatu yang sangat menggoda. `
+`Sudah jelas mereka akan menerimanya. `
+`...Tidak perlu permainan detektif yang canggung. Natsuhi tahu bahwa sosok bernama {f:5:Beatrice} itu tak mungkin ada. `
+`Sudah tentu, {f:5:Beatrice} tidak lebih dari karakter fiksi yang dipakai untuk menyampaikan pesan yang ditulis Kinzo sendiri. `
+`Sebagai buktinya, Kinzo tetap bersikap netral terhadap keaslian surat itu. `
+`......Ia sama sekali mengabaikan tuduhan sembrono yang seharusnya tak bisa ia abaikan: bahwa ia telah menyerahkan Cincin Kepala Keluarga. `
+`............Dengan kata lain, Kinzo secara diam-diam mengakui bahwa isi surat itu adalah pesannya sendiri. `
+`Kemungkinan besar, salah satu pelayanlah yang memberikan surat itu kepada Maria. `
+`Kinzo mungkin telah menyiapkan rencana rumit, menyiapkan gaun dari potret itu, `
+`......dan seseorang, mungkin Shannon, disuruh mengenakannya untuk menyerahkan surat dan payung itu. `
+`Dengan cara itu, ia bisa membuatnya terlihat seolah-olah penyihir dalam potret benar-benar ada. `
+`...Tidak, bahkan sebaliknya, itu adalah bukti bahwa dalangnya adalah Kinzo sendiri. `
+`Kalau begitu, ......itu sama saja seperti Kinzo mencoba ikut campur dalam diskusi pribadi para saudara kandung. `
+`Lalu, dengan menyatakan bahwa ia akan memberikan segalanya kepada orang yang memecahkan teka-teki, ia bisa melemahkan keunggulan mutlak Krauss. `
+`.........Sekarang jadi jelas. `
+`Kinzo telah menguping diskusi saudara-saudaranya di ruang duduk tadi siang. `
+`Jadi ia tahu bagaimana Krauss telah berhasil menangkis serangan dari ketiga orang lainnya, `
+`dan demi menyeimbangkan kembali skala pertarungan, ia mengirim surat aneh ini, yang menguntungkan pihak lawannya Krauss. `
+`Ia berusaha mendorong teori konyol ini agar Rosa, yang memiliki posisi lemah di antara saudara-saudaranya karena usianya, mau bergabung dengan Eva dan Rudolf. `
+`Lalu, dengan keunggulan tiga lawan satu, mereka bisa mengalahkan Krauss lagi dan memaksakan teori menggelikan mereka. `
+`...Dan dengan cara itu, mereka mendapat kekuatan untuk merombak kembali konflik yang tadinya sudah hampir pasti hasilnya. `
+`Kini mereka mulai terus-menerus mendesak Krauss agar membayar uang dalam jumlah besar... Dengan syarat bahwa semua saudara kandung akan menjamin posisi Krauss sebagai Pewaris, pembicaraan soal uang muka kembali muncul meski sebelumnya sudah ditolak. `
+`Tentu saja, bahkan tanpa cerita soal emas tersembunyi itu, kekayaan keluarga Ushiromiya sudah sangat besar. `
+`Kekayaan itu saja sudah lebih dari cukup. `
+`Bahkan jika emas tersembunyi itu selamanya terkubur bersama kematian Kinzo, masih ada lebih dari cukup untuk memuaskan semuanya. `
+`Oleh karena itu, meski mereka tidak begitu tertarik pada emas itu sendiri, `
+`Kinzo berhasil menanamkan ketakutan seumur hidup bahwa, kalau-kalau ada yang menemukan emas itu, orang tersebut akan diberikan jabatan Kepala Keluarga. `
+`Dan kelemahan seperti ini pasti akan dimanfaatkan oleh seseorang cepat atau lambat. `
+`Satu-satunya orang yang memiliki kelemahan fatal ini adalah sang Pewaris, Krauss. `
+`......Saudara-saudaranya menemukan... `
+`tidak, mereka telah diberitahu oleh Kinzo tentang sesuatu yang hanya bisa hilang dari Krauss, dan mereka memanfaatkannya sepenuhnya. `
+`...Natsuhi, sebagai satu-satunya sekutu Krauss dalam posisi sulit ini dan sebagai istrinya, ingin bertarung di sisinya. `
+`Ia terus mencoba menjelaskan padanya bahwa keberadaan emas itu hanyalah tipuan dan tidak ada alasan untuk berkompromi. `
+`Krauss selalu mengatakan kepada Natsuhi. `
+`Ia juga telah mengatakan itu kepada semua saudara kandung. `
+`Ia selalu, selalu berkata bahwa emas tersembunyi itu tidak lebih dari ilusi yang diciptakan Kinzo. `
+`Oleh karena itu, Natsuhi percaya sebagai istrinya, dan telah mendukung suaminya atas dasar keyakinan itu. `
+`Meski begitu, kata-kata Natsuhi tak sampai pada Krauss. `
+`...Padahal Natsuhi telah berjuang sekuat tenaga dan memberikan seluruh kekuatannya, ia tetap bertarung sendirian dan mencoba berkompromi dengan ketiga saudara kandung lainnya... `
+`Natsuhi dengan sedih dan lemah bertanya-tanya mengapa ia tak bisa berguna baginya, lalu mulai merasa marah. `
+`Itu terjadi ketika semua orang memutuskan untuk istirahat sejenak untuk menenangkan kepala mereka. `
+`Natsuhi meluapkan amarahnya pada Krauss. `
+`Dengan marah, ia bertanya mengapa ia tak bisa berguna baginya. `
+`......Lalu Krauss mengatakan bahwa ia ingin membicarakan sesuatu... dan mengundangnya ke sebuah ruangan yang biasanya tak boleh ia masuki. `
+`Ruangan itu disegel dengan gembok besar yang terlihat berat, dan hanya dengan melihatnya saja membuat Natsuhi merasa tidak nyaman... `
+`"Tidak perlu kau khawatir soal apa pun yang dikatakan oleh ketiga orang itu, atau bahkan orang mencurigakan yang menyebut dirinya {f:5:Beatrice}!! `
+`Bagaimanapun juga, emas itu hanyalah tipu daya yang dibuat Ayah. `
+`Tidak mungkin benda seperti itu bisa ditemukan!! `
+`Posisimu sebagai Pewaris adalah fakta yang tak tergoyahkan. `
+`"Apa yang kau takutkan?!" `
+`Krauss membuka gembok pada pintu itu. `
+`Lalu ia memberi isyarat pada Natsuhi untuk masuk. `
+`"Masuklah." `
+`"...A-Apa ini?" `
+`"Ada sesuatu yang ingin kutunjukkan padamu. `
+`......Aku belum pernah menunjukkan ini sebelumnya." `
+`Natsuhi membuka pintu dengan ragu dan ekspresi bingung di wajahnya... `
+`Ruangan itu gelap gulita. `
+`Ia mencari saklar lampu, tapi karena ini pertama kalinya ia masuk ke ruangan itu, ia tidak tahu di mana letaknya. `
+`Krauss masuk dari belakang, mendorongnya ke dalam, dan saat ia menutup pintu sebelum menyalakan lampu, keduanya ditelan oleh kegelapan. `
+`Hanya suara Krauss mengunci pintu yang terdengar di kegelapan. `
+`"A-Apa yang kau lakukan...? `
+`La-Lampunya..." `
+`"Akan aku nyalakan sekarang. `
+`Tunggu saja." `
+`Seperti yang ia katakan, saat Krauss menekan saklar di dinding, cahaya berkedip menyala dan menerangi ruangan itu. `
+`"...............It- `
+`Itu kan......?" `
+`Napas Natsuhi tercekat. `
+`Ruangan itu tidak memiliki jendela, dan sekilas tampak kosong. `
+`Di tengah ruangan, sebuah meja bundar kecil diletakkan, `
+`dan lampu hanya menerangi meja itu, seolah-olah itulah bintang utama sebuah pertunjukan. `
+`Di atas meja, selembar taplak merah dengan desain rumit dibentangkan, tertutup debu, `
+`......dan di atasnya, diletakkan "sesuatu" sebesar lengan pria dewasa. `
+`......Benda itu membuat Natsuhi menahan napas. `
+`"Ini adalah batangan emas dengan kemurnian luar biasa. `
+`Tanpa ini, tidak akan ada yang percaya dengan Legenda Emas." `
+`Itu adalah batangan emas murni. `
+`Bahkan dalam cahaya redup, ia berkilau dengan cahaya agung dan anggun... `
+`"Ini bukan batangan resmi. `
+`Aku sendiri tidak tahu apakah ini dicetak di dalam atau luar negeri." `
+`Diperlukan keterampilan tinggi untuk mencetak batangan emas murni. `
+`Dan untuk memverifikasi kemurniannya, biasanya akan ada cap dari pabrik pembuat dan nama bank yang menjaminnya di permukaan emas. `
+`...Namun, batangan ini tidak memiliki cap semacam itu. `
+`.........Batangan emas misterius ini berasal dari tempat yang tidak diketahui. `
+`"Lihat kemari. `
+`............Tak ada yang perlu ditakuti. `
+`Ini hanya sebatang emas saja." `
+`Natsuhi, mengikuti perkataan Krauss, mendekati batangan emas itu dengan ragu... `
+`"Tepat di situ." `
+`Krauss menunjuk ke permukaan emas itu. `
+`...Natsuhi memusatkan perhatian pada bagian itu... `
 `"...............!!" `
-`Right there was the thin imprint of the One-Winged Eagle crest! `
-`Natsuhi's breath was taken away once again. `
-`"That's right. `
-`This is the legendary ingot that Father said he received from the witch, that the president of Marusoo witnessed and was allowed to select at random to take back with him, `
-`that gained the trust of the fixers in the business world. `
-`I had to use all possible means to find it. `
-`......I found it before the other siblings could." `
-`"...How could...... `
-`...Then, `
-`...the legend of Father's gold is......" `
-`"It actually exists. `
-`...The gold that Ushiromiya Kinzo received from {f:5:Beatrice} actually exists." `
-`"Impossible......! `
-`...S-So, it really does exist......" `
-`Natsuhi was shocked... `
-`Krauss had always said that Kinzo's gold was just a fabrication. `
-`So she had believed it, as his wife. `
-`However, the reality was different. `
-`Since he held definite proof, he had been more certain than any of the other siblings that the Legend of the Gold was true. `
-`Because of this, Krauss was deeply frightened at the possibility that someone other than himself would find the gold he'd failed to find, costing him everything. `
-`......But to Natsuhi, this truth was more than enough to split open her heart. `
-`She had thought that, as Krauss's wife, she should be his closest confidant, which was why she had selflessly supported him. `
-`...And yet, he had hid this fact from her until today. `
-`......Why? `
-`"......Ha‐ `
-`Have I been... `
-`so undeserving of your trust...?" `
-`".........I didn't mean it like that. `
-`It was only that there was no need to mention it." `
-`"Is, `
-`Is that all a... `
-`...a wife `
-`means to you......?!" `
-`"Calm down... `
-`Becoming passionate easily is one of your bad habits." `
-`"You're the one who's making me like that, aren't you?!!! `
-`I've been supporting you as a wife ever since I married into this family...! `
-`For your sake, I threw away the family I was born into, `
-`and I've been offering up my heart and my body to serve you...!! `
-`And in return, `
-`...this is what I get......?! `
-`How could... `
-`......How could you......?!!" `
-`Krauss grimaced, looking annoyed... `
-`His expression effectively communicated how much he disliked this part of Natsuhi, even if he didn't say it out loud... `
-`"...It doesn't look like... `
-`I will be of any use to you anymore......" `
-`"Hmmm, that's fine. `
-`......I can resolve the troubles with the siblings by myself. `
-`I don't need your help." `
-`"That's wrong!! `
-`This is the Ushiromiya family's problem! `
-`It's true that I am not permitted to wear the family crest on my body! `
-`But I am still your wife!! `
-`Even so, ...are you saying I'm not capable of helping you...?! `
-`Are you...?!!!" `
-`"......I especially wouldn't want to risk getting you involved. `
-`It would probably make your headaches even worse than they are now. `
-`Take a rest for today. `
-`The siblings will deal with the siblings' problems. `
-`It has nothing to do with you. `
-`That is all." `
-`A dull headache tormented Natsuhi... `
-`No matter what medicine she took, no matter what scents she burned, it wouldn't heal. `
-`...In fact, simply wandering alone through the dark corridors and listening to the sound of the rain seemed to be a better cure... `
-`......I may be Natsuhi, `
-`...but I was never Ushiromiya Natsuhi. `
-`I have been despised and treated as a borrowed womb...and insulted when I couldn't even fill that role... `
-`Even so, I have tried to properly perform my duties as a wife, `
-`...but now, even my husband has rejected me. `
-`I've done my best raising my daughter, as if it were the last job left to me... `
-`...However, I've had no release for my anger and sadness, and they've caused me to subconsciously strain that relationship too... `
-`Because I've been excessively strict in Jessica's education, she dislikes me thoroughly. `
-`She despises me for having no interest in anything but grades. `
-`......There is no longer... `
-`...anything I can do for the Ushiromiya family...... `
-`No, `
-`...that's no good. `
-`Despite it all, I must help my husband and beat back the schemes of the other greedy siblings. `
-`The Family Head won't be around much longer. `
-`Eventually, Krauss will succeed the Head. `
-`And the next Successor will be Jessica. `
-`......Strictly speaking, the man who enters the family by marrying Jessica will become the next Head, but it all comes to the same thing. `
-`...I have to make Jessica an excellent Successor whom everyone will accept as worthy to take over the Ushiromiya family. `
-`In the days to come, that greedy Ushiromiya Eva will probably be plotting to find some fault with the main family, `
-`and if all goes as she plans, Jessica will be dragged down from the succession, with George set up in her place. `
-`......It is regrettable, but George is a man, and even more, has matured as a person. `
-`...Compared to Jessica, who is right in the middle of her rebellious period and whose grades are slightly below average, it can be seen at a glance who is more fit to succeed the Head. `
-`So in order to secure Jessica's position, I need to turn her into an excellent person. `
-`After doing that, ......I want to find her an excellent husband worthy of the excellent person she will have become. `
-`......A wonderful man who will truly accept Jessica...and stay with her through all of life's joys and sorrows. `
-`Was Natsuhi.........trying to entrust her daughter with fulfilling some desire of her own? `
-`Natsuhi thought back to the days when she'd had no choice but to marry into the Ushiromiya family, because of that unavoidable fate... `
-`She had tried to block that from her memory. `
-`......She had consciously forgotten it...and had actively attended to the life she'd been given as Ushiromiya Natsuhi... `
-`And in so doing, she had built up a new life. `
-`......But...just now, `
-`...it felt like all of that had been casually rejected. `
+`Tepat di sana, ada cap tipis lambang Elang Bersayap Satu! `
+`Napas Natsuhi tercekat sekali lagi. `
+`"Benar. `
+`Ini adalah batangan legendaris yang Ayah katakan ia terima dari penyihir, yang disaksikan oleh presiden Marusoo dan diperbolehkan memilih secara acak untuk dibawa pulang, `
+`yang mendapat kepercayaan dari para pengatur di dunia bisnis. `
+`Aku harus menggunakan segala cara untuk menemukannya. `
+`......Aku menemukannya sebelum saudara-saudaraku yang lain." `
+`"...Bagaimana bisa...... `
+`...Jadi, `
+`...legenda emas Ayah itu......" `
+`"Itu benar-benar ada. `
+`...Emas yang diterima Ushiromiya Kinzo dari {f:5:Beatrice} benar-benar ada." `
+`"Tidak mungkin......! `
+`...Jadi, memang benar-benar ada......" `
+`Natsuhi terkejut... `
+`Krauss selalu mengatakan bahwa emas Kinzo hanyalah karangan belaka. `
+`Maka ia pun mempercayainya, sebagai istrinya. `
+`Namun kenyataannya berbeda. `
+`Karena ia memiliki bukti nyata, ia jauh lebih yakin daripada saudara-saudaranya kalau Legenda Emas itu benar. `
+`Karena itulah, Krauss sangat ketakutan pada kemungkinan bahwa seseorang selain dirinya akan menemukan emas itu terlebih dahulu, dan ia kehilangan segalanya. `
+`......Namun bagi Natsuhi, kebenaran ini lebih dari cukup untuk menghancurkan hatinya. `
+`Ia selalu menganggap bahwa sebagai istri Krauss, ia seharusnya menjadi orang yang paling ia percaya, dan karena itu ia telah mendukungnya tanpa pamrih. `
+`...Namun, ia justru menyembunyikan kenyataan ini darinya sampai hari ini. `
+`......Mengapa? `
+`"......A‐ `
+`Apakah aku selama ini... `
+`...begitu tidak layak kau percayai...?" `
+`".........Bukan itu maksudku. `
+`Hanya saja menurutku tidak ada kebutuhan untuk menyebutkannya." `
+`"Jadi, `
+`Jadi begitulah arti... `
+`...seorang istri `
+`di matamu......?!" `
+`"Tenanglah... `
+`Mudah terbawa emosi adalah salah satu kebiasaan burukmu." `
+`"Kaulah yang membuatku jadi begini, bukan?!!! `
+`Aku telah mendukungmu sebagai istrimu sejak aku menikah masuk ke keluarga ini...! `
+`Demi dirimu, aku meninggalkan keluarga tempat aku dilahirkan, `
+`dan aku telah mempersembahkan hati dan tubuhku untuk melayanimu...!! `
+`Dan sebagai balasannya, `
+`...inilah yang kudapatkan......?! `
+`Bagaimana bisa... `
+`......Bagaimana bisa kau...?!?!" `
+`Krauss mengerutkan kening, tampak kesal... `
+`Ekspresinya dengan jelas menunjukkan betapa ia tidak menyukai sisi Natsuhi yang seperti ini, bahkan tanpa mengucapkannya langsung... `
+`"...Sepertinya... `
+`Aku tidak akan berguna lagi bagimu......" `
+`"Hmmm, tak masalah. `
+`......Aku bisa menyelesaikan masalah dengan saudara-saudaraku sendiri. `
+`Aku tak butuh bantuanmu." `
+`"Itu tidak benar!! `
+`Ini adalah masalah keluarga Ushiromiya! `
+`Memang benar bahwa aku tidak diizinkan mengenakan lambang keluarga di tubuhku! `
+`Tapi aku tetap istrimu!! `
+`Meskipun begitu, ...kau bilang aku tidak mampu membantumu...?! `
+`Jangan-jangan...?!!!" `
+`"......Aku terutama tidak ingin mengambil risiko melibatkanmu. `
+`Itu mungkin hanya akan membuat sakit kepalamu bertambah parah dari sekarang. `
+`Beristirahatlah malam ini. `
+`Urusan para saudara akan diselesaikan oleh para saudara. `
+`Itu tidak ada hubungannya denganmu. `
+`Itu saja." `
+`Sakit kepala yang tumpul menyiksa Natsuhi... `
+`Tak peduli obat apa yang ia minum, tak peduli aroma apa yang ia bakar, itu tak kunjung sembuh. `
+`...Bahkan, sekadar berjalan sendirian menyusuri koridor gelap dan mendengarkan suara hujan tampaknya justru menjadi obat yang lebih baik... `
+`......Aku memang Natsuhi, `
+`...tapi aku tak pernah menjadi Ushiromiya Natsuhi. `
+`Aku telah dihina dan diperlakukan hanya sebagai rahim pinjaman...dan dihina karena bahkan peran itu pun tidak bisa kupenuhi... `
+`Meski begitu, aku telah berusaha menjalankan tugasku sebagai seorang istri dengan baik, `
+`...namun sekarang, bahkan suamiku sendiri telah menolakku. `
+`Aku telah melakukan yang terbaik membesarkan putriku, seolah itulah tugas terakhir yang tersisa bagiku... `
+`...Namun, aku tidak punya pelampiasan atas kemarahan dan kesedihanku, dan secara tak sadar perasaan itu juga membebani hubungan kami... `
+`Karena aku terlalu keras dalam mendidik Jessica, dia jadi sangat membenciku. `
+`Dia mencelaku karena tak tertarik pada apa pun selain nilai-nilainya. `
+`......Sekarang ini... `
+`...tak ada lagi yang bisa kulakukan untuk keluarga Ushiromiya...... `
+`Tidak, `
+`...itu tidak boleh. `
+`Walau bagaimana pun juga, aku harus membantu suamiku dan menggagalkan rencana licik para saudara yang tamak itu. `
+`Kepala Keluarga takkan bertahan lama. `
+`Akhirnya, Krauss akan mewarisi posisi Kepala. `
+`Dan Penerus berikutnya adalah Jessica. `
+`......Secara teknis, pria yang menikah masuk ke keluarga melalui Jessica-lah yang akan menjadi Kepala berikutnya, tapi hasil akhirnya tetaplah sama. `
+`...Aku harus menjadikan Jessica penerus yang hebat, yang diakui semua orang sebagai sosok yang pantas mewarisi keluarga Ushiromiya. `
+`Di masa mendatang, Ushiromiya Eva yang serakah itu mungkin akan merencanakan untuk mencari celah dan kesalahan dalam keluarga utama, `
+`dan kalau semua berjalan sesuai rencananya, Jessica akan disingkirkan dari suksesi, lalu George yang diangkat menggantikannya. `
+`......Menyedihkan, tapi George adalah seorang laki-laki, dan lebih dari itu, ia sudah matang sebagai seorang pribadi. `
+`...Jika dibandingkan dengan Jessica, yang sedang dalam masa pemberontakan dan nilai-nilainya sedikit di bawah rata-rata, maka jelas siapa yang tampak lebih pantas menjadi penerus Kepala. `
+`Jadi demi mengamankan posisi Jessica, aku harus menjadikannya pribadi yang luar biasa. `
+`Setelah itu, ......aku ingin mencarikan suami yang luar biasa untuknya, yang sepadan dengan kualitas yang ia capai. `
+`......Seorang pria yang benar-benar menerima Jessica...dan akan menemaninya dalam suka dan duka sepanjang hidup. `
+`Apakah Natsuhi.........sedang mencoba menitipkan keinginan pribadinya agar diwujudkan oleh sang putri? `
+`Natsuhi mengingat kembali masa-masa ketika ia tak punya pilihan selain menikah masuk ke keluarga Ushiromiya, karena takdir yang tak bisa ia hindari... `
+`Ia telah berusaha menyingkirkan semua kenangan itu dari benaknya. `
+`......Ia sengaja melupakannya...dan aktif menjalani hidup yang telah diberikan padanya sebagai Ushiromiya Natsuhi... `
+`Dan dengan begitu, ia telah membangun hidup yang baru. `
+`......Tapi...baru saja, `
+`...semua itu seolah ditolak begitu saja. `
 `"............ `
-`How should I think as I live my life? `
-`......I do not know." `
-`Natsuhi helplessly rested her head against the glass of the window... `
-`The glass, which was cool thanks to the raindrops beating against it, felt somehow refreshing. Even though it should have been emotionless, ...right then it seemed to be the only thing that could understand Natsuhi... `
-`At that point, even if someone had appeared, Natsuhi didn't intend to pay any attention to them. `
-`......But she did pay attention. `
-`......Because it was her beloved daughter. `
+`Bagaimana seharusnya aku memaknai hidupku? `
+`......Aku tidak tahu." `
+`Natsuhi tak berdaya menyandarkan kepalanya ke kaca jendela... `
+`Kaca itu, yang dingin karena ditimpa hujan, terasa entah bagaimana menyegarkan. Meskipun seharusnya tak berperasaan, ...saat itu ia tampak menjadi satu-satunya hal yang bisa memahami Natsuhi... `
+`Saat itu, bahkan jika seseorang muncul, Natsuhi tidak berniat untuk memperhatikannya. `
+`......Namun ia tetap memperhatikannya. `
+`......Karena itu adalah putrinya tercinta.`
 `"......O- `
-`Oh, it's you, Mom. `
-`What the heck are you doing in a place like this? `
-`Thought you were a ghost..." `
-`Just like always, her words were rough and not at all like a girl's. `
-`...Instinctively, words of rebuke rose to Natsuhi's throat. `
-`......However, their strength gave out and they didn't escape her lips. `
+`Oh, ternyata ibu. `
+`Ngapain sih ibu di tempat begini? `
+`Kirain hantu tadi..." `
+`Seperti biasa, ucapannya kasar dan sama sekali tidak mencerminkan sikap seorang gadis. `
+`...Secara naluriah, kata-kata teguran naik ke tenggorokan Natsuhi. `
+`......Namun, kekuatannya menguap dan tak keluar dari bibir. `
 `".........Jessica, `
-`forgive me, but my headache is awful. `
-`Please leave me be." `
-`"......I see......" `
-`Jessica was seeing her mother in a position of feebleness for the first time, so she was considerably disconcerted. `
-`Until just now, she'd been filled with contempt for all of the parents, including her mother. `
-`...But now, those feelings had been completely swept away. `
-`......Her mother's utterly exhausted face had wiped them all out. `
-`In its place, the words George had told her floated back up in her mind. `
-`Our parents are doing their best in their own way. `
-`...And because their families are counting on them, they can't afford to keep everything pleasant...and have a heavy responsibility to fight. `
-`......Maybe her mother had been standing around in this dimly lit hallway...because no one had tried to understand that in her... `
-`Jessica hated her mother. `
-`...So, she had no intention of speaking kindly to Natsuhi just because she was looking a bit frail... `
-`So when she attempted to speak kindly to her mother anyway, she had to clench her fists and gather up the words from deep in her heart. `
-`"...I-It sounds like you've really got your hands full with that meeting thing..." `
-`".........It has nothing to do with you. `
-`Please go somewhere else." `
-`"......Is your headache bad? `
-`Sh-Should I go get some medicine...?" `
-`"......You don't have to trouble yourself. `
-`...Please, leave me alone." `
-`Natsuhi wasn't being cold. `
-`...She just wanted her daughter to go far away so that she wouldn't have to bump against Natsuhi's own short temper. `
-`......But there was no chance that Jessica would realize this. `
-`"...............O-Okay." `
-`Jessica hung her head, looking sad. `
-`...Seeing that expression, Natsuhi recognized the kindness that Jessica was trying to muster. `
-`She gave her head a small shake to drive away her own unkind feelings... `
-`"Then I'll......leave. `
-`...I'll be with the other cousins, so I don't get in the way of the adults. `
-`.........See you later..." `
-`".........Wait there." `
-`She called Jessica, who was trying to leave and looked lonely, to a stop. `
-`"......What...?" `
-`"......Thank you for being so considerate. `
-`......It isn't good of me to go to sleep and leave you alone." `
-`"D-Don't talk like that, you'll bring bad luck..." `
-`"...I've made you worried, `
-`but I'm okay now. `
-`......I will go." `
-`If I let my daughter see me this feeble any longer, I'll only make her feel more uneasy. `
-`...With that thought in mind, Natsuhi left Jessica with words of gratitude and made to depart. `
-`......This time, Jessica called out to her mother's back. `
-`Natsuhi stopped and turned around, asking what business Jessica had with her. `
-`But Jessica herself didn't know why she'd stopped her mother, `
-`...and for a while, she smiled wryly, muttering to herself as she hesitated over what to say. `
-`She was poking around in her pocket when her hand touched something, and she took it out. `
-`"U-Um, hey, Mom! `
-`I, uh, was given a charm today. `
-`What was it, a charm against magic? `
-`Umm, err, ......I'm pretty sure that...you were supposed to hang it from your doorknob, I think. `
-`Ahahaha, ...I forget... `
-`There's no point in me having it, `
-`...so I'll let you take it." `
-`It was the scorpion charm that Maria had given her on the beach. `
-`Although she'd heard of its various effects from Maria, Jessica's mind had gone blank, and she was just barely able to say even that much. `
-`Jessica, thinking that her mother probably wouldn't accept it anyway, immediately drew back the hand she had stuck out, grasping the charm. `
-`......So when Natsuhi came back to take it, she was extremely shocked... `
-`"............What is this? `
-`Some kind of prize toy...?" `
-`"W-Well it's...I think it's something like that... `
-`I guess you wouldn't really expect a charm that looks like a toy to do anything......" `
-`But her mother took the charm from where she grasped it in her hand. `
-`"Thank you. `
-`I'll take good care of it. `
-`............Sometime soon, in exchange, why don't I give you a charm that was important to me when I was a child?" `
-`"...I-It's not like that's why I gave it to you. `
-`......But, well, `
-`......if you really say so..." `
-`"Then I will rest for now. `
-`My headache is awful. `
-`.........Try not to stay up too late." `
-`"Sure..." `
-`Natsuhi put the charm in her pocket and turned away. `
-`......She then disappeared into the dark hall... `
-`"...It seems the weather will be like this all day tomorrow after all." `
-`"Dang, this makes the good weather we had earlier feel like a lie." `
-`George-aniki and I were killing time in front of the parlor television. `
-`At that point, Jessica returned. `
-`Her face was still blank, but it looked like she'd calmed down a little since we'd last seen her. `
-`"......Is Maria still in front of the portrait?" `
-`"Nope. `
-`She just came back, and she's sleeping over there on the sofa. `
-`It's getting pretty late for her, after all." `
-`Looking at the clock, I saw it was a little past 10:00 PM. `
-`...Even if we were planning to stay up all night, it was about time to head back to our room. `
-`"Well, my Mom did have a room prepared for us in the mansion. `
-`...What'll we do?" `
-`"I'd rather head back to the guesthouse. `
-`......Going by what we saw of our parents, I think it'd be better if we weren't in the mansion." `
-`"I agree. `
-`Feels like they're telling us kids to mind our own business and stay out of their way. `
-`Let's be good little boys and girls and do that." `
-`As we were talking about this, Aunt Rosa came into the parlor. `
-`She was looking all over restlessly, probably trying to find Maria. `
-`"Aunt Rosa, if you're looking for Maria, she's over there on the sofa." `
-`"Thank you. `
-`My, she's out cold. `
-`......We must move her to a bed." `
-`"If you'd like, I'll carry her over to a bed." `
-`"Thanks, that would be wonderful. `
-`......Are you all heading back to the guesthouse? `
-`Or are you going to stay in the room Natsuhi nee-san had prepared here?" `
-`"We were just talking about that. `
-`We'd just decided to head over to the guesthouse." `
-`"I see. `
-`Then could I ask you to take Maria with you? `
-`...I'd feel much more reassured if she stays with all of you cousins." `
-`Behind those words, she seemed to be concealing some regret that the adults, herself included, had deeply hurt Maria's feelings... `
-`"Leave it to us, Aunt Rosa. `
-`After all, we do have an expert at comforting Maria with us!" `
-`"A-Are you talking about me? `
-`I couldn't do it myself. `
-`We'll need everyone together." `
-`"That's right. `
-`Battler, weren't you the one who hit it off with Maria when you were messing around earlier?" `
-`As we said this, Aunt Rosa smiled, looking truly happy. `
-`"Thank you, everyone. `
-`......It looks like our meeting will last until very late. `
-`So while I'm sorry to burden you like this, I'll be counting on you all to take care of Maria." `
-`"Hey, Maria, are you sound asleep...? `
-`We're going back to the guesthouse." `
-`Maria muttered something indistinct, rolled over, and fell back asleep. `
-`......It looked like she was sleeping deeply. `
-`"She's really out cold. `
-`I'd hate to wake her." `
-`"Right, I'll carry her." `
-`Maria's body was much lighter than it looked. `
-`I lifted her up and put her on George-aniki's back. `
-`It was raining hard outside, and Aniki couldn't hold an umbrella and carry Maria at the same time. `
-`It looked like Aunt Rosa would come with us as far as the guesthouse to help out. `
-`However, when she heard Uncle Krauss's voice call out to her, she had no choice but to return. `
-`"......Now that's a problem. `
-`I have to go back now." `
-`".........Is everyone returning to the guesthouse?" `
-`After we left the hall on the way to the entrance, the door to the servant room opened and Shannon-chan stepped out. `
-`"It has grown very dark, so allow me to guide you." `
-`"That would be great, Shannon-chan. `
-`George-kun is going to carry Maria there. `
-`Could you hold an umbrella for him?" `
-`"Yes, certainly." `
-`Shannon-chan brought umbrellas for each of us and a flashlight to guide the way. `
-`As we opened the front door, the downpour was quite terrific. `
-`It looked like we wouldn't have any spare time to take a pleasant walk and enjoy the nighttime rose garden... `
-`"Aniki, is she too heavy? `
-`Want me to carry her?" `
-`"It's okay. `
-`I can at least carry Maria-chan." `
-`"......I'm truly grateful. `
-`Please take care of Maria." `
-`"Sure, you got it. `
-`Then I guess this is goodnight, Aunt Rosa." `
-`"Then I will see them over there and return here." `
-`"Yes, please..." `
-`Aunt Rosa watched us leave. `
+`maafkan aku, tapi kepalaku sangat sakit. `
+`Tolong biarkan aku sendiri." `
+`"......Begitu ya......" `
+`Jessica melihat ibunya dalam keadaan lemah untuk pertama kalinya, jadi dia tampak sangat bingung. `
+`Sampai tadi, dia dipenuhi rasa muak terhadap para orang tua, termasuk ibunya sendiri. `
+`...Namun sekarang, perasaan itu sepenuhnya tersapu bersih. `
+`......Wajah ibunya yang benar-benar kelelahan telah menghapus semuanya. `
+`Sebagai gantinya, kata-kata yang dikatakan George kembali terngiang di benaknya. `
+`Orang tua kita berusaha keras dengan cara mereka sendiri. `
+`...Dan karena keluarga mereka menggantungkan harapan padanya, mereka tak bisa terus menjaga semuanya tetap menyenangkan... dan punya tanggung jawab berat untuk berjuang. `
+`......Mungkin ibunya berdiri di lorong yang redup ini... karena tidak ada yang mencoba memahami itu darinya... `
+`Jessica membenci ibunya. `
+`...Jadi, ia sama sekali tak berniat bersikap manis hanya karena ibunya tampak sedikit lemah... `
+`Jadi ketika dia berusaha bicara dengan nada lembut, dia harus mengepalkan tinjunya dan menggali kata-kata itu dari dalam hatinya. `
+`"...K-Kayaknya rapat itu bikin ibu repot banget ya..." `
+`".........Itu tidak ada hubungannya denganmu. `
+`Tolong pergilah ke tempat lain." `
+`"......Kepala ibu sakit ya? `
+`A-Aku ambilin obat, ya...?" `
+`"......Tidak perlu merepotkan dirimu. `
+`...Tolong, tinggalkan aku sendiri." `
+`Natsuhi tidak sedang bersikap dingin. `
+`...Ia hanya ingin putrinya menjauh, agar tak harus berhadapan dengan temperamennya yang pendek. `
+`......Tapi Jessica tidak mungkin memahami hal itu. `
+`"...............B-Baiklah." `
+`Jessica menunduk, tampak sedih. `
+`...Melihat ekspresi itu, Natsuhi menyadari kebaikan hati yang berusaha ditunjukkan Jessica. `
+`Ia menggeleng pelan untuk mengusir perasaan buruk dari dalam dirinya... `
+`"Kalau begitu aku......pergi dulu. `
+`...Aku bakal kumpul sama para sepupu, biar nggak ganggu para orang dewasa. `
+`.........Sampai nanti..." `
+`".........Tunggu dulu." `
+`Ia memanggil Jessica, yang hendak pergi dan tampak kesepian. `
+`"......Apa...?" `
+`"......Terima kasih sudah begitu pengertian. `
+`......Tidak baik kalau aku tidur dan meninggalkanmu sendirian." `
+`"J-Jangan ngomong gitu, nanti bawa sial..." `
+`"...Aku sudah membuatmu khawatir, `
+`tapi aku sekarang sudah baik-baik saja. `
+`......Aku akan pergi." `
+`Kalau aku terus membiarkan putriku melihatku dalam keadaan selemah ini, aku hanya akan membuatnya makin cemas. `
+`...Dengan pikiran itu, Natsuhi meninggalkan Jessica dengan kata-kata terima kasih dan bersiap untuk pergi. `
+`......Kali ini, Jessica memanggil ibunya yang tengah berjalan menjauh.`
+`Natsuhi berhenti dan menoleh, menanyakan ada keperluan apa Jessica dengannya.`
+`Namun Jessica sendiri tidak tahu kenapa ia menghentikan ibunya,`
+`...dan untuk sesaat, ia hanya tersenyum masam, bergumam sendiri sambil ragu-ragu mau bicara apa.`
+`Ia mengorek-ngorek kantongnya, dan saat tangannya menyentuh sesuatu, ia mengeluarkannya.`
+`"U-Umm, Ibu! `
+`Aku, uh, tadi dikasih jimat. `
+`Apa ya, jimat anti sihir gitu? `
+`Umm, err, ......kayaknya sih... jimat ini harus digantung di gagang pintu, kalau gak salah. `
+`Ahahaha, ...aku lupa... `
+`Aku juga gak ada gunanya punya ini, `
+`...jadi aku kasih ke Ibu aja."`
+`Itu adalah jimat kalajengking yang Maria berikan padanya di pantai.`
+`Meskipun ia sudah mendengar berbagai efek jimat itu dari Maria, pikiran Jessica jadi kosong, dan ia hanya bisa mengucapkan sebanyak itu.`
+`Jessica, yang mengira ibunya pasti tak akan menerimanya, segera menarik kembali tangannya yang telah terulur sambil menggenggam jimat itu.`
+`......Jadi ketika Natsuhi kembali dan mengambilnya, Jessica benar-benar terkejut...`
+`"............Apa ini? `
+`Mainan dari mesin hadiah...?"`
+`"E-Eh, yah... Kurasa memang kayak gitu sih... `
+`Aku juga gak nyangka jimat yang bentuknya kayak mainan bisa ngaruh apa-apa......"`
+`Namun ibunya mengambil jimat itu dari tangannya.`
+`"Terima kasih. `
+`Akan kujaga baik-baik. `
+`............Suatu saat nanti, sebagai gantinya, bagaimana kalau Ibu beri kamu jimat yang dulu penting bagi Ibu waktu kecil?"`
+`"...B-Bukan karena pengin dibales aku ngasih itu. `
+`......Tapi, ya... `
+`......kalau Ibu beneran mau..." `
+`"Kalau begitu, Ibu akan istirahat dulu. `
+`Kepalaku sangat sakit. `
+`.........Jangan tidur terlalu malam."`
+`"Iya..." `
+`Natsuhi memasukkan jimat itu ke dalam sakunya dan berbalik.`
+`......Lalu ia menghilang ke lorong yang gelap...`
+`"...Kelihatannya cuacanya bakal begini terus besok juga."`
+`"Wah, bikin cuaca cerah tadi siang terasa cuma mimpi."`
+`George-aniki dan aku sedang menghabiskan waktu di depan televisi ruang tengah.`
+`Saat itu, Jessica kembali.`
+`Wajahnya masih datar, tapi sepertinya dia sudah agak tenang dibanding sebelumnya.`
+`"......Maria masih di depan potret?"`
+`"Tidak. `
+`Dia baru saja kembali, sekarang sudah tidur di sofa sana. `
+`Sudah sangat malam juga untuk dia."`
+`Kulihat jam, ternyata sudah lewat jam 10 malam.`
+`...Walau kita berencana begadang, rasanya sudah waktunya untuk balik ke kamar.`
+`"Oh ya, Ibu siapkan kamar buat kita di rumah utama. `
+`...Kita gimana?"`
+`"Aku lebih milih balik ke rumah tamu saja. `
+`......Melihat keadaan orang tua kita tadi, kurasa lebih baik kita tidak di rumah utama."`
+`"Setuju. `
+`Rasanya seperti mereka memberi isyarat ke anak-anak untuk tidak ikut campur urusan orang dewasa."`
+`Mari jadi anak baik dan lakukan saja itu."`
+`Saat kami sedang membicarakan hal ini, Bibi Rosa masuk ke ruang tengah.`
+`Ia melihat ke sekeliling dengan gelisah, mungkin sedang mencari Maria.`
+`"Bibi Rosa, kalau kau mencari Maria, dia di sana di sofa."`
+`"Terima kasih. `
+`Wah, dia tertidur pulas. `
+`......Kita harus memindahkannya ke tempat tidur."`
+`"Kalau mau, biar aku saja yang menggendongnya ke tempat tidur."`
+`"Terima kasih, itu akan sangat membantu. `
+`......Kalian semua mau kembali ke rumah tamu? `
+`Atau mau menginap di kamar yang Natsuhi nee-san siapkan di sini?"`
+`"Kami tadi baru saja membicarakan itu. `
+`Kami baru memutuskan untuk balik ke rumah tamu."`
+`"Begitu ya. `
+`Kalau begitu, bolehkah aku titipkan Maria pada kalian? `
+`...Aku akan merasa lebih tenang kalau dia tinggal bersama kalian para sepupu."`
+`Di balik kata-kata itu, sepertinya ada penyesalan yang disembunyikan bahwa para orang dewasa, termasuk dirinya, telah menyakiti perasaan Maria dengan dalam...`
+`"Serahkan pada kami, Bibi Rosa. `
+`Soalnya kami punya ahlinya dalam menenangkan Maria!"`
+`"A-Apa kalian ngomongin aku? `
+`Aku sendiri tidak bisa melakukannya. `
+`Kita butuh bantuan semua orang."`
+`"Benar tuh. `
+`Battler, bukannya kau yang paling cocok dengan Maria saat kalian main-main tadi?"`
+`Saat kami mengatakan itu, Bibi Rosa tersenyum, terlihat benar-benar bahagia.`
+`"Terima kasih, semuanya. `
+`......Sepertinya pertemuan kami akan berlangsung sampai sangat larut. `
+`Jadi walau aku minta maaf sudah merepotkan kalian, aku titip Maria pada kalian ya."`
+`"Hei, Maria, kamu udah tidur nyenyak ya...? `
+`Kita mau balik ke rumah tamu nih."`
+`Maria bergumam tak jelas, membalikkan badan, dan kembali tidur.`
+`......Sepertinya dia tidur sangat lelap.`
+`"Dia benar-benar tertidur pulas. `
+`Sayang banget kalau dibangunin."`
+`"Iya, aku aja yang gendong."`
+`Tubuh Maria jauh lebih ringan daripada kelihatannya.`
+`Aku mengangkatnya dan menaruhnya di punggung George-aniki.`
+`Di luar hujan deras, dan Aniki tidak bisa membawa payung sambil menggendong Maria.`
+`Sepertinya Bibi Rosa akan ikut mengantar kami sampai ke rumah tamu untuk membantu.`
+`Namun saat terdengar suara Paman Krauss memanggilnya, ia tak punya pilihan selain kembali.`
+`"......Yah, ini jadi masalah. `
+`Aku harus kembali sekarang."`
+`".........Apa semuanya akan kembali ke rumah tamu?"`
+`Setelah kami keluar dari ruang tengah menuju pintu masuk, pintu ruang pelayan terbuka dan Shannon-chan keluar.`
+`"Sudah sangat gelap, jadi biarkan saya yang mengantar kalian."`
+`"Itu bagus sekali, Shannon-chan. `
+`George-kun akan menggendong Maria. `
+`Bisa tolong bawakan payung untuknya?"`
+`"Ya, tentu saja."`
+`Shannon-chan membawa payung untuk masing-masing dari kami dan senter untuk menerangi jalan.`
+`Saat kami membuka pintu depan, hujannya benar-benar deras.`
+`Kelihatannya kami tidak akan punya waktu senggang untuk berjalan-jalan santai menikmati taman mawar di malam hari...`
+`"Aniki, dia terlalu berat? `
+`Mau kugendong aja?"`
+`"Tidak apa-apa. `
+`Setidaknya aku bisa menggendong Maria-chan."`
+`"......Aku benar-benar berterima kasih. `
+`Tolong jaga Maria baik-baik."`
+`"Tentu, serahkan saja. `
+`Kalau begitu, selamat malam, Bibi Rosa."`
+`"Kalau begitu aku akan mengantar mereka sampai sana, lalu kembali."`
+`"Ya, tolong..."`
+`Bibi Rosa memandangi kami pergi.`
 `"......Maria, `
-`......I'm sorry for everything..." `
-`Rosa's mumbling voice didn't reach the person in question, nor any of the kids, but disappeared beneath the sound of the rain...... `
-`After cutting through the rainy rose garden, we arrived at the guesthouse. `
-`"Ahh, if only I'd applied for the position of Maria-carrier! `
-`Then I would've gotten a chance to have Shannon-chan's huge boobs rubbing all over my arm!" `
-`"Th-Th-Th-That's not why I did it, it's a misunderstanding...!" `
-`"I-I thought that if I didn't walk like this, George-sama would get all wet........." `
-`"C'mon, quit babbling and go in!" `
-`After being urged on by Jessica, we folded up our umbrellas and went into the guesthouse. `
-`"Has anyone gotten their clothes wet? `
-`I can bring some towels if you want..." `
-`"You don't need to worry about us that much. `
-`Thanks, Shannon-chan." `
-`"Ah, that's right. `
-`We were planning to play cards or something. Would you care to join us for a bit?" `
-`"Huh? `
-`Who had the night shift on today's schedule?" `
-`"I believe we had a special schedule during the family conference. `
-`Also, I think a few alterations have been made, so I will go and check......" `
-`"Wait, if you have to go all the way back to the mansion to find out, don't force yourself." `
-`"Oh, that's all right. `
-`I can find out from the servant room in the guesthouse. `
-`...Please excuse me for a short while." `
-`Shannon-chan gave a quick bow and went into the guesthouse servant room. `
-`The rest of us headed for the cousins' room and decided to put Maria to bed for the time being. `
-`Maria was sleeping very deeply, and there was absolutely no sign of her eyes opening... `
-`For now, we'd get some soft drinks out of the room's refrigerator and drink those while playing cards or something... `
+`......Maafkan Ibu atas segalanya..."`
+`Suara lirih Rosa tidak sampai ke orang yang dimaksud, juga tidak ke anak-anak lain, melainkan tenggelam dalam suara hujan......`
+`Setelah menembus taman mawar yang basah, kami tiba di rumah tamu.`
+`"Aah, andai saja aku mendaftar sebagai penggendong Maria! `
+`Pasti aku bisa dapat kesempatan merasakan dada Shannon-chan yang luar biasa itu menempel ke lenganku!"`
+`"T-T-T-T-T-T-Tapi bukan karena itu! Ini salah paham...!"`
+`"S-saya hanya berpikir kalau saya tidak berjalan seperti ini, George-sama bisa kehujanan........."`
+`"Sudah, jangan ngoceh terus. Masuk sana!"`
+`Setelah didesak oleh Jessica, kami melipat payung dan masuk ke rumah tamu.`
+`"Ada yang bajunya basah? `
+`Bisa saya bawakan handuk kalau mau..."`
+`"Kamu tidak perlu terlalu repot. `
+`Terima kasih, Shannon-chan."`
+`"Ah, iya. `
+`Tadi kami berencana main kartu atau semacamnya. Mau ikut sebentar?"`
+`"Hah? `
+`Siapa yang kebagian shift malam hari ini?"`
+`"Kurasa ada jadwal khusus selama konferensi keluarga. `
+`Sepertinya juga ada beberapa perubahan, jadi akan saya periksa dahulu......"`
+`"Tunggu, kalau harus balik ke mansion untuk cari tahu, tidak usah memaksakan diri."`
+`"Oh, tidak apa-apa. `
+`Saya bisa cek dari ruang pelayan di rumah tamu. `
+`...Mohon izin sebentar."`
+`Shannon-chan membungkuk sebentar lalu masuk ke ruang pelayan rumah tamu.`
+`Kami yang lain menuju kamar sepupu dan memutuskan untuk membaringkan Maria terlebih dahulu.`
+`Maria tidur sangat lelap, tidak ada tanda-tanda ia akan membuka matanya...`
+`Untuk sekarang, kami mengambil minuman ringan dari kulkas di kamar dan meminumnya sambil bermain kartu atau semacamnya...`
 `"......Oh, `
 `Kanon-kun? `
-`And you're here too, Genji-sama. `
-`...What has happened with tonight's shift...?" `
-`"............Krauss-sama has given an order. `
-`He made some sizable changes to the shift schedule." `
-`"......Indeed. `
-`Gohda-san now has the night shift at the mansion. `
-`Shannon and Kanon have the night shift in the guesthouse. `
-`Kumasawa-san and I have been ordered to sleep in the guesthouse... `
-`Just now, a phone call came, saying that once you arrived, you were also to remain here for the rest of the night." `
-`"Huh...? `
-`Th-That certainly is a sizable change... `
-`The shifts at the guesthouse and the mansion have been completely reversed, haven't they...?" `
-`Originally, Shannon and Kanon had been assigned the night shift in the mansion, while the night shift in the guesthouse, where all of the relatives were staying, had been assigned to Gohda, who had an abundance of experience in entertaining. `
-`Kumasawa should have been sleeping at the guesthouse, while Genji should have been sleeping in the mansion. `
-`However, it seemed that Krauss had suddenly ordered that the schedule be modified. `
-`......The shifts at the guesthouse and the mansion had all been reversed, and Genji was spending the night in the guesthouse. `
-`"............It's probably because of {f:5:Beatrice}-sama's letter." `
-`"...Why probably?" `
-`"...After such a mysterious letter appeared, it was only natural that Krauss-sama would suspect one of us. `
-`.........We serve directly under the Master, so Krauss-sama tried as best he could to keep us far away from the family conference." `
-`Genji, Shannon, and Kanon were all permitted to wear the Ushiromiya family crest, the "One-Winged Eagle", as the servants who served directly under Kinzo. `
-`Of course, since they were working for the Ushiromiya family, they had to obey anyone's orders, but their only boss was Kinzo. `
-`Since only Kinzo held the right to employ them, even Krauss could not have them dismissed of his own accord. `
-`Because of this, Krauss and the others often viewed these servants as Kinzo's underlings and shunned them. `
-`And in fact, Kinzo seldom let anyone other than them enter his study. `
-`This sudden shift change was probably a clear expression of the sense of mistrust that had caused. `
-`Considering the time Kinzo had left to live, this would definitely be the last family conference before the problem of the inheritance came up. `
-`On top of that, the mysterious letter that claimed to be from {f:5:Beatrice} had dropped in out of the blue. `
-`Krauss definitely wanted to keep Kinzo's loyal subjects away from the table of such a delicate and important discussion... `
-`"......If you would excuse me, I will go rest. `
-`...If anything happens, call me immediately." `
-`"Our company tonight is...{i:special}." `
-`""Yes, certainly, Genji‐sama."" `
-`Genji nodded back, went behind a screen, took off his jacket, and slowly began to relax after a day's worth of tension... `
-`".........The ones who just returned now, were they the children...?" `
-`"Yes. `
-`The other relatives are having a conference in the mansion. `
-`It looked like it would drag on for quite some time..." `
-`"......Then we've got it easy. `
-`It's already this late, and there's this weather. `
-`The rest of the relatives will probably spend the night in their rooms in the mansion." `
-`"Yes, probably... `
-`I'm only saying this because Genji-sama isn't around, `
-`but I'm a little happy I was sent to the guesthouse......I guess..." `
+`Dan Anda juga di sini, Genji-sama. `
+`...Bagaimana dengan shift malam ini...?"`
+`"............Krauss-sama telah memberikan perintah. `
+`Beliau melakukan cukup banyak perubahan pada jadwal shift."`
+`"......Benar. `
+`Gohda-san sekarang bertugas malam di mansion. `
+`Shannon dan Kanon bertugas malam di rumah tamu."`
+`Kumasawa-san dan aku diperintahkan untuk menginap di rumah tamu... `
+`Baru saja ada telepon, katanya setelah kalian tiba, kalian juga harus tetap di sini sampai besok pagi." `
+`"Hah...? `
+`I-Itu memang perubahan yang cukup besar... `
+`Jadwal malam di rumah tamu dan rumah utama benar-benar dibalik, ya...?" `
+`Awalnya, Shannon dan Kanon dijadwalkan bertugas malam di rumah utama, sedangkan tugas malam di rumah tamu tempat semua kerabat menginap diberikan pada Gohda, yang punya banyak pengalaman dalam menjamu tamu. `
+`Kumasawa seharusnya tidur di rumah tamu, dan Genji tidur di rumah utama. `
+`Namun, sepertinya Krauss tiba-tiba memerintahkan agar jadwal itu diubah. `
+`......Semua jadwal di rumah tamu dan rumah utama ditukar, dan Genji pun menginap di rumah tamu. `
+`"............Mungkin ini karena surat dari {f:5:Beatrice}-sama." `
+`"...Kenapa 'mungkin'?" `
+`"...Setelah surat semisterius itu muncul, wajar jika Krauss-sama mulai mencurigai salah satu dari kami. `
+`.........Kami langsung melayani Tuan, jadi Krauss-sama berusaha sebisa mungkin menjauhkan kami dari konferensi keluarga." `
+`Genji, Shannon, dan Kanon semuanya diizinkan memakai lambang keluarga Ushiromiya, "Elang Bersayap Satu", sebagai pelayan yang langsung mengabdi pada Kinzo. `
+`Tentu saja, karena mereka bekerja untuk keluarga Ushiromiya, mereka harus mematuhi perintah siapa pun, tapi atasan satu-satunya adalah Kinzo. `
+`Karena hanya Kinzo yang memiliki hak untuk mempekerjakan mereka, bahkan Krauss tidak bisa memecat mereka sesuka hati. `
+`Karena itu, Krauss dan yang lainnya sering memandang para pelayan ini sebagai orang-orangnya Kinzo dan menjauhi mereka. `
+`Dan nyatanya, Kinzo jarang membiarkan siapa pun selain mereka masuk ke ruang kerjanya. `
+`Perubahan jadwal mendadak ini tampaknya merupakan bentuk nyata dari ketidakpercayaan itu. `
+`Mengingat waktu yang dimiliki Kinzo tak akan lama lagi, konferensi keluarga ini jelas akan menjadi yang terakhir sebelum masalah warisan muncul. `
+`Ditambah lagi, surat misterius yang mengaku dari {f:5:Beatrice} tiba-tiba muncul entah dari mana. `
+`Krauss jelas ingin menjauhkan para pengikut setia Kinzo dari meja pembahasan yang begitu rumit dan penting ini... `
+`"......Mohon izin, aku akan beristirahat. `
+`...Jika terjadi sesuatu, panggil aku segera." `
+`"Tamu kita malam ini...{i:istimewa}." `
+`""Baik, tentu saja, Genji-sama."" `
+`Genji mengangguk kembali, berjalan ke balik sekat, melepas jasnya, dan mulai beristirahat perlahan setelah satu hari penuh ketegangan... `
+`".........Yang baru saja kembali barusan, apakah itu anak-anak...?" `
+`"Ya. `
+`Kerabat lain sedang mengadakan konferensi di rumah utama. `
+`Kelihatannya akan berlangsung cukup lama..." `
+`"......Kalau begitu, kita cukup santai. `
+`Sudah larut begini, dan cuacanya juga seperti ini. `
+`Kemungkinan besar mereka akan bermalam di kamar mereka di rumah utama." `
+`"Ya, mungkin begitu... `
+`Aku hanya mengatakan ini karena Genji-sama tidak ada, `
+`tapi aku sedikit senang dikirim ke rumah tamu... kurasa..." `
 `"Oh...? `
-`Why's that? `
-`Because you can stay away from Madam and Eva-sama, those bullies? `
-`...Or do you have another reason?" `
-`"...I-It's not as though I have... `
-`...a-another reason...!" `
-`".........I see. `
-`Then, let's do our best together with our night shift. `
-`I'm counting on you, Nee-san." `
+`Kenapa begitu? `
+`Karena kau bisa menjauh dari Nyonya dan Eva-sama, para penindas itu? `
+`...Atau kau punya alasan lain?" `
+`"...B-Bukan berarti aku punya... `
+`...a-alasan lain...!" `
+`".........Begitu ya. `
+`Kalau begitu, mari kita lakukan tugas malam ini dengan baik. `
+`Aku mengandalkanmu, Nee-san." `
 `"Ah, ......umm......... `
-`Just now, I was asked to go to the children's room and play with them..." `
-`Shannon hung her head apologetically, ...gazing at Kanon uncertainly. `
-`Kanon didn't try to meet her eyes, and spoke curtly as he sighed. `
-`It looked like he didn't plan on indulging his "sister". `
-`"............You can't. `
-`You were assigned to the night shift. `
-`...Besides which, it isn't necessary for furniture like us to respond to an invitation to play. `
-`...You understand, right?" `
-`"Y-Yes, I do understand. `
+`Barusan, aku diminta pergi ke kamar anak-anak dan bermain bersama mereka..." `
+`Shannon menundukkan kepala dengan penuh rasa bersalah, ...memandang Kanon dengan ragu. `
+`Kanon tidak mencoba menatap matanya, dan menjawab dengan nada dingin sambil menghela napas. `
+`Sepertinya dia tidak berniat memanjakan "saudarinya". `
+`"............Tidak boleh. `
+`Kau dijadwalkan bertugas malam ini. `
+`...Lagi pula, tidak perlu bagi furnitur seperti kita untuk menanggapi undangan bermain. `
+`...Kau mengerti, bukan?" `
+`"Y-Ya, aku mengerti. `
 `.........Nnnn." `
-`Shannon's shoulders drooped slightly. `
-`...She had already expected that Kanon, a stickler for rules, would say something like that, but she still seemed a little discouraged. `
-`As Kanon flipped through a log book, he spoke without facing Shannon. `
-`"............That means the children will be waiting for you. `
-`You'll have to apologize and tell them you have the night shift and won't be able to stay with them. `
-`......Go and come back." `
-`"Huh, .........ah, yes! `
-`I'll go apologize and come back..." `
-`Shannon hurriedly stood from her seat before her brother's mood could change and flew out of the servant room after giving a quick bow...... `
-`As he watched her go, Kanon took a single deep breath... `
-`Genji's voice came from beyond the screen. `
+`Bahu Shannon sedikit merosot. `
+`...Dia memang sudah menduga Kanon yang kaku soal aturan akan berkata seperti itu, tapi tetap saja ia tampak sedikit kecewa. `
+`Saat Kanon membalik-balik buku catatan, ia berbicara tanpa menatap Shannon. `
+`"............Itu berarti anak-anak sedang menunggumu. `
+`Kau harus minta maaf dan beri tahu mereka bahwa kau bertugas malam ini dan tidak bisa menemani mereka. `
+`......Pergilah dan kembali lagi." `
+`"Hah, .........ah, ya! `
+`Aku akan pergi minta maaf dan segera kembali..." `
+`Shannon buru-buru bangkit dari kursinya sebelum suasana hati saudaranya berubah dan melesat keluar dari ruang pelayan setelah memberi hormat singkat...... `
+`Saat melihatnya pergi, Kanon menarik napas panjang... `
+`Suara Genji terdengar dari balik sekat. `
 `"......Kanon, `
-`......I will be here, so you can go too." `
+`......Aku akan tetap di sini, jadi kau juga boleh pergi." `
 `"Genji-sama, `
-`......Shannon was the only one called. `
-`It's not as though I was invited..." `
-`"That is only because you were not there at the time. `
-`If you had been, you would have been invited as well. `
-`......It is good to play as a child from time to time." `
+`......Yang diundang hanya Shannon. `
+`Bukan seolah aku juga diundang..." `
+`"Itu hanya karena kau tidak ada di sana saat itu. `
+`Jika kau ada, kau juga akan diundang. `
+`......Kadang-kadang baik juga bermain sebagai anak-anak." `
 `"......... `
-`...No, such a thing is not necessary for me. `
-`...Human children may have a need to play, `
-`...but we are...furniture." `
-`"...............Is that so?" `
-`"......Nee-san is also... `
+`...Tidak, hal seperti itu tidak perlu bagiku. `
+`...Anak-anak manusia mungkin butuh bermain, `
+`...tapi kami... adalah furnitur." `
+`"...............Begitukah?" `
+`"......Nee-san juga... `
 `furniture. `
-`...Even if she pretends to be a person, `
-`...it will only hurt her later. `
-`...I understand that, so I try not to get too close to people, that's all." `
-`Genji did not say anything after that. `
-`......After a while, he stood up and used a pot of hot water to make powdered cocoa, serving some to Kanon as well. `
-`"Is that for real?!?! `
-`I had no clue...!!" `
-`"Dumbass, you're too loud! `
-`You'll wake Maria up!" `
-`Battler was so surprised that he yelled obnoxiously and scattered his cards everywhere. `
-`His voice caused Maria to turn over once, but she soon fell back into a deep sleep... `
-`Jessica gave him a jab, and he lowered his voice. `
-`"Still, seriously, ...now that you mention it, they really did have that kind of atmosphere, didn't they...? `
-`......Haah, now I see, so George-aniki is..." `
-`George couldn't be seen anywhere in the room. `
-`A short while ago, when Shannon came into the room, George suddenly said that he'd forgotten something in the mansion and needed to go back and get it. `
-`Shannon said she would guide him, just like she had on the way to the guesthouse, and the two of them departed together. `
-`"......Well, there's actually been signs of it for a while now. `
-`You know, questions about hobbies and favorite things. `
-`I always thought it was a bit much for a passing interest, ...and look what's happened now!" `
-`"Come to think of it, I get the feeling George-aniki's always been overly nice to Shannon-chan...... `
-`Now I get it..." `
-`"According to the weather report, it looks like it'll be at its worst tonight. `
-`It also seems it'll last all day tomorrow, though it should get a little better." `
-`"...Really? `
-`Then, maybe the boat won't arrive until the day after tomorrow...... `
-`...I hope that doesn't interfere with your work on Monday..." `
-`"Hahaha, I already knew the typhoon would be coming beforehand. `
-`Just in case, I made sure I didn't have any plans for Monday, so it's okay. `
-`...I may not look it, but I really am the type who can plan ahead in his schedule." `
-`George puffed out his chest, acting proud. `
-`Compared to the calm appearance George always had as the oldest cousin, he now looked amusingly like a little kid. `
-`Shannon chuckled at this abrupt contrast. `
-`"It's no surprise you're so well prepared, as someone who'll bring prosperity to his company someday." `
-`"...Well, making a company prosper really is a tough job. `
-`Money isn't the only thing that's important. `
-`I learned that well when studying under my father. `
-`Making a company prosper is like owning a castle and leading your subordinates." `
-`"My dad really loves reading about great leaders during the warring periods of Japan, a hobby that's probably influenced by the fact that he shares Toyotomi Hideyoshi's name. `
-`Much of his philosophy on managing businesses comes from talking about them. `
-`...Did you know? `
-`Takeda Shingen, who was feared as the leader of the strongest cavalry corps in the warring periods, started out with his troops in complete disarray...and didn't have the kind of strong leadership necessary to utilize them well." `
-`"Is that true? `
-`That's a little unexpected." `
-`"In order to unite his troops, Shingen showed his excellent leadership in many ways. `
-`For example, when a soldier succeeded well in battle, he would immediately honor them with a medal. `
-`Normally, that kind of thing was put off until after the war, and they were all awarded at once." `
-`"He continued this diligently while on the field of battle, `
-`and immediately showing his appreciation for his troops' military exploits motivated them in an extremely significant fashion. `
-`Also, whenever one of his troops was brought down by an illness, he would be the first to rush up to them and care for them, and so on. `
-`...Takeda Shingen wasn't just the man who led the strongest calvary corps in the warring period. `
-`He was the person who cared the most for his troops throughout the warring period." `
-`"......And because he was that kind of person, all of his troops went along with him." `
-`The truth was, Shannon had already heard this story several years ago. `
-`...But whenever a discussion of his father led to this sort of topic, George would always glow and look like he was having a great time. `
-`So Shannon just smiled without interrupting, urging him to continue. `
-`"Of course, in a capitalist world, money determines both your strength and the height of your fortifications. `
-`But you can't build up a castle or succeed in war by yourself. `
-`Such things can only be accomplished with the support of many subordinates, by borrowing their strength. `
-`......After understanding this, when I look at my father's back, I realize how immature I am. `
-`I can clearly see how much competition he had to overcome before building up all he has now." `
-`"George-sama, you truly look up to your father... `
-`I'm jealous." `
-`"A-Ah, sorry, ...that's not how I meant it." `
-`"I-I'm sorry, ...that's not how I meant it either......" `
-`The two of them awkwardly looked at their feet. `
-`Shannon had no parents. `
-`She had been brought up in an orphanage owned by Kinzo, called the {ruby:Gospel House:Fukuin ({p:0:禝音}) House}. `
-`Under the guidance of Kinzo, their honorary director, the orphanage offered members who excelled a chance for on-the-job serving experience. `
-`If their efforts met with Kinzo's approval, they'd be able to leave the orphanage and work as servants for the Ushiromiya family. `
-`...This was considered to be the highest honor for those who lived in the orphanage. `
-`Servants from the Fukuin House all took names with the character {ruby:on:{p:0:音}} in them while they served. `
-`So {ruby:Shannon:{p:0:紗音}} wasn't her real name. `
-`The same went for {ruby:Kanon:{p:0:嘉音}}. `
-`All of the members of the Fukuin House were orphans. `
-`At least, they were all people who had been separated from their parents under special circumstances. `
-`......Because of this, the orphans had been taught to think of each other as their only family. `
-`That's why it seemed so natural to both of them when Kanon called Shannon his sister. `
-`And while both Shannon and Kanon were working in the mansion today, `
-`there were several other servants possessing the {ruby:on:{p:0:音}} character in their names, such as {ruby:Manon:{p:0:眞音}} and {ruby:Lenon:{p:0:恋音}}, who often worked in a rotation schedule. `
-`...However, there were not many servants who stayed with the Ushiromiya family for long. `
-`It was standard for them to quit after three years. `
-`So you could probably say that Shannon, who had been working for ten years, was a notable exception to the rule. `
-`Working as a servant for the Ushiromiya family was a heavy burden to bear, but the pay wasn't bad at all. `
-`Working for a full three years would earn more than what was needed to enter mainstream society. `
-`That was why, even though the orphans realized what a harsh task working for the Ushiromiya family was, they still hoped to be accepted. `
-`Maybe the fact that Shannon managed to continue working for ten years...wasn't because she had more willpower than the other servants. `
-`Maybe she'd gotten stuck working for ten years because she didn't have the courage to say she wanted to quit. `
-`Kinzo couldn't even trust his own blood relatives, and those "excellent" servants sent from the Fukuin House were the only ones he could rely on. `
-`Because of that, Kinzo would sometimes allow them to wear the family crest, as servants under his direct control, and have them work close to him... `
-`"......Err, ......um, you've been working here for almost ten years now, right? `
-`You must've saved up a lot of money by now." `
-`"I wonder... `
-`It's not like there's anything in particular I'd like to buy... `
-`After all, a few million yen isn't enough to live off for the rest of your life..." `
-`"So, the reason you've been working all this time wasn't to hit some target sum?" `
-`".........Y-Yes, that's right. `
-`......I have nowhere to go outside this mansion. `
-`......And I have been getting along well with Milady and the other young servants... `
-`...The Madam does scold me sometimes, ......but caring for the roses and cleaning the mansion is fun..." `
-`"But that can't be your entire life, Shannon-chan... `
-`no, {ruby:Sayo:{p:0:紗代}}-chan." `
+`...Meskipun dia berpura-pura menjadi manusia, `
+`...pada akhirnya itu hanya akan menyakitinya. `
+`...Aku mengerti itu, jadi aku berusaha untuk tidak terlalu dekat dengan orang lain, hanya itu." `
+`Genji tidak mengatakan apa-apa setelah itu. `
+`......Setelah beberapa saat, ia bangkit dan menggunakan air panas dari termos untuk membuat cokelat panas instan, lalu menyajikan juga untuk Kanon. `
+`"Serius nih?!?! `
+`Aku sama sekali nggak tahu...!!" `
+`"Bodoh, jangan keras-keras! `
+`Nanti Maria kebangun!" `
+`Battler begitu terkejut sampai berteriak dan menyebarkan kartu ke mana-mana. `
+`Suaranya membuat Maria menggeliat sebentar, tapi ia segera kembali tidur pulas... `
+`Jessica menyikutnya, dan ia menurunkan suaranya. `
+`"Tapi sungguh, ...kalau dipikir-pikir, memang ada suasana seperti itu, ya...? `
+`......Haah, jadi maksudmu George-aniki itu..." `
+`George tidak terlihat dimanapun di ruangan. `
+`Beberapa saat yang lalu, saat Shannon datang ke kamar, George tiba-tiba bilang bahwa dia lupa sesuatu di rumah utama dan harus kembali untuk mengambilnya. `
+`Shannon bilang akan menemaninya, seperti saat menuju rumah tamu tadi, dan mereka pun berangkat bersama. `
+`"......Yah, sebenarnya sudah kelihatan dari dulu juga sih. `
+`Tau kan, pertanyaan-pertanyaan tentang hobi dan hal-hal yang disukai. `
+`Dulu kupikir itu cuma sekadar ketertarikan, ...dan lihat saja apa yang terjadi sekarang!" `
+`"Kalau dipikir-pikir, George-aniki memang selalu terlalu baik ke Shannon-chan...... `
+`Sekarang aku mengerti..." `
+`"Menurut laporan cuaca, kelihatannya malam ini akan jadi yang terparah. `
+`Sepertinya juga akan terus seperti ini sepanjang hari besok, meski mungkin sedikit membaik." `
+`"...Serius? `
+`Kalau begitu, mungkin kapalnya baru akan datang lusa...... `
+`...Semoga saja itu tidak mengganggu pekerjaan anda hari Senin..." `
+`"Hahaha, aku sudah tahu sebelumnya kalau akan ada topan. `
+`Untuk jaga-jaga, aku pastikan tidak punya rencana apa pun untuk hari Senin, jadi tidak masalah. `
+`...Meski tidak kelihatan, aku ini sebenarnya tipe yang suka merencanakan jadwal dengan baik." `
+`George membusungkan dadanya, bersikap bangga. `
+`Dibandingkan dengan penampilan tenang George sebagai sepupu tertua, sekarang ia terlihat lucu seperti anak kecil. `
+`Shannon cekikikan melihat perbedaan mendadak itu. `
+`"Tidak heran anda begitu siap, sebagai seseorang yang suatu hari akan membawa kemakmuran pada perusahaannya." `
+`"...Yah, membuat perusahaan berkembang itu benar-benar pekerjaan yang berat. `
+`Tidak hanya soal uang yang penting. `
+`Aku benar-benar belajar itu saat berguru pada Ayahku. `
+`Membuat perusahaan maju itu seperti memiliki kastil dan memimpin para bawahannya." `
+`"Ayahku sangat suka membaca tentang pemimpin besar dari zaman peperangan di Jepang, hobi yang mungkin dipengaruhi oleh kenyataan bahwa namanya sama seperti Toyotomi Hideyoshi. `
+`Sebagian besar filosofi manajemen bisnisnya datang dari cerita-cerita itu. `
+`...Apa kau tau? `
+`Takeda Shingen, yang ditakuti sebagai pemimpin pasukan kavaleri terkuat di zaman perang, awalnya pasukannya sangat kacau...dan dia tidak punya kepemimpinan kuat untuk memanfaatkannya." `
+`"Benarkah? `
+`Itu agak di luar dugaan." `
+`"Untuk mempersatukan pasukannya, Shingen menunjukkan kepemimpinan luar biasa dengan berbagai cara. `
+`Contohnya, ketika seorang prajurit berhasil dalam pertempuran, dia akan langsung memberinya medali kehormatan. `
+`Biasanya, hal semacam itu ditunda sampai perang selesai, lalu diberikan secara bersamaan." `
+`"Dia melakukannya dengan tekun bahkan saat di medan perang, `
+`dan menunjukkan penghargaan secara langsung atas jasa para pasukannya memotivasi mereka secara luar biasa. `
+`Juga, bila ada prajuritnya yang jatuh sakit, dia yang pertama datang dan merawat mereka, dan sebagainya. `
+`...Takeda Shingen bukan hanya pemimpin pasukan kavaleri terkuat zaman perang. `
+`Dia juga orang yang paling peduli pada pasukannya sepanjang masa itu." `
+`"......Dan karena dia seperti itu, semua pasukannya setia padanya." `
+`Sebenarnya, Shannon sudah pernah mendengar cerita ini beberapa tahun lalu. `
+`...Tapi setiap kali pembicaraan soal ayahnya membawa George ke topik seperti ini, dia selalu terlihat bersinar dan sangat menikmatinya. `
+`Jadi Shannon hanya tersenyum tanpa menyela, mendorongnya untuk melanjutkan. `
+`"Tentu saja, di dunia kapitalis, uang menentukan kekuatan dan tinggi benteng pertahananmu. `
+`Tapi kau tidak bisa membangun kastil atau menang perang sendirian. `
+`Hal-hal semacam itu hanya bisa dicapai dengan dukungan banyak bawahan, meminjam kekuatan mereka. `
+`......Setelah memahami itu, saat aku melihat punggung Ayahku, aku sadar betapa aku ini masih kekanak-kanakan. `
+`Aku bisa melihat jelas seberapa banyak persaingan yang harus ia kalahkan sebelum bisa membangun semua yang ia miliki sekarang." `
+`"George-sama, anda benar-benar mengagumi Ayah anda... `
+`Saya iri." `
+`"A-Ah, maaf, ...maksudku bukan begitu." `
+`"A-Aku juga minta maaf, ...aku juga tidak bermaksud begitu......" `
+`Keduanya menunduk canggung, memandang ke kaki mereka masing-masing. `
+`Shannon tidak memiliki orang tua. `
+`Ia telah dibesarkan di panti asuhan milik Kinzo, yang disebut {rubi:Rumah Gospel:Fukuin ({p:0:禝音})}. `
+`Dibawah bimbingan Kinzo, sang direktur kehormatan, panti asuhan itu memberi kesempatan bagi para anggota yang menonjol untuk mendapat pengalaman kerja sebagai pelayan. `
+`Jika kerja keras mereka mendapat persetujuan dari Kinzo, mereka bisa keluar dari panti dan bekerja sebagai pelayan di keluarga Ushiromiya. `
+`...Ini dianggap sebagai kehormatan tertinggi bagi mereka yang tinggal di panti asuhan itu. `
+`Para pelayan dari Rumah Fukuin semuanya menggunakan nama yang memiliki karakter {ruby:on:{p:0:音}} selama mereka mengabdi. `
+`Jadi {ruby:Shannon:{p:0:紗音}} bukanlah nama aslinya. `
+`Begitu juga dengan {ruby:Kanon:{p:0:嘉音}}. `
+`Semua anggota Rumah Fukuin adalah yatim piatu. `
+`Setidaknya, mereka semua adalah orang-orang yang dipisahkan dari orang tuanya karena keadaan tertentu. `
+`......Karena itu, mereka diajarkan untuk menganggap satu sama lain sebagai satu-satunya keluarga yang mereka miliki. `
+`Itulah mengapa terasa begitu wajar bagi keduanya ketika Kanon memanggil Shannon sebagai kakaknya. `
+`Dan meskipun Shannon dan Kanon sedang bekerja di mansion hari ini, `
+`ada beberapa pelayan lain yang juga menggunakan karakter {ruby:on:{p:0:音}} dalam nama mereka, seperti {ruby:Manon:{p:0:眞音}} dan {ruby:Lenon:{p:0:恋音}}, yang sering bekerja secara bergiliran. `
+`...Namun, tak banyak pelayan yang bertahan lama di keluarga Ushiromiya. `
+`Biasanya mereka keluar setelah tiga tahun. `
+`Jadi bisa dibilang Shannon, yang telah bekerja selama sepuluh tahun, adalah pengecualian yang patut dicatat. `
+`Bekerja sebagai pelayan keluarga Ushiromiya adalah beban berat, tapi gajinya tidak buruk sama sekali. `
+`Bekerja selama tiga tahun penuh sudah cukup untuk mulai hidup mandiri di masyarakat umum. `
+`Karena itu, meski mereka tahu betapa beratnya bekerja di keluarga Ushiromiya, para anak yatim itu tetap berharap bisa diterima. `
+`Mungkin alasan Shannon bisa bertahan sampai sepuluh tahun...bukan karena dia lebih kuat dari pelayan lainnya. `
+`Mungkin dia terjebak bekerja selama itu karena tidak punya keberanian untuk mengatakan bahwa dia ingin berhenti. `
+`Kinzo bahkan tidak bisa mempercayai kerabat darah dagingnya sendiri, dan hanya para pelayan "unggulan" dari Rumah Fukuin lah yang bisa ia andalkan. `
+`Karena itu, kadang ia mengizinkan mereka mengenakan lambang keluarga, sebagai pelayan di bawah pengawasannya langsung, dan membuat mereka bekerja dekat dengannya... `
+`"......Err, ......umm, kau sudah bekerja di sini hampir sepuluh tahun, bukan? `
+`Kau pasti sudah menabung cukup banyak sekarang." `
+`"Entahlah... `
+`Bukan seolah ada sesuatu yang benar-benar ingin kubeli... `
+`Lagipula, beberapa juta yen tidak cukup untuk menghidupi diri seumur hidup..." `
+`"Jadi, alasan kau terus bekerja selama ini bukan karena ingin mencapai jumlah tertentu?" `
+`".........Y-Ya, benar. `
+`......Saya tidak punya tempat tujuan di luar mansion ini. `
+`......Dan saya akur dengan Nona dan para pelayan muda lainnya... `
+`...Nyonya memang kadang memarahiku, ......tapi merawat bunga mawar dan membersihkan mansion itu menyenangkan..." `
+`"Tapi itu tidak bisa jadi seluruh hidupmu, Shannon-chan... `
+`bukan, {ruby:Sayo:{p:0:紗代}}-chan." `
 `"......Umm..." `
-`Shannon cast her eyes downwards when she heard her real name... `
-`She understood what George was trying to say and fell silent. `
-`"There's something I've learned, as I continue to study even after becoming an adult and a full-fledged member of society. `
-`......A human's life is not as monotonous or short as we thought when we were kids." `
-`All school-aged kids have certain fears they can't shake. `
-`......They wonder whether they'll live the rest of their lives like sleepy classes after a monotonous and boring school day, `
-`spending their time in a carefree laziness without anything interesting happening until it's all over... `
-`However, life's only like that for underage students. `
-`Compared to a human's life, the time they spend as students is nothing more than a blink of the eye, a period where they break through the shells of their immaturity. `
-`The inside of the shell might be a hot, suffocating and boring world, `
-`but the world beyond that shell is vast and filled with limitless possibilities. `
-`"So far, your life has been trapped inside the shell called Shannon. `
-`I think you're under the mistaken impression that your life will continue like this forever." `
-`"That's...... `
-`..............." `
-`Shannon couldn't deny those words. `
-`...She'd been unable to harbor any clear doubts about her lifestyle, `
-`and since she never had any hope or goals for changing herself, she'd lazily continued living the way she always had. `
-`...And if asked whether this life was satisfying, `
-`...she wouldn't have been able to nod...... `
-`She may have been intentionally averting her eyes from the truth. `
-`...Without George's admonishments, she would have continued pretending not to notice as her real life slipped away bit by bit, neglected... `
+`Shannon menundukkan tatapan saat mendengar nama aslinya... `
+`Dia mengerti maksud George dan terdiam. `
+`"Ada sesuatu yang kupelajari, setelah menjadi orang dewasa dan anggota masyarakat yang sesungguhnya. `
+`......Hidup manusia tidak semonoton atau sependek yang kita pikirkan waktu masih kecil." `
+`Semua anak sekolah punya ketakutan yang sulit dihilangkan. `
+`......Mereka bertanya-tanya apakah sisa hidup mereka akan seperti kelas mengantuk setelah hari sekolah yang monoton dan membosankan, `
+`menghabiskan waktu dengan malas tanpa ada hal menarik sampai semuanya berakhir... `
+`Namun, hidup hanya seperti itu ketika seseorang masih di bawah umur. `
+`Dibandingkan hidup manusia, masa-masa sebagai pelajar hanyalah sekejap mata, masa ketika mereka menembus cangkang ketidakdewasaan mereka. `
+`Bagian dalam cangkang itu mungkin panas, pengap, dan membosankan, `
+`tapi dunia di luar cangkang itu luas dan penuh kemungkinan tak terbatas. `
+`"Sampai sekarang, hidupmu terjebak di dalam cangkang bernama Shannon. `
+`Kupikir kau salah paham, mengira hidupmu akan terus seperti ini selamanya." `
+`"Itu...... `
+`.................." `
+`Shannon tak bisa membantah kata-kata itu. `
+`...Ia tak pernah menyimpan keraguan yang jelas terhadap gaya hidupnya, `
+`dan karena ia tak pernah punya harapan atau tujuan untuk mengubah dirinya, ia terus menjalani hidup seperti biasanya dengan malas. `
+`...Dan jika ditanya apakah hidup ini memuaskan, `
+`...ia takkan mampu mengangguk...... `
+`Mungkin ia sengaja memalingkan pandangan dari kenyataan. `
+`...Tanpa teguran George, ia akan terus pura-pura tak menyadari bahwa kehidupan aslinya perlahan-lahan terabaikan dan menghilang... `
 `"......George-sama, `
-`............is it... `
-`wrong for me to continue living...this way?" `
-`"Yeah, it is. `
-`Oh, and by the way, didn't you break one of our rules just now?" `
-`George immediately gave a strict answer, then broke out into a mischievous smile. `
-`Shannon already knew what she was being chided for, ...and she hung her head again, apparently embarrassed. `
-`"Didn't you promise not to use "sama" when the two of us are alone...?" `
-`"......I-I couldn't obey that as a promise. `
-`...But, if it was an order, I would have to obey it... `
-`Because I'm......furniture." `
-`"Then it's an order." `
+`............apa... `
+`...salah jika saya terus hidup...seperti ini?" `
+`"Iya, salah. `
+`Oh, dan ngomong-ngomong, bukankah kau baru saja melanggar salah satu aturan kita?" `
+`George langsung memberi jawaban tegas, lalu tersenyum nakal. `
+`Shannon sudah tahu apa yang dimaksud teguran itu, ...dan ia menunduk lagi, tampak malu. `
+`"Bukankah kau sudah berjanji tidak akan memakai 'sama' saat kita berdua saja...?" `
+`"......S-saya tidak bisa menaatinya sebagai janji. `
+`...Tapi, kalau itu perintah, saya harus menaatinya... `
+`Karena aku......furnitur." `
+`"Kalau begitu, ini perintah." `
 `"Err, `
-`...............yes. `
-`...Certainly, `
+`...............ya. `
+`...Baik, `
 `...George-san." `
-`As Shannon hung her head, her face red, she said George's name again, this time using "san"... `
-`"Yes, that's fine, Sayo-chan." `
-`George smiled at Shannon...no, Sayo...to praise her small act of bravery. `
-`This short exchange alone made it clear how far back their relationship must have stretched... `
-`For a long while, the two talked as if the weather raging about them didn't even enter their thoughts. `
-`They talked about the many memories they'd built during their relationship that no one else knew about. `
-`Every once in a while, a flash of lightning would attempt to interrupt them, but this could sully neither the roses nor the time they spent blushing at each other... `
-`"............Th-That's right. `
-`...I have something I wanted to show you." `
-`"......Wh-What could it be?" `
-`George, who had been speaking eloquently, suddenly started to stutter. `
-`Watching him, Shannon seemed to guess something. `
-`George timidly searched through his pocket. `
-`Something got caught in the depths of his pocket, and just like the stuttering George, it took a little while to get it out. `
-`It was a very small box. `
-`A small box covered in a deep blue velvet. `
-`...That peculiar shape was enough to tell anyone what was resting inside. `
-`Shannon had prepared her heart somewhat, certain beforehand that this was what he'd been planning. `
-`But even so, when she actually saw it, she couldn't avoid blushing once more... `
-`George opened the small box, took something out, ...and held it out for Shannon to take. `
-`"I want you to take this." `
-`"...I-I, umm, couldn't accept something so valuable...!" `
-`"...You can't take it...?" `
-`"Tha‐...that's not... `
+`Sambil menundukkan kepala, wajah Shannon memerah saat ia menyebut nama George lagi, kali ini dengan "san"... `
+`"Ya, itu bagus, Sayo-chan." `
+`George tersenyum pada Shannon...tidak, Sayo...untuk memuji keberanian kecilnya. `
+`Percakapan singkat ini saja sudah cukup menunjukkan betapa panjang hubungan mereka selama ini... `
+`Selama beberapa saat, keduanya berbincang seolah cuaca yang mengamuk di sekitar mereka tak ada artinya. `
+`Mereka membicarakan banyak kenangan yang telah mereka bangun bersama selama hubungan mereka dan yang tak diketahui siapa pun. `
+`Sesekali, kilat mencoba menyela, tapi itu tak mampu menodai baik mawar-mawar maupun waktu yang mereka habiskan dengan saling tersipu... `
+`"............I-Itu benar. `
+`...Ada sesuatu yang ingin kutunjukkan padamu." `
+`"......A-Apa itu?" `
+`George, yang sebelumnya berbicara lancar, tiba-tiba mulai gugup. `
+`Melihatnya, Shannon tampaknya sudah bisa menebak sesuatu. `
+`George dengan ragu mencari sesuatu di sakunya. `
+`Sesuatu tersangkut di dalam saku terdalam, dan seperti George yang sedang gugup, butuh waktu sedikit lama untuk mengeluarkannya. `
+`Itu adalah sebuah kotak kecil. `
+`Sebuah kotak kecil berlapis beludru biru tua. `
+`...Bentuk khas itu sudah cukup memberi tahu siapa pun apa yang ada di dalamnya. `
+`Shannon sudah agak menyiapkan hatinya, merasa yakin sebelumnya bahwa ini yang sedang direncanakan George. `
+`Namun tetap saja, saat benar-benar melihatnya, ia tak bisa menghindari wajah yang kembali memerah... `
+`George membuka kotak kecil itu, mengeluarkan sesuatu, ...dan mengulurkannya pada Shannon untuk diambil. `
+`"Aku ingin kau menerima ini." `
+`"...S-saya, umm, tak bisa menerima sesuatu yang begitu berharga...!" `
+`"...Kau tak bisa menerimanya...?" `
+`"Itu b-...bukan... `
 `umm, `
-`...I'm... `
-`unworthy... `
-`o-of such a thing......" `
+`...saya... `
+`tidak layak... `
+`u-untuk menerima hal seperti ini......" `
 `"Sayo, `
-`this isn't a request. `
-`...It's an order. `
-`Take this ring. `
-`...Okay?" `
+`ini bukan permintaan. `
+`...Ini perintah. `
+`Terimalah cincin ini. `
+`...Oke?" `
 `"Ah, ......u... `
-`I-If it's an order, `
-`......I cannot disobey..." `
-`"Yeah, that's right. `
-`...Well done." `
-`Shannon, not wanting to show her bright red face, timidly accepted the ring from George's hand while still staring at the ground... `
-`That ring wasn't a simple accessory. `
-`It was a noble object, meant since ancient times to be offered to a special woman under special circumstances. `
-`...Therefore, while George could order her to take it, he could not order anything beyond that. `
-`Anything beyond that would depend, not on an order, but on Shannon's...no, Sayo's own will. `
-`"So, from here on, I'm not ordering you anymore. `
+`Ka-Kalau itu perintah, `
+`......aku tidak bisa menolak..." `
+`"Ya, benar. `
+`...Kerja bagus." `
+`Shannon, tak ingin menunjukkan wajahnya yang memerah terang, dengan malu-malu menerima cincin dari tangan George sambil terus menunduk... `
+`Cincin itu bukan aksesori biasa. `
+`Itu adalah benda mulia, yang sejak dahulu kala dimaksudkan untuk diberikan kepada seorang wanita istimewa dalam keadaan istimewa. `
+`...Karena itu, walaupun George bisa memerintahkan Shannon untuk menerimanya, ia tidak bisa memberi perintah untuk hal-hal setelahnya. `
+`Segala sesuatu setelah itu harus bergantung, bukan pada perintah, tapi pada kehendak Shannon...tidak, pada kehendak Sayo sendiri. `
+`"Jadi, mulai sekarang, aku tidak akan memberi perintah lagi. `
 `.........Sayo, `
-`I want you to give me your answer by tomorrow, without using words. `
-`............Do you understand?" `
-`"...Err, .........h-how should I......" `
-`"I won't order you any further, so this isn't an order, `
-`......but a ring is something you put on your finger, after all. `
-`......If you like it, you can just put it on any finger you choose." `
-`Shannon had only pretended not to know. `
-`She already understood what he wanted her to do. `
-`...But she was standing at a huge crossroads of her life... `
-`"......Look how late it's gotten. `
-`Let's call it a day." `
-`George turned away from Shannon, acting just a bit bluntly. `
-`"I could probably order you to wear it on your left hand. `
-`You might be timid and dependent enough to actually obey that kind of an order. `
-`......But I want at least this last step...to be done by your own will, Sayo. `
-`...Understand?" `
+`aku ingin kau memberikan jawabanmu besok, tanpa kata-kata. `
+`............Kau mengerti?" `
+`"...Err, .........b-bagaimana saya harus......" `
+`"Aku tidak akan memerintah lebih lanjut, jadi ini bukan perintah, `
+`......tapi cincin itu kan dipakai di jari. `
+`......Kalau kau menyukainya, kau bisa memakainya di jari mana pun yang kau mau." `
+`Shannon hanya berpura-pura tidak tahu. `
+`Ia sebenarnya sudah mengerti apa yang George harapkan. `
+`...Namun kini ia sedang berdiri di persimpangan besar dalam hidupnya... `
+`"......Lihat, sudah larut sekali. `
+`Kita sudahi saja untuk hari ini." `
+`George membalikkan badan dari Shannon, sedikit bersikap dingin. `
+`"Aku sebenarnya bisa saja memerintahkanmu untuk memakainya di tangan kiri. `
+`Kau mungkin cukup penurut dan pemalu untuk menaati perintah semacam itu. `
+`......Tapi aku ingin setidaknya langkah terakhir ini...diambil berdasarkan kehendakmu sendiri, Sayo. `
+`...Mengerti?" `
 `"......Y- `
-`Yes." `
-`"So, ...that's my order. `
-`.........I want you to think about it well tonight and show me your answer tomorrow." `
+`Ya." `
+`"Jadi, ...itu perintahku. `
+`.........Aku ingin kau memikirkannya baik-baik malam ini dan tunjukkan jawabanmu besok." `
 `"..............." `
-`Shannon nodded back. `
-`...Today was the culmination of their many days spent together. `
-`...This moment certainly hadn't come as a surprise to Shannon... `
-`".........We should be getting back to the guesthouse soon. `
-`If we take any longer, we'll make everyone worry about us." `
+`Shannon mengangguk pelan. `
+`...Hari ini adalah puncak dari banyak hari yang telah mereka lalui bersama. `
+`...Momen ini memang bukan kejutan bagi Shannon... `
+`".........Kita sebaiknya segera kembali ke rumah tamu. `
+`Kalau kita terlalu lama, nanti yang lain khawatir." `
 `"......Ah, `
 `......umm... `
-`...I'm sorry, I...! `
-`Um, I just remembered something I had to do in the mansion, so, `
+`...Maaf, saya...! `
+`Um, saya baru ingat ada sesuatu yang harus kulakukan di mansion, jadi, `
 `...uh, `
-`......I have to go back to the mansion..." `
-`"Something this late? `
-`.........Really?" `
-`George stared into Shannon's face as he laughed mischievously. `
-`He definitely saw through Shannon's lie. `
-`...However, when he saw how she felt, he could sort of understand that she might be so embarrassed that she'd want to be alone. `
-`So, because George realized the meaning behind Shannon's lie, he accepted it. `
+`......saya harus kembali ke mansion..." `
+`"Sesuatu di jam segini? `
+`.........Serius?" `
+`George menatap wajah Shannon sambil tertawa nakal. `
+`Ia jelas tahu bahwa Shannon sedang berbohong. `
+`...Namun, saat melihat ekspresi Shannon, ia bisa sedikit memahami bahwa gadis itu mungkin begitu malu hingga ingin menyendiri sejenak. `
+`Jadi, karena George memahami maksud di balik kebohongan Shannon, ia menerimanya. `
