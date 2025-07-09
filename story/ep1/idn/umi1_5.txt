@@ -883,9 +883,9 @@
 ` Kau boleh ambil beberapa sebagai hadiah."`
 `"......Tidak usah.`
 ` Lagipula,`
-` .........aku hanya perabotan."`
+` .........aku hanya furnitur."`
 `"............Hmm.`
-` ......Jadi perabotan tidak makan permen?`
+` ......Jadi furnitur tidak makan permen?`
 ` ...Benar juga.`
 ` Kalau begitu, tinggalkan aku."`
 `"Seperti permintaanmu.`
@@ -896,7 +896,7 @@
 `{n}Itu suara pintu yang mengunci secara otomatis.`
 `Tak ada yang bisa masuk tanpa izin Kinzo, dan sekali keluar, mereka tak bisa masuk lagi.`
 `......Mekanisme ini dibuat Kinzo yang tak bisa mempercayai kerabat sedarahnya, untuk mengurung diri di ruang belajarnya dan mengisolasi diri dari dunia luar.`
-`......Satu-satunya yang bisa dipercayainya sekarang bukan anak-anak yang berbagi darah dengannya, tapi para pelayan yang menyebut diri mereka perabotan...`
+`......Satu-satunya yang bisa dipercayainya sekarang bukan anak-anak yang berbagi darah dengannya, tapi para pelayan yang menyebut diri mereka furnitur...`
 `"..................Dokter Nanjo, ada apa?"`
 `"...Ah, Genji-san.`
 ` Oh, hanya saja aku sudah tidak punya tempat di sana lagi."`
@@ -934,7 +934,7 @@
 `...hahaha, sungguh sulit.`
 ` Aku yakin ini akan terus memberiku hiburan sepanjang sisa hidupku.`
 ` Bagaimana denganmu, Genji-san?"`
-`".........Aku hanya perabotan yang melayani Tuan.`
+`".........Aku hanya furnitur yang melayani Tuan.`
 ` Emas dan aset tidak berguna bagiku."`
 `"Wah, wah, kau sungguh rendah hati.`
 ` ...Mungkin itulah mengapa Kinzo-san sangat mempercayaimu."`
