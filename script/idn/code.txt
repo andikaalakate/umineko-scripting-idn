@@ -20,7 +20,7 @@ return
 	if %legacy_op == on  && %track_id == 1012 mov $track_id,"legacy\sub\idn.ass" : return
 return
 
-*sub_get_rom_idnaji
+*sub_get_romaji
 	if %track_id == 58 mov $track_id,"video\sub\58_rom_idn.ass" : return
 	if %track_id == 83 mov $track_id,"video\sub\83_rom_idn.ass" : return
 	if %track_id == 109 mov $track_id,"video\sub\109_rom_idn.ass" : return
