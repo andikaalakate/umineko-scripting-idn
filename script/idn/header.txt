@@ -7,8 +7,8 @@ if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Kebenaran dan Ilusi 
 
 ;--Textboxes--
 
-if %CHIRU_MODE == 0 stralias msgwnd,":a;graphics\system\wnd\msgwnd_en.png"
-if %CHIRU_MODE == 1 stralias msgwnd,":a;graphics\system\wnd\msgwnd_ep5_en.png"
+if %CHIRU_MODE == 0 stralias msgwnd,":a;graphics\system\wnd\msgwnd_idn.png"
+if %CHIRU_MODE == 1 stralias msgwnd,":a;graphics\system\wnd\msgwnd_ep5_idn.png"
 stralias msgwnd2,":a;graphics\system\wnd\msgwnd2.png"
 stralias msgwnd3,":a;graphics\system\wnd\msgwnd3.png"
 stralias msgwnd4,":a;graphics\system\wnd\msgwnd4.png"
@@ -32,10 +32,10 @@ numalias criminal_button_y,883
 ;--Locale--
 
 ; Logos
-stralias cinema_logo_1,":a;graphics\system\logo\cinema_logo_en.png"
-stralias cinema_logo_2,":a;graphics\system\logo\cinema_logo2_en.png"
-stralias loading_progres,":a/4,83,0;graphics\system\loading_en.png"
-stralias project_logo,":c;graphics\locale_en\project_logo.png"
+stralias cinema_logo_1,":a;graphics\system\logo\cinema_logo_idn.png"
+stralias cinema_logo_2,":a;graphics\system\logo\cinema_logo2_idn.png"
+stralias loading_progres,":a/4,83,0;graphics\system\loading_idn.png"
+stralias project_logo,":c;graphics\locale_idn\project_logo.png"
 stralias circle_logo,":c;graphics\locale_en\circle_logo.png"
 
 stralias congra,":c;graphics\locale\congra.png"
@@ -113,7 +113,7 @@ stralias system3,":c;graphics\locale_en\system3.png"
 stralias system4,":c;graphics\locale_en\system4.png"
 stralias system5,":c;graphics\locale_en\system5.png"
 
-stralias text001,":c;graphics\locale_en\text001.png"
+stralias text001,":c;graphics\locale_idn\text001.png"
 stralias text004,":c;graphics\locale_en\text004.png"
 stralias text005,":c;graphics\locale_en\text005.png"
 stralias text006,":c;graphics\locale_en\text006.png"

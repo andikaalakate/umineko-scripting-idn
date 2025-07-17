@@ -213,8 +213,8 @@ stralias t_txt_cg,":a;graphics\menu_en\title\title1_text_cg.png"
 stralias t_txt_chars,":a;graphics\menu_en\title\title1_text_chars.png"
 
 ;cache
-stralias msgwnd_wnd,"graphics\system\wnd\msgwnd_en.png"
-stralias msgwnd_wnd_ep5,"graphics\system\wnd\msgwnd_ep5_en.png"
+stralias msgwnd_wnd,"graphics\system\wnd\msgwnd_idn.png"
+stralias msgwnd_wnd_ep5,"graphics\system\wnd\msgwnd_ep5_idn.png"
 stralias r_btn_load2_cache,"graphics\menu_idn\r_click_menu\r_btn_load2.png"
 stralias r_btn_save2_cache,"graphics\menu_idn\r_click_menu\r_btn_save2.png"
 stralias r_btn_char_cache,"graphics\menu_idn\r_click_menu\r_btn_char.png"
