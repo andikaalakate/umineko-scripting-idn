@@ -53,12 +53,16 @@ Proyek terjemahan Umineko kami bersifat open source dan siapa pun boleh berkontr
 <!-- Episode lainnya tetap sama seperti versi Turki -->
 
 ## Tim Terjemahan
-- Penerjemah Utama: [Andika Alakate, Frederizal, Mamat Supriyanto]
+- Penerjemah Utama: [Andika Alakate](https://github.com/andikaalakate), [Frederizal](https://github.com/Rizal008), [Mamat Supriyanto](https://github.com/MamatSupriyanto)
 - Proofreader: -
-- Penyunting UI: [Andika Alakate]
+- Penyunting UI: [Andika Alakate](https://github.com/andikaalakate)
 - Kontributor: -
 
 ## Glosarium Istilah
 - "Grimoire" → Dipertahankan (istilah asli)
 - "Golden Witch" → "Penyihir Emas"
-- "Red Truth" → "Kebenaran Merah"
+- "Golden Land" → "Pulau Emas"
+- "Red & Blue Truth" → Dipertahankan (istilah asli)
+- "Furniture (Kagu)" → "Furnitur"
+- "Epitaph" → "Epitaf"
+- "Tea Party" → Dipertahankan (istilah asli)
