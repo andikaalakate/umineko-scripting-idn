@@ -1,6 +1,6 @@
 # Larus Team ~ Umineko Project Terjemahan Bahasa Indonesia
 
-[![Status Build](../../workflows/Build/badge.svg)](../../actions)
+[![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
 Proyek terjemahan Umineko kami bersifat open source dan siapa pun boleh berkontribusi kapan saja! Prioritas kami adalah kualitas terjemahan, bukan kecepatan, sehingga tidak ada batasan waktu.
 
@@ -44,13 +44,10 @@ Proyek terjemahan Umineko kami bersifat open source dan siapa pun boleh berkontr
    * Dalam proses...
 </details>
 
-[![Build Status](../../workflows/CI/badge.svg)](../../actions)
 * <details>
   <summary>Episode 3 ❌</summary>
    * Belum dimulai
 </details>
-
-<!-- Episode lainnya tetap sama seperti versi Turki -->
 
 ## Tim Terjemahan
 - Penerjemah Utama: [Andika Alakate](https://github.com/andikaalakate), [Frederizal](https://github.com/Rizal008), [Mamat Supriyanto](https://github.com/MamatSupriyanto)
