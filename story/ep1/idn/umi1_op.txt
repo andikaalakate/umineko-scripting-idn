@@ -186,7 +186,7 @@
 `{n}.........{p:0:戦人} terdiri dari karakter untuk "pertarungan" dan "orang", dan diucapkan "Battler".`
 `Satukan semuanya, dan kau mendapatkan Ushiromiya Battler.`
 `Cukup gila, kan?`
-` Sudah cukup gila orang tuaku memutuskan memanggilku seperti itu, tapi bahkan lebih gila lagi bahwa pegawai pemerintah mengizinkannya resmi.`
+` Sudah cukup gila orang tuaku memutuskan memanggilku seperti itu, tapi bahkan lebih gila lagi bahwa pegawai pemerintah mengizinkannya secara resmi.`
 ` ...Keduanya ada di puncak daftar orang yang harus kubunuh.`
 `Omong-omong, ini adalah salah satu sepupuku.`
 `Namanya {p:0:右代宮 譲治}, diucapkan Ushiromiya George.`
@@ -198,7 +198,7 @@
 `"Pasti ada di darahnya, kurasa.`
 ` Rudolf juga tidak setinggi itu sampai sekitar masa SMA.`
 ` Mungkin orang menjadi lebih tinggi jika percepatan pertumbuhannya datang terlambat."`
-`"Tidak, itu bukan hal khusus.`
+`"Tidak, bukan begitu.`
 ` Pria sejati perlu tangguh di dalam juga!"`
 `"Tepat!`
 ` Battler-kun di sini tahu bagaimana cara kerjanya!`
@@ -237,8 +237,8 @@
 ` Bagaimanapun, George tidak pernah datang padaku dengan hal semacam itu.`
 ` Heheheh..."`
 `Ini adalah bibiku dan ibu George-aniki, Bibi Eva ({p:0:絵羽}).`
-`Dia adalah kakak perempuan ayahku.`
-`{n}Dia dan Paman Hideyoshi adalah sepasang pelawak, dan mereka selalu menggodaku sejauh yang bisa kuingat.`
+`Dia adalah kakak perempuan Ayahku.`
+`{n}Dia dan Paman Hideyoshi adalah sepasang penjahil, dan mereka selalu menggodaku sejauh yang bisa kuingat.`
 `Terkadang membuat mereka sedikit sulit diajak bergaul ketika aku kecil.`
 `{n}...Meskipun begitu, aku saat ini sedang dalam proses menemukan bahwa mereka masih sulit diajak bergaul.`
 `Meski begitu, keluarga George-aniki menarik dan menyenangkan, dan mereka tampaknya rukun.`
@@ -248,7 +248,7 @@
 `"Hah?`
 ` Dia pergi ke kamar mandi beberapa waktu lalu.`
 ` Apakah dia masih belum kembali?`
-` Heh, mungkin si tua malang sudah mati... {c:86EF9C:Namunamunamu}."`
+` Heh, mungkin si tua berengsek sudah mati... {c:86EF9C:Namunamunamu}."`
 `"Itu bukan cara berbicara tentang ayahmu sendiri.`
 ` Tapi, ini bukan pertama kalinya dia begitu lama di kamar mandi."`
 `"Ya, pria itu selalu seperti itu.`
@@ -383,35 +383,35 @@
 `......Tunggu sebentar, ini benar-benar tidak akan bergoyang...kan...?`
 `Dari sini di tanah, itu hanya terlihat berawan, tidak berangin.`
 `...Yah, kurasa berbeda di atas tempat pesawat terbang.`
-`"Cuacanya agak tidak pasti hari ini."`
+`"Cuacanya sedikit tidak pasti hari ini."`
 `Bibi Eva sedang menonton TV di lounge.`
-`{n}Prakiraan cuaca sedang disiarkan, memberi tahu kita bahwa topan mendekati wilayah Kanto.`
+`{n}Perkiraan cuaca sedang disiarkan, memberi tahu kita bahwa topan mendekati wilayah Kanto.`
 `"Topan lagi?`
 ` ......Kurasa kita ditakdirkan untuk ini, dengan konferensi keluarga di bulan Oktober setiap tahun.`
 ` Tidak bisakah dia memilih musim yang lebih baik?"`
 `"Aku setuju.`
 ` Aku selalu berharap kita bisa memilikinya sekitar festival Obon pertengahan Agustus.`
-` Dalam hal itu, mengapa tidak kau sarankan itu pada Ayah dan Nii-san selama konferensi?"`
-`"...Sangat lucu.`
-` Mengapa tidak kau melakukannya sendiri?`
-` Kakak kami tidak akan pernah mendengarkan apa pun yang kusarankan."`
+` Untuk itu, mengapa tidak kau sarankan itu pada Ayah dan Nii-san selama konferensi?"`
+`"...Yang benar saja.`
+` Kenapa tidak Kakak saja yang mengatakannya?`
+` Kakak kita tidak akan pernah mendengarkan apa pun yang ku katakan."`
 `"Tidak mungkin.`
-` Itu tidak terlalu menggangguku untuk memilikinya di Oktober.`
-` Kau yang mengeluh tentang topan, jadi aku bilang "minta mereka untuk mengubahnya kalau begitu",`
+` Itu tidak terlalu menggangguku untuk melakukannya di Oktober.`
+` Kau mengeluh soal topan, jadi aku bilang "sarankan mengubahnya kalau begitu",`
 ` itu saja."`
 `"Aku hanya mengatakan bahwa topan selalu datang sekitar waktu ini tahun.`
 ` Kau yang mengatakan ingin memindahkannya lebih dekat ke Obon."`
 `"Yah, kau juga mengatakannya tahun lalu!`
 ` Tidakkah kau mengatakan bahwa akan lebih mudah untuk menyesuaikan jadwalmu jika kita memilikinya lebih dekat ke Obon?!"`
 `"Aku tidak pernah mengatakan hal seperti itu."`
-`"Oh ya, kau melakukannya.`
+`"Kau mengatakannya.`
 ` Aku pasti tidak akan melupakan sesuatu seperti itu!"`
 `"Tidak, aku tidak... Kau yang selalu mengatakan itu!"`
-`"Apakah kau sadar?`
+`"Apakah kau tahu?`
 ` Menghentikan tendangan hanya sehelai rambut adalah teknik tingkat sangat tinggi."`
 `"Aduh, wanita seusiamu seharusnya lebih sopan dari itu!"`
 `Argumen Ayah dan Bibi Eva terlihat tidak berbeda dari anak-anak yang bertengkar...`
-`"Aku menduga itu karena, meskipun mereka biasanya bertindak sebagai ibu dan ayah,`
+`"Meskipun mereka biasanya bertindak sebagai ibu dan ayah,`
 ` mereka berubah kembali menjadi anak-anak lagi ketika bertemu saudara lama mereka di konferensi keluarga ini."`
 `"Kau yang terlihat seperti orang dewasa sejati, menganalisis semuanya dengan tenang.`
 ` ......Kuharap aku tidak akan berakhir seperti si tua brengsek itu.`
@@ -435,12 +435,12 @@
 `{n}Aku ingin hanya duduk santai, tetap keren, dan membiarkan uang mengalir masuk, tapi tentu saja itu tidak akan pernah terjadi.`
 `...Ketika Aniki seusia aku, dia sudah membentuk tujuan yang mengesankan dan mulai mengabdikan diri untuk belajar untuk tujuan itu, jadi kurasa aku tidak bisa membandingkan sama sekali.`
 `Ayahku cuma bilang "silakan belajar di perusahaanku, kalau suka bersih-bersih toilet".`
-`Sialan, aku gak mau berhutang budi sama si tua brengsek itu.`
+`Sialan, aku tidak mau berhutang budi sama si tua brengsek itu.`
 `{n}Aku akan cari jalanku sendiri!`
-`{n}.........Kayaknya kegigihan itu satu-satunya kualifikasiku untuk jadi dewasa.`
+`{n}...Sepertinya kegigihan itu satu-satunya kualifikasiku untuk jadi dewasa.`
 `Haruskah aku ikut-ikutan perjalanan pencarian jati diri yang lagi ngetren sekarang?`
-`{n}......Tapi mana mungkin aku bisa minta duit orang tua buat itu..."`
-`"......Hm?! Ohh~!"`
+`{n}...Tapi mana mungkin aku bisa minta duit orang tua buat itu..."`
+`"...Hm?! Ohh~!"`
 `Tepat saat itu, Paman Hideyoshi berteriak keras.`
 `{n}Secara keseluruhan paman orang baik, tapi emang suaranya susah dikontrol.`
 `Ketika kulihat, dia sedang menyambut Bibi Rosa yang datang terlambat.`
@@ -464,7 +464,7 @@
 `"Sudah lama tidak bertemu, Kyrie nee-san, Hideyoshi nii-san."`
 `"...Dan...`
 `...astaga, Battler-kun?!`
-` Dasar tumbuh besar sekali...!"`
+` Sudah tumbuh besar sekali...!"`
 `"Ah, yang bener aja, hahaha...`
 ` Malu dengar begituan dari setiap orang..."`
 `"Hei, Rosa.`
@@ -481,14 +481,14 @@
 `"Uu!`
 ` Tinggiku sekarang berapa?!"`
 `Maria meniru pertanyaan Paman Hideyoshi sambil menengadah ke ibunya.`
-`Kayaknya dia gak ingat tinggi badannya sendiri.`
+`Sepertinya dia tidak ingat tinggi badannya sendiri.`
 `{n}Pasti lagi masa pertumbuhan nih, tiap bulan berubah.`
 `Beberapa tahun lagi pasti sudah kelihatan feminin.`
 `"Umm, ...terakhir diukur berapa ya...?`
 ` Kamu tuh makin besar aja.`
 ` Benar kan?"`
 `"Uu!"`
-`"Kayaknya sejak tahun lalu tumbuh banyak.`
+`"Sepertinya sejak tahun lalu tumbuh banyak.`
 ` Sekarang umurnya sembilan tahun kan?"`
 `"Sembilan tahun.`
 ` Uu."`
@@ -496,45 +496,45 @@
 ` Senang melihatmu sehat-sehat juga, Maria-chan!"`
 `"Mari...`
 `...ngg...`
-` Kayaknya kamu sudah terlalu berat buat diajak main pesawat-terbang..."`
+` Sepertinya kamu sudah terlalu berat buat diajak main pesawat-terbang..."`
 `"George-aniki, kurang ajar banget sih ke cewek.`
 ` Sini, aku aja... Ayo naik~..."`
 `"......Uu."`
 `Ketika aku mengangkatnya menggantikan Aniki, Maria kaku waspada, menatap wajahku curiga.`
 `...Ah iya ya.`
 ` Terakhir ketemu Maria enam tahun lalu, umurnya baru tiga tahun.`
-`Pasti dia gak ingat wajahku.`
-`"Maria-chan, kamu ingat gak?`
+`Pasti dia tidak ingat wajahku.`
+`"Maria-chan, kamu ingat tidak?`
 ` Ini Battler-kun.`
 ` Dulu sering main bersama, ingat?"`
 `".........Uu."`
-`"Kayaknya susah deh.`
+`"Sepertinya susah deh.`
 ` Waktu ketemu Battler terakhir umurnya baru tiga tahun.`
 ` Di usia segitu kan belum bisa ingat."`
-`Dia pasti kenal wajah semua orang kecuali aku karena ketemu tiap tahun, tapi aku sudah enam tahun gak kontak dengan keluarga Ushiromiya.`
-`Jadi wajar aja kalau cewek sembilan tahun ini gak ingat aku.`
+`Dia pasti kenal wajah semua orang kecuali aku karena ketemu tiap tahun, tapi aku sudah enam tahun tidak bertemu dengan keluarga Ushiromiya.`
+`Jadi wajar aja kalau cewek sembilan tahun ini tidak ingat aku.`
 `Aku aja cuma ingat samar-samar dia waktu masih balita suka nangis.`
 `"Maria.`
 ` Ini Battler onii-chan.`
 ` Anak Paman Rudolf.`
 ` ...Mengerti?"`
-`"............Anak paman...`
+`"...Anak paman...`
 ` Paman yang anak...`
-` ............??`
-` ......Uuuu!!"`
-`Suara "uu" itu pasti tanda otaknya error, gak paham penjelasan ribet tadi.`
-`Kayaknya terlalu rumit buatnya.`
+`...??`
+`...Uuuu!!"`
+`Suara "uu" itu pasti tanda otaknya error, tidak paham penjelasan ribet tadi.`
+`Sepertinya terlalu rumit buatnya.`
 `"Maria-chan.`
 ` Ini Battler-kun.`
-` Sepupumu, kayak aku."`
-`"......Kayak George onii-chan?`
-` ...........................Battler?`
+` Sepupumu, seperti aku."`
+`"...Seperti George onii-chan?`
+` ...Battler?`
 ` Sepupu?`
-` ......Uu."`
+` ...Uu."`
 `"Benar.`
 ` Kamu paham."`
 `Ini bagian Aniki yang bikin aku kagum.`
-`Meski belum nikah, dia jago banget ngadepin anak kecil.`
+`Meski belum nikah, dia pintar sekali ngehadapin anak kecil.`
 `{n}Pasti nanti jadi ayah yang penyayang.`
 `"...Battler onii-chan?"`
 `Maria menatapku lurus dengan ekspresi bertanya, seakan memastikan apa boleh manggil begitu.`
@@ -544,44 +544,44 @@
 ` Battler!"`
 `"Maria!`
 ` Jangan panggil langsung namanya - panggil Battler onii-chan...!"`
-`"Gak apa-apa kok, Bibi Rosa.`
-` Aku santai aja.`
+`"Tidak apa-apa kok, Bibi Rosa.`
+` Santai aja.`
 ` Iya kan, Maria?!`
 ` Kita temenan aja panggil nama langsung, oke?!"`
 `"Battler, Battler, Battleeerrr!`
 ` Uu-uu!"`
 `"Benar, Maria, Maria, Mariaaa!`
 ` Uu-uu!!"`
-`Kami bermain sebentar buat nutupin jarak enam tahun itu.`
-`Mungkin dia masih nganggep aku cuma temen baru yang gede, tapi lama-lama pasti akur lagi.`
+`Kami bermain sebentar untuk menutup jarak enam tahun itu.`
+`Mungkin dia masih menganggap aku cuma teman baru yang besar, tapi lama-lama pasti akur lagi.`
 `Tapi aku kaget.`
 ` Dia persis seperti yang kuingat enam tahun lalu.`
-`Ternyata orang emang gak banyak berubah ya.`
+`Ternyata orang emang tidak banyak berubah ya.`
 `{n}Aku senang dia masih polos dan lugu seperti dulu.`
 `Namanya ditulis {p:0:真里亞}.`
-`{n}...Yang ini gak susah dibaca.`
+`{n}...Yang ini tidak susah dibaca.`
 ` Tentu saja bacaannya "Maria".`
-`{n}Karakter ketiganya bentuknya kayak salib, keren banget.`
-`Ekspresinya biasanya datar, jadi susah nebak isi pikirannya, tapi itu cuma penampilan luarnya doang.`
+`{n}Karakter ketiganya bentuknya Seperti salib, keren banget.`
+`Ekspresinya biasanya datar, jadi susah menebak isi pikirannya, tapi itu cuma penampilan luarnya doang.`
 `{n}Dalemannya dia cuma anak manis biasa.`
-`Trus ada ibu Maria, Bibi Rosa.`
+`Terus ada ibu Maria, Bibi Rosa.`
 `{n}Dia adik perempuan ayahku.`
 `Nama Rosa ditulis {p:0:楼座}.`
 ` ...Ini nama yang sama sekali bukan Jepang.`
 `Jujur aja namanya hampir segila nama Ayah...`
-` Aku salut dia gak jadi orang aneh kayak Ayah.`
+` Aku salut dia tidak jadi orang aneh seperti Ayah.`
 `...Kalau dipikir-pikir, semua nama di keluargaku berbau asing.`
 `{n}Emangnya Kakek kenapa sih obsesinya sama ginian?`
 `Karena dia, kita cucu-cucunya harus terima nama aneh-aneh.`
-`{n}Makin kesel karena nama Kakek sendiri normal-normal aja.`
+`{n}Makin kesal karena nama Kakek sendiri normal-normal aja.`
 `Tapi satu hal yang bikin lega dari Bibi Rosa dibanding yang lain.`
-`Si tua brengsek dan Bibi Eva tuh suka banget ngetroll dan ngejek orang,`
-`tapi meski sedarah, Bibi Rosa gak kayak gitu.`
+`Si tua brengsek dan Bibi Eva tuh suka banget menjahili dan mengejek orang,`
+`tapi meski sedarah, Bibi Rosa tidak seperti gitu.`
 `Dia yang paling waras di antara semua saudaranya.`
-`Kayak Paman Hideyoshi, dia tante baik yang selalu di pihak anak-anak.`
-`......Cuma mungkin karena lebih tegas sebagai orang tua, dia gak semurah hati ngasih uang jajan kayak Paman Hideyoshi.`
+`Seperti Paman Hideyoshi, dia tante baik yang selalu di pihak anak-anak.`
+`......Cuma mungkin karena lebih tegas sebagai orang tua, dia tidak semurah hati ngasih uang jajan Seperti Paman Hideyoshi.`
 `Oke.`
-` Sekarang seluruh anggota keluarga yang mau naik pesawat sudah berkumpul.`
+` Sekarang seluruh anggota keluarga yang ingin naik pesawat sudah berkumpul.`
 `Seperti sudah menunggu kita semua berkumpul, pengumuman terdengar di lobi.`
 `"Kami mohon maaf atas penantiannya.`
 ` Penerbangan 201 menuju Niijima sekarang mulai boarding.`
@@ -591,11 +591,11 @@
 ` Maria, ayo!"`
 `"Uu!"`
 `Kami harus lewat detektor logam sebelum ke landasan.`
-`Pesawat kecil kami gak sebesar penerbangan internasional, tapi tetep aja pesawat.`
+`Pesawat kecil kami tidak sebesar penerbangan internasional, tapi tetep aja pesawat.`
 `Petugas bawa detektor logam memeriksa kita semua.`
 `Setelah semua lolos pemeriksaan, kami ikut petugas ke landasan.`
 `Kalau dipikir-pikir, semua di sini keluarga Ushiromiya.`
-`Kayak penerbangan carter khusus gitu.`
+`Seperti penerbangan carter khusus gitu.`
 `Kelompok kami berhenti di depan pintu pesawat.`
 `{n}Lalu pemandu kami berbalik bicara sambil lihat daftar penumpang.`
 `"Boarding sekarang dimulai.`
@@ -605,8 +605,8 @@
 ` Ushiromiya Hideyoshi-sama!"`
 `"Wah, aku pertama!`
 ` Ini!`
-` ...Eh ngomong-ngomong, permennya ada padamu gak, Eva?`
-` Aku cari-cari tapi gak ketemu."`
+` ...Eh ngomong-ngomong, permennya ada padamu tidak, Eva?`
+` Aku cari-cari tapi tidak ketemu."`
 `"Ushiromiya Eva-sama."`
 `"Ada di tasku.`
 ` Nanti aku ambil setelah masuk pesawat."`
@@ -617,27 +617,27 @@
 ` Di sini cuma ada satu jenis kursi."`
 `Menurut George-aniki, pesawat ini cuma punya dua deret kursi.`
 `Iya juga ya, pesawat kecil banget...`
-` .........Ini beneran gak bakal goncang ya...?`
+` .........Ini beneran tidak bakal goncang ya...?`
 `"Ushiromiya George-sama."`
 `"Ya, ini.`
 ` Jangan khawatir, Battler-kun.`
-` Gak bakal terlalu bergoyang."`
+` tidak bakal terlalu bergoyang."`
 `"Ushiromiya Battler-sama."`
-`"A-Aniki, 'gak terlalu' itu seberapa?!`
+`"A-Aniki, 'tidak terlalu' itu seberapa?!`
 ` Kalau jatuh dari kapal masih bisa berenang, tapi kalau pesawat jatuh kan mati, ya?!`
 ` Di kursi ada parasutnya kan?`
-` Lah, gak ada?!"`
+` Lah, tidak ada?!"`
 `"Ushiromiya Rudolf-sama."`
 `"Ayo Battler, jangan pengecut, masuk sana."`
 `"Aduh! Ayah!`
 ` Jangan dorong!`
-` Parasutnya gak ada!"`
+` Parasutnya tidak ada!"`
 `"Ushiromiya Kyrie-sama."`
 `"Sudah, berhenti berisik.`
 ` Ayo jalan."`
 `"Aduh! Kyrie!`
 ` Jangan dorong!`
-` Si bebal ini gak mau maju!"`
+` Si bebal ini tidak mau maju!"`
 `"Ushiromiya Maria-sama."`
 `"Uu!`
 ` Maju, maju!"`
@@ -651,7 +651,7 @@
 ` Mungkin akan ada goncangan, jadi harap jangan melepas sabuk pengaman setelah lepas landas."`
 `"A-Aniki, dia bilang kita harus pakai sabuk pengaman?!`
 ` Di pesawat jet besar kan boleh dilepas setelah lepas landas!`
-` Berarti bakal berguncang sampai gak bisa dilepas?!"`
+` Berarti bakal berguncang sampai tidak bisa dilepas?!"`
 `"Sialan, aku ditipu, ternyata emang bakal berguncang!`
 ` Parasutnya mana?!`
 ` Tadi harusnya naik kapaal ajaaaaaa!!"`
