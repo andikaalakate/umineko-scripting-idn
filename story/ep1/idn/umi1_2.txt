@@ -2,8 +2,8 @@
 `"Sepertinya kita sudah merapat di pelabuhan."`
 `{n}Nahkoda kapal keluar dan melompat ke dermaga dengan tali tambat.`
 `Seorang pria besar berbaju tuksedo menunggu kami di sana dengan wajah ramah tersenyum.`
-`......Aku tidak mengenalnya, tapi dari pakaiannya, kutebak dia adalah pelayan rumah utama keluarga Ushiromiya.`
-`"Selamat datang pulang, Nyonya.`
+`...Aku tidak mengenalnya, tapi dari pakaiannya, kutebak dia adalah pelayan rumah utama keluarga Ushiromiya.`
+`"Selamat datang kembali, Nyonya.`
 ` Kalian cukup terlambat, aku mulai khawatir."`
 `"Ah, terima kasih sudah peduli!`
 ` Battler ketakutan setengah mati di kapal.`
@@ -27,13 +27,13 @@
 `"Benar.`
 ` Jadi izinkan aku menyapanya untuk pertama kali.`
 ` Sangat terhormat akhirnya bisa bertemu, Battler-sama."`
-`"......Aku cukup percaya diri dengan tinggi badanku, tapi kau benar-benar besar.`
+`"...Aku cukup percaya diri dengan tinggi badanku, tapi kau benar-benar besar.`
 ` ...Ini pasti pertemuan pertama kita.`
 ` Kalau pernah bertemu orang sebesarmu, aku takkan pernah lupa...!"`
 `"Senang bertemu.`
 ` Aku Battler."`
 `"Kedatanganmu sangat dinantikan, Tuan.`
-` Aku sudah bekerja untuk rumah utama Ushiromiya sejak tahun lalu; namaku Gohda ({p:0:郷田}), pelayanmu."`
+` Aku sudah bekerja untuk rumah utama Ushiromiya sejak tahun lalu. Namaku Gohda ({p:0:郷田}), pelayanmu."`
 `"Senang berkenalan.`
 ` Jika ada kebutuhan apapun, jangan ragu untuk mengandalkanku."`
 `"Gohda-san, sudah lama tidak bertemu."`
