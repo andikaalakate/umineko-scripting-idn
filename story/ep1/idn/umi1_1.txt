@@ -62,11 +62,11 @@
 `"Percayalah, aku akan tunjukkan seberapa banyak latihan yang telah kulakukan sejak dulu!!"`
 `"Oh, diam saja!!`
 ` Aku akan mengalahkanmu di bidangmu sendiri!"`
-`Gadis keras kepala ini bernama Ushiromiya {p:0:朱志香}.`
+`Gadis keras kepala ini bernama {p:0:右代宮 朱志香}.`
 `......Dia lahir di bawah bintang sial yang sama denganku, berbagi nama aneh yang serupa.`
-` Lihat, {p:0:朱志香} dilafalkan "Jessica".`
+` Lihat, {p:0:右代宮 朱志香} dilafalkan "Ushiromiya Jessica".`
 `Dia adalah putri dari kakak laki-laki Ayah.`
-`Kakak laki-laki itu adalah putra tertua keluarga Ushiromiya, jadi secara teknis Jessica juga adalah ahli waris langsung keluarga Ushiromiya.`
+`Kakak laki-laki Ayah adalah putra tertua keluarga Ushiromiya, jadi secara teknis Jessica juga adalah ahli waris langsung keluarga Ushiromiya.`
 `Karena Jessica dan aku sebaya dan memiliki hubungan persaingan antara anak laki-laki dan perempuan,`
 ` kami selalu terbiasa berkelahi dan bercanda bersama ketika keluarga berkumpul.`
 `Jessica tumbuh lebih cepat, jadi dia selalu mengalahkanku dalam hal ukuran dan kekuatan fisik.`
@@ -195,7 +195,7 @@
 `"Jangan bodoh, jangan berani-berani meniruku.`
 ` Hidungmu yang sudah mirip denganku sudah membuatku kesal."`
 `"Apa yang kau bicarakan?`
-` Sangat konyol betapa miripnya kalian—dan seperti ayahmu."`
+` Sangat konyol betapa miripnya kalian—dan juga seperti ayahmu."`
 `"Ayolah, kau pasti bercanda...`
 ` Bagaimana aku bisa seperti Ayah?"`
 `"Kau adalah salinannya dalam kesombongan dan keangkuhan.`
