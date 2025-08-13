@@ -23,8 +23,8 @@
 `"...Gadis itu punya kekuatan yang mengerikan. `
 `...Kekuatan untuk membunuh seseorang 'tanpa gagal'. `
 `Namun, 'tanpa gagal' tak pernah ada di dunia ini. `
-`Tak peduli berapa kali kau membagi satu, kau tak akan pernah mencapai nol. `
-`Gadis itu punya kekuatan untuk menurunkan kemungkinan gagal menjadi 'hampir tepat nol', ...kekuatan untuk menciptakan 'kepastian yang hampir sempurna'. `
+`Tak peduli berapa kali kau membagi satu, kau tak akan pernah mencapai nol." `
+`"Gadis itu punya kekuatan untuk menurunkan kemungkinan gagal menjadi 'hampir tepat nol', ...kekuatan untuk menciptakan 'kepastian yang hampir sempurna'. `
 `...Aku berharap tak perlu bertarung lagi dengan penyihir mengerikan seperti itu." `
 `"Namun, kau punya kekuatan untuk membuat keberhasilan tanpa gagal, 'selama kemungkinannya tidak nol'. `
 `...Walau kau bilang 'tanpa gagal' tak ada di dunia ini, kau sendiri punya kekuatan yang tak bisa diganggu gugat. `
@@ -37,7 +37,7 @@
 `"...Anggap saja ini sanjungan sebagai ganti biaya tinggal di sini. `
 `...Aku adalah pengelana yang kabur, melintasi Fragmen, terus berlari dari kebosanan. `
 `...Aku hanya mampir karena kudengar kau memulai sesuatu yang menarik. `
-`Jangan ragu bahwa aku akan pergi begitu kau tak lagi menarik." `
+`Tak perlu khawatir, aku akan pergi begitu kau tak lagi menarik." `
 `"*kekeh*kekeh*...! `
 `Aku, {f:5:Beatrice}, sangat senang dan rendah hati menerima Lady {f:5:Bernkastel} yang agung sebagai pengamat. `
 `*kekeh*kekeh*! `
@@ -51,8 +51,8 @@
 `...Lagipula, kupikir kau juga suka menyerahkan nasibmu pada lemparan dadu yang moody, kan, Lady {f:5:Bernkastel}?" `
 `"...Saat aku melempar dadu, aku punya hasil yang jelas ingin kudapatkan. `
 `Tak seperti dirimu. `
-`Kau, di sisi lain, tak pernah membiarkan dadu jatuh dari tanganmu. `
-`Jadi, apa pun hasilnya, kau tak pernah kecewa. `
+`Kau, di sisi lain, tak pernah membiarkan dadu jatuh dari tanganmu." `
+`"Jadi, apa pun hasilnya, kau tak pernah kecewa. `
 `Hasil apa pun yang dadu tunjukkan padamu, kau puas 'tanpa gagal'. `
 `...Dalam hal itu, kau jauh melampauiku." `
 `"...Kau adalah orang yang benar-benar tak ingin kuhadapi. `
@@ -70,47 +70,47 @@
 `...Jadi, jangan bunuh aku, oke? `
 `Lady {f:5:Beatrice}, Penyihir Tanpa Akhir." `
 `"Jika itu keinginanmu, aku, {f:5:Beatrice}, akan memberimu waktu yang lebih menyenangkan lagi. `
-`...Kalau begitu, bukankah sebaiknya aku segera membawa papan catur berikutnya? `
+`"...Kalau begitu, bukankah sebaiknya aku segera membawa papan catur berikutnya? `
 `Sepertinya kisah berikutnya akan lebih berharga bagimu daripada secangkir teh hitam lainnya." `
 `"..............." `
 `"Tunggu sebentar saja. `
 `...*kekeh*kekeh*!" `
-`...Sepertinya sesuatu yang merepotkan mulai menyukaimu. `
-`Aku benar-benar ingin meminjamkan kekuatanku padamu, tapi seperti yang baru saja kau dengar, kekuatanku dan kekuatan gadis itu punya kecocokan yang sangat buruk. `
-`Sayang sekali memang. `
-`Tapi kau benar-benar kasihan, jadi aku akan membantumu sedikit saja. `
-`Pertama-tama, tentang gadis itu. `
-`Dia memang punya nama {f:5:Beatrice}, tapi itu tak selalu berarti dia adalah 'satu perempuan individu'. `
-`Paham maksudku? `
-`Dengan kata lain, dia bukan manusia. `
-`Eksistensinya adalah personifikasi dari aturan dunia ini. `
-`Untuk mengalahkannya, kau harus mengungkap aturan dunia ini dan membongkarnya. `
-`Mungkin ini bisa diibaratkan seperti mempelajari aturan catur dengan menonton permainan. `
-`Pertama, perhatikan papan caturnya dengan baik. `
+`"...Sepertinya sesuatu yang merepotkan mulai menyukaimu." `
+`"Aku benar-benar ingin meminjamkan kekuatanku padamu, tapi seperti yang baru saja kau dengar, kekuatanku dan kekuatan gadis itu punya kecocokan yang sangat buruk. `
+`Sayang sekali memang." `
+`"Tapi kau benar-benar kasihan, jadi aku akan membantumu sedikit saja." `
+`"Pertama-tama, tentang gadis itu." `
+`"Dia memang punya nama {f:5:Beatrice}, tapi itu tak selalu berarti dia adalah 'satu perempuan individu'." `
+`"Paham maksudku?" `
+`"Dengan kata lain, dia bukan manusia. `
+`Eksistensinya adalah personifikasi dari aturan dunia ini." `
+`"Untuk mengalahkannya, kau harus mengungkap aturan dunia ini dan membongkarnya." `
+`"Mungkin ini bisa diibaratkan seperti mempelajari aturan catur dengan menonton permainan." `
+`"Pertama, perhatikan papan caturnya dengan baik. `
 `Lalu, pelajari gerakan dan peran bidaknya. `
-`Kemudian, cari syarat yang dibutuhkan untuk menang dalam permainannya. `
-`Saat kau berhasil mengungkap semua itu, hatinya akan terbuka. `
-`Setelah itu, kau bisa merobeknya atau menghancurkannya sesukamu. `
-`...Aku cukup murah hati. `
-`Dulu, saat aku masih punya tubuh manusia, butuh seratus tahun bagiku untuk menyadari hal ini saja. `
-`Ini adalah hadiah perpisahan kecilku untukmu, si malang yang ditangkap Beato. Ini seperti sendok. `
-`Sendok bisa digunakan bukan hanya untuk minum sup. `
-`Kau bisa memakainya untuk menggali penjara tempatmu dikurung, atau sebagai senjata untuk mencungkil mata penyihir itu. `
-`...Tentu saja, kau juga bisa memakai sendok itu untuk terus meneguk sup encer di dalam sel abadimu. `
-`...Jangan salah paham. Aku tak berniat menjadi sekutumu. `
-`Aku memang merasa simpati padamu, tapi aku tak akan membantumu. `
-`...Ini seperti aku duduk di depan televisi sambil berteriak padamu di sisi lain, walau suaraku takkan sampai padamu. `
+`Kemudian, cari syarat yang dibutuhkan untuk menang dalam permainannya." `
+`"Saat kau berhasil mengungkap semua itu, hatinya akan terbuka. `
+`Setelah itu, kau bisa merobeknya atau menghancurkannya sesukamu." `
+`"...Aku cukup murah hati. `
+`Dulu, saat aku masih punya tubuh manusia, butuh seratus tahun bagiku untuk menyadari hal ini saja." `
+`"Ini adalah hadiah perpisahan kecilku untukmu, si malang yang ditangkap Beato. Ini seperti sendok." `
+`"Sendok bisa digunakan bukan hanya untuk minum sup. `
+`Kau bisa memakainya untuk menggali penjara tempatmu dikurung, atau sebagai senjata untuk mencungkil mata penyihir itu." `
+`"...Tentu saja, kau juga bisa memakai sendok itu untuk terus meneguk sup encer di dalam sel abadimu." `
+`"...Jangan salah paham. Aku tak berniat menjadi sekutumu." `
+`"Aku memang merasa simpati padamu, tapi aku tak akan membantumu. `
+`...Ini seperti aku duduk di depan televisi sambil berteriak padamu di sisi lain, walau suaraku takkan sampai padamu." `
 `{a:c: `
-`JADI, KAU MENGERTI KALAU AKU INI PENYIHIR, KAN?} `
-`Aku berniat menikmati kisah tanpa akhir yang akan ditenun Beato ini sampai aku bosan. `
-`Tapi itu saja takkan cukup membuatku tertarik. `
-`...Itulah sebabnya aku akan meminjamkan kekuatanku padamu. `
-`Semua ini agar aku tak bosan. `
-`Aku adalah penyihir paling kejam di dunia. `
-`Siapa pun lawannya, akan kubuat menyerah dengan pasti. `
-`...Bahkan jika itu {f:5:Beatrice}, Penyihir Tanpa Akhir, oke...? `
-`Kau adalah bidak permainanku. `
+`"JADI, KAU MENGERTI KALAU AKU INI PENYIHIR, KAN?"} `
+`"Aku berniat menikmati kisah tanpa akhir yang akan ditenun Beato ini sampai aku bosan. `
+`Tapi itu saja takkan cukup membuatku tertarik." `
+`"...Itulah sebabnya aku akan meminjamkan kekuatanku padamu. `
+`Semua ini agar aku tak bosan." `
+`"Aku adalah penyihir paling kejam di dunia. `
+`Siapa pun lawannya, akan kubuat menyerah dengan pasti." `
+`"...Bahkan jika itu {f:5:Beatrice}, Penyihir Tanpa Akhir, oke...?" `
+`"Kau adalah bidak permainanku. `
 `Lakukan yang terbaik. `
-`Kadang-kadang aku akan memberimu nasihat, di luar penglihatannya. `
-`Jangan membuatku bosan, oke...? `
-`*cekikikan*cekikikan*cekikikan*... `
+`Kadang-kadang aku akan memberimu nasihat, di luar penglihatannya." `
+`"Jangan membuatku bosan, oke...?" `
+`*cekikikan*cekikikan*cekikikan* `
