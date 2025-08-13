@@ -1,13 +1,13 @@
 `Hmm...`
-` Looks like there is absolutely nothing here.`
-` ......At all.`
-`This rain is getting harder.`
-` I'd better return to the mansion...`
+` Sepertinya benar-benar tidak ada apapun disini.`
+` ......Di semua tempat.`
+`Hujan ini semakin deras.`
+` Lebih baik aku kembali ke Mansion...`
 `.....................?`
 `Huh?`
-` What is that...?`
-`"High‐explosive armor‐piercing {p:41:{f:5:golden bullets}}.`
-`{n}They profane science, but are effective for making peppered rabbit.`
-`{n}Use these toys intelligently when in need"...`
-`I can think of a use for these.`
-` Time to dance a rondo with some bunny girls...`
+` Apa itu...?`
+`"Peluru emas penembus lapis baja berdaya ledak tinggi {p:41:{f:5:golden bullets}}. `
+`{n}Mereka menodai sains, tetapi efektif untuk membuat kelinci berbumbu merica. `
+`{n}Gunakan mainan ini dengan cerdas saat dibutuhkan"... `
+`Aku bisa memikirkan kegunaan untuk ini. `
+`Saatnya menari rondo dengan beberapa gadis kelinci... `

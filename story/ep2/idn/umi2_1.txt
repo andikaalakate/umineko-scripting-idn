@@ -1,1053 +1,1053 @@
-` Pikranku kemana-mana. `
-` Kembali ke hari dimana aku masih bisa membayangkan kebahagiaan yang aku rasakan pada hari itu. `
-` Aku berada di bangku sekolah menengah. `
-` {n}Gadis biasa, yang memimpikan cinta, sikap yang normal pada umumnya. `
-` Namun aku tidak seharusnya mengharapkan itu. `
-` ...Karena aku adalah "furnitur".`
-` {n}Yang tidak lebih dari sekedar alat, dan bukan manusia. `
-` Sebagai orang yang tidak bernilai sepertiku, hanya dengan menerima edukasi saja sudah membuatku cukup bahagia. `
-` Jadi, memikirkan tentang cinta sudah lebih dari yang seharusnya ku dapatkan... `
-` Perkumpulan keluarga Ushiromiya merupakan acara tahunan yang diadakan setiap Oktober, `
-` tetapi kadang mereka menggunjunginya beberapa kali. `
-` {n}...Tentu saja, mereka tidak datang hanya untuk minum teh. `
-` Pada hari ini, Keluarga Eva telah mengunjungi kepala keluarga di Rokkenjima. `
-` Tiga orang dari keluarga Krauss tiga orang dari keluarga Eva telah berkumpul di ruang tamu, `
-` dan saling berbincang sambil mengabarkan situasi mereka kepada semua orang. `
-` Genji seharusnya mengabarkan Kinzo bahwa keluarga Eva telah tiba, tapi dia belum datang. `
-` ...Dia mungkin tenggelam dalam "penelitian" nya, dan tidak bisa membagi waktu. `
-` Hal ini sering terjadi, maka dari itu yang lain menunggu dengan tenang sampai ayah mereka turun. `
-` "Hoh.`
-` Itu terdengar menjanjikan. `
-` Belaar banyaklah dari ayahmu, dan lakukan yang terbaik agar dapat membantnya suatu hari nanti." `
-` "Terima kasih banyak.`
-` Mentor dari ayah mengenalkanku dengan memberikanku pembelajaran yang berharga. `
-` Semua yang aku peajari adalah sesuatu yang tidak diajarkan d sekolah. `
-` "Ini bukan seperti pelajaran bahasa ataupun matematika. `
-` Apa yang kamu pelajari ialah pembelajaran tentang prilaku dan sikap. `
-` Sekalinya kamu mempelajari dasarnya, kamu bisa memulai pembelajaran yang lama seumur hidupmu." `
-` "Orang yang tidak mengerti ini akan menghabiskan sisa hidupnya dengan membuat otaknya seperti batu, sama sekali tidak bisa menyerap ilmu pengetahuan. `
-` Mereka mungkin mendapatkan nilai tinggi di bahasa dan matematika, tapi mereka tidak berguna untuk perusahaan!" `
-` "Mmhm, itu benar sekali. `
-` Hideyoshi‐san, kebijakan pendidikanmu selalu membuahkan hasil." `
-` "Kamu belum menjadi pria seutuhnya, George!`
-` Selalu ingat hal itu, dan nikmati pelajaranmu." `
-` "Oh, sudahlah, sayang. `
-` George {i:selalu} melakukan yang terbaik. `
-` Benar kan?" `
-` "Benar-benar hebat. `
-` Aku harap Jessica bis belajar darinya..." `
-` "...Ughhh. `
-` Apakah kamu {i:masih} dendam dengan nilai ujianku? `
-` Sudah kubilang {i:aku} belajar untuk ujian, aku sudah melakukan yang terbaik. `
-` Kamu tidak perlu membahas tu kembali. `
-` Cukup sudah." `
-` Ketika George dipuji atas ketekunannya, topik pembicaraaan hampir berpindah ke Jessica, yang mana dia tidak suka belajar. `
-` Jessica menunjukkan wajah tidak senang, seolah-olah dia tahu bahwa hal itu akan kembali padanya.`
-` "Aduh, duh... `
-` Selain belajar, aku rasa kamu perlu belajar berbicara sedikit lebih sopan, benar? `
-` Cukup memalukan bagi seorang anak perempuan yang menyandang lambang keluarga Ushiromiya." `
-` "Oh, tapi ini sangat menarik, bukankah begitu? `
-` Waktu berganti.`
-` Waktu Ketika kita berpura-pura sopan agar diperbolehkan makan oleh pria itu sudah lama berakhir." `
-` "Ya, ya! `
-` Aku tahu kau akan mengerti, bibi Eva! `
-` Eheheheh!" `
-` "......Haah...`
-` Sakit kepalaku benar-benar terasa hari ini" `
-` "Apa kau baik-baik saja? `
-` Bibi Natsuhi, wajahmu terlihat pucat." `
-` "Terima kasih, tapi aku tidak apa-apa. `
-` ......Namun waktu terus berlalu. `
-` Rasanya baru kemarin aku berlari-lari setengah telanjang di tepi pantai dan kembali dengan basah kuyup." `
-` "Bukankah Jessica‐chan juga sama? `
-` Dan sekarang, ia adalah seorang wanita yang selalu meributkan cara merias wajah. `
-` Kau benar-benar sangat memperhatikan alismu... Kau terlihat sangat cantik hari ini." `
-` "Terima kasih banyak.`
-` Tidak ada satupun yang memperhatikannya, jadi aku sedikit tidak percaya diri" `
-` Senyuman muncul di wajah Jessica saat hasil “belajar” yang dilakukannya akhirnya diketahui.`
-` Eva kembali tersenyum lebar. `
-` {n}...Kemudian, ia mengalihkan senyumannya ke arah Natsuhi.`
-` "Ayolah, Natsuhi nee‐san! `
-` Kau harus memperhatikan perubahan kecil dari anakmu. `
-` Kasihan Jessica‐chan.`
-` Dia pasti ingin diketahui lebih dulu oleh ibunya, benar kan?" `
-` "Tidak apa-apa kok.`
-` Dia tidak pernah mengetahui sesuatu semacam itu." `
-` "Jessica.`
-` Aku tidak terlalu memikirkan tentang kamu yang memanggil ibumu dengan sebutan “dia”.. `
-` Minta maaflah."`
-` "......Nanti, aku akan berbicara panjang lebar tentang bahasamu." `
-` "Ugh... `
-` Jika kamu sudah muak dengan anak kecil yang menjengkelkan, lain kali katakan saja. `
-` Aku keluar dari sini.`
-` Ruangan ini mulai terasa pengap." `
-` "Jessica...!"`
-` Jessica masih berada di usia yang belum bisa memprediksi ujian yang akan datang. `
-` {n}Baru-baru ini, ia sering berselisih dengan ibunya, yang sangat memperhatikan pendidikannya. `
-` "Permisi... `
-` kya?!" `
-` Jessica, yang hendak meninggalkan ruang tamu dengan suasana hati yang buruk, dan Shannon, yang sedang mendorong troli saji berisi teh, saling berpapasan. `
-` "Ah, Shannon. Tidak perlu repot-repot memberikanku teh. `
-` Aku hanya akan berkeliling di sekitar taman."`
-` "...Mi‐Milady..."`
-` "Shannon, cepat sajikan teh nya. `
-` Sebelum teh nya dingin" `
-` "Ma- maafkan aku..."`
-` Shannon sama sekali tidak melakukan kesalahan, `
-` tapi Natsuhi, yang merasa dirinya telah dipermalukan, mengecamnya secara emosional. `
-` ...Hal ini sering terjadi dalam keluarga Ushiromiya. `
-` {n}Namun tampaknya Shannon tidak cukup berkeingian untuk menerimanya dan bergerak. `
-` Dia mundur ke belakang, dan dengan gugup menyiapkan teh hitam. `
-` Dia memiliki kebiasaan buruk, yaitu melakukan lebih banyak kesalahan Ketika merasa tertekan. `
-` Penampilannya yang menyedihkan merusak suasana damai yang sebelumnya terjadi. `
-` Itu bukanlah kesalahan Shannon, tetapi dia mengira bahwa dia adalah sumbernya, hingga merasakan tekanan. `
-` jari-jarinya yang bergetar membuat porselen bergemerincing, dan kau tidak bisa menyebutnya anggun, bahkan sebagai pujian kosong. `
-` Semakin kasihan orang-orang berpikir tentang hal itu, semakin besar keheningan yang terjadi, `
-` Natsuhi semakin jengkel, dan Shannon semakin meringkuk... `
-` Leher Shannon yang kurus terasa seperti dicekik oleh dewa kematian yang disebut ketegangan. `
-` Kemudian, George berbicara dengan riang, seakan-akan memecah suasana yang tegang. `
-` "Aroma yang nikmat.`
-` Teh jenis apakah ini?" `
-` "Umm,`
-` .........ini adalah......"`
-` "Tidak, jangan katakan. `
-` Aku akan menebaknya. `
-` Aromanya sangat khas, mungkin aku isa mengetahuinya. `
-` ......Apakah ini...Earl Grey?"`
-` "Aku, aku rasa memang itu... "`
-` "Ahahahaha. `
-` Itu mungkin Earl Grey. `
-` Saat kau Kembali ke dapur, segera periksa kalengnya." `
-` "Hoh. `
-` George‐kun, apakah kamu memiliki pengetahuan tentang teh hitam?" `
-` "Saat ini aku bekerja dibawah seorang direktur perusahaan yang mengetahui banyak hal tentang teh hitam.`
-` Setelah cukup lama mendengarkan penjelasannya, saya mengambil sedikit ilmunya." `
-` "Oh ya, pemimpin dari perusahaan makanan Okonogi. `
-` Pengetahuan mendalam semacam itu memang keahliannya!" `
-` "Nama-nama teh sering kali merujuk pada tempat dimana teh itu dibuat, bukan? ` 
-` Jadi, apakah ini sesuatu yang dibudidayakan dari tempat bernama Earl Grey?" `
-` "Aku pernah dengar bahwa dahulu kala di Inggris, ada seorang earl bernama Grey, dan itu diambil dari namanya." `
-` "Kebetulan, aroma khas ini tidak berasal dari daun teh, tetapi dari buah yang disebut bergamot, yang merupakan sejenis jeruk mandarin." `
-` "Benarkah begitu? `
-` Aku baru mengetahuinya. `
-` Dengan mengeahuinya, akan membuat rasa teh menjadi lebih nikmat." `
-` "Sama seperti alkohol dan rokok. `
-` Dengan kemewahan, anda harus menghargai romantisme.`
-` Pengetahuan eperti ini tergantung dari selera ." `
-` "Itusama seperti iklan dalam obat-obatan. `
-` Natsuhi nee-san, kamu harus mencoba membaca penjelasan tentang obat sakit kepalamu suatu hari nanti. `
-` *uhuk*uhuk*uhuk*uhuk*." `
+`Pikiranku kemana-mana. `
+`Kembali ke hari dimana aku masih bisa membayangkan kebahagiaan yang aku rasakan pada hari itu. `
+`Aku berada di bangku sekolah menengah. `
+`{n}Gadis biasa, yang memimpikan cinta, sikap yang normal pada umumnya. `
+`Namun aku tidak seharusnya mengharapkan itu. `
+`...Karena aku adalah "furnitur". `
+`{n}Yang tidak lebih dari sekedar alat, dan bukan manusia. `
+`Sebagai orang yang tidak bernilai sepertiku, hanya dengan menerima edukasi saja sudah membuatku cukup bahagia. `
+`Jadi, memikirkan tentang cinta sudah lebih dari yang seharusnya ku dapatkan... `
+`Perkumpulan keluarga Ushiromiya merupakan acara tahunan yang diadakan setiap Oktober, `
+`tetapi terkadang mereka mengunjungi kediaman ini beberapa kali. `
+`{n}...Tentu saja, mereka tidak datang hanya untuk minum teh. `
+`Pada hari ini, Keluarga Eva telah mengunjungi kepala keluarga di Rokkenjima. `
+`Tiga orang dari keluarga Krauss, tiga orang dari keluarga Eva telah berkumpul di ruang tamu, `
+`dan saling berbincang sambil mengabarkan situasi mereka kepada semua orang. `
+`Genji seharusnya mengabarkan Kinzo bahwa keluarga Eva telah tiba, tapi dia belum datang. `
+`...Dia mungkin tenggelam dalam "penelitian" nya, dan tidak bisa membagi waktu. `
+`Hal ini sering terjadi, maka dari itu yang lain menunggu dengan tenang sampai Ayah mereka turun. `
+`"Hoh. `
+`Itu terdengar menjanjikan. `
+`Belaar banyaklah dari ayahmu, dan lakukan yang terbaik agar dapat membantnya suatu hari nanti." `
+`"Terima kasih banyak. `
+`Mentor dari ayah mengenalkanku dengan memberikanku pembelajaran yang berharga. `
+`Semua yang aku peajari adalah sesuatu yang tidak diajarkan d sekolah. `
+`"Ini bukan seperti pelajaran bahasa ataupun matematika. `
+`Apa yang kamu pelajari ialah pembelajaran tentang prilaku dan sikap. `
+`Sekalinya kamu mempelajari dasarnya, kamu bisa memulai pembelajaran yang lama seumur hidupmu." `
+`"Orang yang tidak mengerti ini akan menghabiskan sisa hidupnya dengan membuat otaknya seperti batu, sama sekali tidak bisa menyerap ilmu pengetahuan. `
+`Mereka mungkin mendapatkan nilai tinggi di bahasa dan matematika, tapi mereka tidak berguna untuk perusahaan!" `
+`"Mmhm, itu benar sekali. `
+`Hideyoshi‐san, kebijakan pendidikanmu selalu membuahkan hasil." `
+`"Kamu belum menjadi pria seutuhnya, George! `
+`Selalu ingat hal itu, dan nikmati pelajaranmu." `
+`"Oh, sudahlah, sayang. `
+`George {i:selalu} melakukan yang terbaik. `
+`Benar kan?" `
+`"Benar-benar hebat. `
+`Aku harap Jessica bis belajar darinya..." `
+`"...Ughhh. `
+`Apakah kamu {i:masih} dendam dengan nilai ujianku? `
+`Sudah kubilang {i:aku} belajar untuk ujian, aku sudah melakukan yang terbaik. `
+`Kamu tidak perlu membahas tu kembali. `
+`Cukup sudah." `
+`Ketika George dipuji atas ketekunannya, topik pembicaraaan hampir berpindah ke Jessica, yang mana dia tidak suka belajar. `
+`Jessica menunjukkan wajah tidak senang, seolah-olah dia tahu bahwa hal itu akan kembali padanya. `
+`"Aduh, duh... `
+`Selain belajar, aku rasa kamu perlu belajar berbicara sedikit lebih sopan, benar? `
+`Cukup memalukan bagi seorang anak perempuan yang menyandang lambang keluarga Ushiromiya." `
+`"Oh, tapi ini sangat menarik, bukankah begitu? `
+`Waktu berganti. `
+`Waktu Ketika kita berpura-pura sopan agar diperbolehkan makan oleh pria itu sudah lama berakhir." `
+`"Ya, ya! `
+`Aku tahu kau akan mengerti, bibi Eva! `
+`Eheheheh!" `
+`"......Haah... `
+`Sakit kepalaku benar-benar terasa hari ini" `
+`"Apa kau baik-baik saja? `
+`Bibi Natsuhi, wajahmu terlihat pucat." `
+`"Terima kasih, tapi aku tidak apa-apa. `
+`......Namun waktu terus berlalu. `
+`Rasanya baru kemarin aku berlari-lari setengah telanjang di tepi pantai dan kembali dengan basah kuyup." `
+`"Bukankah Jessica‐chan juga sama? `
+`Dan sekarang, ia adalah seorang wanita yang selalu meributkan cara merias wajah. `
+`Kau benar-benar sangat memperhatikan alismu... Kau terlihat sangat cantik hari ini." `
+`"Terima kasih banyak. `
+`Tidak ada satupun yang memperhatikannya, jadi aku sedikit tidak percaya diri" `
+`Senyuman muncul di wajah Jessica saat hasil “belajar” yang dilakukannya akhirnya diketahui. `
+`Eva kembali tersenyum lebar. `
+`{n}...Kemudian, ia mengalihkan senyumannya ke arah Natsuhi. `
+`"Ayolah, Natsuhi nee‐san! `
+`Kau harus memperhatikan perubahan kecil dari anakmu. `
+`Kasihan Jessica‐chan. `
+`Dia pasti ingin diketahui lebih dulu oleh ibunya, benar kan?" `
+`"Tidak apa-apa kok. `
+`Dia tidak pernah mengetahui sesuatu semacam itu." `
+`"Jessica. `
+`Aku tidak terlalu memikirkan tentang kamu yang memanggil ibumu dengan sebutan “dia”.. `
+`Minta maaflah." `
+`"......Nanti, aku akan berbicara panjang lebar tentang bahasamu." `
+`"Ugh... `
+`Jika kamu sudah muak dengan anak kecil yang menjengkelkan, lain kali katakan saja. `
+`Aku keluar dari sini. `
+`Ruangan ini mulai terasa pengap." `
+`"Jessica...!" `
+`Jessica masih berada di usia yang belum bisa memprediksi ujian yang akan datang. `
+`{n}Baru-baru ini, ia sering berselisih dengan ibunya, yang sangat memperhatikan pendidikannya. `
+`"Permisi... `
+`kya?!" `
+`Jessica, yang hendak meninggalkan ruang tamu dengan suasana hati yang buruk, dan Shannon, yang sedang mendorong troli saji berisi teh, saling berpapasan. `
+`"Ah, Shannon. Tidak perlu repot-repot memberikanku teh. `
+`Aku hanya akan berkeliling di sekitar taman." `
+`"...Mi‐Milady..." `
+`"Shannon, cepat sajikan teh nya. `
+`Sebelum teh nya dingin" `
+`"Ma- maafkan aku..." `
+`Shannon sama sekali tidak melakukan kesalahan, `
+`tapi Natsuhi, yang merasa dirinya telah dipermalukan, mengecamnya secara emosional. `
+`...Hal ini sering terjadi dalam keluarga Ushiromiya. `
+`{n}Namun tampaknya Shannon tidak cukup berkeingian untuk menerimanya dan bergerak. `
+`Dia mundur ke belakang, dan dengan gugup menyiapkan teh hitam. `
+`Dia memiliki kebiasaan buruk, yaitu melakukan lebih banyak kesalahan Ketika merasa tertekan. `
+`Penampilannya yang menyedihkan merusak suasana damai yang sebelumnya terjadi. `
+`Itu bukanlah kesalahan Shannon, tetapi dia mengira bahwa dia adalah sumbernya, hingga merasakan tekanan. `
+`jari-jarinya yang bergetar membuat porselen bergemerincing, dan kau tidak bisa menyebutnya anggun, bahkan sebagai pujian kosong. `
+`Semakin kasihan orang-orang berpikir tentang hal itu, semakin besar keheningan yang terjadi, `
+`Natsuhi semakin jengkel, dan Shannon semakin meringkuk... `
+`Leher Shannon yang kurus terasa seperti dicekik oleh dewa kematian yang disebut ketegangan. `
+`Kemudian, George berbicara dengan riang, seakan-akan memecah suasana yang tegang. `
+`"Aroma yang nikmat. `
+`Teh jenis apakah ini?" `
+`"Umm, `
+`.........ini adalah......" `
+`"Tidak, jangan katakan. `
+`Aku akan menebaknya. `
+`Aromanya sangat khas, mungkin aku isa mengetahuinya. `
+`......Apakah ini...Earl Grey?" `
+`"Aku, aku rasa memang itu... " `
+`"Ahahahaha. `
+`Itu mungkin Earl Grey. `
+`Saat kau Kembali ke dapur, segera periksa kalengnya." `
+`"Hoh. `
+`George‐kun, apakah kamu memiliki pengetahuan tentang teh hitam?" `
+`"Saat ini aku bekerja dibawah seorang direktur perusahaan yang mengetahui banyak hal tentang teh hitam. `
+`Setelah cukup lama mendengarkan penjelasannya, saya mengambil sedikit ilmunya." `
+`"Oh ya, pemimpin dari perusahaan makanan Okonogi. `
+`Pengetahuan mendalam semacam itu memang keahliannya!" `
+`"Nama-nama teh sering kali merujuk pada tempat dimana teh itu dibuat, bukan? `
+`Jadi, apakah ini sesuatu yang dibudidayakan dari tempat bernama Earl Grey?" `
+`"Aku pernah dengar bahwa dahulu kala di Inggris, ada seorang earl bernama Grey, dan itu diambil dari namanya." `
+`"Kebetulan, aroma khas ini tidak berasal dari daun teh, tetapi dari buah yang disebut bergamot, yang merupakan sejenis jeruk mandarin." `
+`"Benarkah begitu? `
+`Aku baru mengetahuinya. `
+`Dengan mengeahuinya, akan membuat rasa teh menjadi lebih nikmat." `
+`"Sama seperti alkohol dan rokok. `
+`Dengan kemewahan, anda harus menghargai romantisme. `
+`Pengetahuan eperti ini tergantung dari selera ." `
+`"Itusama seperti iklan dalam obat-obatan. `
+`Natsuhi nee-san, kamu harus mencoba membaca penjelasan tentang obat sakit kepalamu suatu hari nanti. `
+`*uhuk*uhuk*uhuk*uhuk*." `
 `"Hahahaha! `
-` Ide yang bagus. `
-` Cobalah malam ini." `
+`Ide yang bagus. `
+`Cobalah malam ini." `
 `"...Ya, aku akan mencobanya." `
-`"Shannon‐chan, bukalah pot itu dan lihatlah.`
-` Kamu bisa menemukan beberapa bergamot kering yang dicampur dengan daun teh." `
-`"Ah, ......baik.`
-` Itu ada disini.`
-` Sesuatu seperti kulit jeruk kering tercampur di dalamnya." `
-` "Yap. `
-` Itu mungkin bergamot. `
-` Bahan Utama dari aroma Earl Grey. `
-` Aromanya sangat jelas, sehingga memberikan kesan rasa yang cukup tajam, tetapi rasanya ringan dan mudah diminum." `
-` "Mungkin akan lebih enak jika dibuat dengan susu, aromanya akan menjadi lebih lembut. `
-` Jika masih ada yang tersisa di dalam panci setelah kamu menuangkannya untuk semua orang, kamu bisa coba mencampurkannya dengan susu." `
-`"Ah, ...baik...`
-` Terima kasih banyak..." `
-` George memberikannya kedipan mata. `
-` Shannon akhirnya menyadari bahwa George telah membantunya menenangkan suasana di dalam ruangan. `
-` Dan dia melakukannya demi Shannon agar dia tidak kehilangan kepercayaan dirinya. `
-` Keluarga Ushiromya tidak akan memanjakan para pelayannya. `
+`"Shannon‐chan, bukalah pot itu dan lihatlah. `
+`Kamu bisa menemukan beberapa bergamot kering yang dicampur dengan daun teh." `
+`"Ah, ......baik. `
+`Itu ada disini. `
+`Sesuatu seperti kulit jeruk kering tercampur di dalamnya." `
+`"Yap. `
+`Itu mungkin bergamot. `
+`Bahan Utama dari aroma Earl Grey. `
+`Aromanya sangat jelas, sehingga memberikan kesan rasa yang cukup tajam, tetapi rasanya ringan dan mudah diminum." `
+`"Mungkin akan lebih enak jika dibuat dengan susu, aromanya akan menjadi lebih lembut. `
+`Jika masih ada yang tersisa di dalam panci setelah kamu menuangkannya untuk semua orang, kamu bisa coba mencampurkannya dengan susu." `
+`"Ah, ...baik... `
+`Terima kasih banyak..." `
+`George memberikannya kedipan mata. `
+`Shannon akhirnya menyadari bahwa George telah membantunya menenangkan suasana di dalam ruangan. `
+`Dan dia melakukannya demi Shannon agar dia tidak kehilangan kepercayaan dirinya. `
+`Keluarga Ushiromya tidak akan memanjakan para pelayannya. `
 `{n}Jadi jika ada kecanggungan, mereka akan langsung menghukumnya. `
-` Agar tidak sering terjadi mereka diberikan bantuan seperti ini. `
-` Berkat perhatian dari George, Shannon berhasil mengendalikan dirinya sendiri dan menyelesaikan semuanya dengan aman. '
-` Jika dia tenang saat bekerja, dia dapat dengan mudah melaksanakan tugasnya dengan elegan dan sempurna. `
-` Pada saat teh hitam diletakkan di atas meja dan aroma yang elegan menyebar di sekelilingnya, `
-` ruangan itu kembali seperti semula, dalam suasana yang damai, itu erkat semua orang memuji pengetahuan George. `
-` Shannon ingin berterima kasih kepadanya, tetapi sepertinya dia belum bisa mendapatkan kesempatan. `
-` Jadi setidaknya dia berterima kasih kepadanya di dalam hatinya, berdoa kepada Tuhan agar George mendengarnya, lalu mendorong jauh gerobak saji itu. `
-` "George nii-san selalu mengulurkan tangan untuk membantu di saat-saat seperti itu. `
-` Seperti mengganti topikatau sejenisya." `
-` Shannon dan Jessica terlihat di taman mawar. `
-` Jessica, setelah bertengkar dengan ibunya, sekarang merasa tidak bisa begitu saja kembali ke ruang tamu, dan berakhir berada disini, menghabiskan waktu. `
-` "......Ketika saku mengingatnya kembali, aku merasa bahwa mungkin ini bukan pertama kalinya dia membantuku seperti itu." `
-` Setiap kali aku melakukan kesalahan, dan George berada disana, `
-` dia akan merubahnya secara alami dan membuat segala sesuatunya menjadi harmonis, aku rasa begitu. `
-` ...Mungkin itu bukan sesuatu yang mudah seperti mengambil garpu yang jatuh. `
- `tapi begitulah caranya untuk peduli.`
-`{n}Bahkan pelayan memiliki harga diri.`
-` Mereka ingin memperbaiki kesalahan mereka oleh mereka sendiri. `
-` ...Kaena jika tamu yan membantunya, mereka akan kehilangan Harga diri. `
-` "Dia sangat pandai membaca pesan tersirat dalam situasi seperti itu.`
-` Yah, mungkin itulah pandangan estetika George nii-san terhadap berbagai hal. `
-` Orang itu lebih sering pamer dari penampilannya." `
-` Ahahahahaha." `
-` "I-itu tidak benar... `
-` ...Aku rasa dia orang yang sangat luar biasa." `
-` "Hmmmm...?! `
-` ......Shannon, kamu tidak seharusnya atuh cinta pada George nii‐san, ingat?" `
-` Shannon menyanggah kata-kata Jessica dengan tegas, sehingga Jessica langsung mengerti. `
-` "Tidak, ...bukan seperti itu, aku...rasa......" `
-` "Coba dipikir kembali, aku tidak pernah mendengar gossip semacam itu dari George nii‐san. `
-` Tunggu... `
-` Sebenarnya, aku dengar bahwa gadis yang berorientasi pada keluarga adalah tipenya. `
-` Bagus, itu sangat cocok denganmu, Shannon!" `
-` "Be, be, benarkah...?! `
-` Aku tidak— `
-` Aku tidak, umm, `
-` ...memenuhi syarat...tersebut..." `
-` "Kamu sangat memenuhi syarat kok!`
-` Kamu sudah kenal satu sama ain selama beberapa tahun, kamu hampir seperti teman masa kecilya. `
-` Mereka bilang ketika kamu memiliki hubungan yang alami dimana kamu tidak menganggap satu sama lain sebagai lelaki dan perempuan, maka akan sangat mudah melakukannya!`
-` Tidak diragukan lagi!" `
-` Jessica menyukai majalah remaja dengan cerita-cerita semacam ini, dan dia selalu menelepon untuk berbicara dengan antusias bersama teman-temannya tentang hal semacam itu. `
-` Jadi, ia memiliki intuisi yang tajam untuk topik romantis semacam ini. `
-` Jadi, ini bukan pertama kalinya topik seperti ini dibawa ke Shannon. `
-` Namun, ini merupakan pertama kalinya ia memperhatikan George sebagai lawan jenisnya. `
-` Dia adalah furnitur, dan George adalah tamu kehormatan yang terhubung dengan keluarga Ushiromiya. `
-` {n}...... Dia pikir tidak mungkin membayangkan hubungan yang lebih dalam lagi. `
-` Jadi dia tidak memikirkannya. `
-` Jessica sangat senang mempermainkan semua ini, karena hal itu tidak mempengaruhinya. `
-` {n}Shannon berussaha untuk memastikan bahwa pipinya yang memerah tidak ketahuan. `
-` Jadi, jika George muncul di saat seperti itu, tidak mungkin dia bisa tetap tenang. `
-` Mereka melihat George keluar dari lorong pintu masuk rumah besar itu. `
-` {n}Sepertinya dia telah melihat mereka juga. `
-` {n}Ia menuju ke sana sambil melambaikan tangannya. `
-` Shannon berusaha mendapatkan kembali ketenangannya yang biasa sebelum George dating pada mereka... `
-` "Kakek akhirnya turun. `
-` Sekarang mereka sedang berdiskusi dengan orang dewasa, jadi mereka menyuruhku keluar." `
-` "Hahaha, melarikan diri saat itu adalah pilihan yang tepat. `
-` lebih baik aku mencium dewa penyakit sampar daripada menatap wajah Kakek." `
-` "Kamu tidak boleh berbicara seperti itu. `
-` ...Bagaimanapun, aku rasa Kakek mungkin menganggap kita sebagai makhluk yang menyebalkan.. `
-` Lagipula, kami datang ke sini secara khusus untuk meminta uang kepadanya untuk bisnis." `
-` Benar sekali-ini bukanlah konferensi keluarga tahunan di bulan Oktober seperti biasanya. `
-` Keluarga Eva pernah berkunjung untuk mengajukan pinjaman bisnis dari keluarga utama. `
-` Kinzo memiliki sumber daya yang sangat besar, dan dia meminjamkannya kepada anak-anaknya. `
-` Tentu saja, ini bukan uang yang bisa dipinjamkan karena mereka telah mengalami kesulitan keuangan. `
-` {n}... Bagaimana mereka mengembangkan bisnis mereka, dengan menggunakan sejumlah besar uang yang mereka pinjam? `
-` Berapa banyak bunga yang akan dikenakan, dan seberapa cepat mereka bisa melunasinya? `
-` Ini bukan pinjaman untuk orang yang tidak punya. `
-` {n}Itu adalah pinjaman untuk mereka yang melakukan pelanggaran. `
-` Kinzo menilai dengan ketat apakah layak meminjamkan kekayaannya, dan setelah itu, dia mengawasi dengan ketat penggunaannya. `
-` Jadi, kadang-kadang ada pemandangan di mana para kerabat mengunjungi Rokkenjima dan menjelaskan bisnis mereka kepada Kinzo. `
-` Bagi orang tua, itu mungkin merupakan pertemuan yang menyangkut pergerakan uang dalam jumlah besar, yang membuat mereka sangat tertekan. `
-` Tetapi bagi Jessica, yang tinggal di pulau terpencil bernama Rokkenjima, itu adalah kesempatan berharga untuk bertemu dengan sepupu-sepupunya. `
-` Jadi, suasana hatinya yang buruk akibat pertengkaran dengan ibunya `
-` segera disembuhkan oleh obrolan dengan pengunjung yang jarang datang, George. `
-` "Keluargaku adalah sekumpulan orang yang sangat pelit." `
-` Mereka mungkin punya uang untuk disisihkan, mengapa tidak bermurah hati dengan uang tersebut." `
-` Aku yakin ayah dan kakekku hanyalah orang-orang yang pelit." `
-` "Wajar jika kita perlu berhati-hati saat meminjamkan uang." `
-` Tentu saja, ayahku datang dengan rencana untuk mengembangkan bisnisnya dengan apa yang dia pinjam, dan yang pasti bisa dia bayar." `
-` Segala sesuatunya tergantung pada presentasi." `
-` "...... Sungguh, aku ingin melihat bersama dan belajar. `
-` Tetapi Ibu mengusirku. `
-` Aku sedikit kecewa." `
+`Agar tidak sering terjadi mereka diberikan bantuan seperti ini. `
+`Berkat perhatian dari George, Shannon berhasil mengendalikan dirinya sendiri dan menyelesaikan semuanya dengan aman. '
+`Jika dia tenang saat bekerja, dia dapat dengan mudah melaksanakan tugasnya dengan elegan dan sempurna. `
+`Pada saat teh hitam diletakkan di atas meja dan aroma yang elegan menyebar di sekelilingnya, `
+`ruangan itu kembali seperti semula, dalam suasana yang damai, itu erkat semua orang memuji pengetahuan George. `
+`Shannon ingin berterima kasih kepadanya, tetapi sepertinya dia belum bisa mendapatkan kesempatan. `
+`Jadi setidaknya dia berterima kasih kepadanya di dalam hatinya, berdoa kepada Tuhan agar George mendengarnya, lalu mendorong jauh gerobak saji itu. `
+`"George nii-san selalu mengulurkan tangan untuk membantu di saat-saat seperti itu. `
+`Seperti mengganti topikatau sejenisya." `
+`Shannon dan Jessica terlihat di taman mawar. `
+`Jessica, setelah bertengkar dengan ibunya, sekarang merasa tidak bisa begitu saja kembali ke ruang tamu, dan berakhir berada disini, menghabiskan waktu. `
+`"......Ketika saku mengingatnya kembali, aku merasa bahwa mungkin ini bukan pertama kalinya dia membantuku seperti itu." `
+`Setiap kali aku melakukan kesalahan, dan George berada disana, `
+`dia akan merubahnya secara alami dan membuat segala sesuatunya menjadi harmonis, aku rasa begitu. `
+`...Mungkin itu bukan sesuatu yang mudah seperti mengambil garpu yang jatuh. `
+`tapi begitulah caranya untuk peduli. `
+`{n}Bahkan pelayan memiliki harga diri. `
+`Mereka ingin memperbaiki kesalahan mereka oleh mereka sendiri. `
+`...Kaena jika tamu yan membantunya, mereka akan kehilangan Harga diri. `
+`"Dia sangat pandai membaca pesan tersirat dalam situasi seperti itu. `
+`Yah, mungkin itulah pandangan estetika George nii-san terhadap berbagai hal. `
+`Orang itu lebih sering pamer dari penampilannya." `
+`Ahahahahaha." `
+`"I-itu tidak benar... `
+`...Aku rasa dia orang yang sangat luar biasa." `
+`"Hmmmm...?! `
+`......Shannon, kamu tidak seharusnya atuh cinta pada George nii‐san, ingat?" `
+`Shannon menyanggah kata-kata Jessica dengan tegas, sehingga Jessica langsung mengerti. `
+`"Tidak, ...bukan seperti itu, aku...rasa......" `
+`"Coba dipikir kembali, aku tidak pernah mendengar gossip semacam itu dari George nii‐san. `
+`Tunggu... `
+`Sebenarnya, aku dengar bahwa gadis yang berorientasi pada keluarga adalah tipenya. `
+`Bagus, itu sangat cocok denganmu, Shannon!" `
+`"Be, be, benarkah...?! `
+`Aku tidak— `
+`Aku tidak, umm, `
+`...memenuhi syarat...tersebut..." `
+`"Kamu sangat memenuhi syarat kok! `
+`Kamu sudah kenal satu sama ain selama beberapa tahun, kamu hampir seperti teman masa kecilya. `
+`Mereka bilang ketika kamu memiliki hubungan yang alami dimana kamu tidak menganggap satu sama lain sebagai lelaki dan perempuan, maka akan sangat mudah melakukannya! `
+`Tidak diragukan lagi!" `
+`Jessica menyukai majalah remaja dengan cerita-cerita semacam ini, dan dia selalu menelepon untuk berbicara dengan antusias bersama teman-temannya tentang hal semacam itu. `
+`Jadi, ia memiliki intuisi yang tajam untuk topik romantis semacam ini. `
+`Jadi, ini bukan pertama kalinya topik seperti ini dibawa ke Shannon. `
+`Namun, ini merupakan pertama kalinya ia memperhatikan George sebagai lawan jenisnya. `
+`Dia adalah furnitur, dan George adalah tamu kehormatan yang terhubung dengan keluarga Ushiromiya. `
+`{n}...... Dia pikir tidak mungkin membayangkan hubungan yang lebih dalam lagi. `
+`Jadi dia tidak memikirkannya. `
+`Jessica sangat senang mempermainkan semua ini, karena hal itu tidak mempengaruhinya. `
+`{n}Shannon berussaha untuk memastikan bahwa pipinya yang memerah tidak ketahuan. `
+`Jadi, jika George muncul di saat seperti itu, tidak mungkin dia bisa tetap tenang. `
+`Mereka melihat George keluar dari lorong pintu masuk rumah besar itu. `
+`{n}Sepertinya dia telah melihat mereka juga. `
+`{n}Ia menuju ke sana sambil melambaikan tangannya. `
+`Shannon berusaha mendapatkan kembali ketenangannya yang biasa sebelum George dating pada mereka... `
+`"Kakek akhirnya turun. `
+`Sekarang mereka sedang berdiskusi dengan orang dewasa, jadi mereka menyuruhku keluar." `
+`"Hahaha, melarikan diri saat itu adalah pilihan yang tepat. `
+`lebih baik aku mencium dewa penyakit sampar daripada menatap wajah Kakek." `
+`"Kamu tidak boleh berbicara seperti itu. `
+`...Bagaimanapun, aku rasa Kakek mungkin menganggap kita sebagai makhluk yang menyebalkan.. `
+`Lagipula, kami datang ke sini secara khusus untuk meminta uang kepadanya untuk bisnis." `
+`Benar sekali-ini bukanlah konferensi keluarga tahunan di bulan Oktober seperti biasanya. `
+`Keluarga Eva pernah berkunjung untuk mengajukan pinjaman bisnis dari keluarga utama. `
+`Kinzo memiliki sumber daya yang sangat besar, dan dia meminjamkannya kepada anak-anaknya. `
+`Tentu saja, ini bukan uang yang bisa dipinjamkan karena mereka telah mengalami kesulitan keuangan. `
+`{n}... Bagaimana mereka mengembangkan bisnis mereka, dengan menggunakan sejumlah besar uang yang mereka pinjam? `
+`Berapa banyak bunga yang akan dikenakan, dan seberapa cepat mereka bisa melunasinya? `
+`Ini bukan pinjaman untuk orang yang tidak punya. `
+`{n}Itu adalah pinjaman untuk mereka yang melakukan pelanggaran. `
+`Kinzo menilai dengan ketat apakah layak meminjamkan kekayaannya, dan setelah itu, dia mengawasi dengan ketat penggunaannya. `
+`Jadi, kadang-kadang ada pemandangan di mana para kerabat mengunjungi Rokkenjima dan menjelaskan bisnis mereka kepada Kinzo. `
+`Bagi orang tua, itu mungkin merupakan pertemuan yang menyangkut pergerakan uang dalam jumlah besar, yang membuat mereka sangat tertekan. `
+`Tetapi bagi Jessica, yang tinggal di pulau terpencil bernama Rokkenjima, itu adalah kesempatan berharga untuk bertemu dengan sepupu-sepupunya. `
+`Jadi, suasana hatinya yang buruk akibat pertengkaran dengan ibunya `
+`segera disembuhkan oleh obrolan dengan pengunjung yang jarang datang, George. `
+`"Keluargaku adalah sekumpulan orang yang sangat pelit." `
+`Mereka mungkin punya uang untuk disisihkan, mengapa tidak bermurah hati dengan uang tersebut." `
+`Aku yakin ayah dan kakekku hanyalah orang-orang yang pelit." `
+`"Wajar jika kita perlu berhati-hati saat meminjamkan uang." `
+`Tentu saja, ayahku datang dengan rencana untuk mengembangkan bisnisnya dengan apa yang dia pinjam, dan yang pasti bisa dia bayar." `
+`Segala sesuatunya tergantung pada presentasi." `
+`"...... Sungguh, aku ingin melihat bersama dan belajar. `
+`Tetapi Ibu mengusirku. `
+`Aku sedikit kecewa." `
 `"...... Sepertinya Tuan masih memarahi Krauss-sama dan Eva-sama dengan cara yang sama seperti saat mereka masih kecil. `
-` Aku yakin dia tidak ingin menunjukkan hal itu kepadamu, sebagai putrinya." `
-` Saat Shannon menundukkan kepalanya, ia teringat kembali pada pemandangan yang biasa dilihatnya sewaktu bekerja di mansion itu. `
-` Bahkan Krauss, yang bersikap angkuh terhadap kerabatnya, masih diperlakukan seperti anak kecil oleh Kinzo. `
-` ... Shannon sendiri sering melihat Kinzo menampar Krauss, atau menyuruhnya duduk dengan gaya {c:86EF9C:{i:seiza}}. `
-` Mungkin hal tersebut sangat memalukan karena dipaksakan pada usianya. `
-` Dalam keluarga Ushiromiya, menjaga agar peristiwa tersebut tidak terjadi adalah salah satu tugas besar para pelayan. `
-` ... Tentu saja, itu berarti Shannon telah melakukan kesalahan dengan menjadi saksi atas kejadian tersebut. `
-` "Mungkin. `
-` ...Menyadari hal tersebut mungkin merupakan tugas anaknya. `
-` ......Ayolaaaah! `
-` Kesampingkan itu, bukankah bunga di taman ini sangat luar biasa tahun ini?" `
-` George mengatakan itu sambil meregangkan tangan. `
+`Aku yakin dia tidak ingin menunjukkan hal itu kepadamu, sebagai putrinya." `
+`Saat Shannon menundukkan kepalanya, ia teringat kembali pada pemandangan yang biasa dilihatnya sewaktu bekerja di mansion itu. `
+`Bahkan Krauss, yang bersikap angkuh terhadap kerabatnya, masih diperlakukan seperti anak kecil oleh Kinzo. `
+`... Shannon sendiri sering melihat Kinzo menampar Krauss, atau menyuruhnya duduk dengan gaya {c:86EF9C:{i:seiza}}. `
+`Mungkin hal tersebut sangat memalukan karena dipaksakan pada usianya. `
+`Dalam keluarga Ushiromiya, menjaga agar peristiwa tersebut tidak terjadi adalah salah satu tugas besar para pelayan. `
+`... Tentu saja, itu berarti Shannon telah melakukan kesalahan dengan menjadi saksi atas kejadian tersebut. `
+`"Mungkin. `
+`...Menyadari hal tersebut mungkin merupakan tugas anaknya. `
+`......Ayolaaaah! `
+`Kesampingkan itu, bukankah bunga di taman ini sangat luar biasa tahun ini?" `
+`George mengatakan itu sambil meregangkan tangan. `
 `...Dan dengan mudahnya, dia mengalihkan topik pembicaraan dari sesuatu dari yang awalnya sedikit suram. `
-` Kali ini, Shannon pun menyadarinya. `
-` ......Orang ini, George, sangat peka terhadap suasana hati di sekitarnya, dan selalu cukup peduli untuk mengalihkan topik pembicaraan ke hal yang lebih harmonis. `
-` sudah lama Shannon tak menyadarinya hingga tiba saat ini. `
-` Hari ini, Shannon harus benar-benar mengagumi tingkah laku George itu. `
-` Hampir semua anak laki-laki yang Shannon kenal seusianya adalah teman sekelasnya semasa sekolah dulu. `
-` Tetapi mereka semua belum dewasa, ...... dan tak ada satu pun yang memiliki ketenangan seperti George.`
-` Meskipun dia hanya seorang tamu biasa sampai beberapa saat yang lalu, `
-` ... sekarang, dia tidak bisa menggambarkannya hanya dengan itu. `
-` Namun itu adalah pemikiran yang sia-sia, tak relevan dengan pekerjaannya sebagai pelayan. `
-`{n}Shannon berusaha mengalihkannya dengan sedikit menggelengkan kepala.`
-` "Hm? `
-` Ada apa?" `
-`"Ah, tidak, bukan apa-apa...!"`
+`Kali ini, Shannon pun menyadarinya. `
+`......Orang ini, George, sangat peka terhadap suasana hati di sekitarnya, dan selalu cukup peduli untuk mengalihkan topik pembicaraan ke hal yang lebih harmonis. `
+`sudah lama Shannon tak menyadarinya hingga tiba saat ini. `
+`Hari ini, Shannon harus benar-benar mengagumi tingkah laku George itu. `
+`Hampir semua anak laki-laki yang Shannon kenal seusianya adalah teman sekelasnya semasa sekolah dulu. `
+`Tetapi mereka semua belum dewasa, ...... dan tak ada satu pun yang memiliki ketenangan seperti George. `
+`Meskipun dia hanya seorang tamu biasa sampai beberapa saat yang lalu, `
+`... sekarang, dia tidak bisa menggambarkannya hanya dengan itu. `
+`Namun itu adalah pemikiran yang sia-sia, tak relevan dengan pekerjaannya sebagai pelayan. `
+`{n}Shannon berusaha mengalihkannya dengan sedikit menggelengkan kepala. `
+`"Hm? `
+`Ada apa?" `
+`"Ah, tidak, bukan apa-apa...!" `
 `"Umm, haruskah aku menyiapkan beberapa teh? `
-` Uhh, ......aku akan benyiapkan beberapa Earl Grey untukmu."`
+`Uhh, ......aku akan benyiapkan beberapa Earl Grey untukmu." `
 `"Ahaha, jadi kau mengingat nam dari teh hitam itu ya. `
-` Aku senang" `
-` "Um, .........umm........." `
-` "Hm?" `
-` "...Umm, ......terima kasih atas perhatian sebelumnya..." `
-` Shannon akhirnya berhasil mengungkapkan rasa terima kasih dengan kata-katanya. `
-` Jika kamu menulisnya di atas kertas, itu tidak akan terlihat, `
-` ...tetapi Shannon hanya perlu sedikit keberanian untuk mengatakanya dengan lantang. `
-` Namun George bertingkah bodoh. `
-` "Atas apa? `
-` Aku tidak ingat melakukan sesuatu hal yang perlu diberi ucapan terima kasih. `
-` Heheh."`
-` Sepertinya dia berusha menjadi pria sejati dengan caranya sendiri, mengatakan bahwa dia tidak menolongnya karena ingin diberikan ucapan terima kasih.`
-` Kelihatannya respon dari George kurang lebih dapat dibaca oleh Jessica. `
-` She burst out laughing uncontrollably.`
-` "Kau lihat? `
-` Ini dia, bukankah dia terlihat pamer?" `
-` "T-tidak... `
-` Aku rasa tidak begiu......" `
-` Jessica menggoda Shannon hingga terdiam, wajahnya memerah.`
-` {n}George tidak mengetahui detailnya, tapi dia secara natural mengikutinya, saling tertawa. `
-` Mereka bertiga berjalan santai di sekeliling taman, membicarakan berbagai topik. `
-` George, sebagai sepupu tertua, membicarakan tentang pengalaman hidupnya. `
-` {n}Jessica membicarakankehidupaannya saat ini di Rokkenjima. `
-` {n}Dan Shannon membicarakan pekerjaannya. `
-` Topik-topik konyol tersebut saling berputar. `
-` Bahkan saat cerita yang lain mulai menarik, `
-` Shannon merasa tidak pernah terhubung dengan topiknya. `
-` Dia tidak lebih dari seorang peayan, dan dia tidak tertarik menyelidiki kehidupan tuannya. `
-` Dia hanya ingin mereka menikmati waktu berbicara dengannya, `
-` dan berpura-pura mendengarkan dengan saksama, sambil mengangguk-angguk di saat yang tepat. `
-` Tetapi entah mengapa, hari ini dia menyadari bahwa berbicara dengan George itu sangat menarik.`
-` Bahkan untuk hal-hal yang biasanya dia abaikan, dia dapat merasakan kebaikan yang tersembunyi di balik perkataannya. `
-` Untuk suatu alasan, dia ingin mengetahui lebih tentang George, tidak peduli betapa sepelenya. `
-` Jadi...dia tetap menatapnya. `
-` Dia berpikir bahwa semakin lama dia melihatnya, orang bernama Ushiromiya George, ......mungkin... `
-` sekitar rata-rata, dan dia tidak terlalu menonjol. `
-` Namun dia rajin, serius, ... dan sangat bijaksana dengan caranya yang memungkinkan untuk memahami hati orang lain dan peduli pada mereka. `
-` Namun dia tidak pernah menyadari hal-hal tersebut hingga saat ini. `
-` {n}Dia mungkin tidak sering bertemu dengannya, tetapi dia sudah mengenal wajahnya selama bertahun-tahun. `
-` Meski begitu, dia belum pernah menyadarinya hingga saat ini. `
-` {n}... Jadi, Shannon merasa malu akan hal ini, dan pipinya menjadi merah. `
-` Mungkin George mengira bahwa Shannon menghargai dia berbicara tentang dirinya sendiri, karena dia terus menceritakan kisah-kisah pribadinya. `
-` ... Tetapi Jessica tidak melewatkan perubahan kecil pada diri Shannon. `
-` Jadi, dia mengalihkan pembicaraan ke topik yang paling ingin didengar oleh Shannon. `
-` "......Oh ya, kalau dipikir-pikir! `
- `George nii-san, apakah kamu sudah punya pacar atau belum?" `
-` "A-apa ini, tiba-tiba..." `
-` Biasanya, reaksi George saja sudah cukup untuk menjawabnya .`
-` Tetapi entah mengapa, karena dia, sekarang Shannon merasa tidak bisa memahaminya kecuali dia mengatakannya dengan jelas. `
-` "Um, ...umm... `
-` George‐sama itu sangat baik, `
-` ......jadi aku yakin... `
-` umm......dia pasti sangat populer di kalangan gadis......" `
-` "Tidak, err, ...hahahahahahahahahaha."`
-` "Cukup sudah Shannon~. `
-` Itu terlalu jahat, memojokkannya seperti itu...`
-` *kekeke*!" `
-` "Aku, aku tidak bermaksud jahat........." `
-` "Terima kasih atas kesalahpahaman yang menyenangkan darimu. `
-` Ini memalukan, tapi aku tidak memiliki ubungan pesial dengan gadis lain. `
-` Seperti yang kau lihat,, penampilanku dibawah rata-rata. `
-` Dan aku tidak bisa bermain kata untuk menghibur seorang gadis." `
-` "Aku, aku rasa itu tidak benar. `
-` ......Dan... menurutku, pesona seorang pria ditentukan oleh hal-hal yang tak bisa dinilai dari luar. `
-` Itulah sebabnya, umm, `
-` ...Aku pikir kau mungkin seorang, um,... pria yang sangat menarik, George-sama..." `
-` Shannon tidak basa-basi seperti biasanya. `
-` Dibandingkan sikap yang biasanya, dia memang saering bertele-tele. `
-` George cukup senang mendengar pesonanya dideskripsikan orang lain, tapi dia sedikit terkejut atas pujian yang berlebihan. `
-` Jessica, yang yakin bahwa imajinasinya benar, bertingkah seolah-olah dia hampir tidak bisa menahan tawanya. `
-` "Teria kasih, Shannon‐chan. `
-` Ak harap aku segera menemukan gadis ramah yang menarik perhatianku." `
+`Aku senang" `
+`"Um, .........umm........." `
+`"Hm?" `
+`"...Umm, ......terima kasih atas perhatian sebelumnya..." `
+`Shannon akhirnya berhasil mengungkapkan rasa terima kasih dengan kata-katanya. `
+`Jika kamu menulisnya di atas kertas, itu tidak akan terlihat, `
+`...tetapi Shannon hanya perlu sedikit keberanian untuk mengatakanya dengan lantang. `
+`Namun George bertingkah bodoh. `
+`"Atas apa? `
+`Aku tidak ingat melakukan sesuatu hal yang perlu diberi ucapan terima kasih. `
+`Heheh." `
+`Sepertinya dia berusha menjadi pria sejati dengan caranya sendiri, mengatakan bahwa dia tidak menolongnya karena ingin diberikan ucapan terima kasih. `
+`Kelihatannya respon dari George kurang lebih dapat dibaca oleh Jessica. `
+`She burst out laughing uncontrollably. `
+`"Kau lihat? `
+`Ini dia, bukankah dia terlihat pamer?" `
+`"T-tidak... `
+`Aku rasa tidak begiu......" `
+`Jessica menggoda Shannon hingga terdiam, wajahnya memerah. `
+`{n}George tidak mengetahui detailnya, tapi dia secara natural mengikutinya, saling tertawa. `
+`Mereka bertiga berjalan santai di sekeliling taman, membicarakan berbagai topik. `
+`George, sebagai sepupu tertua, membicarakan tentang pengalaman hidupnya. `
+`{n}Jessica membicarakankehidupaannya saat ini di Rokkenjima. `
+`{n}Dan Shannon membicarakan pekerjaannya. `
+`Topik-topik konyol tersebut saling berputar. `
+`Bahkan saat cerita yang lain mulai menarik, `
+`Shannon merasa tidak pernah terhubung dengan topiknya. `
+`Dia tidak lebih dari seorang peayan, dan dia tidak tertarik menyelidiki kehidupan tuannya. `
+`Dia hanya ingin mereka menikmati waktu berbicara dengannya, `
+`dan berpura-pura mendengarkan dengan saksama, sambil mengangguk-angguk di saat yang tepat. `
+`Tetapi entah mengapa, hari ini dia menyadari bahwa berbicara dengan George itu sangat menarik. `
+`Bahkan untuk hal-hal yang biasanya dia abaikan, dia dapat merasakan kebaikan yang tersembunyi di balik perkataannya. `
+`Untuk suatu alasan, dia ingin mengetahui lebih tentang George, tidak peduli betapa sepelenya. `
+`Jadi...dia tetap menatapnya. `
+`Dia berpikir bahwa semakin lama dia melihatnya, orang bernama Ushiromiya George, ......mungkin... `
+`sekitar rata-rata, dan dia tidak terlalu menonjol. `
+`Namun dia rajin, serius, ... dan sangat bijaksana dengan caranya yang memungkinkan untuk memahami hati orang lain dan peduli pada mereka. `
+`Namun dia tidak pernah menyadari hal-hal tersebut hingga saat ini. `
+`{n}Dia mungkin tidak sering bertemu dengannya, tetapi dia sudah mengenal wajahnya selama bertahun-tahun. `
+`Meski begitu, dia belum pernah menyadarinya hingga saat ini. `
+`{n}... Jadi, Shannon merasa malu akan hal ini, dan pipinya menjadi merah. `
+`Mungkin George mengira bahwa Shannon menghargai dia berbicara tentang dirinya sendiri, karena dia terus menceritakan kisah-kisah pribadinya. `
+`... Tetapi Jessica tidak melewatkan perubahan kecil pada diri Shannon. `
+`Jadi, dia mengalihkan pembicaraan ke topik yang paling ingin didengar oleh Shannon. `
+`"......Oh ya, kalau dipikir-pikir! `
+`George nii-san, apakah kamu sudah punya pacar atau belum?" `
+`"A-apa ini, tiba-tiba..." `
+`Biasanya, reaksi George saja sudah cukup untuk menjawabnya . `
+`Tetapi entah mengapa, karena dia, sekarang Shannon merasa tidak bisa memahaminya kecuali dia mengatakannya dengan jelas. `
+`"Um, ...umm... `
+`George‐sama itu sangat baik, `
+`......jadi aku yakin... `
+`umm......dia pasti sangat populer di kalangan gadis......" `
+`"Tidak, err, ...hahahahahahahahahaha." `
+`"Cukup sudah Shannon~. `
+`Itu terlalu jahat, memojokkannya seperti itu... `
+`*kekeke*!" `
+`"Aku, aku tidak bermaksud jahat........." `
+`"Terima kasih atas kesalahpahaman yang menyenangkan darimu. `
+`Ini memalukan, tapi aku tidak memiliki ubungan pesial dengan gadis lain. `
+`Seperti yang kau lihat,, penampilanku dibawah rata-rata. `
+`Dan aku tidak bisa bermain kata untuk menghibur seorang gadis." `
+`"Aku, aku rasa itu tidak benar. `
+`......Dan... menurutku, pesona seorang pria ditentukan oleh hal-hal yang tak bisa dinilai dari luar. `
+`Itulah sebabnya, umm, `
+`...Aku pikir kau mungkin seorang, um,... pria yang sangat menarik, George-sama..." `
+`Shannon tidak basa-basi seperti biasanya. `
+`Dibandingkan sikap yang biasanya, dia memang saering bertele-tele. `
+`George cukup senang mendengar pesonanya dideskripsikan orang lain, tapi dia sedikit terkejut atas pujian yang berlebihan. `
+`Jessica, yang yakin bahwa imajinasinya benar, bertingkah seolah-olah dia hampir tidak bisa menahan tawanya. `
+`"Teria kasih, Shannon‐chan. `
+`Ak harap aku segera menemukan gadis ramah yang menarik perhatianku." `
 `"Ya, aku yakin kau akan menemukannya. `
-` ......Aku yakin ada gadis yang tidak— `
-` Maksudku, b, b, banyak gadis yang akan menyadari pesonamu." `
-` Da mungkin ingin mengatakan "gadis yang tidak jauh". `
-` ...Dia menahan untuk tidak banyak bicara, menarik garis akhir sebagai seorang pelayan. `
-` "Be‐......benar.`
-` ...Aku rasa aku sedikit...malu..." `
-` Mungkin dia belum pernah seing dipuji oleh seorang gadis. `
+`......Aku yakin ada gadis yang tidak— `
+`Maksudku, b, b, banyak gadis yang akan menyadari pesonamu." `
+`Da mungkin ingin mengatakan "gadis yang tidak jauh". `
+`...Dia menahan untuk tidak banyak bicara, menarik garis akhir sebagai seorang pelayan. `
+`"Be‐......benar. `
+`...Aku rasa aku sedikit...malu..." `
+`Mungkin dia belum pernah seing dipuji oleh seorang gadis. `
 `{n}Wajah George sama merahnya seperti Shannon. `
-` Sambil melihat keduanya, Jessica dengan sadisnya tertawa.`
-` " Ya, aku yakin kau akan segera menemukan pasangan yang cocok, George nii‐san. `
-` Namun aku rasa kamu tidak akan bisa mengawal pasanganmu seperti sekarang ini, benar kaaaaan?"
-` Kecedasanmu mungkin menggambarkan seorang pekerja keras, tapi sepertinya kamu sama sekali tidak tahu apa-apa tentang aspek yang dipelajari." `
-` "...M-maafkan aku karena tidak tahu apa-apa. `
-` Aku akan mulai belajar sdikit demi sedikit." `
-` "Bagaimana caramu melakukannya sendiri? `
-` Apakah amu akan menonton film tntang percintaan? `
-` Atau belajar dari paman Hideyoshi? `
-` *kekekeke*!" `
-` "Tch... `
-` Kamu benar-benr memanfaatkannya sebaik mungkin ya?" `
-` Pria tidak akan cocok dengan wanita dalam percakapan semacam ini." `
-` Biasanya, ketika George dan Jessica berkumpul, orang tua mereka akan berkata, "George anak yang rajin dan mengagumkan", dan "Jessica anak yang pemalas dan kasar". `
-` Jadi, mungkin sangat menyenangkan bagi Jessica Ketika akhirnya peran mereka dibalik. `
-` George juga menyadari hal itu, jadi kali ini, dia puas mesipun menjadi orang yang digoda. `
-` "Kalau begitu, George nii-san, selama kamu tidak keberatan, mengapa tidak berlatih sedikit dengan Shannon? "
-` Tetap hibur Shannon seharian dalam kencan ini! ` 
-` Bagaimana menurutmu?!" `
-` "A-a-apa maksudmu...! `
-` Ny-nyonya...!" `
-` Saat dia mendengar rencana liar Jessica, wajah Shannon menjadi merah terang, dan sebuah asap berbentuk donat muncuk dengan bunyi "poof". `
-` "I-itu rencana yang sangat menarik, tapi... aku merasa tidak enak dengan Shannon-chan. `
+`Sambil melihat keduanya, Jessica dengan sadisnya tertawa. `
+`" Ya, aku yakin kau akan segera menemukan pasangan yang cocok, George nii‐san. `
+`Namun aku rasa kamu tidak akan bisa mengawal pasanganmu seperti sekarang ini, benar kaaaaan?"
+`Kecedasanmu mungkin menggambarkan seorang pekerja keras, tapi sepertinya kamu sama sekali tidak tahu apa-apa tentang aspek yang dipelajari." `
+`"...M-maafkan aku karena tidak tahu apa-apa. `
+`Aku akan mulai belajar sdikit demi sedikit." `
+`"Bagaimana caramu melakukannya sendiri? `
+`Apakah amu akan menonton film tntang percintaan? `
+`Atau belajar dari paman Hideyoshi? `
+`*kekekeke*!" `
+`"Tch... `
+`Kamu benar-benr memanfaatkannya sebaik mungkin ya?" `
+`Pria tidak akan cocok dengan wanita dalam percakapan semacam ini." `
+`Biasanya, ketika George dan Jessica berkumpul, orang tua mereka akan berkata, "George anak yang rajin dan mengagumkan", dan "Jessica anak yang pemalas dan kasar". `
+`Jadi, mungkin sangat menyenangkan bagi Jessica Ketika akhirnya peran mereka dibalik. `
+`George juga menyadari hal itu, jadi kali ini, dia puas mesipun menjadi orang yang digoda. `
+`"Kalau begitu, George nii-san, selama kamu tidak keberatan, mengapa tidak berlatih sedikit dengan Shannon? "
+`Tetap hibur Shannon seharian dalam kencan ini! `
+`Bagaimana menurutmu?!" `
+`"A-a-apa maksudmu...! `
+`Ny-nyonya...!" `
+`Saat dia mendengar rencana liar Jessica, wajah Shannon menjadi merah terang, dan sebuah asap berbentuk donat muncuk dengan bunyi "poof". `
+`"I-itu rencana yang sangat menarik, tapi... aku merasa tidak enak dengan Shannon-chan. `
 `Aku tidak hanya menyia-nyiakan hari liburnya yang berharga, `
 `Aku juga akan mengganggu momen berharga saat ia bisa berduaan dengan seseorang yang benar-benar ia sukai.. `
-` Aku tidak bisa melakukan sesuatu yang begitu jahat." `
-`"A, a, ...aku juga, umm......`
-`......tidak memiliki seseorang yang aku sukai, jadi, umm,`
-` ... mendampingiku seperti itu-ya, itu, itu tidak perlu...!" `
-` Darah Shannon mengalir deras di kepalanya, dan sepertinya ia pun tak tahu apa yang sedang ia bicarakan. `
-` Jessica, yang mengetahui prilaku Shannon yang biasanya, sepertinya menganggap hal itu sangat lucu. `
-` Ia tak dapat menyembunyikan tawanya yang terkekeh-kekeh lagi.`
-` "...A-apakah itu benar...? `
-` Aku tidak percaya gadis imut sepertimu masih lajang, Shannon‐chan..." `
-` "A, a, aku, `
-` ...Aku adalah seorang pelayan, jadi, umm, `
-` ......Aku tidak memiliki banyak kesempatan bertemu pria lain, dan, umm..."`
-` "Yang berarti, di masa depan, jika Shannon berkesempatan untuk mendapatkan seorang pria yang luar biasa, ` 
-` dia butuh latihan dalam menjalin hubungan, bukan?" `
-` Jadi, kalian berdua membutuhkan hal yang sama. `
-` Baiklah, itu akan berhasil, *kekeke*! "`
-` Jessica yang tak bertanggung jawab menyemangati mereka berdua. `
-` Sekarang, George juga menunduk, dengan wajah merahnya. `
-` "George, aku telah memanggilmu. `
-` Tidak bisakah kamu mendengarku?" `
-` Dikarenakan Eva muncul di situasi yang memalukan, mereka berdua menjadi semakin bingung. `
-` Jessica pun merasa bingung. `
-` "Ah, Ibu...!" `
-` Maaf, pembicaraan kita menjadi rumit. `
-` Aku tidak menyadarinya...!"`
-` "Oh, Eva-sama... Maafkan aku..." `
-` "Kalian remaja yang sangat bersemangat." `
-` Kalian semua berada diumur yang seperti itu." `
-` Aku ingat sekali bagaimana rasanya- kalian pasti tidak ada habisnya membicarakan hal seperti itu."`
-` *hmmm*hmmm*hmmm*." `
-` "Oh, ayolah, Bibi Eva, kamu juga masih muda!" `
-` Tolong ceritakan bagaimana kamu dan paman Hideyoshi bertemu!" `
-` "Ya ampun, tak mungkin aku bisa menceritakannya padamu." `
-` *hmmm*hmmm*hmmm*. `
-` Kalian memang masih sangat muda." `
-` *hmmm*hmmm*hmmm*. "`
-` "Jadi, ada apa, Ibu?" `
-` Kau memanggil karena ingin membicarakan sesuatu, kan?" `
-` "Ayahmu dan yang lainnya sudah selesai berbicara. `
-` Kami akan berbicara dengan kakek tentangmu, jadi ayo." `
-` "Tentang aku? `
-` Apa itu?" `
-` "Topik yang sama dengan yang baru saja kalian bicarakan. `
-` Ingat, topik itu? `
-`` "Oh,... oh, topik itu." `
-` Bukankah itu sesuatu yang tidak perlu dibicarakan dengan kakek, bukan...?"`
+`Aku tidak bisa melakukan sesuatu yang begitu jahat." `
+`"A, a, ...aku juga, umm...... `
+`......tidak memiliki seseorang yang aku sukai, jadi, umm, `
+`... mendampingiku seperti itu-ya, itu, itu tidak perlu...!" `
+`Darah Shannon mengalir deras di kepalanya, dan sepertinya ia pun tak tahu apa yang sedang ia bicarakan. `
+`Jessica, yang mengetahui prilaku Shannon yang biasanya, sepertinya menganggap hal itu sangat lucu. `
+`Ia tak dapat menyembunyikan tawanya yang terkekeh-kekeh lagi. `
+`"...A-apakah itu benar...? `
+`Aku tidak percaya gadis imut sepertimu masih lajang, Shannon‐chan..." `
+`"A, a, aku, `
+`...Aku adalah seorang pelayan, jadi, umm, `
+`......Aku tidak memiliki banyak kesempatan bertemu pria lain, dan, umm..." `
+`"Yang berarti, di masa depan, jika Shannon berkesempatan untuk mendapatkan seorang pria yang luar biasa, `
+`dia butuh latihan dalam menjalin hubungan, bukan?" `
+`Jadi, kalian berdua membutuhkan hal yang sama. `
+`Baiklah, itu akan berhasil, *kekeke*! " `
+`Jessica yang tak bertanggung jawab menyemangati mereka berdua. `
+`Sekarang, George juga menunduk, dengan wajah merahnya. `
+`"George, aku telah memanggilmu. `
+`Tidak bisakah kamu mendengarku?" `
+`Dikarenakan Eva muncul di situasi yang memalukan, mereka berdua menjadi semakin bingung. `
+`Jessica pun merasa bingung. `
+`"Ah, Ibu...!" `
+`Maaf, pembicaraan kita menjadi rumit. `
+`Aku tidak menyadarinya...!" `
+`"Oh, Eva-sama... Maafkan aku..." `
+`"Kalian remaja yang sangat bersemangat." `
+`Kalian semua berada diumur yang seperti itu." `
+`Aku ingat sekali bagaimana rasanya- kalian pasti tidak ada habisnya membicarakan hal seperti itu." `
+`*hmmm*hmmm*hmmm*." `
+`"Oh, ayolah, Bibi Eva, kamu juga masih muda!" `
+`Tolong ceritakan bagaimana kamu dan paman Hideyoshi bertemu!" `
+`"Ya ampun, tak mungkin aku bisa menceritakannya padamu." `
+`*hmmm*hmmm*hmmm*. `
+`Kalian memang masih sangat muda." `
+`*hmmm*hmmm*hmmm*. " `
+`"Jadi, ada apa, Ibu?" `
+`Kau memanggil karena ingin membicarakan sesuatu, kan?" `
+`"Ayahmu dan yang lainnya sudah selesai berbicara. `
+`Kami akan berbicara dengan kakek tentangmu, jadi ayo." `
+`"Tentang aku? `
+`Apa itu?" `
+`"Topik yang sama dengan yang baru saja kalian bicarakan. `
+`Ingat, topik itu? `
+``"Oh,... oh, topik itu." `
+`Bukankah itu sesuatu yang tidak perlu dibicarakan dengan kakek, bukan...?" `
 `"Apa yang kalian bicarakan? `
-` Tunggu, George nii‐san, jangan bilang kau akan enikahi eseorang?!" `
+`Tunggu, George nii‐san, jangan bilang kau akan enikahi eseorang?!" `
 `"Se‐...selamat...!" `
-`"Tidak, tidak...!`
-` Bukankah sudah ku bilang aku tidak memiliki gadis yang spesial?" `
-` "Itu bukan sesuatu yang bisa dibanggakan, bukan? `
-` ...Serius."`
-`Eva tersenyum pahit, terlihat sedikit kesal.`
-`"...Ah, ...aku paham!`
-` George nii‐san, adalah salah satunya kan? Pertemuan pernikahan!"`
-`"Pertemuan ikahan...?"`
-`"......nn, ......ya, kurang lebih.`
-` ......Hahahaha..."`
-` Sebagai seorang pria, George ingin menemukan dan menentukan pasangannya sendiri. `
-` Sepertinya dia merasa agak menyedihkan bertemu dengan pasangannya untuk pertama kalinya dalam pertemuan pernikahan yang diatur oleh orang tuanya. `
-` "Bukankah seharusnya pertemmuan pernikahaan diadakan pada umur yang lebih matang?...?! `
-` Aku masih merasa belum dewasa..." `
-` "Kita tidak bermaksud untuk memaksamu segera bertunangan—tentu saja tidak. `
-` Akan jadi masalah jika kamu tidak memperdalam pertemananmu, dan kemudiaan memindahkannya ke daftar keluarga kami saat kamu dewasa." `
-` Dari kesan kuat yang diberikan Eva, dan sikap enggan dari George, sepertinya kamu dapat mengerti bagaimana pertemuan pernikahan ini terhubung dengan segalanya. `
-` Orang lain yag dimaksud masih belum jelas, yang pasti ini merupakan seseorang yang menguntungkan bagi keluarga Eva dari segi bisnis. `
-` Rasanya hampir seperti sebuah strategi politik; mereka ingin menciptakan hubungan di antara kedua keluarga, jika tidak dengan mengubah catatan sipil, paling tidak dengan membuat mereka bertunangan. `
-` "Pernikahan bukanlah sesuatu yang dilakukan setelah menyukai sseorang. `
-` Ini adalah sesuatu yang akan terbiasa setelah kamu melakukannya. `
-` Jika kamu menikah hanya berdasarkan perasaan, kamu pasti akan menyesal. `
-` Tidak ada yang salah dari memilih orang yang memiliki latar belakang yang bagus sebagai pasangan hidupmu, dan kemudian membangun rasa cinta." `
-`"Bibi Eva, itu sedikit jahat kepada paman Hideyoshiii...`
-` *hmmm*!"`
-` "Aku mencintainya, tahu. `
-` Aku ingin selalu berada dengannya, dan menghabiskan hidupku dengannya." `
+`"Tidak, tidak...! `
+`Bukankah sudah ku bilang aku tidak memiliki gadis yang spesial?" `
+`"Itu bukan sesuatu yang bisa dibanggakan, bukan? `
+`...Serius." `
+`Eva tersenyum pahit, terlihat sedikit kesal. `
+`"...Ah, ...aku paham! `
+`George nii‐san, adalah salah satunya kan? Pertemuan pernikahan!" `
+`"Pertemuan ikahan...?" `
+`"......nn, ......ya, kurang lebih. `
+`......Hahahaha..." `
+`Sebagai seorang pria, George ingin menemukan dan menentukan pasangannya sendiri. `
+`Sepertinya dia merasa agak menyedihkan bertemu dengan pasangannya untuk pertama kalinya dalam pertemuan pernikahan yang diatur oleh orang tuanya. `
+`"Bukankah seharusnya pertemmuan pernikahaan diadakan pada umur yang lebih matang?...?! `
+`Aku masih merasa belum dewasa..." `
+`"Kita tidak bermaksud untuk memaksamu segera bertunangan—tentu saja tidak. `
+`Akan jadi masalah jika kamu tidak memperdalam pertemananmu, dan kemudiaan memindahkannya ke daftar keluarga kami saat kamu dewasa." `
+`Dari kesan kuat yang diberikan Eva, dan sikap enggan dari George, sepertinya kamu dapat mengerti bagaimana pertemuan pernikahan ini terhubung dengan segalanya. `
+`Orang lain yag dimaksud masih belum jelas, yang pasti ini merupakan seseorang yang menguntungkan bagi keluarga Eva dari segi bisnis. `
+`Rasanya hampir seperti sebuah strategi politik; mereka ingin menciptakan hubungan di antara kedua keluarga, jika tidak dengan mengubah catatan sipil, paling tidak dengan membuat mereka bertunangan. `
+`"Pernikahan bukanlah sesuatu yang dilakukan setelah menyukai sseorang. `
+`Ini adalah sesuatu yang akan terbiasa setelah kamu melakukannya. `
+`Jika kamu menikah hanya berdasarkan perasaan, kamu pasti akan menyesal. `
+`Tidak ada yang salah dari memilih orang yang memiliki latar belakang yang bagus sebagai pasangan hidupmu, dan kemudian membangun rasa cinta." `
+`"Bibi Eva, itu sedikit jahat kepada paman Hideyoshiii... `
+`*hmmm*!" `
+`"Aku mencintainya, tahu. `
+`Aku ingin selalu berada dengannya, dan menghabiskan hidupku dengannya." `
 `"......Eva‐sama, itu sangat menawan. `
-` Benar-benar indah..." `
+`Benar-benar indah..." `
 `"Terima kasih. `
-` Namun kami membangun perasaan itu saat kami menjadi suami dan istri, tahu?" `
-` Dan aku percaya bahwa di masa depan, kami akan jauh lebih dekat daripada sekarang. `
-` Aku pikir itulah cara terbaik untuk menjadi suami dan istri." `
-` "Meskipun menurutku, itu tidak membuatmu harus menikah dengan orang yang bahkan tidak kamu sukai." `
-` "Dan {i: tidak} tidak membuatmu boleh menikah dengan siapa pun yang Anda inginkan selama kamu menyukainya. `
-` Pernikahan hanya berlangsung sesaat. `
-` Namun kehidupanmu sebagai pasangan suami istri setelahnya itu sangat, sangat panjang." `
-` "Jadi, kamu harus memutuskannya dengan bijaksana, dan tidak bergantung pada perasaan sesaat. `
-` Dan tidakkah kamu berpikir bahwa ibumu dan kami semua lebih baik dalam hal itu daripada orang yang tidak berpengalaman dalam hidup seperti dirimu sendiri?" `
+`Namun kami membangun perasaan itu saat kami menjadi suami dan istri, tahu?" `
+`Dan aku percaya bahwa di masa depan, kami akan jauh lebih dekat daripada sekarang. `
+`Aku pikir itulah cara terbaik untuk menjadi suami dan istri." `
+`"Meskipun menurutku, itu tidak membuatmu harus menikah dengan orang yang bahkan tidak kamu sukai." `
+`"Dan {i: tidak} tidak membuatmu boleh menikah dengan siapa pun yang Anda inginkan selama kamu menyukainya. `
+`Pernikahan hanya berlangsung sesaat. `
+`Namun kehidupanmu sebagai pasangan suami istri setelahnya itu sangat, sangat panjang." `
+`"Jadi, kamu harus memutuskannya dengan bijaksana, dan tidak bergantung pada perasaan sesaat. `
+`Dan tidakkah kamu berpikir bahwa ibumu dan kami semua lebih baik dalam hal itu daripada orang yang tidak berpengalaman dalam hidup seperti dirimu sendiri?" `
 `"......I-itu mungkin benar, tapi..." `
-` "Kau adalah satu-satunya, anak kesayanganku. `
-` Kau harus tumbuh menjadi orang yang sukses yang bisa bersaing dengan orang lain. `
-` ...Dan dengan keluarnya Battler-kun dari daftar, kau adalah satu-satunya cucu yang mewarisi darah Ayah. `
-` ...... Kami harus memilih pasangan yang cocok untukmu dengan hati-hati. `
-` Seperti yang diketahui semua orang yang berhubungan dengan keluarga Ushiromiya, Eva sangat mengagumi George, dan dia adalah buah hatinya. `
-` Tapi bukan berarti dia memanjakan George. `
-` Ia membesarkannya dengan keras, dan George tumbuh menjadi seorang pria yang cerdas dan tidak akan mengkhianati harapannya. `
-` ... Itulah mengapa ia menjadi mata hatinya. `
-` "Kami jelas tidak memutuskan pasanganmu berdasarkan apa yang secara pribadi kami dapatkan darinya. `
-` "...... aku hanya akan memperkenalkanmu pada seorang wanita yang benar-benar luar biasa yang tepat untukmu. `
-` "Sekarang, kamu mungkin masih memiliki masa muda yang belum matang di dalam dirimu yang memalingkanmu dari hal ini." `
-` "......Tapi setidaknya, dengarkanlah apa yang ibumu katakan. `
-` Pernahkah aku gagal dalam memikirkan hal yang terbaik untukmu?" `
-` ".....................Tidak, ......kau tidak pernah..."`
-` "Hanya itu yang perlu kau pikirkan untuk sekarang. `
-` Sekarang, ayo pergi. `
-` Kita telah membuat ayah menunggu. `
-` Segera pergi ke mansion." `
-` "Baiklah, maaf ya, kalian berdua. `
-` Sampai bertemu lagi." `
-` George membungkukkan diri kepada mereka berdua, ...dan setelah membungkuk kepada Shannon, dia pergi menuju mansion. `
-` "Aku juga akan segera pergi, sampai jumpa. `
-` Maaf telah memotong pembicaraan kalian, Jessica‐chan, Shannon‐chan." `
-` "Ah, tidak tidak. `
-` Tolong tidak perlu khawatir. `
-` Ayo, Shannon.`
-` Kita juga pergi." `
-` "B-baik...!" `
-` "Tidak apa-apa. `
-` Aku yakin kamu akan segera bertemu dengan pasanganmu, Jessica‐chan. `
-` Orang yang sangat cocok denganmu." `
-` "Jadi dia berada di level yang sama denganku, hahaha, maksudmu pria yang akademiknya rendah? `
-` Yah itu agak menyebalkan, hahaha!" `
-` "Dan tentu saja, kamu, Shannon‐chan. `
-` Aku yakin suatu saat pria yang luar biasa akan muncul sebagai pasanganmu." `
-` "B-baik!! `
-` Terima kasih banyak..." `
-` Saat Eva terkikik dan tersenyum, dia mendekatkan mulutnya ke telinga Shannon sambal menutupinya dengan tangan, mencoba membisikan sesuatu. `
-` ".........Huh?" `
-` "Aku yakin kau akan menemukan pasangan yang cocok untuk seorang pelayan rendahan sepertimu. `
-` ......Apakah kamu lupa bersykur atas pendidikanmu? `
-` Ketahuilah posisimu." `
-` ".........Bu‐...bukan itu yang aku... ...aku tidak..." `
-` "George adalah cucu tertua yang mwarisi darah ayah. `
-` Dia adalah orang yang mungkin akan membawa nama keluarga Ushiromiya suatu saat di masa depan." `
-` "Untuk menjawab harapan tersebut, dia belajar tanpa lelah, masuk ke perguruan tinggi, dan mendapatkan nilai yang sempurna. `
-` Apakah kamu berpikir berada di level yang sama dengannya, dirimu yang tidak kompeten, tidak bernama, sebagai pelayan?" `
-` Kata-kata jahat itu semua mengalir ke telinga Shannon tanpa menumpahkan setetes pun... `
-` ...... Bagi Shannon, itu seperti air dingin yang dituangkan ke sana. `
-` ".....................A, aku... `
-` ...tidak bermaksud..." `
-` Semua ini ku bisikan secara rahasia. `
-` {n}Dan dengan senyum yang sama seperti sebelumnya. `
+`"Kau adalah satu-satunya, anak kesayanganku. `
+`Kau harus tumbuh menjadi orang yang sukses yang bisa bersaing dengan orang lain. `
+`...Dan dengan keluarnya Battler-kun dari daftar, kau adalah satu-satunya cucu yang mewarisi darah Ayah. `
+`...... Kami harus memilih pasangan yang cocok untukmu dengan hati-hati. `
+`Seperti yang diketahui semua orang yang berhubungan dengan keluarga Ushiromiya, Eva sangat mengagumi George, dan dia adalah buah hatinya. `
+`Tapi bukan berarti dia memanjakan George. `
+`Ia membesarkannya dengan keras, dan George tumbuh menjadi seorang pria yang cerdas dan tidak akan mengkhianati harapannya. `
+`... Itulah mengapa ia menjadi mata hatinya. `
+`"Kami jelas tidak memutuskan pasanganmu berdasarkan apa yang secara pribadi kami dapatkan darinya. `
+`"...... aku hanya akan memperkenalkanmu pada seorang wanita yang benar-benar luar biasa yang tepat untukmu. `
+`"Sekarang, kamu mungkin masih memiliki masa muda yang belum matang di dalam dirimu yang memalingkanmu dari hal ini." `
+`"......Tapi setidaknya, dengarkanlah apa yang ibumu katakan. `
+`Pernahkah aku gagal dalam memikirkan hal yang terbaik untukmu?" `
+`".....................Tidak, ......kau tidak pernah..." `
+`"Hanya itu yang perlu kau pikirkan untuk sekarang. `
+`Sekarang, ayo pergi. `
+`Kita telah membuat ayah menunggu. `
+`Segera pergi ke mansion." `
+`"Baiklah, maaf ya, kalian berdua. `
+`Sampai bertemu lagi." `
+`George membungkukkan diri kepada mereka berdua, ...dan setelah membungkuk kepada Shannon, dia pergi menuju mansion. `
+`"Aku juga akan segera pergi, sampai jumpa. `
+`Maaf telah memotong pembicaraan kalian, Jessica‐chan, Shannon‐chan." `
+`"Ah, tidak tidak. `
+`Tolong tidak perlu khawatir. `
+`Ayo, Shannon. `
+`Kita juga pergi." `
+`"B-baik...!" `
+`"Tidak apa-apa. `
+`Aku yakin kamu akan segera bertemu dengan pasanganmu, Jessica‐chan. `
+`Orang yang sangat cocok denganmu." `
+`"Jadi dia berada di level yang sama denganku, hahaha, maksudmu pria yang akademiknya rendah? `
+`Yah itu agak menyebalkan, hahaha!" `
+`"Dan tentu saja, kamu, Shannon‐chan. `
+`Aku yakin suatu saat pria yang luar biasa akan muncul sebagai pasanganmu." `
+`"B-baik!! `
+`Terima kasih banyak..." `
+`Saat Eva terkikik dan tersenyum, dia mendekatkan mulutnya ke telinga Shannon sambal menutupinya dengan tangan, mencoba membisikan sesuatu. `
+`".........Huh?" `
+`"Aku yakin kau akan menemukan pasangan yang cocok untuk seorang pelayan rendahan sepertimu. `
+`......Apakah kamu lupa bersykur atas pendidikanmu? `
+`Ketahuilah posisimu." `
+`".........Bu‐...bukan itu yang aku... ...aku tidak..." `
+`"George adalah cucu tertua yang mwarisi darah ayah. `
+`Dia adalah orang yang mungkin akan membawa nama keluarga Ushiromiya suatu saat di masa depan." `
+`"Untuk menjawab harapan tersebut, dia belajar tanpa lelah, masuk ke perguruan tinggi, dan mendapatkan nilai yang sempurna. `
+`Apakah kamu berpikir berada di level yang sama dengannya, dirimu yang tidak kompeten, tidak bernama, sebagai pelayan?" `
+`Kata-kata jahat itu semua mengalir ke telinga Shannon tanpa menumpahkan setetes pun... `
+`...... Bagi Shannon, itu seperti air dingin yang dituangkan ke sana. `
+`".....................A, aku... `
+`...tidak bermaksud..." `
+`Semua ini ku bisikan secara rahasia. `
+`{n}Dan dengan senyum yang sama seperti sebelumnya. `
 `...Jessica, yang hanya bisa melihat ekspresi Eva, tidak mengira hal lain selain Eva yang menceritakan kisah cinta yang memalukan kepada Shannon. `
 `Saat pembicaraan rahasia mereka berakhir, Eva menepuk Pundak Shannon, seolah-olah menggarisbawahi pesannya. `
-` "Jangan khawatir! `
-` Aku yakin kau akan menemukan pasangan yang "cocok" seperti dirimu. `
-` Benar kan?`
-` *kekekekeke*. `
-` ...Baiklah, Jessica‐chan.`
-` Sampai jumpa kembali." `
-`"Ya, sampai jumpa!`
-` Selanjutnya, tolong ceritakan cerita tentangmu dan paman Hideyoshi~ `
-` "Tidak mungkin. `
-` Ahahahahahahahahaha...!" `
-` Eva tertawa kecil dan kembali ke lorong pintu masuk. `
-` Di belakang Jessica, yang dengan riang melambaikan tangannya, `
-` ...Shannon merenungkan dengan sangat, sangat dalam perkataan Eva sebelumnya, tentang mengetahui posisinya... `
-` ...Aku merasakan penyesalan yang dalam atas kesombonganku sebelumnya. `
-` Aku hampir lupa. `
-` Aku adalah furnitur. `
-` Furnitur bukanlah manusia. `
-` Seharusnya aku merasa bersyukur telah diperlakukan seperti manusia, `
-` dan aku tidak diizikan untuk mengharapkan apapun. `
-` Bahkan jika orang lain memiliki perasaan pada furnitur yang biasa mereka gunakan, `
-` itu adalah emosi dari sisi manusia, dan furnitur tidak punya hak untuk mengharapkan itu. `
-` ...... Mereka seharusnya melayani dengan kejujuran an ketulusan setiap hari. `
-` Namun perasaan yang aku rasakan saat berbicara dengan George-sama dan Jessica-sama ... adalah obat terlarang bagiku. `
-` Dengan kata lain, itu adalah sebuah emosi yang seharusnya tidak perlu diketahui. `
-` "......Shannon. `
-` Kamu terlihat terganggu oleh sesuatu. `
-` Apa kamu sakit?" `
-` "T-tidak. `
-` Maafkan aku..." `
-` Kata-kata Natsuhi yang membuatnya "terganggu" tepat sasaran. `
-` ... Bahkan Shannon tidak percaya bahwa dia tidak menyadari Natsuhi sebelum dipanggil olehnya. `
-` Seharusnya ini adalah waktu di mana dia harus berkonsentrasi pada pekerjaan seperti bersih-bersih. `
-` Namun dia terus menghela nafas dan tidak menyelesaikan apa pun... `
-` "Meskipun tidak ada tamu, kamu harus selalu waspada. `
-` Berprilaku seperti ini adalah hal yang memalukan sebagai seorang pelayan yang bekerja untuk keluarga Ushiromiya." `
-` "...Baik. `
-` Mulai sekarang aku akan berhati-hati..." `
-` "Kepala keluarga dan suamiku  akan segera. `
-` Apakah kamu sudah membersihkan ruang belajar? `
-` Apakah kamu sudah membersihkan tangga?" `
-`"Ma, maafkan aku...`
-` Masih belum..." `
+`"Jangan khawatir! `
+`Aku yakin kau akan menemukan pasangan yang "cocok" seperti dirimu. `
+`Benar kan? `
+`*kekekekeke*. `
+`...Baiklah, Jessica‐chan. `
+`Sampai jumpa kembali." `
+`"Ya, sampai jumpa! `
+`Selanjutnya, tolong ceritakan cerita tentangmu dan paman Hideyoshi~ `
+`"Tidak mungkin. `
+`Ahahahahahahahahaha...!" `
+`Eva tertawa kecil dan kembali ke lorong pintu masuk. `
+`Di belakang Jessica, yang dengan riang melambaikan tangannya, `
+`...Shannon merenungkan dengan sangat, sangat dalam perkataan Eva sebelumnya, tentang mengetahui posisinya... `
+`...Aku merasakan penyesalan yang dalam atas kesombonganku sebelumnya. `
+`Aku hampir lupa. `
+`Aku adalah furnitur. `
+`Furnitur bukanlah manusia. `
+`Seharusnya aku merasa bersyukur telah diperlakukan seperti manusia, `
+`dan aku tidak diizikan untuk mengharapkan apapun. `
+`Bahkan jika orang lain memiliki perasaan pada furnitur yang biasa mereka gunakan, `
+`itu adalah emosi dari sisi manusia, dan furnitur tidak punya hak untuk mengharapkan itu. `
+`...... Mereka seharusnya melayani dengan kejujuran an ketulusan setiap hari. `
+`Namun perasaan yang aku rasakan saat berbicara dengan George-sama dan Jessica-sama ... adalah obat terlarang bagiku. `
+`Dengan kata lain, itu adalah sebuah emosi yang seharusnya tidak perlu diketahui. `
+`"......Shannon. `
+`Kamu terlihat terganggu oleh sesuatu. `
+`Apa kamu sakit?" `
+`"T-tidak. `
+`Maafkan aku..." `
+`Kata-kata Natsuhi yang membuatnya "terganggu" tepat sasaran. `
+`... Bahkan Shannon tidak percaya bahwa dia tidak menyadari Natsuhi sebelum dipanggil olehnya. `
+`Seharusnya ini adalah waktu di mana dia harus berkonsentrasi pada pekerjaan seperti bersih-bersih. `
+`Namun dia terus menghela nafas dan tidak menyelesaikan apa pun... `
+`"Meskipun tidak ada tamu, kamu harus selalu waspada. `
+`Berprilaku seperti ini adalah hal yang memalukan sebagai seorang pelayan yang bekerja untuk keluarga Ushiromiya." `
+`"...Baik. `
+`Mulai sekarang aku akan berhati-hati..." `
+`"Kepala keluarga dan suamiku  akan segera. `
+`Apakah kamu sudah membersihkan ruang belajar? `
+`Apakah kamu sudah membersihkan tangga?" `
+`"Ma, maafkan aku... `
+`Masih belum..." `
 `"Ya, aku tahu. `
-` Aku sudah menyuruh Lunon melakukannya. `
-` Disaat kamu bekerja keras membersihkan lorong, dia telah selesai membersihkan ruang kerja dan tangga." `
-` "......Itu karena, umm, `
-` ......Aku ingin membersihkan ruangan dengan teliti, jadi membutuhkan banyak waktu......" `
-` Shannon selalu serius dan jujur, sehingga dia selalu melaksanakan tugasnya dengan serius dan benar, tanpa ada kelalaian. `
-` Jadi dia selalu lambat dalam pekerjaannya. `
-` Sebaliknya, Lunon dengan terampil membersihkan tempat di mana pun dia menemuinya. `
-` {n}Jadi, dia bisa menyelesaikan pekerjaannya, tetapi dalam waktu yang jauh lebih singkat. `
-` Dengan kata lain, dia cerdas. `
-` Dibandingkan dengannya, bisa dikatakan bahwa Shannon, yang baru saja berbicara pada Natsuhi ketika dia dalam suasana hati yang buruk, tidak inisiatif sedikitpun... `
- `Tentu saja, tidak ada yang tidak tahan dengan seorang pelayan yang menjawab kembali lawan bicaranya. `
-` {n}Keningnya berkerut, dan dia berbicara dengan tegas. `
-` Namun, cara bicaranya yang lambat, yang diselmuti oleh ketakutkan, dan akhirnya membuat Shannon menyadari bahwa dia telah mengatakan hal yang salah... `
-` "Kalau begitu, kamu harus membersihkannya sedetail mungkin." `
-` Shannon, aku perintahkan kamu untuk membersihkan aula resepsi sekarang juga." `
-` Ini adalah aula yang penting, tempat dipajangnya beberapa foto-foto berharga milik kepala keluarga, dan tempat di mana para tamu terhormat keluarga Ushiromiya diundang." `
-` "Bersihkan dengan seksama, agar tak ada setitik debu pun yang tertinggal, dan agar kamu merasa puas." `
-` Tentu saja, kau harus menyelesaikannya hari ini. `
-` Sampai kau selesai dan melaporkannya padaku, kau tidak diizinkan mendapatkan makanan dan istirahat. `
-` Mengerti?" `
-` "Ba‐.........baik, Nyonya." `
-` "Bagus. `
-` Pelayan harus patuh hanya dengan kata-kata tersebut. `
-` Bila kamu menjawab kembali, Aku akan memberikan hukuman yang lebih berat lagi, jadi ingatlah hal itu. `
-` Pahatlah kata-kata ini di dalam hatimu."`
-` "Baik, ...Nyonya. `
-` ...Terima kasih atas bimbingannhya." `
-` "Sama-sama." `
-` Natsuhi berjalan menyusuri koridor, membuat gerakan seolah-olah sakit kepalanya mengganggunya... `
-` Setelah Shannon tidak dapat melihatnya lagi, dia menundukkan kepalanya dan menghela nafas. `
+`Aku sudah menyuruh Lunon melakukannya. `
+`Disaat kamu bekerja keras membersihkan lorong, dia telah selesai membersihkan ruang kerja dan tangga." `
+`"......Itu karena, umm, `
+`......Aku ingin membersihkan ruangan dengan teliti, jadi membutuhkan banyak waktu......" `
+`Shannon selalu serius dan jujur, sehingga dia selalu melaksanakan tugasnya dengan serius dan benar, tanpa ada kelalaian. `
+`Jadi dia selalu lambat dalam pekerjaannya. `
+`Sebaliknya, Lunon dengan terampil membersihkan tempat di mana pun dia menemuinya. `
+`{n}Jadi, dia bisa menyelesaikan pekerjaannya, tetapi dalam waktu yang jauh lebih singkat. `
+`Dengan kata lain, dia cerdas. `
+`Dibandingkan dengannya, bisa dikatakan bahwa Shannon, yang baru saja berbicara pada Natsuhi ketika dia dalam suasana hati yang buruk, tidak inisiatif sedikitpun... `
+`Tentu saja, tidak ada yang tidak tahan dengan seorang pelayan yang menjawab kembali lawan bicaranya. `
+`{n}Keningnya berkerut, dan dia berbicara dengan tegas. `
+`Namun, cara bicaranya yang lambat, yang diselmuti oleh ketakutkan, dan akhirnya membuat Shannon menyadari bahwa dia telah mengatakan hal yang salah... `
+`"Kalau begitu, kamu harus membersihkannya sedetail mungkin." `
+`Shannon, aku perintahkan kamu untuk membersihkan aula resepsi sekarang juga." `
+`Ini adalah aula yang penting, tempat dipajangnya beberapa foto-foto berharga milik kepala keluarga, dan tempat di mana para tamu terhormat keluarga Ushiromiya diundang." `
+`"Bersihkan dengan seksama, agar tak ada setitik debu pun yang tertinggal, dan agar kamu merasa puas." `
+`Tentu saja, kau harus menyelesaikannya hari ini. `
+`Sampai kau selesai dan melaporkannya padaku, kau tidak diizinkan mendapatkan makanan dan istirahat. `
+`Mengerti?" `
+`"Ba‐.........baik, Nyonya." `
+`"Bagus. `
+`Pelayan harus patuh hanya dengan kata-kata tersebut. `
+`Bila kamu menjawab kembali, Aku akan memberikan hukuman yang lebih berat lagi, jadi ingatlah hal itu. `
+`Pahatlah kata-kata ini di dalam hatimu." `
+`"Baik, ...Nyonya. `
+`...Terima kasih atas bimbingannhya." `
+`"Sama-sama." `
+`Natsuhi berjalan menyusuri koridor, membuat gerakan seolah-olah sakit kepalanya mengganggunya... `
+`Setelah Shannon tidak dapat melihatnya lagi, dia menundukkan kepalanya dan menghela nafas. `
 `......Ini terjadi karena aku membiarkan pikiranku keluar. `
-` Aku mungkin buruk dalam segala hal yang kulakukan, tapi setidaknya aku harus bisa melakukan pembersihan dengan baik seperti yang dilakukan oleh orang pada umumnya, bukan? `
-` Aku bahkan tidak dapat melakukannya dengan baik-sungguh menyedihkan sampai-sampai aku ingin menangis. `
-` Dan ada sesuatu yang lebih menyedihkan. `
-` Bukan hanya aku yang tidak bisa melakukan pembersihan dengan baik, `
-` {n}tapi barusan, saat Natsuhi menegurku...`
+`Aku mungkin buruk dalam segala hal yang kulakukan, tapi setidaknya aku harus bisa melakukan pembersihan dengan baik seperti yang dilakukan oleh orang pada umumnya, bukan? `
+`Aku bahkan tidak dapat melakukannya dengan baik-sungguh menyedihkan sampai-sampai aku ingin menangis. `
+`Dan ada sesuatu yang lebih menyedihkan. `
+`Bukan hanya aku yang tidak bisa melakukan pembersihan dengan baik, `
+`{n}tapi barusan, saat Natsuhi menegurku... `
 `.........aku membayangkan dia muncul dan menyelamatkanku. `
-` Jika saja George ada disini, `
-` {n}mungkin dia secara normal akan menghentikan dan menyelamatkanku. `
- `Aku yakin dia akan muncul dengan wajah santai, berperan seakan-akan ia tidak tahu apa yang sedang terjadi, dengan cepat merubah topik, dan membuatku lupa bahwa aku pernah ditegur ole Natsuhi... `
-` Aku masih membayangkannya... `
-` tiba-tiba muncul di sisi pintu... `
-` atau di ujung lorong. `
-` Aku membayangkan seseorang yang akan menjadi pasangan yang tepat untuknya dalam sebuah pertemuan pernikahan. `
-` Dan aku membayangkan betapa tidak cocoknya diriku dengannya. `
-` Eva telah mengatakan hal itu dengan jelas. `
-` Itu berulang tanpa henti di dalam pikiranku... `
-` ".........Kamu masih kikuk seperti biasanya, Nee-san.`
-` Nyonya sedang berada di kondisi hati yang buruk sejak pagi. `
-` Kamu berbicara diluar perintah, padahal seharusnya kamu diam sambil menundukkan kepala" `
-` "......Kanon‐kun..." `
-` Kanon muncul secara tiba-tiba. `
-` {n}......Langkah kakinya lebih sunyi dari seekor kucing, dan dia tidak meninggalkan jejak kehadirannya. `
-` Dia mungkin tidak akan menyadarina tidak peduli seberapa lama dia berdiri... `
-` Ekspresi dari ajah Kanon...kebencian. `
-` {n}Ekspresi yang dia buat, dia buat untuk Shannon, yang tidak tahu cara melakukannya sendiri... `
-` "Nyonya dan Lunon sebaiknya masuk neraka. `
-`  Dia tahu di mana Nyonya akan memeriksa, dan hanya membersihkan di area tersebut. `
-` Dia melakukannya seperti itu. `
-` Aku tahu karena aku melihatnya." `
+`Jika saja George ada disini, `
+`{n}mungkin dia secara normal akan menghentikan dan menyelamatkanku. `
+`Aku yakin dia akan muncul dengan wajah santai, berperan seakan-akan ia tidak tahu apa yang sedang terjadi, dengan cepat merubah topik, dan membuatku lupa bahwa aku pernah ditegur ole Natsuhi... `
+`Aku masih membayangkannya... `
+`tiba-tiba muncul di sisi pintu... `
+`atau di ujung lorong. `
+`Aku membayangkan seseorang yang akan menjadi pasangan yang tepat untuknya dalam sebuah pertemuan pernikahan. `
+`Dan aku membayangkan betapa tidak cocoknya diriku dengannya. `
+`Eva telah mengatakan hal itu dengan jelas. `
+`Itu berulang tanpa henti di dalam pikiranku... `
+`".........Kamu masih kikuk seperti biasanya, Nee-san. `
+`Nyonya sedang berada di kondisi hati yang buruk sejak pagi. `
+`Kamu berbicara diluar perintah, padahal seharusnya kamu diam sambil menundukkan kepala" `
+`"......Kanon‐kun..." `
+`Kanon muncul secara tiba-tiba. `
+`{n}......Langkah kakinya lebih sunyi dari seekor kucing, dan dia tidak meninggalkan jejak kehadirannya. `
+`Dia mungkin tidak akan menyadarina tidak peduli seberapa lama dia berdiri... `
+`Ekspresi dari ajah Kanon...kebencian. `
+`{n}Ekspresi yang dia buat, dia buat untuk Shannon, yang tidak tahu cara melakukannya sendiri... `
+`"Nyonya dan Lunon sebaiknya masuk neraka. `
+`Dia tahu di mana Nyonya akan memeriksa, dan hanya membersihkan di area tersebut. `
+`Dia melakukannya seperti itu. `
+`Aku tahu karena aku melihatnya." `
 `".........Dia tidak membersihkan dalam arti yang sebenarnya. `
 `... Dia hanyalah sejenis parasit terburuk, yang menghisap hasil kerjamu yang teliti." `
-` "Kamu tidak boleh menggunakan kata-kata kasar seperti itu... "
-` Kata-kata kasar mengotori hatimu yang bersih, Kanon-kun. `
-` Jadi, jangan gunakan kata-kata itu di depanku." `
-` ......Oke?" `
- `"............Hmph." `
-` Kanon memalingkan diri, bersikap cemberut. `
-` Itu adalah reaksi yang tidak jujur, sangat menggambarkan Kanon‐kun, ...tapi aku sedikit senang. `
-` Dia marah demi diriku. `
+`"Kamu tidak boleh menggunakan kata-kata kasar seperti itu... "
+`Kata-kata kasar mengotori hatimu yang bersih, Kanon-kun. `
+`Jadi, jangan gunakan kata-kata itu di depanku." `
+`......Oke?" `
+`"............Hmph." `
+`Kanon memalingkan diri, bersikap cemberut. `
+`Itu adalah reaksi yang tidak jujur, sangat menggambarkan Kanon‐kun, ...tapi aku sedikit senang. `
+`Dia marah demi diriku. `
 `"......Membersihkan ruang resepsi akan sedikit menyusahkan. `
-` Aku akan membantumu." `
+`Aku akan membantumu." `
 `" Terima kasih. `
-` Namun aku yang diperintahkan oleh nyonya, jadi jangan khawatir.`
-` ......Don't you also have your own work, Kanon‐kun?"`
+`Namun aku yang diperintahkan oleh nyonya, jadi jangan khawatir. `
+`......Don't you also have your own work, Kanon‐kun?" `
 `"...............Itu merupakan pekerjaan yang kotor. `
-` Jiwaku sudah lama kotor." `
-` Kanon lalu mengangkat kepalanya, dan menggigit bibir bawahnya... `
-` "Hnaya mengatakan bahwa kamu ingin membantuku saja sudah cukup. `
-` ...Jika kamu tidak kembali ke pekerjaanmu, kamu akan menerima hukuman. `
-` ...Dan itu akan membuatku sedih." `
-` Shannon sangat mengetahui kepribadian Kanon. `
-` {n}...Terkadang, dia tidak bercermin pada dirinya sendiri. `
-` Jika aku tidak menolaknya secara paksa, dia akan membantuku meski itu berarti meninggalkan pekerjaannya... `
-` Kanon sedikit sedih permintaannya ditolak, `
-` tetapi dia sadar pada akhirnya, berbuat semaunya hanya akan menyakitinya, dan dia mengeluarkan, desahan kecil. `
-` "............ `
-` ...Baiklah. `
-` ......Lakukan yang terbaik, Nee‐san." `
-` "Ya. `
-` .........Lagipula, aku memang layak ditegur." `
-` "Kau sama sekali tidakbersalah, Nee‐san...!" `
-` "...Tidak. `
-` Aku memang bersalah. `
-` ......Aku akan pergi sekarang." `
-` Wajah Kanon‐kun menunjukkan awa dia masih belum bisa menerimanya, tetapi dia berhenti berrsikera, dn menghilang. `
-` ......Meskipun Kanon‐kun telah enyemangatiku disaat aku sedang sedih... `
-` ...Meski begitu, aku masih merasa kecewa karena itu bukan “dia”. `
-` {n}Sederhananya, itu, adalah dosa. `
-` Jauh melampaui mimpi apa pun yang bisa kulihat—ketahuilah tempatmu. `
-` ...Shannon, yang telah melewatkan sarapan, mulai merasa pikirannya melemah. `
+`Jiwaku sudah lama kotor." `
+`Kanon lalu mengangkat kepalanya, dan menggigit bibir bawahnya... `
+`"Hnaya mengatakan bahwa kamu ingin membantuku saja sudah cukup. `
+`...Jika kamu tidak kembali ke pekerjaanmu, kamu akan menerima hukuman. `
+`...Dan itu akan membuatku sedih." `
+`Shannon sangat mengetahui kepribadian Kanon. `
+`{n}...Terkadang, dia tidak bercermin pada dirinya sendiri. `
+`Jika aku tidak menolaknya secara paksa, dia akan membantuku meski itu berarti meninggalkan pekerjaannya... `
+`Kanon sedikit sedih permintaannya ditolak, `
+`tetapi dia sadar pada akhirnya, berbuat semaunya hanya akan menyakitinya, dan dia mengeluarkan, desahan kecil. `
+`"............ `
+`...Baiklah. `
+`......Lakukan yang terbaik, Nee‐san." `
+`"Ya. `
+`.........Lagipula, aku memang layak ditegur." `
+`"Kau sama sekali tidakbersalah, Nee‐san...!" `
+`"...Tidak. `
+`Aku memang bersalah. `
+`......Aku akan pergi sekarang." `
+`Wajah Kanon‐kun menunjukkan awa dia masih belum bisa menerimanya, tetapi dia berhenti berrsikera, dn menghilang. `
+`......Meskipun Kanon‐kun telah enyemangatiku disaat aku sedang sedih... `
+`...Meski begitu, aku masih merasa kecewa karena itu bukan “dia”. `
+`{n}Sederhananya, itu, adalah dosa. `
+`Jauh melampaui mimpi apa pun yang bisa kulihat—ketahuilah tempatmu. `
+`...Shannon, yang telah melewatkan sarapan, mulai merasa pikirannya melemah. `
 `......Namun jika dia tidak menyelesaikan pembersihan ruang penerimaan, dia tidak diizinkan oleh Natsuhi untuk makan. `
-` Natsuhi yang kejam pasti telah memberitahu dapur koki tentang itu. `
-` ...Aku harus menerima hukuman Nyonya dengan hormat. `
-` Itu benar. `
-` Posisiku di dunia ini adalah sebagai furnitur, ...dan aku telah dimabukkan oleh mimpi yang melampaui takdirku... `
-` Aku sudah selesai membersihkan koridor lalu pergi ke ruang resepsi. `
-` Mungkin rasa lapar membuat hidungku lebih sensitif. `
-` Lokasi dapur masih jauh, tap entah kenapa aku bisa mencium aroma yangada di sana, hal tu Semakin merangsang perut kosongku... `
-` ...Sebelum aku menyelesaikan tempat ini, aku tidak akan mendapatkan sup. `
-` Aku harus mempersiapkan diri. `
-` Beberapa lukisan digantung di ruang penerimaan. `
-` Salah satu lukisan tersebut...dianggap oleh para pelayan memiliki makna khusus. `
-` ......Itu adalah lukisan seorang penyihir. `
-` {n}Itu bukan nama aslinya, tapi semua orang di mansion menyebutnya begitu. `
-` Nama wanita berambut pirang elegan yang digambarkan sebagai subjek lukisan tersebut adalah {f:5:Beatrice}. `
-` ...Dikatakan bahwa dia mungkin pernah menjadi selir kepala keluarga, Kinzo. `
-` {n}......Dan juga bahwa dia adalah penyihir besar yang telah memberikan Kinzo emas legendarisnya. `
-` Seoran penyihir, {f:5:Beatrice}, penguasa malam di Rokkenjima. `
-` {n}Dia ramah kepada mereka yang menghormatinya, tetapi dia selalu mengutuk mereka yang meremehkannya. `
-` Itu adalah sifat Shannon untuk tidak mengabaikan aturan dan keyakinan seperti itu.`
-` ...Jadi dia memandang lukisan tuan lainnya sebagai orang itu sendiri, dan selalu memperlakukannya dengan hati-hati, menjaganya dengan baik. `
-` ...Dan menjadi bagian dari rutinitas hariannya untuk berbicara, di dalam kepalanya sendiri, dengan penyihir yang hanya ada di dalam lukisan. `
-` ......Dia adalah furniur. `
-` Furniture tidak berhak mengeluh. `
-` Tidak bisa mengeluh. `
-` {n}Jadi, dia tidak berhak untuk mengungkapkan perasaannya tentang hari-hari sulitnya. `
-` {n}Dia tidak berhak untuk membuka mulutnya dan mengucapkan kata-kata itu. `
-` Jadi, ......setidaknya dia mengungkapkan perasaannya di dalam hatinya. `
-` {n}Kata-kata yang tidak bisa dia ucapkan dengan lisan, dia ungkapkan di dalam hatinya, ...dan membicarakannya kepada penyihir yang tak berwujud. `
-` Tentu saja, penyihir itu tidak menjawab. `
-` {n}Dia tidak pernah menghiburnya, ataupun menertawakannya. `
-` ....Shannon hanya bisa menafsirkan diam itu sesuka hatinya, seolah-olah sang penyihir menyetujui. `
-` ...{f:5:Beatrice}‐sama.`
-` ......Tolong dengarkan aku, seberapa tidak bergunanya aku. `
-` Sambil mengelap lukisan sang penyihir dari debu, Shannon berbicara di dalam hatinya. `
-` .........Seperti yang Eva‐sama katakan, aku sangat tidak kompeten dan tidak beadab furnitur. `
-` ......Aku bukanlah manusia.  `
-` ...Jadi mungkin aku tidak berhak untuk merasakan cinta... `
-` ......Tapi kalau begitu, mengapa aku diberi hati yang bisa merasakan cinta? `
-` ...Shannon terhenti sejenak dan menahan air matanya untuk sementara waktu. `
-` Suara hujan yang mulai turun, bersama dengan udara dingin di ruang resepsi, membuatnya merasa seolah-olah kekurangannya bertambah satu tingkat. `
-` "Furnitur yang asli...tidak memiliki hal konyol seperti hati. `
-` Jadi mereka tidak perlu mencintai manusia, kan? `
-` Jadi mereka tidak merasakan sakit. `
-` ......Jika aku hanya bagian dai sebuah furnitur, ......mengapa aku memiliki hati?" `
-` ".........Jika ini berlangsung menjadi lebih berat dan menyakitkan, ............aku harap aku tidak pernah diberikan hal konyol seperti hati............!" `
-` ......Akau mengerti. `
-` Memberikan sebuah hati kepada furnitur. `
-` Merupakan permainan yang menghibur...`
-` *kekekeke*...! `
-` "e........................"`
-` Penyihir yang tidak pernah menjawab ataupun terawa...`
-` ...mulai menjawab, `
-` dan tertawa.`
-` Apakah ini hanya imajinasiku? `
-` Mendengarnya tertawa? `
-` Tidak. `
-` ...Karena, kata-kata berikutnya berubah menjadi “suara”, dan aku bisa mendengarnya, bukan dengan hatiku, tetapi dengan telingaku... `
-` "Manusia telah terus-menerus mencari unsur-unsur yang membentuk dunia sejak sebelum Era Kristen. `
-` Dikatakan bahwa orang Yunani kuno mencoba menjelaskan dunia dengan empat unsur: udara, api, air, dan bumi." `
-` "Dan setelah itu, selama ribuan tahun, manusia menambahkan beberapa unsur ke empat unsur tersebut, `
-` mencoba menjelaskan dunia dengan berbagai interpretasi—lima unsur, enam unsur, tujuh unsur, delapan unsur, dua belas unsur— `
-` tetapi mereka tidak pernah dapat menjelaskan satu unsur tunggal yang sejati." `
-`".........Namun, seorang pria muncul atas petunjuk sebuah bintang, dan akhirnya menjelaskan unsur tunggal yang membentuk dunia.`
-` Apa kau tahu apa itu......?" `
-` "...............e... `
-` .........a... `
-` .........si‐ `
+`Natsuhi yang kejam pasti telah memberitahu dapur koki tentang itu. `
+`...Aku harus menerima hukuman Nyonya dengan hormat. `
+`Itu benar. `
+`Posisiku di dunia ini adalah sebagai furnitur, ...dan aku telah dimabukkan oleh mimpi yang melampaui takdirku... `
+`Aku sudah selesai membersihkan koridor lalu pergi ke ruang resepsi. `
+`Mungkin rasa lapar membuat hidungku lebih sensitif. `
+`Lokasi dapur masih jauh, tap entah kenapa aku bisa mencium aroma yangada di sana, hal tu Semakin merangsang perut kosongku... `
+`...Sebelum aku menyelesaikan tempat ini, aku tidak akan mendapatkan sup. `
+`Aku harus mempersiapkan diri. `
+`Beberapa lukisan digantung di ruang penerimaan. `
+`Salah satu lukisan tersebut...dianggap oleh para pelayan memiliki makna khusus. `
+`......Itu adalah lukisan seorang penyihir. `
+`{n}Itu bukan nama aslinya, tapi semua orang di mansion menyebutnya begitu. `
+`Nama wanita berambut pirang elegan yang digambarkan sebagai subjek lukisan tersebut adalah {f:5:Beatrice}. `
+`...Dikatakan bahwa dia mungkin pernah menjadi selir kepala keluarga, Kinzo. `
+`{n}......Dan juga bahwa dia adalah penyihir besar yang telah memberikan Kinzo emas legendarisnya. `
+`Seoran penyihir, {f:5:Beatrice}, penguasa malam di Rokkenjima. `
+`{n}Dia ramah kepada mereka yang menghormatinya, tetapi dia selalu mengutuk mereka yang meremehkannya. `
+`Itu adalah sifat Shannon untuk tidak mengabaikan aturan dan keyakinan seperti itu. `
+`...Jadi dia memandang lukisan tuan lainnya sebagai orang itu sendiri, dan selalu memperlakukannya dengan hati-hati, menjaganya dengan baik. `
+`...Dan menjadi bagian dari rutinitas hariannya untuk berbicara, di dalam kepalanya sendiri, dengan penyihir yang hanya ada di dalam lukisan. `
+`......Dia adalah furniur. `
+`Furniture tidak berhak mengeluh. `
+`Tidak bisa mengeluh. `
+`{n}Jadi, dia tidak berhak untuk mengungkapkan perasaannya tentang hari-hari sulitnya. `
+`{n}Dia tidak berhak untuk membuka mulutnya dan mengucapkan kata-kata itu. `
+`Jadi, ......setidaknya dia mengungkapkan perasaannya di dalam hatinya. `
+`{n}Kata-kata yang tidak bisa dia ucapkan dengan lisan, dia ungkapkan di dalam hatinya, ...dan membicarakannya kepada penyihir yang tak berwujud. `
+`Tentu saja, penyihir itu tidak menjawab. `
+`{n}Dia tidak pernah menghiburnya, ataupun menertawakannya. `
+`....Shannon hanya bisa menafsirkan diam itu sesuka hatinya, seolah-olah sang penyihir menyetujui. `
+`...{f:5:Beatrice}‐sama. `
+`......Tolong dengarkan aku, seberapa tidak bergunanya aku. `
+`Sambil mengelap lukisan sang penyihir dari debu, Shannon berbicara di dalam hatinya. `
+`.........Seperti yang Eva‐sama katakan, aku sangat tidak kompeten dan tidak beadab furnitur. `
+`......Aku bukanlah manusia. `
+`...Jadi mungkin aku tidak berhak untuk merasakan cinta... `
+`......Tapi kalau begitu, mengapa aku diberi hati yang bisa merasakan cinta? `
+`...Shannon terhenti sejenak dan menahan air matanya untuk sementara waktu. `
+`Suara hujan yang mulai turun, bersama dengan udara dingin di ruang resepsi, membuatnya merasa seolah-olah kekurangannya bertambah satu tingkat. `
+`"Furnitur yang asli...tidak memiliki hal konyol seperti hati. `
+`Jadi mereka tidak perlu mencintai manusia, kan? `
+`Jadi mereka tidak merasakan sakit. `
+`......Jika aku hanya bagian dai sebuah furnitur, ......mengapa aku memiliki hati?" `
+`".........Jika ini berlangsung menjadi lebih berat dan menyakitkan, ............aku harap aku tidak pernah diberikan hal konyol seperti hati............!" `
+`......Akau mengerti. `
+`Memberikan sebuah hati kepada furnitur. `
+`Merupakan permainan yang menghibur... `
+`*kekekeke*...! `
+`"e........................" `
+`Penyihir yang tidak pernah menjawab ataupun terawa... `
+`...mulai menjawab, `
+`dan tertawa. `
+`Apakah ini hanya imajinasiku? `
+`Mendengarnya tertawa? `
+`Tidak. `
+`...Karena, kata-kata berikutnya berubah menjadi “suara”, dan aku bisa mendengarnya, bukan dengan hatiku, tetapi dengan telingaku... `
+`"Manusia telah terus-menerus mencari unsur-unsur yang membentuk dunia sejak sebelum Era Kristen. `
+`Dikatakan bahwa orang Yunani kuno mencoba menjelaskan dunia dengan empat unsur: udara, api, air, dan bumi." `
+`"Dan setelah itu, selama ribuan tahun, manusia menambahkan beberapa unsur ke empat unsur tersebut, `
+`mencoba menjelaskan dunia dengan berbagai interpretasi—lima unsur, enam unsur, tujuh unsur, delapan unsur, dua belas unsur— `
+`tetapi mereka tidak pernah dapat menjelaskan satu unsur tunggal yang sejati." `
+`".........Namun, seorang pria muncul atas petunjuk sebuah bintang, dan akhirnya menjelaskan unsur tunggal yang membentuk dunia. `
+`Apa kau tahu apa itu......?" `
+`"...............e... `
+`.........a... `
+`.........si‐ `
 `............si-siapa........." `
-` Shannon berbalik dengan rasa takutnya... `
-` Saat ini, ......dia benar-benar "ada". `
-` Bukan sebuah ilusi—tapikenyataan. `
-` Kontras yang ditimbulkan oleh kilat menjelaskan suasana bahwa ini bukan sekadar mimpi siang bolong. `
-` "......Itu adalah "cinta".`
-` *kukukukuku*!" `
-` Penyihir dalam lukisan itu dengan anggun memegang pipa emas ke mulutnya dan tertawa kecil. `
-` ...Dia tertawa atas kebodohan yang membuat pikiran manusia menjauh dari jawaban paling sederhana. `
-` "Pria itu menjelaskan segala sesuatu di dunia dengan cinta. `
-` Itulah unsur tunggalnya. `
-` Dengan jumlah seekecil mungkin, pria itu sepenuhnya menjelaskan bagaimana dunia ini dibangun." `
-` "......Betapa sederhana dan jelas, betapa indah, menggembirakan, menyenangkan, dan mendebarkan. `
-` ...Tahun kelahiran pria itu akhirnya dikenal sebagai Anno Domini. `
-` ......*kuukukukuku*!" `
-` Shannon kehabisan kata-kata untuk berbicara. `
-` Awalnya dia berpikir saat pertama kali bertemu dengan tamu tak dikenal, dia harus menanyakan namanya. `
-` Namun tanpa mengatakan apapun, ...Shannon mengeahui nama orang tersebut, jadi dia enahan diri. `
-` Tidak, ......tentu saja, sebagai orang yang berada di pulau ini, menanyakan nama orang tersebut merupakan tindakan yang sangat tidak sopan. `
-` Karena...dia adalah uan dari pulau ini selain Kinzo. `
-`"B‐.........{f:5:Beatrice}‐sama..............."`
-` "Benar. `
-` Aku adalah {f:5:Beatrice}. `
-` .........Ekspresi dari orang yang melihatku pertama kali tidak pernah berubah meski sudah seribu tahun. `
-` ...*kukukukuku*." `
-` Penyihir itu tertawa kecil melihat reaksi Shannon yang tidak sesuai dengan harapannya. `
-` Shannon menyadari bahwa dia telah bertemu dengan makhluk yang seharusnya tidak dia temui, dan dia mundur selangkah. `
+`Shannon berbalik dengan rasa takutnya... `
+`Saat ini, ......dia benar-benar "ada". `
+`Bukan sebuah ilusi—tapikenyataan. `
+`Kontras yang ditimbulkan oleh kilat menjelaskan suasana bahwa ini bukan sekadar mimpi siang bolong. `
+`"......Itu adalah "cinta". `
+`*kukukukuku*!" `
+`Penyihir dalam lukisan itu dengan anggun memegang pipa emas ke mulutnya dan tertawa kecil. `
+`...Dia tertawa atas kebodohan yang membuat pikiran manusia menjauh dari jawaban paling sederhana. `
+`"Pria itu menjelaskan segala sesuatu di dunia dengan cinta. `
+`Itulah unsur tunggalnya. `
+`Dengan jumlah seekecil mungkin, pria itu sepenuhnya menjelaskan bagaimana dunia ini dibangun." `
+`"......Betapa sederhana dan jelas, betapa indah, menggembirakan, menyenangkan, dan mendebarkan. `
+`...Tahun kelahiran pria itu akhirnya dikenal sebagai Anno Domini. `
+`......*kuukukukuku*!" `
+`Shannon kehabisan kata-kata untuk berbicara. `
+`Awalnya dia berpikir saat pertama kali bertemu dengan tamu tak dikenal, dia harus menanyakan namanya. `
+`Namun tanpa mengatakan apapun, ...Shannon mengeahui nama orang tersebut, jadi dia enahan diri. `
+`Tidak, ......tentu saja, sebagai orang yang berada di pulau ini, menanyakan nama orang tersebut merupakan tindakan yang sangat tidak sopan. `
+`Karena...dia adalah uan dari pulau ini selain Kinzo. `
+`"B‐.........{f:5:Beatrice}‐sama..............." `
+`"Benar. `
+`Aku adalah {f:5:Beatrice}. `
+`.........Ekspresi dari orang yang melihatku pertama kali tidak pernah berubah meski sudah seribu tahun. `
+`...*kukukukuku*." `
+`Penyihir itu tertawa kecil melihat reaksi Shannon yang tidak sesuai dengan harapannya. `
+`Shannon menyadari bahwa dia telah bertemu dengan makhluk yang seharusnya tidak dia temui, dan dia mundur selangkah. `
 `......Disitulah dinding dan lukisan itu berada, jadi meskipun dia menatap penyihir itu, dia menopang lukisan penyihir itu di punggungnya. `
 `"Kekhawatiranmu disebabkan oleh cinta. `
-` ......Yang merupakan satu unsur yang ada di dunia ini. `
-` Dengan kata lain, seluruh dunia ini. `
-` ......Yang dimaksud dari tidak utuh, artinya dunia ini tidak sepenuhnya utuh. `
-` Itu seperti terus-menerus menuangkan air ke dalam botol yang berlubang." `
+`......Yang merupakan satu unsur yang ada di dunia ini. `
+`Dengan kata lain, seluruh dunia ini. `
+`......Yang dimaksud dari tidak utuh, artinya dunia ini tidak sepenuhnya utuh. `
+`Itu seperti terus-menerus menuangkan air ke dalam botol yang berlubang." `
 `"......Bahkan jika kamu terus menuangkannya, botol itu tidak pernah terisi—sebuah gurun abadi di dalam hati. `
-` Dosa asal yang menjadi dasar manusia dan segala sesuatu terbuat darinya." `
-`"Apa kau paham?`
-` Yang membuat Adam dan Eve mempelajarinya saat mencicip buah adalah cinta. `
-` ...Karna dai itu, manusia dikeluarkan dari surga dan disebut "manusia". `
-` Yang berarti merupakan hal yang memubat manusia mengetahui cinta, dan pendritaan." `
-` "......Gadis yang baik hati. `
-` Kau seharusnya bangga. `
-` Sekarang kau mengetahuinya, bahwa kau buan lagi furnitur. `
-` Sekarang, kau adalah "manusia". `
-` Aku mengakuimu atas namaku sendiri." `
-`".....................umm, .........u......"`
-` "Hmph. `
-` Apakah sulit bagi makhluk yang lebih rendah untuk memahaminya? `
-` ...Oh, ya. `
-` *kukukuku*... `
-` Maafkan aku. `
-` Sudah sangat lama semenjak aku berbicara dengan manusia. `
-` Aku harus meminta maaf karena terlalu banyak berbicara." `
-` Tanpa balasan dari Shannon, {f:5:Beatrice} tertawa beberapa saat. `
-` "Aku tidak yakin apakah ini layak sebagai permintaan maaf, `
-` .....Tapi aku bisa menggunakan kekuatanku untuk mengabulkan keinginanmu, apakah kau mau?" `
-` "...Huh...?" `
-` Kata-kata tersebut mengejutkan Shannon, bahkan lebih dari kemunculan seorang penyihir itu sendiri. `
-` "Aku menawarkan ini untuk mempertemukanmu dengan orang yang kamu cintai. `
-` ......Biasanya, akan akan meminta sesuatu yang setara sebagai imbalan."`
-` "...*kukuku*, Aku sedang dalam suasana hati yang baik. `
-` Dan kamu belum pernah berhenti untuk menghormatiku di masa lalu. `
-` Itu adalah sesuatu yang layak untuk dihargai." `
-` "............Ber, ............berarti maksudmu......?" `
-` Normalnya, Shannon akan terkejut oleh kedatangan tamu yang kurang nyata, dan tidak bisa bebicara. `
-` ......Bagaimanapun, dia seolah-ola masuk ke dalam jebakan sang penyihir, `
-` ...Shannon merespon perkataan sang penyihir. `
-` "Dengan sihirku, sama sekali tidaklah sulit untuk mempertemukan sepasang orang yang saling mencintai." `
-` Apa kau, serius... `
-` ...Kata-kata tersebut hampir keluar dari bibirnya, tapi dia menahannya, dengan membalas secara rasional. `
-` Penyihir tetaplah penyihir. `
-` Makhluk yang jahat. `
-` Sang penyihir {f:5:Beatrice} diam-diam mencoba masuk e dalam isi hatiku dan menjadikanku dan mengurungku...... `
-` Godaan semacam itu, berbagai cerita di buku dongeng bergambar telah memperingatkanku saat aku masih kecil, kini ada di hadapanku. `
-` "Ketakutan juga merupakan bentuk penghormatan. `
-` Mungkin menyenangkan bagiku, tapi dengan begini kita tidak akan mencapai kesepakatan" `
-` "......Aku mungkin tidak berbeda dari gambaran penyihir jahat yang manusia bayangkan. `
-` Bagaimanapun, aku menghormati mereka yang menghormatiku. `
-` Bukankah semua manusia itu sama? `
-` Meskipun, aku ragu ada manusia yang akan merespons dengan niat baik terhadap sikap permusuhan seperti itu..." `
-` ".........Aku, ......maafkan aku... `
-` Aku tidak bermaksud..." `
-` Shannon akhirnya sadar bahwa kebenciannya tidak sopan terhadap tamu. `
-` Dan...dia akhirnya memahami kata-kata yang baru saja diucapkan kepadanya. `
-` ―Kamu bukan lagi furnitur.` 
-` Sekarang, kamu adalah "manusia". `
-`......Semaki lama diabecermin dari kata-katanya,`
-` .......Shannon semakin merasa bhwa {f:5:Beatrice} dapat mengerti akan pendaritaannya... `
-` "......Kau mengatakan sesuatu...um... `
-` ...tentang hadiah... `
-` ......Apa itu maksudnya?" `
-` "Aku bilang aku bisa mengatur agar kamu terikat dengan pria yang tertarik denganmu. `
-` Kamu bisa anggap itu sebagai rasa terima kasihku karena telah merawat lukisanku setiap saat." `
-` "................................." `
-` "Tenangkan dirimu. Aku tidak meminta balasan lain. `
-` Aku ini dermawan. `
-` .........Bagaimanapun, meski aku tidak meminta balasan, aku memiliki permintaan lain." `
-` Lihat, itu telah tiba... `
-` Sisi Shannon yang ada di dalam dirinya memberikan peringatan. `
-` {n} Ini merupakan peringatan yang sering dia rasakan dari seluruh gambar seram di buku cerita yang dia baca sejak kecil......! `
-` "Apa kau tahu tori keci dan kuil yang dibangun di atas terumbu karang laut di dekat pulau ini...?" `
-` ...Shannon segera mengingatnya. `
-` {n}Saat kamu sampai di Rokkenjima menggunakan kapal, akan ada tori dan kuil di atas terumbu karang yang bahkan lebih kecil untuk dusebut pulau kecil. `
-` Dia merasa bahwa Kumasawa telah menceritakan sejarahnya, tetapi dia tidak terlal mengingatnya. `
-`...Seorng peapa atau perintis telah membuatnya, untuk berdoa, atau semacamnya.` 
-` "...Ya, aku tahu itu, tapi... `
-` ...apa...maksudnya.........?" `
-` "Aku tidak akan menjelaskan semuanya dari awal kepada orang yang tidak mengetaui tentang iblis. `
-` Mempersingkat sebuah cerita, ......itu terlalu merepotkan untukku. `
-` ...ada sebuah cermin di dalam kuil tersebut. `
-` Aku ingin kamu menghancurkannya." `
-` Itu merupakan permintaan yang mencurigakaan. `
-` Shannon tidak tahu tentang sejarahnya, tetapi apapun yang ada di dalam kuil pasti memiliki sesuatu yang sakral. `
-` ......Dan dia ingin aku menghancurkannya? `
-` {n}Mengapa seseorang yang sangat kuat seperti penyihir tidak bisa melakukannya sendiri, dan meminta bantuan kepada manusia...?`
-` Shannon tidak perlu mengataka isi pikirannya. `
-` {n}{f:5:Beatrice} mulai menjawab pertanyaan sebelum Shannon menanyakannya. `
-` "Sihir yang ada di cermin tersebut menentangku. `
-` ......Aku tidak bisa menjelasaknnya dengan bahasa manusia. `
-` ...Sebagai contoh, mari kita bahas perbedaan antara alat-alat dapur... `
-` Cermin tersebut merupakan garpu, dan kekuatanku berupa sup. `
-` Kau tidak bisa meminum sup dengan garpu, benar?" `
-` "Jika saja fungsi dari cermin itu hilang, aku bisa menyiapkan sebuah sendok yang cocok untuk meminum sup. `
-` ......Jika aku memilikinya, aku bisa meminum sup, atau bahkan menggali jalan keluar dari penjara berbatu.`
-` ...Aku bahkan bisa mencongkel bola mata keluar, ......apa itu cukup? `
-` *kukukukuku*!" `
+`Dosa asal yang menjadi dasar manusia dan segala sesuatu terbuat darinya." `
+`"Apa kau paham? `
+`Yang membuat Adam dan Eve mempelajarinya saat mencicip buah adalah cinta. `
+`...Karna dai itu, manusia dikeluarkan dari surga dan disebut "manusia". `
+`Yang berarti merupakan hal yang memubat manusia mengetahui cinta, dan pendritaan." `
+`"......Gadis yang baik hati. `
+`Kau seharusnya bangga. `
+`Sekarang kau mengetahuinya, bahwa kau buan lagi furnitur. `
+`Sekarang, kau adalah "manusia". `
+`Aku mengakuimu atas namaku sendiri." `
+`".....................umm, .........u......" `
+`"Hmph. `
+`Apakah sulit bagi makhluk yang lebih rendah untuk memahaminya? `
+`...Oh, ya. `
+`*kukukuku*... `
+`Maafkan aku. `
+`Sudah sangat lama semenjak aku berbicara dengan manusia. `
+`Aku harus meminta maaf karena terlalu banyak berbicara." `
+`Tanpa balasan dari Shannon, {f:5:Beatrice} tertawa beberapa saat. `
+`"Aku tidak yakin apakah ini layak sebagai permintaan maaf, `
+`.....Tapi aku bisa menggunakan kekuatanku untuk mengabulkan keinginanmu, apakah kau mau?" `
+`"...Huh...?" `
+`Kata-kata tersebut mengejutkan Shannon, bahkan lebih dari kemunculan seorang penyihir itu sendiri. `
+`"Aku menawarkan ini untuk mempertemukanmu dengan orang yang kamu cintai. `
+`......Biasanya, akan akan meminta sesuatu yang setara sebagai imbalan." `
+`"...*kukuku*, Aku sedang dalam suasana hati yang baik. `
+`Dan kamu belum pernah berhenti untuk menghormatiku di masa lalu. `
+`Itu adalah sesuatu yang layak untuk dihargai." `
+`"............Ber, ............berarti maksudmu......?" `
+`Normalnya, Shannon akan terkejut oleh kedatangan tamu yang kurang nyata, dan tidak bisa bebicara. `
+`......Bagaimanapun, dia seolah-ola masuk ke dalam jebakan sang penyihir, `
+`...Shannon merespon perkataan sang penyihir. `
+`"Dengan sihirku, sama sekali tidaklah sulit untuk mempertemukan sepasang orang yang saling mencintai." `
+`Apa kau, serius... `
+`...Kata-kata tersebut hampir keluar dari bibirnya, tapi dia menahannya, dengan membalas secara rasional. `
+`Penyihir tetaplah penyihir. `
+`Makhluk yang jahat. `
+`Sang penyihir {f:5:Beatrice} diam-diam mencoba masuk e dalam isi hatiku dan menjadikanku dan mengurungku...... `
+`Godaan semacam itu, berbagai cerita di buku dongeng bergambar telah memperingatkanku saat aku masih kecil, kini ada di hadapanku. `
+`"Ketakutan juga merupakan bentuk penghormatan. `
+`Mungkin menyenangkan bagiku, tapi dengan begini kita tidak akan mencapai kesepakatan" `
+`"......Aku mungkin tidak berbeda dari gambaran penyihir jahat yang manusia bayangkan. `
+`Bagaimanapun, aku menghormati mereka yang menghormatiku. `
+`Bukankah semua manusia itu sama? `
+`Meskipun, aku ragu ada manusia yang akan merespons dengan niat baik terhadap sikap permusuhan seperti itu..." `
+`".........Aku, ......maafkan aku... `
+`Aku tidak bermaksud..." `
+`Shannon akhirnya sadar bahwa kebenciannya tidak sopan terhadap tamu. `
+`Dan...dia akhirnya memahami kata-kata yang baru saja diucapkan kepadanya. `
+`―Kamu bukan lagi furnitur. `
+`Sekarang, kamu adalah "manusia". `
+`......Semaki lama diabecermin dari kata-katanya, `
+`.......Shannon semakin merasa bhwa {f:5:Beatrice} dapat mengerti akan pendaritaannya... `
+`"......Kau mengatakan sesuatu...um... `
+`...tentang hadiah... `
+`......Apa itu maksudnya?" `
+`"Aku bilang aku bisa mengatur agar kamu terikat dengan pria yang tertarik denganmu. `
+`Kamu bisa anggap itu sebagai rasa terima kasihku karena telah merawat lukisanku setiap saat." `
+`"................................." `
+`"Tenangkan dirimu. Aku tidak meminta balasan lain. `
+`Aku ini dermawan. `
+`.........Bagaimanapun, meski aku tidak meminta balasan, aku memiliki permintaan lain." `
+`Lihat, itu telah tiba... `
+`Sisi Shannon yang ada di dalam dirinya memberikan peringatan. `
+`{n} Ini merupakan peringatan yang sering dia rasakan dari seluruh gambar seram di buku cerita yang dia baca sejak kecil......! `
+`"Apa kau tahu tori keci dan kuil yang dibangun di atas terumbu karang laut di dekat pulau ini...?" `
+`...Shannon segera mengingatnya. `
+`{n}Saat kamu sampai di Rokkenjima menggunakan kapal, akan ada tori dan kuil di atas terumbu karang yang bahkan lebih kecil untuk dusebut pulau kecil. `
+`Dia merasa bahwa Kumasawa telah menceritakan sejarahnya, tetapi dia tidak terlal mengingatnya. `
+`...Seorng peapa atau perintis telah membuatnya, untuk berdoa, atau semacamnya. `
+`"...Ya, aku tahu itu, tapi... `
+`...apa...maksudnya.........?" `
+`"Aku tidak akan menjelaskan semuanya dari awal kepada orang yang tidak mengetaui tentang iblis. `
+`Mempersingkat sebuah cerita, ......itu terlalu merepotkan untukku. `
+`...ada sebuah cermin di dalam kuil tersebut. `
+`Aku ingin kamu menghancurkannya." `
+`Itu merupakan permintaan yang mencurigakaan. `
+`Shannon tidak tahu tentang sejarahnya, tetapi apapun yang ada di dalam kuil pasti memiliki sesuatu yang sakral. `
+`......Dan dia ingin aku menghancurkannya? `
+`{n}Mengapa seseorang yang sangat kuat seperti penyihir tidak bisa melakukannya sendiri, dan meminta bantuan kepada manusia...? `
+`Shannon tidak perlu mengataka isi pikirannya. `
+`{n}{f:5:Beatrice} mulai menjawab pertanyaan sebelum Shannon menanyakannya. `
+`"Sihir yang ada di cermin tersebut menentangku. `
+`......Aku tidak bisa menjelasaknnya dengan bahasa manusia. `
+`...Sebagai contoh, mari kita bahas perbedaan antara alat-alat dapur... `
+`Cermin tersebut merupakan garpu, dan kekuatanku berupa sup. `
+`Kau tidak bisa meminum sup dengan garpu, benar?" `
+`"Jika saja fungsi dari cermin itu hilang, aku bisa menyiapkan sebuah sendok yang cocok untuk meminum sup. `
+`......Jika aku memilikinya, aku bisa meminum sup, atau bahkan menggali jalan keluar dari penjara berbatu. `
+`...Aku bahkan bisa mencongkel bola mata keluar, ......apa itu cukup? `
+`*kukukukuku*!" `
 `"......Aku, .........aku tidak mengerti apa yang kau bicarakan. `
-` ...Jika itu karena kurangnya pengetahuanku, aku minta maaf." `
-` "Intinya begini. `
-` Jika kau berusaha untuk menghancurkan cermin yang menyebalkan itu untukku, `
-` sebagai imbalan, aku akan mengabulkan permintaanmu." `
-` "......Hari ini perasaanku sedang baik. `
-` Jika kau ingin, kau mungkin merubah permintaanmu, dan aku akan memberikanmu seluruh emas yang seharsnya ku berikan kepada Kinzo... `
-` *kukukukuku*!" `
-` "Aku, ...............aku harus menolak........." `
+`...Jika itu karena kurangnya pengetahuanku, aku minta maaf." `
+`"Intinya begini. `
+`Jika kau berusaha untuk menghancurkan cermin yang menyebalkan itu untukku, `
+`sebagai imbalan, aku akan mengabulkan permintaanmu." `
+`"......Hari ini perasaanku sedang baik. `
+`Jika kau ingin, kau mungkin merubah permintaanmu, dan aku akan memberikanmu seluruh emas yang seharsnya ku berikan kepada Kinzo... `
+`*kukukukuku*!" `
+`"Aku, ...............aku harus menolak........." `
 `"......Apa  katamu?" `
-` Saat dia mendengar perkataan Shannon, {f:5:Beatrice} sadar bahwa dari awal harapannya telah mengkhianatinya. `
-` "Jika ada alasan, beri tahu aku. `
-` Jika ada kesalahpahaman, aku akan mengatasinya." `
+`Saat dia mendengar perkataan Shannon, {f:5:Beatrice} sadar bahwa dari awal harapannya telah mengkhianatinya. `
+`"Jika ada alasan, beri tahu aku. `
+`Jika ada kesalahpahaman, aku akan mengatasinya." `
 `"......Aku, ...aku tidak terlalu tahu alasannya. `
-` .........Namun, ...hingga saat ini, pulau ini terasa damai, dan tidak terjadi apapun. `
-` ...Jadi, meskipun aku tidak menghancurkan cermin tersebut, perdamaian yang ada hingga saat ini akan terus berlangsung di masa depan." `
-` "Hmm...`
-` Aku paham, aku paham, itu cukup masuk akal. `
-` Seperti yang kau katakan. `
-` Jika kamu tidak menghancurkannya, hari yang sama yang telah terlewati sampai saat ini akan berlanjut hingga besok, dan seterusnya. `
+`.........Namun, ...hingga saat ini, pulau ini terasa damai, dan tidak terjadi apapun. `
+`...Jadi, meskipun aku tidak menghancurkan cermin tersebut, perdamaian yang ada hingga saat ini akan terus berlangsung di masa depan." `
+`"Hmm... `
+`Aku paham, aku paham, itu cukup masuk akal. `
+`Seperti yang kau katakan. `
+`Jika kamu tidak menghancurkannya, hari yang sama yang telah terlewati sampai saat ini akan berlanjut hingga besok, dan seterusnya. `
 `Kenapa aku idak memberikan awaban ang pasti?" `
-` "Atas nama {f:5:Beatrice}, aku mengatakan bahwa; `
-` {i:hari yang sama yang telah terlewati sampai saat ini akan berlanjut hingga besok, dan lusa.} `
-` Dan selamanya, dalam keabadian." `
-` Shannon tertangkap oleh ilusi yang misterius. `
-` Cermin tersebut mungkin sesuatu yang menahan sang penyihir. `
+`"Atas nama {f:5:Beatrice}, aku mengatakan bahwa; `
+`{i:hari yang sama yang telah terlewati sampai saat ini akan berlanjut hingga besok, dan lusa.} `
+`Dan selamanya, dalam keabadian." `
+`Shannon tertangkap oleh ilusi yang misterius. `
+`Cermin tersebut mungkin sesuatu yang menahan sang penyihir. `
 `{n}...Yang berarti menghancurkannya akan memenuhi keinginan sang penyihir. `
 `......Namun, Shannon merasa harus melakukan hal ini untuk dirinya. `
-` Rasanya seperti beberapa premis telah tertukar... `
-` "Aku tidak melakukan apapun selain memberikanmu kesempatan untuk memenuhi perasaanmu sebagai imbalannya. `
-` .....Terserah kamu ingin menghancurkannya atau tidak. `
-` Jika kau menghancurkannya, aku akan mengabulkan permintaanmu." `
-` "Jika tidak, besok dan seterusnya akan berlanjut seperti biasanya. `
-` Keinginanmu selamanya tidak akan terkabulkan. `
-` ......Apa kau mengerti? `
-` Apa yang aku katakan? `
-` *kukukukuku*." `
-` Sang penyihir mengatakan padanya. `
-` Dia menekannya, mengatakan bahwa dengan menghancurkan cermin, dia akan bersama dengan George. `
+`Rasanya seperti beberapa premis telah tertukar... `
+`"Aku tidak melakukan apapun selain memberikanmu kesempatan untuk memenuhi perasaanmu sebagai imbalannya. `
+`.....Terserah kamu ingin menghancurkannya atau tidak. `
+`Jika kau menghancurkannya, aku akan mengabulkan permintaanmu." `
+`"Jika tidak, besok dan seterusnya akan berlanjut seperti biasanya. `
+`Keinginanmu selamanya tidak akan terkabulkan. `
+`......Apa kau mengerti? `
+`Apa yang aku katakan? `
+`*kukukukuku*." `
+`Sang penyihir mengatakan padanya. `
+`Dia menekannya, mengatakan bahwa dengan menghancurkan cermin, dia akan bersama dengan George. `
 `{n}Dan dia mengatakan jika dia tidak menghancurkannya, maka perasaannya tidak akan pernah terpenuhi...... `
-` "...Tolong...hentikan ini...... `
-` Aku tidak ingin... `
+`"...Tolong...hentikan ini...... `
+`Aku tidak ingin... `
 `...mendengar sesuatu seperti itu.........!" `
-` "Aku tidak bermaksud menyakitimu. `
-` ......Ya terserah. `
-` Merasakan kegilaan dari cinta merupakan hal yang terbaik dari manusia. `
-` Kau harus menikmati emosi tersebut demi kepuasan hatimu." `
-` "Bagaimanapun, jika kau memohon untuk meminjam kekuatanku, kau bisa menghancurkan cermin tersebut kapan saja. `
-` Dan kau bisa memanggil namaku untuk membangkitkanku. `
-` Aku akan memegang janjiku. `
-` ......Dengan begini, kamu tidak keberatan, kan? `
-` Aku tidak akan memaksamu untuk memutuskannya sekarang. `
-` Aku rasa itu lebih mudah bagimu?" `
-` Apakah kesepakatan ini merupakan sesuatu yang bisa dia terima dengan tenang?? `
-` {n}......Sama sekali tidak. `
-` Bagi Shannon, yang terbakar oleh rasa cinta, tersiksa oleh gairah, merasa tergoda selamanya oleh jalan keluar yang jauh melalui ujian yang kejam... `
-` "Aku tidak akan memberikan batas Waktu pada janjiku, `
-` ......tetapi ada batas Waktu untuk sihir yang bisa untuk mengabulkan permintaan. `
-` ...Batas tersebut berada di luar kendaliku. `
-` Itu akan ditentukan oleh rasa cintamu kepadanya. `
-` .........Apa kau mengerti maksudku?" `
-` "......Aku, aku tidak tahu." `
-` "Batas waktunya adalah saat orang yang kamu cintai memilih orang yang akan dia janjikan cintanya.. `
-` ......aku seorang penyihir, tetapi aku bukanlah iblis. `
-` Aku tidak memiliki mantra yang dapat memisahkan dua orang yang saling mencintai, tahu...? `
-` *kukukukuku*!!" `
-` "Aku dengar suatu saat orang yang kamu cintai akan segera menghadiri pertemuan pernikahan...? `
-` Kau mungkin memiliki perasaan yang kuat kepada pria itu lebih dari siapapun di dunia ini. `
-` Bagaimanapun, bukan berarti bahwa kau adalah orang yang paling sesuai baginya, bukan...?" `
-` "Aku {i:tahu} siapa orang yang akan dia temui di pertemuan pernikahan. `
-` Gadis tu {i:sangat cocok dengan Ushiromiya George} lebih dari siaapapun." `
-` "Dia berasal dari sekolah ternama, memiliki prestasi yang bagus, serta memiliki ketenangan dan kewaspadaan." `
+`"Aku tidak bermaksud menyakitimu. `
+`......Ya terserah. `
+`Merasakan kegilaan dari cinta merupakan hal yang terbaik dari manusia. `
+`Kau harus menikmati emosi tersebut demi kepuasan hatimu." `
+`"Bagaimanapun, jika kau memohon untuk meminjam kekuatanku, kau bisa menghancurkan cermin tersebut kapan saja. `
+`Dan kau bisa memanggil namaku untuk membangkitkanku. `
+`Aku akan memegang janjiku. `
+`......Dengan begini, kamu tidak keberatan, kan? `
+`Aku tidak akan memaksamu untuk memutuskannya sekarang. `
+`Aku rasa itu lebih mudah bagimu?" `
+`Apakah kesepakatan ini merupakan sesuatu yang bisa dia terima dengan tenang?? `
+`{n}......Sama sekali tidak. `
+`Bagi Shannon, yang terbakar oleh rasa cinta, tersiksa oleh gairah, merasa tergoda selamanya oleh jalan keluar yang jauh melalui ujian yang kejam... `
+`"Aku tidak akan memberikan batas Waktu pada janjiku, `
+`......tetapi ada batas Waktu untuk sihir yang bisa untuk mengabulkan permintaan. `
+`...Batas tersebut berada di luar kendaliku. `
+`Itu akan ditentukan oleh rasa cintamu kepadanya. `
+`.........Apa kau mengerti maksudku?" `
+`"......Aku, aku tidak tahu." `
+`"Batas waktunya adalah saat orang yang kamu cintai memilih orang yang akan dia janjikan cintanya.. `
+`......aku seorang penyihir, tetapi aku bukanlah iblis. `
+`Aku tidak memiliki mantra yang dapat memisahkan dua orang yang saling mencintai, tahu...? `
+`*kukukukuku*!!" `
+`"Aku dengar suatu saat orang yang kamu cintai akan segera menghadiri pertemuan pernikahan...? `
+`Kau mungkin memiliki perasaan yang kuat kepada pria itu lebih dari siapapun di dunia ini. `
+`Bagaimanapun, bukan berarti bahwa kau adalah orang yang paling sesuai baginya, bukan...?" `
+`"Aku {i:tahu} siapa orang yang akan dia temui di pertemuan pernikahan. `
+`Gadis tu {i:sangat cocok dengan Ushiromiya George} lebih dari siaapapun." `
+`"Dia berasal dari sekolah ternama, memiliki prestasi yang bagus, serta memiliki ketenangan dan kewaspadaan." `
 `"Dia lebih cantik, lebih bijak, {i:lebih cocok daripada dirimu}." `
 `"Mengapa orang yang bodoh, tidak kompeten, gadis tidak berwibawa sepertimu cocok dengannya? `
-` Kau seharusnya lebih mengetahui hal tersebut. `
-` Kau adalah orang yang sangat tidak cocok!" `
-` "Bahkan membayangkan dirimu dengan Ushiromiya George merupakan sebuah dosa, dan bodoh, sangat bodoh,  ketahuilah posisimu!!" `
-` "Apa kau sudah lupa bersyukur atas pendidikanmu? `
-` Ketahuilah posisimu!!" `
- `"George adalah anak tertua yang mewarisi darah. `
-` Dia adalah oang yang akan memegang beban dari keluarga Ushiromiya suatu hari nanti di masa depan." `
-` "Untuk mendapatkan ekspektasi tersebut, dia belajar tak kenal lelah, masuk kuliah, dan mendapatkan nilai yang bagus. `
-` Apa kau piker kau seorang yang pantas?, dirimu yang tidak kompeten, tidakterpilih, dan tidak bewiawasebagai pelayan?" `
-` "*Kukukukuku*, *cackle*cackle*cackle*ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!" `
+`Kau seharusnya lebih mengetahui hal tersebut. `
+`Kau adalah orang yang sangat tidak cocok!" `
+`"Bahkan membayangkan dirimu dengan Ushiromiya George merupakan sebuah dosa, dan bodoh, sangat bodoh,  ketahuilah posisimu!!" `
+`"Apa kau sudah lupa bersyukur atas pendidikanmu? `
+`Ketahuilah posisimu!!" `
+`"George adalah anak tertua yang mewarisi darah. `
+`Dia adalah oang yang akan memegang beban dari keluarga Ushiromiya suatu hari nanti di masa depan." `
+`"Untuk mendapatkan ekspektasi tersebut, dia belajar tak kenal lelah, masuk kuliah, dan mendapatkan nilai yang bagus. `
+`Apa kau piker kau seorang yang pantas?, dirimu yang tidak kompeten, tidakterpilih, dan tidak bewiawasebagai pelayan?" `
+`"*Kukukukuku*, *cackle*cackle*cackle*ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!" `
 `"He‐............hentikan itu, jangan hina Sannon!! `
-` Siapa kau?!!" `
+`Siapa kau?!!" `
 `A Pada saat itu, Ketika Shannon menahan kepalanya, mencoba elindungin hatinya yang dicabik-cabik oleh perkataan {f:5:Beatrice}, Kanon berlari di depannya. `
 `Kanon tidak peduli siapa Wanita tersebut. `
 `{n}Selama dia tahu bahwa dia musuh yang menyiksa Shannon, yang sangat dia sayangi dan hormati sebagai kakak, tidak peduli apapun itu. `
-` ".........Kanon‐kun— `
-` Mundur...! `
-` Orang ini......!" `
-` "................................." `
-` Sepertinya Kanon baru menyadari bahwa makhluk yang berdiri di depannya merupakan eorang penyihir yang ada di dalam lukisan. `
+`".........Kanon‐kun— `
+`Mundur...! `
+`Orang ini......!" `
+`"................................." `
+`Sepertinya Kanon baru menyadari bahwa makhluk yang berdiri di depannya merupakan eorang penyihir yang ada di dalam lukisan. `
 `...Dan juga dia merupakan makhluk yang menyeramkan. `
 `"......Aku hanya ingin membuat Shannon mendapatkan keinginannya, tapi sepertinya aku terlalu banyak bicara, dan malah menyiksanya. `
-` Aku minta maaf."` 
+`Aku minta maaf." `
 `"......Namun aku akan membiarkan janji itu sebagai hadiahmu. `
-` Jika kau membutuhkan kekuatanku, panggil aku kapanpun. `
-` Aku sudah katakana sebelumnya." `
+`Jika kau membutuhkan kekuatanku, panggil aku kapanpun. `
+`Aku sudah katakana sebelumnya." `
 `".........Kalau begitu, dengan ini, mari kita akhiri pertemuan ini. `
-` Tatapan sinis mungkin terasa menyenangkan, tapi itu buruk untuk postur tubuh, tahu? `
-` *kukukukuku*..." `
-` "Pergi sana...!! `
-` Aku tidak tahu siapa kamu, tapi kamu mengancam Shannon! `
-` Jangan tunjukkan dirimu lagi!!" `
-` Tampaknya perkataan dari Kanon membuat penyihir tersebut tidak senang. `
+`Tatapan sinis mungkin terasa menyenangkan, tapi itu buruk untuk postur tubuh, tahu? `
+`*kukukukuku*..." `
+`"Pergi sana...!! `
+`Aku tidak tahu siapa kamu, tapi kamu mengancam Shannon! `
+`Jangan tunjukkan dirimu lagi!!" `
+`Tampaknya perkataan dari Kanon membuat penyihir tersebut tidak senang. `
 `"......Jadi, kau tidak memperhatikan ucapanmu, makhluk rendahan? `
-` ...Aku ramah kepada orang yang menghormatiku, tetapi kasar kepada mereka yang tidak..." `
-` Saat dia masih tersenyum, ekspresi sang penyihir mulai berubah... `
-` Dan perasaan menindas yang tidak bisa didesripsikan oleh panca indra mulai menyelimuti ruangan... `
-` Meskipun mereka tidak bisa memahami apa yang seang terjadi, mereka langsung sadar akan sesuatu yang mengerikan... `
-` Jika kau berenang di lautan, lalu sesuatu yang sangat besar berada di bawahmu, kau pasti ingin sgea kabur dari sana meskipun kamu belum mengetahui apa itu sebenanya. `
-` ...Situasi ini sama seperti itu! `
-` "To‐......tolong hentikan, {f:5:Beatrice}‐sama!! `
-` Kanon‐kun masih anak-anak. `
-` Aku mnta maaf atas prilakunya!" `
-` "..........................." `
-` "........................!" `
-` Kanon menghalangi jalan menuju Shannon dengan mempertaruhkan nyawanya. `
-` {n}...Ada keringat yang menetes di dahinya. `
-` Pada saat itu, sang penyihir memiliki nasib Kanon di tangannya. `
-` {n}...Dia bahkan tidak perlu menggerakan jarinya. `
-` Dia memegang nasib Kanon yang bisa dia hancurkan kapanpun hanya dengan sedikit senyumannya... `
-` Kanon pun mengerti akan hal itu. `
-` {n}Itulah alasan yang membuatnya berkeeringat, `
-` dan lututnya terasa lemah... `
-` Bagaimanapun, {f:5:Beatrice} tiba-tiba melepaskan tekanan tersebut, lalu tertawa. `
-` ".........Baiklah. `
-` Sesuai permintaanmu, aku akan memberikannya permintaan maaf. `
-` ...Namamu Kanon, kan? `
-` sangat berbeda dengan kakaknya, aku harus memaafkanku malam ini lalu mengusirmu. `
-` Berterimakasihlah. `
-` Kalau begitu, kita akhiri pertemuan malam ini." `
+`...Aku ramah kepada orang yang menghormatiku, tetapi kasar kepada mereka yang tidak..." `
+`Saat dia masih tersenyum, ekspresi sang penyihir mulai berubah... `
+`Dan perasaan menindas yang tidak bisa didesripsikan oleh panca indra mulai menyelimuti ruangan... `
+`Meskipun mereka tidak bisa memahami apa yang seang terjadi, mereka langsung sadar akan sesuatu yang mengerikan... `
+`Jika kau berenang di lautan, lalu sesuatu yang sangat besar berada di bawahmu, kau pasti ingin sgea kabur dari sana meskipun kamu belum mengetahui apa itu sebenanya. `
+`...Situasi ini sama seperti itu! `
+`"To‐......tolong hentikan, {f:5:Beatrice}‐sama!! `
+`Kanon‐kun masih anak-anak. `
+`Aku mnta maaf atas prilakunya!" `
+`"..........................." `
+`"........................!" `
+`Kanon menghalangi jalan menuju Shannon dengan mempertaruhkan nyawanya. `
+`{n}...Ada keringat yang menetes di dahinya. `
+`Pada saat itu, sang penyihir memiliki nasib Kanon di tangannya. `
+`{n}...Dia bahkan tidak perlu menggerakan jarinya. `
+`Dia memegang nasib Kanon yang bisa dia hancurkan kapanpun hanya dengan sedikit senyumannya... `
+`Kanon pun mengerti akan hal itu. `
+`{n}Itulah alasan yang membuatnya berkeeringat, `
+`dan lututnya terasa lemah... `
+`Bagaimanapun, {f:5:Beatrice} tiba-tiba melepaskan tekanan tersebut, lalu tertawa. `
+`".........Baiklah. `
+`Sesuai permintaanmu, aku akan memberikannya permintaan maaf. `
+`...Namamu Kanon, kan? `
+`sangat berbeda dengan kakaknya, aku harus memaafkanku malam ini lalu mengusirmu. `
+`Berterimakasihlah. `
+`Kalau begitu, kita akhiri pertemuan malam ini." `
 `"............Sebagai perpisahan, aku akan memberikanmu sebuah kenang-kenangan. `
-` Kepalkan tangan kiri kalian berdua." `
+`Kepalkan tangan kiri kalian berdua." `
 `{f:5:Beatrice} tersenyu lebar, lalu mengibaskan jarinya, `
-` Kemudian tangan kiri mereka terulur ke depan, dan telapak tangan mereka terbuka, tanpa kehendak mereka sendiri. `
-` Itu merupakan sensasi yang aneh, rasanya seperti hanya tangan kiri mereka yang menjadi milik seseorang. `
-` Rasanya seolah-olah tangan kiri mereka baru saja menjadi boneka, `
-` ditarik oleh tali yang menggantung dari langit-langit. `
-` "A-apa...... `
-` yang sedang kau lakukan...?!" `
-` Kanon mencoba menahan, tetapi dia tidak bisa mengendalikan tangan kirinya. `
-` "Jangan bergerak. `
-` Ini tidak akan lama." `
+`Kemudian tangan kiri mereka terulur ke depan, dan telapak tangan mereka terbuka, tanpa kehendak mereka sendiri. `
+`Itu merupakan sensasi yang aneh, rasanya seperti hanya tangan kiri mereka yang menjadi milik seseorang. `
+`Rasanya seolah-olah tangan kiri mereka baru saja menjadi boneka, `
+`ditarik oleh tali yang menggantung dari langit-langit. `
+`"A-apa...... `
+`yang sedang kau lakukan...?!" `
+`Kanon mencoba menahan, tetapi dia tidak bisa mengendalikan tangan kirinya. `
+`"Jangan bergerak. `
+`Ini tidak akan lama." `
 `{f:5:Beatrice} memegang pipanya ke atas, lalu dari dalam, muncul debu berkilauan berwarna emas melayang-layang di udara. `
-` ......Kumpulan debu tersebut bahkan berubah menjadi kupu-kupu berwarna emas. `
-` Kupu-kupu yang cantik tersebut menari-nari di sekeliling ruang resepsi, menciptakan dunia yang indah dan fantastis. `
+`......Kumpulan debu tersebut bahkan berubah menjadi kupu-kupu berwarna emas. `
+`Kupu-kupu yang cantik tersebut menari-nari di sekeliling ruang resepsi, menciptakan dunia yang indah dan fantastis. `
 `...Dan dua dari kumpulan kupu-kupu tersebut mendarat ke dalam kepalan tangan Shannon dan Kanon. `
-` "?!" `
-` "Aww...!"`
-` Ada rasa sakit yang tajam, seperti habis terbakar. `
-` {n}Saat mereka berdua mencoba menjelaskan kepalan tangannya, mereka bisa menggerakan tangannya kembali, tidak seperti sebelumnya. `
-` ".........Ah, ......memar...? `
-` Apa ini......" `
-` Di dalam kepalan tangannya, terdapat sebuah tanda kecil, sebesar kacang polong. `
- `...Ditambah, bentuknya seperti kupu-kupu... `
-` "A‐...apa maksud dari ini..." `
-` Rupanya, Kanon memar yang sama di tangannya. `
-` Dia menatap ke arah sang penyihir dengan sinis. `
-` "Itu merupakan tanda salam dariku. `
-` Tidak ada maksud lain. `
-` ...Itu tidak lebih dari sebuah memar, lama-kelamaan akan sembuh kembali. `
-` Tidak perlu di apa-apakan. `
-` Tanda ini bertujuan agar besok, kau tidak melupakan keberadaanku disini, dan bukti bahwa aku membuat janji denganmu." `
-` "............Dampak dari pertemuan denganku sangatlah kuat.. `
-` ...Terkadang, di pagi hari selanjutnya, orang-orang berpikir bahwa bertemu denganku hanyalah sebuah mimpi atau ilusi. `
-` ............Kau harus berpikir dengan seksama, Shannon. `
-` ...Dan kau harus beristirahat yang cukup, coba lihat tanda itu di pagi hari, lalu pikirkan kembali." `
- `"Aku tidak akan memaksamu melakukan apapun. `
-` Kau harus memutuskan masa depanmu, dengan kehendakmu sendiri. `
-` .........Bagaimanapun, untuk berpikir bahwa objek keinginanmu dapat diberikan dengan imbalan yang begitu sedikit.... `
-` Hal itu akan sangat mengganggu para seniman besar yang menulis drama tentang cinta yang kandas. `
-` *kukukukuku*!" `
-` "Kalau begitu, kita akn bertemu kembali di kesempatan yang lain. `
-` Sungguh menyenangkan bisa berbincang-bincang setelah sekian lama. `
-` Selamat tinggal, furnitur. `
-` Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!" `
-` Tubuh {f:5:Beatrice} hancur seperti kabut lalu memudar. `
+`"?!" `
+`"Aww...!" `
+`Ada rasa sakit yang tajam, seperti habis terbakar. `
+`{n}Saat mereka berdua mencoba menjelaskan kepalan tangannya, mereka bisa menggerakan tangannya kembali, tidak seperti sebelumnya. `
+`".........Ah, ......memar...? `
+`Apa ini......" `
+`Di dalam kepalan tangannya, terdapat sebuah tanda kecil, sebesar kacang polong. `
+`...Ditambah, bentuknya seperti kupu-kupu... `
+`"A‐...apa maksud dari ini..." `
+`Rupanya, Kanon memar yang sama di tangannya. `
+`Dia menatap ke arah sang penyihir dengan sinis. `
+`"Itu merupakan tanda salam dariku. `
+`Tidak ada maksud lain. `
+`...Itu tidak lebih dari sebuah memar, lama-kelamaan akan sembuh kembali. `
+`Tidak perlu di apa-apakan. `
+`Tanda ini bertujuan agar besok, kau tidak melupakan keberadaanku disini, dan bukti bahwa aku membuat janji denganmu." `
+`"............Dampak dari pertemuan denganku sangatlah kuat.. `
+`...Terkadang, di pagi hari selanjutnya, orang-orang berpikir bahwa bertemu denganku hanyalah sebuah mimpi atau ilusi. `
+`............Kau harus berpikir dengan seksama, Shannon. `
+`...Dan kau harus beristirahat yang cukup, coba lihat tanda itu di pagi hari, lalu pikirkan kembali." `
+`"Aku tidak akan memaksamu melakukan apapun. `
+`Kau harus memutuskan masa depanmu, dengan kehendakmu sendiri. `
+`.........Bagaimanapun, untuk berpikir bahwa objek keinginanmu dapat diberikan dengan imbalan yang begitu sedikit.... `
+`Hal itu akan sangat mengganggu para seniman besar yang menulis drama tentang cinta yang kandas. `
+`*kukukukuku*!" `
+`"Kalau begitu, kita akn bertemu kembali di kesempatan yang lain. `
+`Sungguh menyenangkan bisa berbincang-bincang setelah sekian lama. `
+`Selamat tinggal, furnitur. `
+`Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!" `
+`Tubuh {f:5:Beatrice} hancur seperti kabut lalu memudar. `
 `...Itu merupakan kabut emas—tidak, sekawanan kupu-kupu emas. `
-` Mereka tersebar ke segala arah di dalam ruang resepsi, ...meninggalkan kabut emas di belakang mereka saat mereka menghilang ke udara tipis. `
-` ......Setelah itu, hanya keheningan yang tersisa. `
-` Keheningan tersebut cukup untuk membuat mereka berpikir bahwa mereka baru saja bermimpi beberapa saat yang lalu... `
+`Mereka tersebar ke segala arah di dalam ruang resepsi, ...meninggalkan kabut emas di belakang mereka saat mereka menghilang ke udara tipis. `
+`......Setelah itu, hanya keheningan yang tersisa. `
+`Keheningan tersebut cukup untuk membuat mereka berpikir bahwa mereka baru saja bermimpi beberapa saat yang lalu... `
 `..Itulah alasan sang penyihir meninggalkannya. `
-` {n}Dia telah meninggalkan tanda yang membuat mereka tidak bisa lagi menganggap ini sebagai mimpi siang bolong. `
-` Saat Shannon dan Kanon mengingat kembali bekas luka berbentuk kupu-kupu di tangan mereka, dan rasa sakit yang mereka rasakan saat bekas luka itu ditinggalkan, `
-` mereka terdiam beberapa saat, membatu tanpa emosi... `
-` Dan mulai hari itu... `
-` ......Shannon dilanda penderitaan dan konflik selama berhari-hari......... `
+`{n}Dia telah meninggalkan tanda yang membuat mereka tidak bisa lagi menganggap ini sebagai mimpi siang bolong. `
+`Saat Shannon dan Kanon mengingat kembali bekas luka berbentuk kupu-kupu di tangan mereka, dan rasa sakit yang mereka rasakan saat bekas luka itu ditinggalkan, `
+`mereka terdiam beberapa saat, membatu tanpa emosi... `
+`Dan mulai hari itu... `
+`......Shannon dilanda penderitaan dan konflik selama berhari-hari......... `
