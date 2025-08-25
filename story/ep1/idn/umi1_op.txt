@@ -8,7 +8,7 @@
 `"Alkohol adalah temanku. `
 `Dia tak kalah baik darimu, dan telah mendampingiku lebih lama dari dirimu."`
 `Pria yang memamerkan dada untuk stetoskop merapikan kembali pakaiannya, dia berbicara tanpa penyesalan.`
-`"......Kinzo-{c:86EF9C:san}.`
+`"......Kinzo-{c:86EF9C:san}. `
 `Tubuhmu terlihat sehat hanya karena efek obat. `
 `Namun jika kau terus minum alkohol kuat seperti ini, pengobatan akan menjadi sia-sia. `
 `Percayalah pada penilaianku. `
@@ -34,7 +34,7 @@
 `"Hahahaha...`
 ` Dan kau tidak pernah mendengarkan ketika aku memperingatkanmu tentang langkah catur yang salah yang akan kau buat.`
 ` Maka kita imbang."`
-`"......{ruby:Grandmaster:Tuan Besar}."`
+`"......{ruby:Tuan Besar:Grandmaster}."`
 `"Terima kasih...`
 ` Aku tidak akan mati jika kehabisan obat, tapi aku akan mati jika kehabisan ini."`
 `Dengan sebelah mata memandang Nanjo yang wajahnya pasrah, Kinzo mengambil gelas yang diulurkan Genji padanya.`
