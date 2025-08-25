@@ -1,5 +1,5 @@
 `"Lagi-lagi... `
-`kau minum alkohol, ya?"`
+`kau minum banyak alkohol, ya?"`
 `Dokter tua itu menghela napas sambil melepas stetoskopnya.`
 `Dua pria tua terlihat di ruang belajar yang redup, dipenuhi debu dan bau manis yang menyengat.`
 `Di sudut ruangan yang jauh lebih besar dari yang biasa disebut sebagai ruang belajar ini, `
@@ -9,14 +9,14 @@
 `Dia tak kalah baik darimu, dan telah mendampingiku lebih lama dari dirimu."`
 `Pria yang memamerkan dada untuk stetoskop merapikan kembali pakaiannya, dia berbicara tanpa penyesalan.`
 `"......Kinzo-{c:86EF9C:san}.`
-`Tubuhmu hanya terlihat sehat karena efek obat. `
+`Tubuhmu terlihat sehat hanya karena efek obat. `
 `Namun jika kau terus minum alkohol kuat seperti ini, pengobatan akan menjadi sia-sia. `
 `Percayalah pada penilaianku. `
 `Kurangi minummu." `
-`"Aku berterima kasih, meski hanya untuk niatmu. `
-`Temanku, `
-`Genji. `
-`Segelas lagi. `
+`"Aku berterima kasih, meski hanya untuk niatmu, `
+`wahai Temanku. `
+`Genji, `
+`segelas lagi. `
 `Cairkan sedikit. `
 `Dengan begitu Nanjo bisa menyelamatkan mukanya." `
 `"......Apakah Anda yakin?"`
@@ -34,7 +34,7 @@
 `"Hahahaha...`
 ` Dan kau tidak pernah mendengarkan ketika aku memperingatkanmu tentang langkah catur yang salah yang akan kau buat.`
 ` Maka kita imbang."`
-`"......Tuanku."`
+`"......{ruby:Grandmaster:Tuan Besar}."`
 `"Terima kasih...`
 ` Aku tidak akan mati jika kehabisan obat, tapi aku akan mati jika kehabisan ini."`
 `Dengan sebelah mata memandang Nanjo yang wajahnya pasrah, Kinzo mengambil gelas yang diulurkan Genji padanya.`
@@ -43,7 +43,7 @@
 ` Jujurlah padaku.`
 ` Berapa banyak waktu yang tersisa untukku?"`
 `"Yah...`
-` Seberapa pendek harus kukatakan untuk membuatmu berhenti minum?"`
+` Seberapa pendek yang harus kukatakan untuk membuatmu berhenti minum?"`
 `Nanjo sekali lagi menghela napas pasrah.`
 `Sambil melihat Kinzo menghabiskan gelasnya tanpa peduli, dia berbicara.`
 `".........Kau tidak punya banyak waktu."`

@@ -3,8 +3,8 @@
 `{n}Nahkoda kapal keluar dan melompat ke dermaga dengan tali tambat.`
 `Seorang pria besar berbaju tuksedo menunggu kami di sana dengan wajah ramah tersenyum.`
 `...Aku tidak mengenalnya, tapi dari pakaiannya, kutebak dia adalah pelayan rumah utama keluarga Ushiromiya.`
-`"Selamat datang kembali, Nyonya.`
-` Kalian cukup terlambat, aku mulai khawatir."`
+`"Selamat datang kembali, Nona.`
+` Nona cukup terlambat, saya mulai khawatir."`
 `"Ah, terima kasih sudah peduli!`
 ` Battler ketakutan setengah mati di kapal.`
 ` Jadi kami harus memperlambat untuknya.`
@@ -25,7 +25,7 @@
 `"Battler-kun, ini pertama kalimu bertemu Gohda-san kan?`
 ` Jika tidak salah, kamu belum bekerja di sini enam tahun lalu, benar?"`
 `"Benar.`
-` Jadi izinkan aku menyapanya untuk pertama kali.`
+` Jadi izinkan saya menyapanya untuk pertama kali.`
 ` Sangat terhormat akhirnya bisa bertemu, Battler-sama."`
 `"...Aku cukup percaya diri dengan tinggi badanku, tapi kau benar-benar besar.`
 ` ...Ini pasti pertemuan pertama kita.`
@@ -33,17 +33,17 @@
 `"Senang bertemu.`
 ` Aku Battler."`
 `"Kedatanganmu sangat dinantikan, Tuan.`
-` Aku sudah bekerja untuk rumah utama Ushiromiya sejak tahun lalu. Namaku Gohda ({p:0:郷田}), pelayanmu."`
+` Saya sudah bekerja untuk rumah utama Ushiromiya sejak tahun lalu. Namaku Gohda ({p:0:郷田}), pelayanmu."`
 `"Senang berkenalan.`
-` Jika ada kebutuhan apapun, jangan ragu untuk mengandalkanku."`
+` Jika ada kebutuhan apapun, jangan ragu untuk mengandalkan saya."`
 `"Gohda-san, sudah lama tidak bertemu."`
 `"Sudah terlalu lama, George-sama.`
-` Izinkan aku membantumu."`
+` Izinkan saya membantu."`
 `"Seperti biasa, kau ahli dalam menyambut tamu...`
 ` Jika butuh pekerjaan, beri tahu aku ya?`
 ` Aku akan mempekerjamu langsung!"`
-`"Kau terlalu memujiku.`
-` Izinkan aku membantumu, Hideyoshi-sama."`
+`"Anda terlalu memujiku.`
+` Izinkan saya membantu, Hideyoshi-sama."`
 `Gohda-san kemudian membantu semua orang turun, menyapa mereka satu per satu.`
 `Cara bicara dan sikapnya menunjukkan kehalusan seorang profesional.`
 `Dia sangat anggun, bertolak belakang dengan penampilannya yang awalnya terkesan kasar.`
@@ -68,7 +68,7 @@
 `"Oh, benar juga.`
 ` Biasanya sangat ramai, tapi hari ini tidak terlihat satu pun."`
 `"......Uu?`
-` Kenapa tidak ada camar?"`
+` Kenapa nggak ada camar?"`
 `"Hmmm, mungkin karena burung camar sedang berkumpul di tempat lain?`
 ` Maria, kamu ingin melihat burung camar?"`
 `"Uu, ingin."`
@@ -76,11 +76,11 @@
 ` Mungkin Jessica mengubah mereka semua jadi sate dan memakannya!"`
 `"......Uu?!"`
 `"Apaan sih, jangan bicara hal menakutkan seperti itu!`
-` Kau akan membuat Maria bingung!!"`
+` Kau akan membuat Maria salah paham!!"`
 `"Uu-uu-uu!`
 ` Jessica onee-chan mengubahnya jadi sate, mengubahnya jadi sate!`
 ` Uu!!"`
-`"Tidak, tidak!`
+`"Nggak, nggak!`
 ` Ngapain aku melakukan hal seperti itu?!"`
 `"Benar, benaaar~, Jessica mengubahnya jadi sate!`
 ` Kulit dan bakso, hati dan bawaaang!"`
@@ -99,17 +99,17 @@
 ` Mungkin mereka buru-buru kembali ke sarangnya."`
 `"............Uu.`
 ` Bukan sate?`
-` Jessica onee-chan tidak mengubahnya jadi sate?"`
-`"Tidak, tidak!!`
-` Sudah kubilang, aku tidak melakukan hal seperti itu!`
-` Baiklah, Battler, akui sekarang bahwa kamu berbohong!"`
+` Jessica onee-chan nggak mengubahnya jadi sate?"`
+`"Nggak, nggak!!`
+` Sudah kubilang, aku nggak melakukan hal itu!`
+` Ayo lah, Battler, akui sekarang kalau kamu berbohong!"`
 `"Battler-kun.`
 ` Maria-chan anak yang polos, jadi dia menganggap candaan serius.`
 ` Kau harus lebih hati-hati memilih candaan."`
 `...George-aniki dengan lembut memarahiku.`
 `...Meski aku lebih tinggi dari Aniki, dia masih pantas dihormati sebagai yang lebih tua.`
 ` Tidak ada pilihan selain meminta maaf dengan patuh.`
-`"H-hei,`
+`"Y-yahh,`
 ` maaf, maaf...`
 ` Maria, tadi hanya candaan.`
 ` Hari ini burung camar diam di sarang mereka."`
@@ -117,7 +117,7 @@
 ` George onii-chan benar?"`
 `{i:Aku bersenang-senang, tapi ternyata kau hanya menipuku...?}`
 `{n}Matanya yang polos seolah menuduhku.`
-`{n}......Mungkin aku terlalu jauh dengannya.`
+`{n}......Mungkin aku berlebihan dengannya.`
 `"Yaaa, benar, benar.`
 ` Apa yang dikatakan George-aniki benar.`
 ` Cuacanya buruk jadi mungkin mereka pulang untuk hari ini.`
@@ -138,7 +138,7 @@
 ` Menurutku kau bisa bekerja di penitipan anak!"`
 `"Ya, itu tampak seperti kau dilahirkan untuk itu.`
 ` Bagiku, sepertinya itu lebih "cocok" untukmu daripada bekerja di kantor presiden perusahaan."`
-`"Oh, tidak.`
+`"Mana mungkin.`
 ` Merawat anak adalah {i:pekerjaan} yang sangat terhormat.`
 ` Tidak bisa dilakukan hanya dengan menyukai anak-anak."`
 `"Kau benar-benar rendah hati, George-kun.`
@@ -148,14 +148,14 @@
 ` Tapi lebih hati-hati memilih candaan, oke?`
 ` *cekikikan*."`
 `Bibi Rosa mengedipkan mata padaku, sedikit tertawa.`
-`Seorang ibu sejati, pikirku, yang senang melihat Maria terlihat bahagia.`
+`Seorang Ibu sejati, pikirku, yang senang melihat Maria terlihat bahagia.`
 `"Ayo {i:dong}, Rosa.`
 ` Dan kalian juga, apa yang kalian lakukan, cepatlah!"`
 `"Baik, baik, kami datang."`
 `Si tua brengsek itu memanggil kami untuk bergegas.`
 `{n}Lebih baik kami bergerak.`
 `Toh pembicaraan yang sama bisa dilanjutkan setelah barang-barang kami ada di kamar.`
-`"Kalau begitu, semuanya, aku akan memandu kalian ke guesthouse tempat kalian akan menginap.`
+`"Kalau begitu, semuanya, aku akan memandu kalian ke Guest House tempat kalian akan menginap.`
 ` Silakan, lewat sini."`
 `Gohda-san memanggil semua orang dan mulai memandu kami.`
 `{n}Kumasawa-san berada di barisan belakang.`
@@ -167,7 +167,7 @@
 `Tak lama kemudian, kami melihat tangga batu bergaya taman.`
 `...Ahhh, sekarang aku ingat jalannya dari sini.`
 `{n}Naiki ini, dan...`
-`Di puncak tangga batu, sebuah guesthouse indah terlihat.`
+`Di puncak tangga batu, sebuah Guest House indah terlihat.`
 `Fasadnya cantik, tentu saja, tapi lebih dari itu,`
 ` ......kami tak bisa tidak terpesona oleh kemegahan taman mawar indah yang terbentang di depannya.`
 `"Haah~!`
@@ -370,8 +370,8 @@
 `Alat-alat kebun yang ringan seperti sekop tidak masalah, tapi dia tampak kesulitan mengangkat karung pupuk yang berat.`
 `"Kamu baik-baik saja? Ceroboh sekali.`
 ` Sini."`
-`"Nyonya muda, baju Anda akan kotor.`
-` Biarkan dia saja yang menanganinya."`
+`"Nona, baju Anda akan kotor.`
+` Biarkan saya saja yang menanganinya."`
 `Dengan gerakan elegan, Gohda-san mengambil sekop yang diambil Jessica.`
 `Di belakangnya terlihat Kanon-kun yang kesulitan dengan karung pupuk.`
 `"......Uu.`
@@ -425,15 +425,15 @@
 `{n}Dia mengatakannya untuk mencairkan suasana.`
 `Ya, begitulah karakter Kumasawa baa-chan dulu.`
 `Suasana yang sempat kaku kembali cair seketika, berkat senyum ceria Kumasawa-san.`
-`"Saya ingin segera menurunkan barang bawaan.`
+`"Aku ingin segera menurunkan barang bawaan.`
 ` Gohda-san, bagaimana pembagian kamar kita?"`
 `"Sama seperti tahun lalu.`
 ` Saya akan memandu Anda.`
 ` Silakan, lewat sini."`
-`Kami menuju rumah tamu yang rapi dan elegan.`
+`Kami menuju Guest House yang rapi dan elegan.`
 `{n}Ini akan menjadi tempat tinggal sementara kami untuk satu malam.`
 `".........................................."`
-`Dari balik pagar tanaman, Kanon mengawasi para tamu masuk ke rumah tamu.`
+`Dari balik pagar tanaman, Kanon mengawasi para tamu masuk ke Guest House.`
 `Lalu, matanya tertuju pada karung pupuk berat yang ditumpuk di gerobak.`
 `Di pikirannya, dia terus mengulangi kesalahan tadi.`
 `{n}Battler, besar dan kuat, mengangkat karung yang tidak bisa dia angkat dengan mudah, seolah hanya bulu.`
@@ -445,10 +445,10 @@
 `........................"`
 `Kanon menunduk, sedikit menggigit bibir bawahnya...`
 `"Aku ingat taman mawar, tapi...`
-`Aku tidak ingat rumah tamu ini sama sekali.`
+`Aku tidak ingat Guest House ini sama sekali.`
 ` Dibangun baru-baru ini ya?"`
-`"Toraian" (Rumah Tamu) tertulis di tiang gerbang, tapi karena semua menyebutnya rumah tamu, aku ikut saja.`
-`Rumah tamu bergaya Barat yang masih baru ini berdiri menghadap taman mawar, dengan desain megah yang selaras dengan taman.`
+`"Toraian" (Rumah Tamu) tertulis di tiang gerbang, tapi karena semua menyebutnya Guest House, aku ikut saja.`
+`Guest House bergaya Barat yang masih baru ini berdiri menghadap taman mawar, dengan desain megah yang selaras dengan taman.`
 `"Benar!`
 ` Dibangun tahun lalu.`
 ` Sejak itu kami selalu menginap di sini."`
@@ -458,7 +458,7 @@
 ` Aku juga mau!`
 ` Aku juga mau!"`
 `...Rumahku bisa dibilang mewah juga, tapi kembali kusadari betapa biasa-biasa saja dibanding rumah kepala keluarga.`
-`Sungguh mengejutkan mereka membangun rumah tamu bagus seperti ini untuk tamu yang datang setahun sekali.`
+`Sungguh mengejutkan mereka membangun Guest House bagus seperti ini untuk tamu yang datang setahun sekali.`
 `"Eva-sama, Hideyoshi-sama.`
 ` Silakan gunakan kamar ini.`
 ` Rudolf-sama, Kyrie-sama, silakan gunakan kamar di sini."`
@@ -470,7 +470,7 @@
 ` Ibu masih menyimpan dendam karena Ayah memulai konstruksi dengan gaya Jepang, dan mereka terus bertengkar karenanya."`
 `"Orang tuamu sangat rukun, George nii-san... Aku sangat iri.`
 ` Punyaku sangat dingin.`
-` Tapi kompak saat menyoroti nilaimu."`
+` Tapi kompak saat menyoroti nilaiku."`
 `Semua kamar tampaknya untuk dua orang.`
 `{n}Aku bersyukur tidak dipaksa satu kamar dengan si tua brengsek dengan alasan "keluarga".`
 `Lagipula, kurasa mereka berdua tidak bisa bersenang-senang dengan kehadiranku, ihihi.`
@@ -552,7 +552,7 @@
 ` Kamu akan di kamar ini dengan Ibu."`
 `"Battler-kun, tampaknya kamu sekamar denganku di sini."`
 `"Oh?`
-` Ini mengejutu~kan!`
+` Ini mengejut~kan!`
 ` Lebih besar dari kamar orang tua, wa~h!"`
 `"Kurasa kita para sepupu akan berkumpul di satu tempat juga.`
 ` Jadi aku minta dibuatkan kamar yang agak besar."`
