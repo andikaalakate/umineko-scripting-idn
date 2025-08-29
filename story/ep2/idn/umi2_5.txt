@@ -1,779 +1,780 @@
-` Setiap tahun, para kerabat yang mengunjungi Rokkenjima akan mengagumi pemandangan dari kebun mawar yang pertama kali menyambut mereka... `
-` Mereka akan berhenti di sana untuk membicarakn betapa indahnya bunga mawar dan bagaimana mereka bisa mekar setiap tahunnya. `
-` Di tengah semua ini, ada satu mawar yang kurang sehat, dan Maria merasa sangat sedih dan putus asa melihat kondisinya.. `
-` Namun George menggunakan kecerdasaannya, `
-` dan mengatakan, bahwa semuanya akan baik-baik saja jika mereka merawatnya, menandainya dengan bungkus permen, dan segera mengembalikan suasana hati Maria. `
-` Lalu Battler, yang berada dekat dengannya sepanjang hari, mulai membicarakan tentang Halloween. `
-` Itu merupakan topik kesukaan Maria yang membuatnya kembali ceria seperti semula. `
-` Bagi Maria, marshmallow dan permen jack-o-lantern yang dibawa oleh ibunya merupakan harta paling berharga. `
-` ...Mereka terlihat membawa beberapa, dan melakukan trick-or-treat kepada setiap orang yang ditemui, mmberi permen kepada mereka ketimbang sebaliknya.. `
- `"Aku penasaran mengapa Maria sangat menyukai Halloween. `
-` Aku selalu membayangkan bahwa acara itu cukup asing bagi orang Jepang" `
-` "Ya, itu kan festival anak-anak dimana mereka berkeliling sambil memakai kostum, kan? `
-` Itu terasa menyenangkan karena bisa bermain sambil memakai kostum yang berbeda dari biasanya." `
-` "Hmm, ...aku rasa ada alasan lain yang lebih dari itu. `
-` Lagipula, dia adalah "penyihir" Maria-chan." `
-` "Coba pikirkan, saat kita berada di bandara, bukankah Maria mengatakan bahwa dia akan memakai kostum, dan menjadi penyihir? `
-` Bukankah dia menyukai penyihir?" `
-` "...Ya, dia menyukainya. `
-` Saking sukanya hingga terasa menyusahkan." `
-` "Hei, itu tidaklah buruk. `
-` Wajar saja anak-anak di umurnya menyukai sesuatu yang fantastis seperti itu." `
-` "itu mirip seperti heroine di sebuah anime, setidaknya mereka imut... `
-` ...*huuuh*" `
-` Melihat dari penampilan Rosa, sebagai ibunya, dia tidak terlalu menyukai anaknya yang suka kepada penyihir. `
-` Para sepupu selain Battler menyadari hal itu, mereka mengangkat bahu, mengeluarkan senyuman pahit. `
-` "Hmmmm? `
-` Jadi, kalian berdebat pasal Maria yang menyukai penyihir dan Halloween? `
-` Jika kita tidak tahu, mengapa tidak tanyakan saja padanya? `
-` Hey Maria. `
-` Seperti apa hubungan antara Halloween dengan penyihir?" `
-` Setelah Battler bertanya, George and Jessica mengeluarkan keluhan "ah". `
+`Setiap tahun, para kerabat yang mengunjungi Rokkenjima akan mengagumi pemandangan dari kebun mawar yang pertama kali menyambut mereka... `
+`Mereka akan berhenti di sana untuk membicarakn betapa indahnya bunga mawar dan bagaimana mereka bisa mekar setiap tahunnya. `
+`Di tengah semua ini, ada satu mawar yang kurang sehat, dan Maria merasa sangat sedih dan putus asa melihat kondisinya.. `
+`Namun George menggunakan kecerdasaannya, `
+`dan mengatakan, bahwa semuanya akan baik-baik saja jika mereka merawatnya, menandainya dengan bungkus permen, dan segera mengembalikan suasana hati Maria. `
+`Lalu Battler, yang berada dekat dengannya sepanjang hari, mulai membicarakan tentang Halloween. `
+`Itu merupakan topik kesukaan Maria yang membuatnya kembali ceria seperti semula. `
+`Bagi Maria, marshmallow dan permen jack-o-lantern yang dibawa oleh ibunya merupakan harta paling berharga. `
+`...Mereka terlihat membawa beberapa, dan melakukan trick-or-treat kepada setiap orang yang ditemui, mmberi permen kepada mereka ketimbang sebaliknya.. `
+`"Aku penasaran mengapa Maria sangat menyukai Halloween. `
+`Aku selalu membayangkan bahwa acara itu cukup asing bagi orang Jepang" `
+`"Ya, itu kan festival anak-anak dimana mereka berkeliling sambil memakai kostum, kan? `
+`Itu terasa menyenangkan karena bisa bermain sambil memakai kostum yang berbeda dari biasanya." `
+`"Hmm, ...aku rasa ada alasan lain yang lebih dari itu. `
+`Lagipula, dia adalah "penyihir" Maria-chan." `
+`"Coba pikirkan, saat kita berada di bandara, bukankah Maria mengatakan bahwa dia akan memakai kostum, dan menjadi penyihir? `
+`Bukankah dia menyukai penyihir?" `
+`"...Ya, dia menyukainya. `
+`Saking sukanya hingga terasa menyusahkan." `
+`"Hei, itu tidaklah buruk. `
+`Wajar saja anak-anak di umurnya menyukai sesuatu yang fantastis seperti itu." `
+`"itu mirip seperti heroine di sebuah anime, setidaknya mereka imut... `
+`...*huuuh*" `
+`Melihat dari penampilan Rosa, sebagai ibunya, dia tidak terlalu menyukai anaknya yang suka kepada penyihir. `
+`Para sepupu selain Battler menyadari hal itu, mereka mengangkat bahu, mengeluarkan senyuman pahit. `
+`"Hmmmm? `
+`Jadi, kalian berdebat pasal Maria yang menyukai penyihir dan Halloween? `
+`Jika kita tidak tahu, mengapa tidak tanyakan saja padanya? `
+`Hey Maria. `
+`Seperti apa hubungan antara Halloween dengan penyihir?" `
+`Setelah Battler bertanya, George and Jessica mengeluarkan keluhan "ah". `
 `...Seakan-akan ereka mencoba menghentikannya, tapi itu terlambat. `
-` Maria mungkin menunggu pertanyaan tersebut. `
-` Setelah bersinar sejenak, ekspresinya berubah menjadi sedikit kejam, seakan-akan mengatakan "Kau tidak tahu apa-apa ya?" `
-` Itu adalah wajah seorang maniak yang kesal ketika orang lain mengatakan hal bodoh tentang topik favoritnya. `
-` "Uu-. `
+`Maria mungkin menunggu pertanyaan tersebut. `
+`Setelah bersinar sejenak, ekspresinya berubah menjadi sedikit kejam, seakan-akan mengatakan "Kau tidak tahu apa-apa ya?" `
+`Itu adalah wajah seorang maniak yang kesal ketika orang lain mengatakan hal bodoh tentang topik favoritnya. `
+`"Uu-. `
 `...Bagi orang Celts, perubahan kekuatan matahari sepanjang tahun melambangkan... `
-` kelahiran, masa pertumbuhan, penuaan dan kematian, serta kebangkitannya kembali." `
-` "Aku mengerti. `
-` Pada musim semi, kehangatan sang matahari mulai meningkat dan semakin panas, `
-` kemudian mulai melemah dan mendingin. Sedikit masuk akal untuk berpikir bahwa Sort of makes sense to think of it as Matahari menjalani seluruh kehidupannya." `
-` "Benar. `
-` Jadi, mereka percaya bahwa pada akhir Oktober, matahari akan mati, dikuburkan di tanah orang mati, dan kemudian dibangkitkan kembali pada solstis musim dingin. `
-` Lalu nama yang mereka berikan untuk hari terakhir tahun mereka, ketika matahari mengakhiri siklus hidupnya selama satu tahun dan mati...adalah Samhain, dan mereka merayakannya saat itu juga." `
+`kelahiran, masa pertumbuhan, penuaan dan kematian, serta kebangkitannya kembali." `
+`"Aku mengerti. `
+`Pada musim semi, kehangatan sang matahari mulai meningkat dan semakin panas, `
+`kemudian mulai melemah dan mendingin. Sedikit masuk akal untuk berpikir bahwa Sort of makes sense to think of it as Matahari menjalani seluruh kehidupannya." `
+`"Benar. `
+`Jadi, mereka percaya bahwa pada akhir Oktober, matahari akan mati, dikuburkan di tanah orang mati, dan kemudian dibangkitkan kembali pada solstis musim dingin. `
+`Lalu nama yang mereka berikan untuk hari terakhir tahun mereka, ketika matahari mengakhiri siklus hidupnya selama satu tahun dan mati...adalah Samhain, dan mereka merayakannya saat itu juga." `
 `"Ini ide yang menarik, untuk berpikir bahwa matahari dibangkitkan kembali pada hari solstis musim dingin, ketika jam siang mulai bertambah panjang. `
 `Ini adalah contoh yang menunjukkan bahwa para leluhur menganggap matahari sebagai sesuatu yang suci." `
-` "...Aku paham. `
-` Jadi, apa hubungannya dengan penyihir?" `
-` Sepertinya lontaran rasa penasaran dari pertanyaanku membuat Maria kesal. `
-` Dia menatapku seakan-akan ngatakan untuk diam selagi dia menjelaskan. `
+`"...Aku paham. `
+`Jadi, apa hubungannya dengan penyihir?" `
+`Sepertinya lontaran rasa penasaran dari pertanyaanku membuat Maria kesal. `
+`Dia menatapku seakan-akan ngatakan untuk diam selagi dia menjelaskan. `
 `...Maria terlihat sangat bersemangat saat berbicara, jadi aku memutuskan untuk tidak mengganggunya... `
-` "Antara bulan Oktober dan November, kehidupan dan kematian menjadi sangat dekat. `
-` ...Bangsa Celts percaya bahwa pada masa ini, dunia manusia semakin dekat dengan dunia kematian dan makhluk gaib, `
-` dan banyak dari mereka yang berada di dunia lain akan datang mengunjungi. `
-` ...Itu mirip seperti festival Bon di Jepang. `
-` Kihihihihi." `
-` Pada saat itu, orang-orang percaya bahwa para arwah akan Kembali ke dunia nyata untuk memasuki atau menghantui rumah orang yang melakukan perbuaan buruk. `
-` Jadi, untuk menghindari bahaya, mereka melakukan ritual. `
-` Salah satunya adalah dengan meniru monster menyeramkan dan menakuti arwah agar kembali, yang tampaknya merupakan cara untuk menghindari kerasukan. `
-` "Bagian itulah yang menjadikannya festival, yang kemudian berubah menjadi parade kostum. `
-` ...Kau tahu banyak ya, Maria" `
+`"Antara bulan Oktober dan November, kehidupan dan kematian menjadi sangat dekat. `
+`...Bangsa Celts percaya bahwa pada masa ini, dunia manusia semakin dekat dengan dunia kematian dan makhluk gaib, `
+`dan banyak dari mereka yang berada di dunia lain akan datang mengunjungi. `
+`...Itu mirip seperti festival Bon di Jepang. `
+`Kihihihihi." `
+`Pada saat itu, orang-orang percaya bahwa para arwah akan Kembali ke dunia nyata untuk memasuki atau menghantui rumah orang yang melakukan perbuaan buruk. `
+`Jadi, untuk menghindari bahaya, mereka melakukan ritual. `
+`Salah satunya adalah dengan meniru monster menyeramkan dan menakuti arwah agar kembali, yang tampaknya merupakan cara untuk menghindari kerasukan. `
+`"Bagian itulah yang menjadikannya festival, yang kemudian berubah menjadi parade kostum. `
+`...Kau tahu banyak ya, Maria" `
 `"...Bukankah itu benar?. `
-` Bahkan aku tidak tahu bahwa Halloween memiliki cerita seperti itu." `
-` "Namun darimana datangnya budaya seperti trick-or-treat?" `
-` Pengetahuannya begitu luas hingga para orang dewasa mulai mendenarkannya juga. `
-` Maria, yang biasanya diperlakukan sebagai yang paling muda, membusungkan dadanya dengan bangga. `
-` Rosa mengatakan bahwa ini hanyalah pembicaraan anak-anak, lalu dia menyarankan agar orang dewasa melanjutkan perjalanan dan menaruh barang bawaan mereka di penginapan. `
-` Namun tidak ada yang setuju dengannya, dan dia meninggalkan kerumunan sambil mengeluh. `
-` "Uu-. `
-` Trick-or-treat hanyalah untuk bersenang-senang. `
-` Itu sama sekal tidak ada hubungannya dengan upacara Celtic yang semula. `
-` Hal itu kemudian muncul ketika tradisi Kristen mulai dicampurkan. `
-` ...Namun, menurutku, Halloween memang seharusnya seperti itu." `
-` Menurut Maria, bukan hanya jiwa dari orang yang mati yang mengujungi duina manusia. `
-` Ada juga roh-roh yang memiliki hubungan erat dengan kehidupan sehari-hari manusia. `
-` Manusia dapat menerima menerima kebaikan dari para roh, sehingga mereka berhasil memperoleh berkah yang luar biasa, `
-` serta hasil panen yang baik selama setahun. `
-` "Jadi pada dasarnya, Halloween juga sedikit mirip dengan festival panen?" `
-` "Aku paham. `
-` ...Setelah kau mengatakannya, aku rasa Oktober merupakan titik balik dalam berbagai hal, termasuk pergantian musim. `
-` Sedikit berbeda dengan bulan Apri di Jepang. `
-` ...Ya, itu mungkin akan menjadi tempat mang bagus untuk menandainya." `
-` "Uu-! `
-` Dan juga, para penyihir mengadakan pertemuan penyihir, yang disebut dengan Sabbath. `
-` Para penyihir mengucapkan terima kasih kepada roh-roh yang memberikan berkah kemakmuran dan membalasnya dengan hadiah." `
-` "Pakaian Halloween merupakan tiruan dari para tamu yang datang dari dunia lain. `
-` ...Dengan kata lain, kau ingin mengatakan bahwa membagikan permen merupakan bentuk rasa syukur atas panen tahunan." `
-` "Uu-! `
-` Seperti yang George onii-chan katakan!" `
-` "Jadi Halloween merupakan waktu dimana kedua dunia saling bercampur? `
-` Dengan kata lain, itu merupakan kesempatan yang paling penting untuk para penyihir berinteraksi dengan tamu di dunia tersebut. `
-` Bukankah itu yang ingin kamu katakan?" `
-` "Uu-!! `
-` Seperti yang Battler katakan!" `
-` "Dan apakah kamu tahu? `
-` Tahu apa?! `
-` Oktober merupakan waktu dimana kekuatan dari para penyihir dan iblis berada di puncak kejayaannya! `
- `Kihihihihihihihi, aku yakin {f:5:Beatrice} akan datang!" `
-` "Lalu, kita akan marshmallow bersama, and she'll bring me to the Golden Land with her! `
+`Bahkan aku tidak tahu bahwa Halloween memiliki cerita seperti itu." `
+`"Namun darimana datangnya budaya seperti trick-or-treat?" `
+`Pengetahuannya begitu luas hingga para orang dewasa mulai mendenarkannya juga. `
+`Maria, yang biasanya diperlakukan sebagai yang paling muda, membusungkan dadanya dengan bangga. `
+`Rosa mengatakan bahwa ini hanyalah pembicaraan anak-anak, lalu dia menyarankan agar orang dewasa melanjutkan perjalanan dan menaruh barang bawaan mereka di penginapan. `
+`Namun tidak ada yang setuju dengannya, dan dia meninggalkan kerumunan sambil mengeluh. `
+`"Uu-. `
+`Trick-or-treat hanyalah untuk bersenang-senang. `
+`Itu sama sekal tidak ada hubungannya dengan upacara Celtic yang semula. `
+`Hal itu kemudian muncul ketika tradisi Kristen mulai dicampurkan. `
+`...Namun, menurutku, Halloween memang seharusnya seperti itu." `
+`Menurut Maria, bukan hanya jiwa dari orang yang mati yang mengujungi duina manusia. `
+`Ada juga roh-roh yang memiliki hubungan erat dengan kehidupan sehari-hari manusia. `
+`Manusia dapat menerima menerima kebaikan dari para roh, sehingga mereka berhasil memperoleh berkah yang luar biasa, `
+`serta hasil panen yang baik selama setahun. `
+`"Jadi pada dasarnya, Halloween juga sedikit mirip dengan festival panen?" `
+`"Aku paham. `
+`...Setelah kau mengatakannya, aku rasa Oktober merupakan titik balik dalam berbagai hal, termasuk pergantian musim. `
+`Sedikit berbeda dengan bulan Apri di Jepang. `
+`...Ya, itu mungkin akan menjadi tempat mang bagus untuk menandainya." `
+`"Uu-! `
+`Dan juga, para penyihir mengadakan pertemuan penyihir, yang disebut dengan Sabbath. `
+`Para penyihir mengucapkan terima kasih kepada roh-roh yang memberikan berkah kemakmuran dan membalasnya dengan hadiah." `
+`"Pakaian Halloween merupakan tiruan dari para tamu yang datang dari dunia lain. `
+`...Dengan kata lain, kau ingin mengatakan bahwa membagikan permen merupakan bentuk rasa syukur atas panen tahunan." `
+`"Uu-! `
+`Seperti yang George onii-chan katakan!" `
+`"Jadi Halloween merupakan waktu dimana kedua dunia saling bercampur? `
+`Dengan kata lain, itu merupakan kesempatan yang paling penting untuk para penyihir berinteraksi dengan tamu di dunia tersebut. `
+`Bukankah itu yang ingin kamu katakan?" `
+`"Uu-!! `
+`Seperti yang Battler katakan!" `
+`"Dan apakah kamu tahu? `
+`Tahu apa?! `
+`Oktober merupakan waktu dimana kekuatan dari para penyihir dan iblis berada di puncak kejayaannya! `
+`Kihihihihihihihi, aku yakin {f:5:Beatrice} akan datang!" `
+`"Lalu, kita akan marshmallow bersama, and she'll bring me to the Golden Land with her! `
 `We'll sing magical songs together, mempelajari mantra sihir bersama, mempelajari cara membuat lingkaran sihir bersama! `
-` Kemudian, kita akan mencari tahu rahasia dari aksara kuno, dan aku akan menjadi penyihir yang agung, secepatnya!" `
-` "Wah, wah, bukankah itu menakjubkan. `
-` Sebaiknya anak-anak memiliki impian.. `
-` Ngomong-ngomong, Rosa, `
-` Berapa umur Maria tahun ini?...?" `
-` "M-Maria, `
+`Kemudian, kita akan mencari tahu rahasia dari aksara kuno, dan aku akan menjadi penyihir yang agung, secepatnya!" `
+`"Wah, wah, bukankah itu menakjubkan. `
+`Sebaiknya anak-anak memiliki impian.. `
+`Ngomong-ngomong, Rosa, `
+`Berapa umur Maria tahun ini?...?" `
+`"M-Maria, `
 `...cukup dengan itu!" `
-` "Jangan khawatir, Rosa-san. `
-` Itu adalah impian yang pernah dimiliki oleh semua gadis di saat tertentu." `
-` "Te-terima kasih banyak. `
+`"Jangan khawatir, Rosa-san. `
+`Itu adalah impian yang pernah dimiliki oleh semua gadis di saat tertentu." `
+`"Te-terima kasih banyak. `
 `...Namun Maria sudah lewat dari masa itu. `
 `...Hei, aku bilang berhenti!" `
-` Rosa memarahi Maria, berusaha untuk membuatnya diam sebelum pembicaraan tentang sihir hitam membuatnya ditertawakan oleh para kerabat. `
-` "Oh...? `
-` Itu terdengar cukup detail dan impresif. `
-` ...Nomong-ngomong, siapa itu {f:5:Beatrice}? `
-` ...Hmm, aku merasa pernah mendengar nama itu sebelumnya..." `
-` Battler telah pergi selama enam tahun....dan hampir sepenuhnya lupa tentang legenda penyihir di Rokkenjima. `
-` Bagaimanapun, saat dia mengatakan bahadia tidak mengetahui nama {f:5:Beatrice}, suasana hati Maria berubah menjadi suram dalam sekejap. `
-` Saat dia melihatnya, Battler langsung ingat bahwa itu merupakan nama dari penyihir di pulau ini, tetapi bencana telah terjadi. `
+`Rosa memarahi Maria, berusaha untuk membuatnya diam sebelum pembicaraan tentang sihir hitam membuatnya ditertawakan oleh para kerabat. `
+`"Oh...? `
+`Itu terdengar cukup detail dan impresif. `
+`...Nomong-ngomong, siapa itu {f:5:Beatrice}? `
+`...Hmm, aku merasa pernah mendengar nama itu sebelumnya..." `
+`Battler telah pergi selama enam tahun....dan hampir sepenuhnya lupa tentang legenda penyihir di Rokkenjima. `
+`Bagaimanapun, saat dia mengatakan bahadia tidak mengetahui nama {f:5:Beatrice}, suasana hati Maria berubah menjadi suram dalam sekejap. `
+`Saat dia melihatnya, Battler langsung ingat bahwa itu merupakan nama dari penyihir di pulau ini, tetapi bencana telah terjadi. `
 `...Sampai suasana hati Maria membaik, dia terus-menerus bercerita tentang banyak kisah misterius dan fantastis mengenai Penyihir Emas... `
-` "Itu cukup, Maria. `
-` Terima kasih, Battler-kun, telah membiarkannya bicara denganmu. `
+`"Itu cukup, Maria. `
+`Terima kasih, Battler-kun, telah membiarkannya bicara denganmu. `
 `...Kanon-kun, bukannya kamu masih memiliki pekerjaan? `
-` Tolong segera pergi. `
-` Gohda-san, sepertinya semua orang ingin meletakkan tas mereka untuk sementara waktu. `
-`  Maaf tapi, bisakah kamu memandu semua orang ke penginapan?" `
-` "Dapat dimengerti. `
+`Tolong segera pergi. `
+`Gohda-san, sepertinya semua orang ingin meletakkan tas mereka untuk sementara waktu. `
+` Maaf tapi, bisakah kamu memandu semua orang ke penginapan?" `
+`"Dapat dimengerti. `
 `...Kalau begitu semuanya, izinkan aku memandu kalian." `
-` "...Baiklah, jika kau berkenan." `
-` Gohda memimpin para kerabat, dan mereka mulai menuju ke penginapan. `
-` Mereka sangat ingin meletakkan barang bawaan mereka dan beristirahat sejenak, sehingga mereka tidak menyadari bahwa Rosa dan Maria tidak ikut bersamanya. `
-` Setelah melihat mereka pergi menuju penginapan, wajah Rosa tiba-tiba berubah. `
-` Dia melepaskan tangan yang telah memegang Maria sepanjang waktu. `
+`"...Baiklah, jika kau berkenan." `
+`Gohda memimpin para kerabat, dan mereka mulai menuju ke penginapan. `
+`Mereka sangat ingin meletakkan barang bawaan mereka dan beristirahat sejenak, sehingga mereka tidak menyadari bahwa Rosa dan Maria tidak ikut bersamanya. `
+`Setelah melihat mereka pergi menuju penginapan, wajah Rosa tiba-tiba berubah. `
+`Dia melepaskan tangan yang telah memegang Maria sepanjang waktu. `
 `...Ada bekas merah terang di sana, menunjukkan betapa besar kekuatan yang dia gunakan pada lengan Maria yang ramping. `
-` Tangan itu lalu menampar kepala Maria, mencubit telinga kirinya, dan mengangkatnya... `
-` "Padahal aku selalu bilang padamu untuk tidak membicarakan tentan penyihir... `
-` ...Bukankah aku selalu bilang itu janji kita bersama...?" `
-` “Mama, sakit...Mama, sakit...sakit sakit sakit......” `
-` "Kamu benar-benar suka berbicara tentang Halloween terus-menerus, bukan...? `
+`Tangan itu lalu menampar kepala Maria, mencubit telinga kirinya, dan mengangkatnya... `
+`"Padahal aku selalu bilang padamu untuk tidak membicarakan tentan penyihir... `
+`...Bukankah aku selalu bilang itu janji kita bersama...?" `
+`“Mama, sakit...Mama, sakit...sakit sakit sakit......” `
+`"Kamu benar-benar suka berbicara tentang Halloween terus-menerus, bukan...? `
 `Festival untuk penyihir...? `
-` Siapa yang peduli dengan prasasti, sihir hitam, dan segala jenis smpah bodoh lainnya...? `
-` Kau masih berumur Sembilan tahun, sembilan... `
-` Gara-gara cerita yang kau buat di dalam kereta, aku harus berhenti dan membeli marshmallow monster yang menjijikkan itu untukmu, yang terlihat seolah-olah dilapisi cat fluorescent... `
-` Aku sengaja pergi jauh-jauh untuk membelinya, meskipun itu membuat kita terlambat.. `
-` Seberapa banyak kau ingin mempermalukanku sampai kau puas...?!" `
-` Saat Rosa memarahinya, dia memutar telinga Maria ke atas, seolah-olah akan mencabutnya... `
-` Raut wajah Maria dipenuhi rasa sakit sementara dia berdiri di ujung jari kaki dengan panik, berusaha meredakan rasa sakit di telinganya... `
-` Rosa tiba-tiba merebut permen yang dipegang Maria. `
-` Dia melemparkannya ke tanah dan menginjaknya berulang kali. `
-` Bagi Maria, itu seharusnya menjadi bukti kenangan...sebuah momen singkat ketika ibunya membelikan sesuatu yang menyenangkan untuknya... `
-` Tapi kini, ibu yang sama itu menginjak-injaknya di tanah tepat di depannya. `
+`Siapa yang peduli dengan prasasti, sihir hitam, dan segala jenis smpah bodoh lainnya...? `
+`Kau masih berumur Sembilan tahun, sembilan... `
+`Gara-gara cerita yang kau buat di dalam kereta, aku harus berhenti dan membeli marshmallow monster yang menjijikkan itu untukmu, yang terlihat seolah-olah dilapisi cat fluorescent... `
+`Aku sengaja pergi jauh-jauh untuk membelinya, meskipun itu membuat kita terlambat.. `
+`Seberapa banyak kau ingin mempermalukanku sampai kau puas...?!" `
+`Saat Rosa memarahinya, dia memutar telinga Maria ke atas, seolah-olah akan mencabutnya... `
+`Raut wajah Maria dipenuhi rasa sakit sementara dia berdiri di ujung jari kaki dengan panik, berusaha meredakan rasa sakit di telinganya... `
+`Rosa tiba-tiba merebut permen yang dipegang Maria. `
+`Dia melemparkannya ke tanah dan menginjaknya berulang kali. `
+`Bagi Maria, itu seharusnya menjadi bukti kenangan...sebuah momen singkat ketika ibunya membelikan sesuatu yang menyenangkan untuknya... `
+`Tapi kini, ibu yang sama itu menginjak-injaknya di tanah tepat di depannya. `
 `...Seolah-olah sebuah cap telah ditekan ke mata Maria, meninggalkan bekas yang tak pernah bisa dihapus... `
-` "Siapa yang peduli dengan permen yang menjijikan ini, `
-` menjijikan, menjijikan...!! `
-` Ini semua gara-gara kau, gara-gara kau yang bertingkah seperi itu!! `
-` Menjijikan menjijikan menjijikan!!!" `
-` Sambil mengatakan itu, dia memukul kepala Maria berulang kali dengan telapak tangannya. `
-` ...Dia tidak memukul wajah Maria. Karena nanti bekasnya akan mencolok. `
-` Maria menutup matanya erat-erat, menahan kekerasan ibunya dengan sabar... `
+`"Siapa yang peduli dengan permen yang menjijikan ini, `
+`menjijikan, menjijikan...!! `
+`Ini semua gara-gara kau, gara-gara kau yang bertingkah seperi itu!! `
+`Menjijikan menjijikan menjijikan!!!" `
+`Sambil mengatakan itu, dia memukul kepala Maria berulang kali dengan telapak tangannya. `
+`...Dia tidak memukul wajah Maria. Karena nanti bekasnya akan mencolok. `
+`Maria menutup matanya erat-erat, menahan kekerasan ibunya dengan sabar... `
 `...Tidak, itu masih belum cukup. `
-` "...Kembalikan Mama... Kembalikan Mama... `
-` Tolong aku, tolong aku, Mama... `
-` Kalahkan penyihir jahat ini..." `
-` Dia terus menahan serangan Rosa, menggumamkan hal tersebut berulang kali... `
-` "Bukankah udah ku katakan... `
-` kepadamu... `
-` untuk berhenti... `
+`"...Kembalikan Mama... Kembalikan Mama... `
+`Tolong aku, tolong aku, Mama... `
+`Kalahkan penyihir jahat ini..." `
+`Dia terus menahan serangan Rosa, menggumamkan hal tersebut berulang kali... `
+`"Bukankah udah ku katakan... `
+`kepadamu... `
+`untuk berhenti...`
 ' membicarakan... `
-` tentang penyihir?!! `
-` Kenapa kau, `
-` kau, kau!!!" `
+`tentang penyihir?!! `
+`Kenapa kau, `
+`kau, kau!!!" `
 `Rosa, lelah setelah memukuli putrinya, bernapas begitu keras hingga bahunya bergetar. `
-` ...Maria menggenggam tangannya erat-erat, menahan diri, berharap "ibunya" akan segera kembali... `
-` "...Mama, Mama... `
-` Tolong segera kembali... `
-` Selamatkan aku, Mama... `
-` Kalahkan penyihir jahat..." `
-` "B-baiklah, silahkan berada di situ selamanya!! `
-` Tetaplah berdiri di sini, menggumamkan soal penyihir dan Halloween selamanya!!" `
-` Setelah melempar kata-kata tersebut pada Maria, Rosa pergi ke arah penginapan, meninggalkan Maria sendirian. `
-` ...Maria, bahkan lupa bahwa dia boleh menangis, `
-` lalu menatap ke bawah pada permen jack-o-lantern yang telah diinjak-injak hingga tak dikenali... `
-` "Oh, Rosa. `
-` Darimana saja kamu?" `
-` "Maafkan aku. `
-` Bunga mawarnya sangat indah, aku hanya..." `
-` "Rosa, letakkan barang bawaanmu dengan cepat dan ikutlah bersama kami. `
-` Kita akan menyambut Aniki." `
-` "Hmm? `
-` Ada apa dengan Maria-chan? `
-` Apakah dia masih berada di taman bunga?" `
-` "...Ya. `
-` Kelihatamnya dia menemukan mawar yang dia sukai dan bersikeras ingin merawatnya, menolak untuk mendengarkanku. `
-` Aku memutuskan untuk membiarkannya melakukan apa yang dia inginkan untuk sementara waktu." `
-` "......Kita terkadang lupa bahwa para gadis memiliki dunia kecil mereka sendiri. `
-` Terkadang, kita harus menghargainya, bukan?" `
- `"...Itu benar. `
-` ...Terima kasih atas perhatiannya, Kyrie nee-san." `
-` "...Gohda-san, `
-` Dimana ruangan kami?" `
-` "Aku akan memandumu, sebelah sini. `
-` Izinkan aku membawa barang bawaanmu." `
- `"Tidak perlu. aku bisa membawanya sendiri, terima kasih." `
-` Rosa pergi menuju ruangannya, dipandu Gohda. `
-` Lalu dia menutup pintu dengan keras dan melempar barang bawaannya ke atas kasur. `
-` "............... `
-` ........." `
-` Dia berlutut di depan tempat tidur, ...menyembunyikan wajahnya di sana. `
-` Selama beberapa saat, Rosa seolah-olah ingin merobek seprai dengan kuku jarinya, menangis terus-menerus... `
-` "......Maria-sama, `
+`...Maria menggenggam tangannya erat-erat, menahan diri, berharap "ibunya" akan segera kembali... `
+`"...Mama, Mama... `
+`Tolong segera kembali... `
+`Selamatkan aku, Mama... `
+`Kalahkan penyihir jahat..." `
+`"B-baiklah, silahkan berada di situ selamanya!! `
+`Tetaplah berdiri di sini, menggumamkan soal penyihir dan Halloween selamanya!!" `
+`Setelah melempar kata-kata tersebut pada Maria, Rosa pergi ke arah penginapan, meninggalkan Maria sendirian. `
+`...Maria, bahkan lupa bahwa dia boleh menangis, `
+`lalu menatap ke bawah pada permen jack-o-lantern yang telah diinjak-injak hingga tak dikenali... `
+`"Oh, Rosa. `
+`Darimana saja kamu?" `
+`"Maafkan aku. `
+`Bunga mawarnya sangat indah, aku hanya..." `
+`"Rosa, letakkan barang bawaanmu dengan cepat dan ikutlah bersama kami. `
+`Kita akan menyambut Aniki." `
+`"Hmm? `
+`Ada apa dengan Maria-chan? `
+`Apakah dia masih berada di taman bunga?" `
+`"...Ya. `
+`Kelihatamnya dia menemukan mawar yang dia sukai dan bersikeras ingin merawatnya, menolak untuk mendengarkanku. `
+`Aku memutuskan untuk membiarkannya melakukan apa yang dia inginkan untuk sementara waktu." `
+`"......Kita terkadang lupa bahwa para gadis memiliki dunia kecil mereka sendiri. `
+`Terkadang, kita harus menghargainya, bukan?" `
+`"...Itu benar. `
+`...Terima kasih atas perhatiannya, Kyrie nee-san." `
+`"...Gohda-san, `
+`Dimana ruangan kami?" `
+`"Aku akan memandumu, sebelah sini. `
+`Izinkan aku membawa barang bawaanmu." `
+`"Tidak perlu. aku bisa membawanya sendiri, terima kasih." `
+`Rosa pergi menuju ruangannya, dipandu Gohda. `
+`Lalu dia menutup pintu dengan keras dan melempar barang bawaannya ke atas kasur. `
+`"............... `
+`........." `
+`Dia berlutut di depan tempat tidur, ...menyembunyikan wajahnya di sana. `
+`Selama beberapa saat, Rosa seolah-olah ingin merobek seprai dengan kuku jarinya, menangis terus-menerus... `
+`"......Maria-sama, `
 `...apa kau baik-baik saja?" `
 `Kanon muncul di balik semak belukar setelah melihat Rosa meninggalkannya. `
-` "...Kihi, ...kihihihihihihihihihi... `
+`"...Kihi, ...kihihihihihihihihihi... `
 `...Aku baik-baik saja. `
-` ...Kihihihihi." `
-` Maria mengeluarkan tawa yang seram, tetapi bagi Kanon, yang telah melihat seluruh kejadian, merasa bahwa dia telah menahan itu sebisanya... `
-` "Dia orang yang sangat buruk. `
-` Aku tidak percaya bahwa dia seorang ibu..." `
-` "...Mau bagaimana lagi. `
-` Kau tidak bisa mengharapkan hal yang lbih baik lebih dari itu. `
+`...Kihihihihi." `
+`Maria mengeluarkan tawa yang seram, tetapi bagi Kanon, yang telah melihat seluruh kejadian, merasa bahwa dia telah menahan itu sebisanya... `
+`"Dia orang yang sangat buruk. `
+`Aku tidak percaya bahwa dia seorang ibu..." `
+`"...Mau bagaimana lagi. `
+`Kau tidak bisa mengharapkan hal yang lbih baik lebih dari itu. `
 `...Aku baik-baik saja. `
-` Kihihihihihihihihihi......" `
-` Kanon berlutut dan memungut permen yang terinjak-injak. `
-` ...Hana dengan melihatnya saja udah mengerikan. `
-` Dia berpikir untuk membersihkan dan memberikannya kembali, tetapi dia tidak bisa melakukannya dengan kondisi seperti itu. `
-` Saat dia berpikir apa yang harus dilakukan, da melihat tatapan Maria. `
-` ...Tidak, itu tidak benar. `
-` Pandangan Maria tertuju pada permen yang telah diambil Kanon. `
-` ...Saat ini, hati Maria-sama seperti permen yang telah diinjak-injak hingga hancur... `
-` Kanon menyadari hal itu, tetapi tidak tahu apa yang harus dilakukan... `
-` "...Itu benar... `
-` ...Aku akan menggantinya dengan permen yang ku terima barusan." `
-` Kanon mengingat bahwa dia menerima permen yang sama dari Maria di dalam sakunya. `
-` Maria menjulurkan tangannya. `
+`Kihihihihihihihihihi......" `
+`Kanon berlutut dan memungut permen yang terinjak-injak. `
+`...Hana dengan melihatnya saja udah mengerikan. `
+`Dia berpikir untuk membersihkan dan memberikannya kembali, tetapi dia tidak bisa melakukannya dengan kondisi seperti itu. `
+`Saat dia berpikir apa yang harus dilakukan, da melihat tatapan Maria. `
+`...Tidak, itu tidak benar. `
+`Pandangan Maria tertuju pada permen yang telah diambil Kanon. `
+`...Saat ini, hati Maria-sama seperti permen yang telah diinjak-injak hingga hancur... `
+`Kanon menyadari hal itu, tetapi tidak tahu apa yang harus dilakukan... `
+`"...Itu benar... `
+`...Aku akan menggantinya dengan permen yang ku terima barusan." `
+`Kanon mengingat bahwa dia menerima permen yang sama dari Maria di dalam sakunya. `
+`Maria menjulurkan tangannya. `
 `...Kanon mengira bahwa dia berusaha mengambilnya, jadi dia menyerahkan permennya, tetapi Maria tidak mencoba mengambilnya. `
-` ...Lalu Kanon menyadari sesuatu. `
-` ...Dia mengatakan "Kembalikan". `
-` ...Tidak peduli sberapa hancur permen tersebut, itu erupakan milik Maria. `
-` ...Ibunya membawkan itu untuknya. `
-` Tidak peduli seberapa kejamnya, hanya permen itu yang diinginkannya, bukan yang lain... `
-` Andai saja kondisinya sedikit lebih baik sehingga bisa diperbaiki hanya dengan membersihkannya... `
-` ...Kanon menundukkan kepalanya. `
-` "......Aku hanya membersikannya dari debu sebisa mungkin. `
-` ......Maafkan aku." `
-` Kanon menyerahkan permen yang terlihat menyedihkan ini kepada Maria. `
-` Dia mengambilnya lalu berkata. `
-` "...Terima kasih. `
-` Manusia tidak bsa membesihkan lebih dari ini, tetapi penyihir bsa mengembalikannya seperti semuls. `
-` Sangat mudah bagi {f:5:Beatrice} melakukannya. `
-` Kihihihihihi." `
-` "............Maria‐sama, `
-` ...kau tahu tentang `
-` {f:5:Beatrice}-sama? `
-` Selain Battler, tidak ada satupun dari keluarga Ushiromiya yang tidak mengetahui nama {f:5:Beatrice}. `
-` ...Namun baru saja, Maria mengisahkan tentang {f:5:Beatrice} kepada Battler. `
-` DIa berbicara seakaan-akan sering bertemu dengan {f:5:Beatrice}. `
-` Kanon merasakan perih di dalam tangan kirinya, yang terkepal menjadi kepalan tangan. `
-` ...Di masa lalu, penyihir yang disebut {f:5:Beatrice} muncul untuk menggoda dia dan Shannon. `
-` Dia selalu menganggap itu sebagai mimpi buruk. `
+`...Lalu Kanon menyadari sesuatu. `
+`...Dia mengatakan "Kembalikan". `
+`...Tidak peduli sberapa hancur permen tersebut, itu erupakan milik Maria. `
+`...Ibunya membawkan itu untuknya. `
+`Tidak peduli seberapa kejamnya, hanya permen itu yang diinginkannya, bukan yang lain... `
+`Andai saja kondisinya sedikit lebih baik sehingga bisa diperbaiki hanya dengan membersihkannya... `
+`...Kanon menundukkan kepalanya. `
+`"......Aku hanya membersikannya dari debu sebisa mungkin. `
+`......Maafkan aku." `
+`Kanon menyerahkan permen yang terlihat menyedihkan ini kepada Maria. `
+`Dia mengambilnya lalu berkata. `
+`"...Terima kasih. `
+`Manusia tidak bsa membesihkan lebih dari ini, tetapi penyihir bsa mengembalikannya seperti semuls. `
+`Sangat mudah bagi {f:5:Beatrice} melakukannya. `
+`Kihihihihihi." `
+`"............Maria‐sama, `
+`...kau tahu tentang `
+`{f:5:Beatrice}-sama? `
+`Selain Battler, tidak ada satupun dari keluarga Ushiromiya yang tidak mengetahui nama {f:5:Beatrice}. `
+`...Namun baru saja, Maria mengisahkan tentang {f:5:Beatrice} kepada Battler. `
+`DIa berbicara seakaan-akan sering bertemu dengan {f:5:Beatrice}. `
+`Kanon merasakan perih di dalam tangan kirinya, yang terkepal menjadi kepalan tangan. `
+`...Di masa lalu, penyihir yang disebut {f:5:Beatrice} muncul untuk menggoda dia dan Shannon. `
+`Dia selalu menganggap itu sebagai mimpi buruk. `
 `...Namun, Shannon menekankan bahwa itu mmerupakan penyihir sungguhan. `
-` Bagaimanapun, musim panas kali ini... `
-` ...Pura yang didedikasikan untuk dewa Shinto setempat disambar petir, menghilang tanpa jejak dalam waktu semalam. `
-` ...Dia tahu bahwa Shannon telah menghancurkan cermin. `
-` ...Dan dia mengingat hal itu, Ketika penyihir itu pergi, dia mengatakan bahwa dirinya akan bangkit kembali. `
-` Dan sekarang, ......gadis ini yang sangat percaya dengan {f:5:Beatrice}...berbicara seakan-akan telah bertemu dengan {f:5:Beatrice}. `
-` ...kanon tidak bisa menahan perasaan gelisah yang samar-samar muncul di hatinya. `
-` Untuk sementara, Maria tetap diam, seakan-akan dia bisa melihat ke dalam hati Kanon. `
-` ...Seolah dia sedang menunggu kenangan tentang {f:5:Beatrice} untuk bangkit kembali. `
-` Kemudian, dia berbicara, seakan-akan itu merupakan fakta. `
-` "Kihihihihi... `
-` Kau tahu, aku berteman dengan {f:5:Beatrice}. `
-` Aku bahkan berencana untuk bertemu dan bermain dengannya hari ini. `
-` Kihihihihihihihihi..." `
-` "YKau akan...bermain?" `
-` "...Ye. `
-` Tentu saja kita akan bermain. `
-` Kita akan belajar sihir bersama. `
-` Kihihihihihihihi..." `
-` ...Wajah dari penyihir tersebut, dimana Kanon berusaha menganggap itu sebagai mimpi buruk, `
+`Bagaimanapun, musim panas kali ini... `
+`...Pura yang didedikasikan untuk dewa Shinto setempat disambar petir, menghilang tanpa jejak dalam waktu semalam. `
+`...Dia tahu bahwa Shannon telah menghancurkan cermin. `
+`...Dan dia mengingat hal itu, Ketika penyihir itu pergi, dia mengatakan bahwa dirinya akan bangkit kembali. `
+`Dan sekarang, ......gadis ini yang sangat percaya dengan {f:5:Beatrice}...berbicara seakan-akan telah bertemu dengan {f:5:Beatrice}. `
+`...kanon tidak bisa menahan perasaan gelisah yang samar-samar muncul di hatinya. `
+`Untuk sementara, Maria tetap diam, seakan-akan dia bisa melihat ke dalam hati Kanon. `
+`...Seolah dia sedang menunggu kenangan tentang {f:5:Beatrice} untuk bangkit kembali. `
+`Kemudian, dia berbicara, seakan-akan itu merupakan fakta. `
+`"Kihihihihi... `
+`Kau tahu, aku berteman dengan {f:5:Beatrice}. `
+`Aku bahkan berencana untuk bertemu dan bermain dengannya hari ini. `
+`Kihihihihihihihihi..." `
+`"YKau akan...bermain?" `
+`"...Ye. `
+`Tentu saja kita akan bermain. `
+`Kita akan belajar sihir bersama. `
+`Kihihihihihihihi..." `
+`...Wajah dari penyihir tersebut, dimana Kanon berusaha menganggap itu sebagai mimpi buruk, `
 `...mulai muncul perlahan di kepalanya... `
-` "Ayah mengatakan bahwa dia sangat sibuk dengan penelitiannya. `
-` Sangat disayangkan, sepertinya dia tidak akan segeras turun." `
-` "...Ayolah. `
-` Kita telah menjadwalkan konferensi ini dan datang jauh-jauh ke Rokkenjima di tengah musim gugur yang sibuk ini. `
-` Seharusnya Ayah bisa sedikit lebih ramah." `
-` "Ya, kau benar. `
-` ...Dokter Nanjo, `
-` Apakah benar bahwa penelitian dan mood-nya yang menjadi masalah? `
-` Dia tidak berbaring di kasur, atau tidak dapat bangun, kan?" `
-` "...Mengenai itu, ...aku kurang pasti. `
-` Tidak banyak yang bisa ku katakan..." `
-` Nanjo melirik Natsuhi. `
-` Kelihatannya dia merasa tidak layak berbicara sebelum mendapat persetujuan dari Natsuhi. `
-` "Kondisi Ayah lebih baik dari sebelumnya. `
-` Sedikit tidak sopan untuk menyebutnya "berbaring di kasur"...!" `
-` "Namun dia masih memiliki umur sampai tiga bulan kedepan, bukan? `
-` Normalnya, tidakkah wajar untuk mengira bahwa dia akan sekarat, seperti tidak bisa bangun dari tempat tidur? `
-` Bukankah begitu, Dokter Nanjo?" `
-` "......Untuk pasien normal, mungkin akan seperti itu. `
-` Namun Kinzo-san memiliki tekad yang luar biasa. `
+`"Ayah mengatakan bahwa dia sangat sibuk dengan penelitiannya. `
+`Sangat disayangkan, sepertinya dia tidak akan segeras turun." `
+`"...Ayolah. `
+`Kita telah menjadwalkan konferensi ini dan datang jauh-jauh ke Rokkenjima di tengah musim gugur yang sibuk ini. `
+`Seharusnya Ayah bisa sedikit lebih ramah." `
+`"Ya, kau benar. `
+`...Dokter Nanjo, `
+`Apakah benar bahwa penelitian dan mood-nya yang menjadi masalah? `
+`Dia tidak berbaring di kasur, atau tidak dapat bangun, kan?" `
+`"...Mengenai itu, ...aku kurang pasti. `
+`Tidak banyak yang bisa ku katakan..." `
+`Nanjo melirik Natsuhi. `
+`Kelihatannya dia merasa tidak layak berbicara sebelum mendapat persetujuan dari Natsuhi. `
+`"Kondisi Ayah lebih baik dari sebelumnya. `
+`Sedikit tidak sopan untuk menyebutnya "berbaring di kasur"...!" `
+`"Namun dia masih memiliki umur sampai tiga bulan kedepan, bukan? `
+`Normalnya, tidakkah wajar untuk mengira bahwa dia akan sekarat, seperti tidak bisa bangun dari tempat tidur? `
+`Bukankah begitu, Dokter Nanjo?" `
+`"......Untuk pasien normal, mungkin akan seperti itu. `
+`Namun Kinzo-san memiliki tekad yang luar biasa. `
 `...Mungkin tekad yang begitu kuat tersebut telah menakuti malaikat maut...." `
-` "Ya, jika dia begitu bersemangat, maka aku tidak perlu khawatir untuk masa depannya, bukan?" `
-` "...Meski begitu, jika dia memiliki semangat sebesar itu, setidaknya datang untuk menyapa kita. `
-` ...Bukankah tujuan utama konferensi keluarga ini adalah untuk datang dan melihat wajah Ayah? `
-` Aku bahkan tidak yakin mengapa kita datang sekarang." `
-` "Jangan seperti itu. `
-` Jika dia ada di sini, kamu akan mengeluh terus-menerus karena tidak bisa rileks.. `
-` Bukankah seharusnya kita merayakan bahwa seluru kerabat kita telah berkumpul tahun ini untuk menghabiskan waktu bersama?" `
-` "Tahun lalu juga kita tidak bisa melihat wajahnya, bukan? `
-` Tidak bisakah kamu mengerti bahwa anak kandungnya ingin melihat sosok ayahnya setelah dua tahun lamanya?" `
-` "...Jika ada sesuatu yang ingin kalian katakan untuk menyapanya, aku akan menyampaikannya. `
-` Atau, Eva-san, `
-` ...apakah ada sesuatu yang ingin kamu diskusikan dengan Ayah selain menyapanya...?" `
-` "......Nngg. `
-` ...Ayolah, apa yang kau pikirkan? Dasar." `
-` "Cukup, Eva. `
-` Natsuhi-san, maafkan kami. `
-` Eva hanya khawatir dengan kondisi Ayah, sebagai anaknya. `
-` Tolong mengerti dengan perasaannya." `
-` "Itu benar. `
-` Lihat betapa cepatnya kamu mulai menghormati Ayah, setelah kamu tahu berapa lama lagi dia akan hidup. `
-` ...Ya, aku yakin aku bisa mengerti mengapa kamu ingin sekali melihatnya. `
-` ...Hmph." `
-` "......Apa yang coba kamu katakan?" `
-` "Cukup, Aneki. `
-` Mengapa kita tidak berdoa agar perasaannya membaik sebelum makan malam? `
-` ...Ngomong-ngomong, kita baru saja sampai. `
-` Untuk sekaang, Kita kesini hanya untuk menyapanya secara santai. `
-` Dan kita bahkan bisa mengadakan konferensi keluarga tanpa Ayah. `
-` ...Kenyataannya, ada beberapa hal yang sebaiknya kita, sebagai saudara kandung, tidak membahas sesuatu dengannya sebelum mencapai kesepakatan bersama. `
-` Bukankah itu benar, Hideyoshi nii-san?" `
-` "Yap! `
-` Seperti yang Rudolf-kun skatakan. `
-` ...Ini adalah satu-satunya waktu dalam setahun di mana kita semua bisa bertemu secara langsung. `
-` Kita harus memanfaatkan waktu berharga ini dengan serius dan jujur satu sama lain." `
- `Meskipun teh belum tiba, ...mereka sangat bersemangat. `
-` "Namun sebelum itu, mungkin kita bisa meluangkan waktu untuk menikmati teh hitam dengan santai, `
-` dikelilingi oleh perabotan indah di ruang tamu..." `
-` Kata-kata Kyrie seolah mengandung teguran halus yang ditujukan kepada semua orang yang hadir di sana. `
-` Mereka semua paham, dan saat mereka membersihkan tenggorokan dan merapikan dasi mereka, seketika suasana di ruangan tersebut kembali normal. `
-` "...Permisi. `
-` Aku membawakan bebrapa teh." `
-` "Hei, Shannon-chan. `
-` "Kamu semakin cantik saja!" `
-` Shannon masuk ke ruang tamu, mendorong kereta saji. `
-` Semua orang memutuskan untuk bersantai dan menikmati teh hitam untuk sementara waktu... `
-` Aroma yang harum mulai menyebar di seluruh ruangan. `
-` Sejauh yang bisa dilihat, suasana tegang sebelum kedatangan Shannon seolah-olah tidak pernah terjadi.`
-` ...Tentu saja, Shannon, yang telah menyiapkan teh, mungkin tidak menyadarinya. `
-` ...Kyrie sepertinya tertawa pelan melihat betapa "dewasa" tiba-tiba semua orang bertindak. `
-` Rudolf tidak suka ketika Kyrie mengambil inisiatif dan berbicara di konferensi keluarga. `
-` ...Itu merupakan Harga dirinya yang tidak berguna. `
-` Dia mungkin tidak ingin terlihat seperti pria lemah yang menerima nasihat dari istrinya. `
-` Dia mengerti hal itu dan berusaha sekuat tenaga untuk tidak mengatakan lebih dari yang diperlukan. `
-` Jadi, dia menjauh dari lingkaran saudara-saudaranya, yang hanya tampak menikmati waktu bersama secara superficial, dan minum tehnya dengan santai di dekat jendela. `
-` "Oh, Rosa-san. `
-` Aku kira kalian berdua sedang menikmati waktu sendirian...." `
-` "...Kau pasti bercanda." `
-` "Maaf, jangan salah paham. `
-` Aku hanya sedikit kesal dengan suamiku." `
-` Tampaknya, Rosa tidak bisa beradaptasi dengan 'keramahan' yang ada di sekelilingnya. `
-` ...Mereka datang ke sini untuk bertarung dengan cara yang kotor, masing-masing berusaha merebut bagian warisan untuk diri mereka sendiri. `
-` Dia mungkin tidak suka suasana dimana mereka semua berpura-pura akur. `
-` ...Atau mungkin dia masih terlalu muda untuk hal itu. `
-` "...Sepertinya angin mulai bertiup kencang di luar sana. `
+`"Ya, jika dia begitu bersemangat, maka aku tidak perlu khawatir untuk masa depannya, bukan?" `
+`"...Meski begitu, jika dia memiliki semangat sebesar itu, setidaknya datang untuk menyapa kita. `
+`...Bukankah tujuan utama konferensi keluarga ini adalah untuk datang dan melihat wajah Ayah? `
+`Aku bahkan tidak yakin mengapa kita datang sekarang." `
+`"Jangan seperti itu. `
+`Jika dia ada di sini, kamu akan mengeluh terus-menerus karena tidak bisa rileks.. `
+`Bukankah seharusnya kita merayakan bahwa seluru kerabat kita telah berkumpul tahun ini untuk menghabiskan waktu bersama?" `
+`"Tahun lalu juga kita tidak bisa melihat wajahnya, bukan? `
+`Tidak bisakah kamu mengerti bahwa anak kandungnya ingin melihat sosok ayahnya setelah dua tahun lamanya?" `
+`"...Jika ada sesuatu yang ingin kalian katakan untuk menyapanya, aku akan menyampaikannya. `
+`Atau, Eva-san, `
+`...apakah ada sesuatu yang ingin kamu diskusikan dengan Ayah selain menyapanya...?" `
+`"......Nngg. `
+`...Ayolah, apa yang kau pikirkan? Dasar." `
+`"Cukup, Eva. `
+`Natsuhi-san, maafkan kami. `
+`Eva hanya khawatir dengan kondisi Ayah, sebagai anaknya. `
+`Tolong mengerti dengan perasaannya." `
+`"Itu benar. `
+`Lihat betapa cepatnya kamu mulai menghormati Ayah, setelah kamu tahu berapa lama lagi dia akan hidup. `
+`...Ya, aku yakin aku bisa mengerti mengapa kamu ingin sekali melihatnya. `
+`...Hmph." `
+`"......Apa yang coba kamu katakan?" `
+`"Cukup, Aneki. `
+`Mengapa kita tidak berdoa agar perasaannya membaik sebelum makan malam? `
+`...Ngomong-ngomong, kita baru saja sampai. `
+`Untuk sekaang, Kita kesini hanya untuk menyapanya secara santai. `
+`Dan kita bahkan bisa mengadakan konferensi keluarga tanpa Ayah. `
+`...Kenyataannya, ada beberapa hal yang sebaiknya kita, sebagai saudara kandung, tidak membahas sesuatu dengannya sebelum mencapai kesepakatan bersama. `
+`Bukankah itu benar, Hideyoshi nii-san?" `
+`"Yap! `
+`Seperti yang Rudolf-kun skatakan. `
+`...Ini adalah satu-satunya waktu dalam setahun di mana kita semua bisa bertemu secara langsung. `
+`Kita harus memanfaatkan waktu berharga ini dengan serius dan jujur satu sama lain." `
+`Meskipun teh belum tiba, ...mereka sangat bersemangat. `
+`"Namun sebelum itu, mungkin kita bisa meluangkan waktu untuk menikmati teh hitam dengan santai, `
+`dikelilingi oleh perabotan indah di ruang tamu..." `
+`Kata-kata Kyrie seolah mengandung teguran halus yang ditujukan kepada semua orang yang hadir di sana. `
+`Mereka semua paham, dan saat mereka membersihkan tenggorokan dan merapikan dasi mereka, seketika suasana di ruangan tersebut kembali normal. `
+`"...Permisi. `
+`Aku membawakan bebrapa teh." `
+`"Hei, Shannon-chan. `
+`"Kamu semakin cantik saja!" `
+`Shannon masuk ke ruang tamu, mendorong kereta saji. `
+`Semua orang memutuskan untuk bersantai dan menikmati teh hitam untuk sementara waktu... `
+`Aroma yang harum mulai menyebar di seluruh ruangan. `
+`Sejauh yang bisa dilihat, suasana tegang sebelum kedatangan Shannon seolah-olah tidak pernah terjadi. `
+`...Tentu saja, Shannon, yang telah menyiapkan teh, mungkin tidak menyadarinya. `
+`...Kyrie sepertinya tertawa pelan melihat betapa "dewasa" tiba-tiba semua orang bertindak. `
+`Rudolf tidak suka ketika Kyrie mengambil inisiatif dan berbicara di konferensi keluarga. `
+`...Itu merupakan Harga dirinya yang tidak berguna. `
+`Dia mungkin tidak ingin terlihat seperti pria lemah yang menerima nasihat dari istrinya. `
+`Dia mengerti hal itu dan berusaha sekuat tenaga untuk tidak mengatakan lebih dari yang diperlukan. `
+`Jadi, dia menjauh dari lingkaran saudara-saudaranya, yang hanya tampak menikmati waktu bersama secara superficial, dan minum tehnya dengan santai di dekat jendela. `
+`"Oh, Rosa-san. `
+`Aku kira kalian berdua sedang menikmati waktu sendirian...." `
+`"...Kau pasti bercanda." `
+`"Maaf, jangan salah paham. `
+`Aku hanya sedikit kesal dengan suamiku." `
+`Tampaknya, Rosa tidak bisa beradaptasi dengan 'keramahan' yang ada di sekelilingnya. `
+`...Mereka datang ke sini untuk bertarung dengan cara yang kotor, masing-masing berusaha merebut bagian warisan untuk diri mereka sendiri. `
+`Dia mungkin tidak suka suasana dimana mereka semua berpura-pura akur. `
+`...Atau mungkin dia masih terlalu muda untuk hal itu. `
+`"...Sepertinya angin mulai bertiup kencang di luar sana. `
 `...Tanaman-tanaman semua bergoyang begitu keras." `
-` "Badai itu mungkin sudah cukup dekat. `
-` ...Aku rasa kita akan melihat hujan sepanjang malam." `
-` "......Maria-chan telah tumbuh begitu cepat tahun ini." `
-` "......Apakah terlihat seperti itu...? `
-` Dia bahkan masih belum bisa melipat bajunya sendiri." `
-` "Tidak, itu benar. `
-` Itu karena dia memiliki seorang ibu yang penuh dengan kasih sayang. `
-` Dia akan tumbuh menjadi seorang gadis yang berhati mulia." `
-` Rosa terdiam. `
+`"Badai itu mungkin sudah cukup dekat. `
+`...Aku rasa kita akan melihat hujan sepanjang malam." `
+`"......Maria-chan telah tumbuh begitu cepat tahun ini." `
+`"......Apakah terlihat seperti itu...? `
+`Dia bahkan masih belum bisa melipat bajunya sendiri." `
+`"Tidak, itu benar. `
+`Itu karena dia memiliki seorang ibu yang penuh dengan kasih sayang. `
+`Dia akan tumbuh menjadi seorang gadis yang berhati mulia." `
+`Rosa terdiam. `
 `......Mungkin dia tidak yakin dengan apa yang dikatakan perkataan Kyrie... `
-` "...Aku... `
-` gagal sebagai seorang ibu. `
-` ......Anak-anak tidak bisa memilih orang tua mereka. `
-` Gadis yang malang..." `
-` "Bukankah itu sama saja? `
-` ...Orang tua juga tidak bisa memilih jenis anak yang mereka miliki." `
-` "..............." `
-` Rosa menggigit bibir bawahnya... `
-` "Ini bukan soal siapa yang salah. `
-` Bukankah sudah cukup jika kamu meluangkan waktu dan mengawasinya saat dia tumbuh, sadar bahwa kalian akan tinggal bersama?" `
-` "Kau menghabiskan waktu setuap hari dengan Maria-chan, jadi mungkin kamu tidak menyadari sedikit perubahan. `
-` Namun kita semua, yang tidak melihatnya selama setahun, dapat menyadari perkembangannya..." `
-` "...Jika memang begitu, terima kasih banyak." `
-` "Kalau bwegitu, permisi. `
-` Jika ada yang diinginkan, silahkan hubungi kapan saja." `
-` Shannon membungkuk dengan sopan lalu meninggalkan ruangan. `
-` Saat Hideyoshi dan Rudolf, yang lemah terhadap tamu wanita, melihatnya pergi, `
-` ...suasana di dalam ruangan Kembali seperti saat Shannon belum memasuki ruangan. `
-` "......Jika Ayah tidak bisa turun, masih ada beberapa hal yang dapat kita bahas. `
-` Bukankah begitu, Rudolf?" `
-` "Yap, itu benar. `
-` ...Kita tidak dating kesini hanya untuk meminum teh yang berdebu, tahu?" `
-` "...Benar sekali. `
-` Masalah apa yang sangat ingin kamu diskusikan?" `
-` "......Wah, wah. `
-` Mereka semua sangat bersemangat. `
-` Mereka memulaiya beitu cepat." `
-` "Aku juga harus ikut. `
+`"...Aku... `
+`gagal sebagai seorang ibu. `
+`......Anak-anak tidak bisa memilih orang tua mereka. `
+`Gadis yang malang..." `
+`"Bukankah itu sama saja? `
+`...Orang tua juga tidak bisa memilih jenis anak yang mereka miliki." `
+`"..............." `
+`Rosa menggigit bibir bawahnya... `
+`"Ini bukan soal siapa yang salah. `
+`Bukankah sudah cukup jika kamu meluangkan waktu dan mengawasinya saat dia tumbuh, sadar bahwa kalian akan tinggal bersama?" `
+`"Kau menghabiskan waktu setuap hari dengan Maria-chan, jadi mungkin kamu tidak menyadari sedikit perubahan. `
+`Namun kita semua, yang tidak melihatnya selama setahun, dapat menyadari perkembangannya..." `
+`"...Jika memang begitu, terima kasih banyak." `
+`"Kalau bwegitu, permisi. `
+`Jika ada yang diinginkan, silahkan hubungi kapan saja." `
+`Shannon membungkuk dengan sopan lalu meninggalkan ruangan. `
+`Saat Hideyoshi dan Rudolf, yang lemah terhadap tamu wanita, melihatnya pergi, `
+`...suasana di dalam ruangan Kembali seperti saat Shannon belum memasuki ruangan. `
+`"......Jika Ayah tidak bisa turun, masih ada beberapa hal yang dapat kita bahas. `
+`Bukankah begitu, Rudolf?" `
+`"Yap, itu benar. `
+`...Kita tidak dating kesini hanya untuk meminum teh yang berdebu, tahu?" `
+`"...Benar sekali. `
+`Masalah apa yang sangat ingin kamu diskusikan?" `
+`"......Wah, wah. `
+`Mereka semua sangat bersemangat. `
+`Mereka memulaiya beitu cepat." `
+`"Aku juga harus ikut. `
 `...Jika aku tidak muncul, orang-orang seperti mereka akan segera melupakan bahwa ada empat saudara." `
-` "...Sepertimya kamu mengalami kesulitan yang cukupp berat. `
-` ...Mungkin aku berkata terlalu kasar. `
-` Maafkan aku." `
-` "Tidak, aku tidak mempermasalahkannya. `
+`"...Sepertimya kamu mengalami kesulitan yang cukupp berat. `
+`...Mungkin aku berkata terlalu kasar. `
+`Maafkan aku." `
+`"Tidak, aku tidak mempermasalahkannya. `
 `...Aku yang sharusnya meminyta maaf. `
-` Sebagai pasangan orang tua dan anak, kita harus lebih sering mengobrol. `
-` Setiap kali kita bertemu, kita selalu berakhir dengan sesuatu yang mencurigakan..." `
-` "...Kau bisa salahkan tu pada suasana di Mansion ini. `
-` Sekali kau menghirup udara di sini, semua orang akan mulai tertekan. `
- `...Sekali saja, aku berharap memiliki, secangkir teh yang enak denganmu, disaat kita tidak mengikuti konferensi keluarga. `
-` Ada toko kopi yang luar biasa di Ginza yang merupakan kesukaanku. `
-` Izinkan aku mengundangmu suatu saat." `
-` "Terima kasih, Kyrie-san. `
-` Itu terdengar bagus..." `
-` "Oh, tidak. `
-` Langitnya semakin gelap dalam Waktu yang cepat. `
-` Aku hamper percaya bahwa orang-orang di sini yang membuat cuacanya semakin uruk I could almost. `
-` ...Petirnya sudah mulai muncul `
-` Oh? `
-` Apakah itu salah satunya...?" `
-` "...Hah?" `
-` Tampaknya ada tetesan hujan kecil di kaca jendela ruang tamu. `
-` ...Cuaca semakin memburuk lebih cepat dari yang diperkirakan. `
-` ...Tiba-tiba, petir yang sunyi menyambar di atas kepala Rosa, dan dia teringat bahwa anak kesayangannya sedang berada di kebun mawar. `
-` Seorang gadis biasa akan mencoba masuk ke dalam jika cuaca memburuk. `
-` ...Namun Maria berbeda. `
-` Dia terkadang keras kepala dan menolak pindah bahkan jika sebuah tombak turun dari langit. `
-` ...Itu benar, buankah aku... `
+`Sebagai pasangan orang tua dan anak, kita harus lebih sering mengobrol. `
+`Setiap kali kita bertemu, kita selalu berakhir dengan sesuatu yang mencurigakan..." `
+`"...Kau bisa salahkan tu pada suasana di Mansion ini. `
+`Sekali kau menghirup udara di sini, semua orang akan mulai tertekan. `
+`...Sekali saja, aku berharap memiliki, secangkir teh yang enak denganmu, disaat kita tidak mengikuti konferensi keluarga. `
+`Ada toko kopi yang luar biasa di Ginza yang merupakan kesukaanku. `
+`Izinkan aku mengundangmu suatu saat." `
+`"Terima kasih, Kyrie-san. `
+`Itu terdengar bagus..." `
+`"Oh, tidak. `
+`Langitnya semakin gelap dalam Waktu yang cepat. `
+`Aku hamper percaya bahwa orang-orang di sini yang membuat cuacanya semakin uruk I could almost. `
+`...Petirnya sudah mulai muncul `
+`Oh? `
+`Apakah itu salah satunya...?" `
+`"...Hah?" `
+`Tampaknya ada tetesan hujan kecil di kaca jendela ruang tamu. `
+`...Cuaca semakin memburuk lebih cepat dari yang diperkirakan. `
+`...Tiba-tiba, petir yang sunyi menyambar di atas kepala Rosa, dan dia teringat bahwa anak kesayangannya sedang berada di kebun mawar. `
+`Seorang gadis biasa akan mencoba masuk ke dalam jika cuaca memburuk. `
+`...Namun Maria berbeda. `
+`Dia terkadang keras kepala dan menolak pindah bahkan jika sebuah tombak turun dari langit. `
+`...Itu benar, buankah aku... `
 `...mengatakan padanya...{i:untuk tetap berdiri di sana selamanya}...? `
-` "...O-Oh tidak...! `
-` Maria...!!" `
-` Semua orang menengok ke arah Rosa saat ia meninggalkan suara teriakannya. `
-` "...Apa? Ada apa itu?" `
-` "M-maafkan aku, aku akan keluar sebentar. `
-` Aku akan segera kembali!" `
- `"...Apa yang...terjadi, ada apa dengannya...?" `
-` "Jangan khawatir, dia akan segera kembali. `
-` ...Ngomong-ngomong, haruskah kita mulai sekarang? `
-` ...Topik Utama kita." `
-` "Kau benar. `
-` Kita bisa melanjutkannya tanpa Rosa. `
-` Mari Kembali ke pembahasan utama." `
-` "............" `
-` Rosa berlari dari pintu masuk ke kebun mawar. `
-` Saat dia membuka pintu, angin yang menerpa tubuhnya terlalu kencang untuk disebut angin sepoi-sepoi...dan memberitahunya bahwa badai tropis mendekat lebih cepat dari yang dia kira. `
-` Seperti yang dikatakan Kyrie, angin itu bercampur dengan tetesan hujan. `
-` Ada juga gemuruh petir yang pelan. `
-` ...Hujan bisa mulai kapan saja. `
-` Rosa pergi menuju kebun mawar. `
-` Dia pergi ke tempat dimana dia memarahi Maria sebelumnya. `
-` ...Itu sekitar jam makan siang. `
-` Amak-anak sudah diberi tahu untuk dating ke mansion sekitar jam makan siang, `
-` jadi mungkin mereka ssedang berada di penginapan, menunggu untuik dipanggil. `
-` ...Meskpun Maria tidak datang, mereka akan berpikir bahwa aku akan membawanya ke mansion...dan itu tidak akan mengkhawatirkan mereka. `
-` ...Lagipula, dia selalu dekat dengan ibunya, jadi tidak ada alasan untuk khawatir. `
-` Aku ada di sini, dan aku menelanarkan anakku pada cuaca yang buruk...! `
-` "Mariaaa!! `
-` Apa kau ada di sana?!! `
-` Jika ada, jawab aku!!" `
-` "......Uu-." `
-` Aku di sini. `
-` Dia masih berdiri di sana, ...persis seperti yang dikatakan oleh ibunya, di tempat dimana aku memarahinya. `
-` Di tangannya...terdapat permen yang aku bawa, ku berikan, dan ku injak-injak hingga hancur. `
-` Sambil menggeggamnya, dia berdiri di sana sementara angin kencang mengibarkan rambutnya, membuatnya tersiksa... `
-` "Maafkan aku, maafkan aku!! `
-` Maaf, Maria...!! `
-` Maafkan ku Mama...!" `
-` "...Uu-. `
-` Mama, selamat dating kembali... `
-` ...Aku telah lama menunggu kedatanganmu. `
-` ...Penyihir menakutkan itu mencubitku, tapi aku tetap kuat, menunggu Mama pulang tanpa menangis..." `
-` "...Maria...! `
-` ...Maafkan Mamamu, ...maafkan Mamamu..." `
-` "Kau sama sekali tidak bersalah... `
-` Kau hanya dirasuki oleh penyihir yang jahat... `
-` Jadi aku baik-baik saja. `
-` I really like you, Mama. `
-` Aku menintaimu..." `
-` "Aaaaaaaaaaaaaahh!! `
-` Maafkan aku, maafkan aku... `
-` ...Tolong maafkan mamamu... `
-` ...karena telah kalah oleh penyihir jahat......" `
-` Rosa wajahna di dada kecil Mara, menanis sambil meminta ampunan. `
-` ...Dan sekali lagi, air mata itu menetes, entah untuk keberapa kalinya. `
-` Jika saja cahaya matahari menyinari mereka berdua, `
-` seluruh kekhawatiran mereka akan menguap, dan mungkin terasa seolah-olah mereka bisa memulai dari awal. `
-` ...Namun, yang mengelilingi keduanya adalah cuaca yang semakin memburuk. `
-` Sayangnya, hanya ada angin kencang dengan suara guntur. `
+`"...O-Oh tidak...! `
+`Maria...!!" `
+`Semua orang menengok ke arah Rosa saat ia meninggalkan suara teriakannya. `
+`"...Apa? Ada apa itu?" `
+`"M-maafkan aku, aku akan keluar sebentar. `
+`Aku akan segera kembali!" `
+`"...Apa yang...terjadi, ada apa dengannya...?" `
+`"Jangan khawatir, dia akan segera kembali. `
+`...Ngomong-ngomong, haruskah kita mulai sekarang? `
+`...Topik Utama kita." `
+`"Kau benar. `
+`Kita bisa melanjutkannya tanpa Rosa. `
+`Mari Kembali ke pembahasan utama." `
+`"............" `
+`Rosa berlari dari pintu masuk ke kebun mawar. `
+`Saat dia membuka pintu, angin yang menerpa tubuhnya terlalu kencang untuk disebut angin sepoi-sepoi...dan memberitahunya bahwa badai tropis mendekat lebih cepat dari yang dia kira. `
+`Seperti yang dikatakan Kyrie, angin itu bercampur dengan tetesan hujan. `
+`Ada juga gemuruh petir yang pelan. `
+`...Hujan bisa mulai kapan saja. `
+`Rosa pergi menuju kebun mawar. `
+`Dia pergi ke tempat dimana dia memarahi Maria sebelumnya. `
+`...Itu sekitar jam makan siang. `
+`Amak-anak sudah diberi tahu untuk dating ke mansion sekitar jam makan siang, `
+`jadi mungkin mereka ssedang berada di penginapan, menunggu untuik dipanggil. `
+`...Meskpun Maria tidak datang, mereka akan berpikir bahwa aku akan membawanya ke mansion...dan itu tidak akan mengkhawatirkan mereka. `
+`...Lagipula, dia selalu dekat dengan ibunya, jadi tidak ada alasan untuk khawatir. `
+`Aku ada di sini, dan aku menelanarkan anakku pada cuaca yang buruk...! `
+`"Mariaaa!! `
+`Apa kau ada di sana?!! `
+`Jika ada, jawab aku!!" `
+`"......Uu-." `
+`Aku di sini. `
+`Dia masih berdiri di sana, ...persis seperti yang dikatakan oleh ibunya, di tempat dimana aku memarahinya. `
+`Di tangannya...terdapat permen yang aku bawa, ku berikan, dan ku injak-injak hingga hancur. `
+`Sambil menggeggamnya, dia berdiri di sana sementara angin kencang mengibarkan rambutnya, membuatnya tersiksa... `
+`"Maafkan aku, maafkan aku!! `
+`Maaf, Maria...!! `
+`Maafkan ku Mama...!" `
+`"...Uu-. `
+`Mama, selamat dating kembali... `
+`...Aku telah lama menunggu kedatanganmu. `
+`...Penyihir menakutkan itu mencubitku, tapi aku tetap kuat, menunggu Mama pulang tanpa menangis..." `
+`"...Maria...! `
+`...Maafkan Mamamu, ...maafkan Mamamu..." `
+`"Kau sama sekali tidak bersalah... `
+`Kau hanya dirasuki oleh penyihir yang jahat... `
+`Jadi aku baik-baik saja. `
+`I really like you, Mama. `
+`Aku menintaimu..." `
+`"Aaaaaaaaaaaaaahh!! `
+`Maafkan aku, maafkan aku... `
+`...Tolong maafkan mamamu... `
+`...karena telah kalah oleh penyihir jahat......" `
+`Rosa wajahna di dada kecil Mara, menanis sambil meminta ampunan. `
+`...Dan sekali lagi, air mata itu menetes, entah untuk keberapa kalinya. `
+`Jika saja cahaya matahari menyinari mereka berdua, `
+`seluruh kekhawatiran mereka akan menguap, dan mungkin terasa seolah-olah mereka bisa memulai dari awal. `
+`...Namun, yang mengelilingi keduanya adalah cuaca yang semakin memburuk. `
+`Sayangnya, hanya ada angin kencang dengan suara guntur. `
 `Suara Maria yang terisak membuat Rosa sadar kembali. `
 `...Jika Maria terlalu lama berada di tengah badai, dia mungkin akan terkena demam. `
-` "...Oke, Maria, `
-` Sudah waktunya makan siang. `
-` Bagaimana jika kita Kembali ke mansion?" `
-` "Uu-. `
-` Aku tidaak akan pergi." `
-` "Ke-kenapa tidak...?" `
-` Rosa mengira dia sudah mendapat pengampunan dari Maria, jadi dia tidak mengira Maria akan menolak. `
-` Namun ekspresi di wajah Maria tidak terlihat seperti anak yang menolak ibunya. `
-` ...Jadi Rosa tidak mengerti mengapa Maria ingin berdiri diam, tanpa tujuan, sementara cuaca semakin buruk. `
-` Maria menjawab pertanyaan tersebut... `
-` "Itu karena {f:5:Beatrice}. `
-` Dia akan segera datang. `
-` Jadi aku menunggunya." `
-` "......Maria..." `
-` Rosa kesulitan mencari kata-kata sejenak, lalu terdiam. `
-` ...Padahal mereka baru saja berhasil berbaikan. `
-` Dia memilih kata-katan dengan hati-hati, berusaha mengajak Maria ikut dengannya ke mansion tanpa secara langsung menolak keberadaan penyihir. `
-` "...{f:5:Beatrice} akan... `
-` datang?" `
-` "Uu-!" `
-` "Apa iu benar...? `
-` Kalau begitu, mengapa kita tidak menunggu di mansion? `
-` Jika kamu terlalu lama di sini, nanti bisa terkena demam..." `
-` "Dia akan datang! `
-` {f:5:Beatrice} akan datang!! `
-` Dan saat dia datang, aku akan memberinya permen. `
-` Aku akan melakukan trick-or-treat! `
-` Aku akan memberikan permen marshmallow jack-o-lanter lalu berkata <Selamat Halloween>!! `
-` Uu-!!" `
-` Maria mengeluarkan permen yang lain dari tas tangannya, sambil mengerang uu-uu-. `
-` Rosa bingung dan tidak tahu harus berbuat apa... saat Maria mulai bersikap seperti itu lagi... `
-` Saat itu, terdengar ledakan petir yang tiba-tiba. `
-` Mungkin itu pertanda. `
-` ...Pertanda bahwa pulau ini telah terisolasi oleh badai, terlepas dari akal sehat dan kenyataan. `
-` Jadi, setelah momen ini, akal sehat mungkin tidak berlaku lagi. `
-` Angin berhembus semakin kencang, dan di tengah badai kelopak mawar saling bertebaran, `
+`"...Oke, Maria, `
+`Sudah waktunya makan siang. `
+`Bagaimana jika kita Kembali ke mansion?" `
+`"Uu-. `
+`Aku tidaak akan pergi." `
+`"Ke-kenapa tidak...?" `
+`Rosa mengira dia sudah mendapat pengampunan dari Maria, jadi dia tidak mengira Maria akan menolak. `
+`Namun ekspresi di wajah Maria tidak terlihat seperti anak yang menolak ibunya. `
+`...Jadi Rosa tidak mengerti mengapa Maria ingin berdiri diam, tanpa tujuan, sementara cuaca semakin buruk. `
+`Maria menjawab pertanyaan tersebut... `
+`"Itu karena {f:5:Beatrice}. `
+`Dia akan segera datang. `
+`Jadi aku menunggunya." `
+`"......Maria..." `
+`Rosa kesulitan mencari kata-kata sejenak, lalu terdiam. `
+`...Padahal mereka baru saja berhasil berbaikan. `
+`Dia memilih kata-katan dengan hati-hati, berusaha mengajak Maria ikut dengannya ke mansion tanpa secara langsung menolak keberadaan penyihir. `
+`"...{f:5:Beatrice} akan... `
+`datang?" `
+`"Uu-!" `
+`"Apa iu benar...? `
+`Kalau begitu, mengapa kita tidak menunggu di mansion? `
+`Jika kamu terlalu lama di sini, nanti bisa terkena demam..." `
+`"Dia akan datang! `
+`{f:5:Beatrice} akan datang!! `
+`Dan saat dia datang, aku akan memberinya permen. `
+`Aku akan melakukan trick-or-treat! `
+`Aku akan memberikan permen marshmallow jack-o-lanter lalu berkata <Selamat Halloween>!! `
+`Uu-!!" `
+`Maria mengeluarkan permen yang lain dari tas tangannya, sambil mengerang uu-uu-. `
+`Rosa bingung dan tidak tahu harus berbuat apa... saat Maria mulai bersikap seperti itu lagi... `
+`Saat itu, terdengar ledakan petir yang tiba-tiba. `
+`Mungkin itu pertanda. `
+`...Pertanda bahwa pulau ini telah terisolasi oleh badai, terlepas dari akal sehat dan kenyataan. `
+`Jadi, setelah momen ini, akal sehat mungkin tidak berlaku lagi. `
+`Angin berhembus semakin kencang, dan di tengah badai kelopak mawar saling bertebaran, `
 `...muncul sosok seseorang, yangmembuat Rosa tak mampu membayangkan bahwa ini adalah adegan dari kenyataan. `
-` ...Itu mungkin...tidak, sudah asti...sangat fantastis. `
-` Lagipula, bayangan orang itu adalah...... `
-` "{f:5:Beatrice}!!" `
+`...Itu mungkin...tidak, sudah asti...sangat fantastis. `
+`Lagipula, bayangan orang itu adalah...... `
+`"{f:5:Beatrice}!!" `
 `Maria berlari menuju bayangn tersebut. `
-` ...Normalnya, Rosa akan memarahinya jika dia berlari kepada seseorang yang belum pernah dilihat atau dikenal sebelumnya. `
-` ...Namun Rosa lupa melakukan hal itu, dia tidak bisa melakukan apa-apa selain berdiri, membatu. `
-` "...Sudah cukp lama. `
-` Bagaimana kabarmu?" `
-` "Uu-! `
-` Aku sangat baik! `
-` Penyihir tidak akan demam! `
-` Uu-!!" `
+`...Normalnya, Rosa akan memarahinya jika dia berlari kepada seseorang yang belum pernah dilihat atau dikenal sebelumnya. `
+`...Namun Rosa lupa melakukan hal itu, dia tidak bisa melakukan apa-apa selain berdiri, membatu. `
+`"...Sudah cukp lama. `
+`Bagaimana kabarmu?" `
+`"Uu-! `
+`Aku sangat baik! `
+`Penyihir tidak akan demam! `
+`Uu-!!" `
 `" *terkekeh*! `
-` Penyihir memanang bisa menggunakan kutukan agar orang terkena demam, ...tetapi bukankah sangat bodoh jika dia sendiri terkena demam? `
-` Mulai sekarang, kau harus menjaga diri agar tidak terkena demam." `
-` Dia berbicara sambal mengusap kepala Maria, dengan senyum nakalnya... `
-` Rosa tidak mungkin tahu nama wanita yang dengan senang hati memanjakan Maria. `
-` ...Namun, Maria telah menyebut Namanya sejak awal ketika wanita itu muncul. `
-` Jadi, meskipun Rosa belum pernah bertemu dengannya, meskipun Wanita tersebut belum memperkenalkan diri, Rosa mengetahui namanya. `
-` ......Bagaimanapun, nama tersebut memiliki rti yang spesial di Rokkenjima dan keluarga Ushiromiya. `
-` ...Tidak mungkin sesuatu yang sebodoh itu bisa...! `
-` "{f:5:Beatrice}! `
-` <Selamat Halloween>! `
-` Lihat apa yang aku bawa! `
-` Aku akan memberikanmu satu, {f:5:Beatrice}. `
-` Uu-!" `
-` "<Happy Halloween> ya. `
-` Hoh, ini untukku? `
-` Sungguh menggemaskan, bahwa permen akan dibuat dari ini, cahaya kesepian seorang pria yang tersesat dalam kegelapan Purgatory, tidak dapat pergi ke surga atau neraka." `
-` "...Saat ini, di pulau ini yang terputus dari dunia manusia dan dunia non-manusia, `
-` mungkin tidak ada lagi permen yang lebih cocok. `
-` *terkekeh*...!" `
-` "......Hmm? `
-` Maria, ada apa dengan yang satunya?" `
-` Sang penyihir menyadar sesuatudi kepalan tangan Maria. `
-` ...Itu merupakan permen Maria, yang telah diinjak-injak oleh Rosa hingga hancur berkeping-keping. `
-` "...Uu-. `
-` Itu telah diinjak dan dihancurkan. `
-` ...Bisakah kamu memperbaikinya, Beato...?" `
-` Maria tidak mengatakan bahwa ibunya lah yang menginjaknya. `
-` Namun, entah mengapa, ketika penyihir itu melihat permen tersebut, dia menatap Rosa dengan tersenyum lebar. `
+`Penyihir memanang bisa menggunakan kutukan agar orang terkena demam, ...tetapi bukankah sangat bodoh jika dia sendiri terkena demam? `
+`Mulai sekarang, kau harus menjaga diri agar tidak terkena demam." `
+`Dia berbicara sambal mengusap kepala Maria, dengan senyum nakalnya... `
+`Rosa tidak mungkin tahu nama wanita yang dengan senang hati memanjakan Maria. `
+`...Namun, Maria telah menyebut Namanya sejak awal ketika wanita itu muncul. `
+`Jadi, meskipun Rosa belum pernah bertemu dengannya, meskipun Wanita tersebut belum memperkenalkan diri, Rosa mengetahui namanya. `
+`......Bagaimanapun, nama tersebut memiliki rti yang spesial di Rokkenjima dan keluarga Ushiromiya. `
+`...Tidak mungkin sesuatu yang sebodoh itu bisa...! `
+`"{f:5:Beatrice}! `
+`<Selamat Halloween>! `
+`Lihat apa yang aku bawa! `
+`Aku akan memberikanmu satu, {f:5:Beatrice}. `
+`Uu-!" `
+`"<Happy Halloween> ya. `
+`Hoh, ini untukku? `
+`Sungguh menggemaskan, bahwa permen akan dibuat dari ini, cahaya kesepian seorang pria yang tersesat dalam kegelapan Purgatory, tidak dapat pergi ke surga atau neraka." `
+`"...Saat ini, di pulau ini yang terputus dari dunia manusia dan dunia non-manusia, `
+`mungkin tidak ada lagi permen yang lebih cocok. `
+`*terkekeh*...!" `
+`"......Hmm? `
+`Maria, ada apa dengan yang satunya?" `
+`Sang penyihir menyadar sesuatudi kepalan tangan Maria. `
+`...Itu merupakan permen Maria, yang telah diinjak-injak oleh Rosa hingga hancur berkeping-keping. `
+`"...Uu-. `
+`Itu telah diinjak dan dihancurkan. `
+`...Bisakah kamu memperbaikinya, Beato...?" `
+`Maria tidak mengatakan bahwa ibunya lah yang menginjaknya. `
+`Namun, entah mengapa, ketika penyihir itu melihat permen tersebut, dia menatap Rosa dengan tersenyum lebar. `
 `...Sebuah rasa dingin menjalar di punggung Rosa, seolah-olah tatapan itu menembus dirinya. `
-` "Itu sangat mudah. `
-` Berikan padaku." `
-` "Uu-!" `
-` Maria menyerahkan permen itu dengan gembira. `
-` ...Rosa tidak bisa melakkan apa-apa, selain diam membatu. `
-` ...Bagaimana orang ini berencana menipu Maria, yang padahal permen tersebut telah diinjak-injak hingga hancur...? `
+`"Itu sangat mudah. `
+`Berikan padaku." `
+`"Uu-!" `
+`Maria menyerahkan permen itu dengan gembira. `
+`...Rosa tidak bisa melakkan apa-apa, selain diam membatu. `
+`...Bagaimana orang ini berencana menipu Maria, yang padahal permen tersebut telah diinjak-injak hingga hancur...? `
 `Maria tampak seolah-olah percaya bahwa hal itu bisa diperbaiki seperti semula. `
 `...Tanpa sihir yang sesungguhnya, hal seperti itu tidak mungkin terjadi...! `
 `"Wah, wah, ini benar-benar hancur, bukan? `
-` ...Ke sini, Maria. `
-` Tutup matamu dan coba ingatlah." `
-` "Bahwa itu merupakan permen yang sangat enak. `
-` Permen yang ada di ingatanmu selalu manis dan lembut. `
-` Jadi cobalah kamu mengingatnya. `
-` Permen seperti apa itu {p:0:♪}" `
-` ...Bersama dengan kata-kata aneh itu, yang diucapkan seolah-olah menyanyikan lantuan syair, penyihir tersebut melemparkan permen itu ke udara. `
-` Maria menutup matanya dsambil mengingat, seperti yang telah dikatakan penyihir kepadanya. `
+`...Ke sini, Maria. `
+`Tutup matamu dan coba ingatlah." `
+`"Bahwa itu merupakan permen yang sangat enak. `
+`Permen yang ada di ingatanmu selalu manis dan lembut. `
+`Jadi cobalah kamu mengingatnya. `
+`Permen seperti apa itu {p:0:♪}" `
+`...Bersama dengan kata-kata aneh itu, yang diucapkan seolah-olah menyanyikan lantuan syair, penyihir tersebut melemparkan permen itu ke udara. `
+`Maria menutup matanya dsambil mengingat, seperti yang telah dikatakan penyihir kepadanya. `
 `...Seperti apa entuk permen yang hancur itu? `
-` Oleh karena itu, hanya Rosa yang melihat kejadiannya. `
-` Permen yang tekah dilempar e udara...berubah menjadi warna emas...tidak, bukan seperti itu. `
-` Itu merupakan kupu-kupu emas. `
-` Itu menyebar enjadi eberapa kupu-kupu emas, ...dan mereka mulai berkumpul di tangan sang penyihir, yang diangkat ke langit. `
-` Lalu dia melakukannya, ......tidak dapat dipercaya, ......itu kembali menjadi seperti semula, tidak ada perbedaan dengan yang sebelumnya... `
-` Hanya Rosa dan sang penyihir yang menyaksikan adegan terseut. `
-` Saking tidak percaya dengan apa yang sedang terjadi di depan matanya, Rosa berdiri dengan mulut terbuka lebar, sepenuhnya lupa untuk menutupnya... `
-` "Kau boleh membuka matamu. `
-` Ambil ini. `
-` Dengan ini, permen milikmu Kembali seperti semula." `
-` "Uu-!! `
+`Oleh karena itu, hanya Rosa yang melihat kejadiannya. `
+`Permen yang tekah dilempar e udara...berubah menjadi warna emas...tidak, bukan seperti itu. `
+`Itu merupakan kupu-kupu emas. `
+`Itu menyebar enjadi eberapa kupu-kupu emas, ...dan mereka mulai berkumpul di tangan sang penyihir, yang diangkat ke langit. `
+`Lalu dia melakukannya, ......tidak dapat dipercaya, ......itu kembali menjadi seperti semula, tidak ada perbedaan dengan yang sebelumnya... `
+`Hanya Rosa dan sang penyihir yang menyaksikan adegan terseut. `
+`Saking tidak percaya dengan apa yang sedang terjadi di depan matanya, Rosa berdiri dengan mulut terbuka lebar, sepenuhnya lupa untuk menutupnya... `
+`"Kau boleh membuka matamu. `
+`Ambil ini. `
+`Dengan ini, permen milikmu Kembali seperti semula." `
+`"Uu-!! `
 `{f:5:Beatrice} kau memang hebat, hebat, *cekikikan*!!" `
-` "..............." `
-` Ada kontras yang mencolok antara keterkejutan Rosa dan kegembiraan polos Maria. `
-` ...Apakah itu yang membuat penyihir tersebut tertawa? `
-` Sebuah senyuman melayang ke wajah {f:5:Beatrice}, berbeda dari senyuman yang dia tunjukkan kepada Maria. `
-` "...Apakah wajahku terlihat familiar? `
-` Jika kamu menatapmya begitu tajam, kamu mungkin akan menembus lubang di dalamnya." `
-` "Umm...ah, m-maafkan aku...!" `
-` Kata-kata tersebut memicu sesuatu yang sangat jelas di benak Rosa. `
-` ...Rosa mengenal wajahnya. `
+`"..............." `
+`Ada kontras yang mencolok antara keterkejutan Rosa dan kegembiraan polos Maria. `
+`...Apakah itu yang membuat penyihir tersebut tertawa? `
+`Sebuah senyuman melayang ke wajah {f:5:Beatrice}, berbeda dari senyuman yang dia tunjukkan kepada Maria. `
+`"...Apakah wajahku terlihat familiar? `
+`Jika kamu menatapmya begitu tajam, kamu mungkin akan menembus lubang di dalamnya." `
+`"Umm...ah, m-maafkan aku...!" `
+`Kata-kata tersebut memicu sesuatu yang sangat jelas di benak Rosa. `
+`...Rosa mengenal wajahnya. `
 `......Dia tahu bahwa itu berasal dari lukisan sang penyihir. `
-` Namun...tidak, tunggu, ...apakah wanita misterius ini benar-benar...?! `
-` "...Maria, `
-` Aku memberikan ini sebagai ganti dari permen yang kamu berikan padaku." `
-` "Uu-...? `
-` Sebuah surat?" `
-` Sang penyihir mengambil sebuah amplop di dalam sakunya lalu memberikannya kepada Maria. `
-` Namun, saat Maria membukanya, sang penyihir menghentikannya. `
-` "Kau tidak boleh membukanya. `
-` Akan ada waktu dimana kamu harus membukanya, tetapi untuk sekarang, kau tidak boleh membukanya. `
-` Tolongjaga itu. `
-` Itu merupakan surat undangan menuju ke Taman Emas." `
-` "Taman Emas!! `
-` Jadi, akhirnya kamu akan membawaku ke sana!!! `
-` *cekikikan*! `
-` *cekkikan*!!" `
-` "Ambil ini dan jaga dengan baik. `
-` Kau tidak boleh menunjukkannya pada siapapun." `
-` "Uu-! `
-` Aku akan berjanji! `
-` “Kamu harus selalu menepati janji seorang penyihir!” `
-` "...Dan ini untukmu." `
-` "Huh......? `
+`Namun...tidak, tunggu, ...apakah wanita misterius ini benar-benar...?! `
+`"...Maria, `
+`Aku memberikan ini sebagai ganti dari permen yang kamu berikan padaku." `
+`"Uu-...? `
+`Sebuah surat?" `
+`Sang penyihir mengambil sebuah amplop di dalam sakunya lalu memberikannya kepada Maria. `
+`Namun, saat Maria membukanya, sang penyihir menghentikannya. `
+`"Kau tidak boleh membukanya. `
+`Akan ada waktu dimana kamu harus membukanya, tetapi untuk sekarang, kau tidak boleh membukanya. `
+`Tolongjaga itu. `
+`Itu merupakan surat undangan menuju ke Taman Emas." `
+`"Taman Emas!! `
+`Jadi, akhirnya kamu akan membawaku ke sana!!! `
+`*cekikikan*! `
+`*cekkikan*!!" `
+`"Ambil ini dan jaga dengan baik. `
+`Kau tidak boleh menunjukkannya pada siapapun." `
+`"Uu-! `
+`Aku akan berjanji! `
+`“Kamu harus selalu menepati janji seorang penyihir!” `
+`"...Dan ini untukmu." `
+`"Huh......? `
 `...A-Aku...?!" `
-` Dia mungkin tidak pernah membayangkan bahwa penyihir itu akan berbicara padanya. `
-` Rosa terkejut melihat amplop kedua yang tiba-tiba disodorkan padanya. `
-` Dia pernah melihat jenis amplop seperti ini sebelumnya. `
-` ...Tidak ada keraguan tentang hal itu. `
-` Itu adalah salah satu amplop khusus Kinzo, yang digunakan ketika dia menulis dengan tangannya sendiri dan bertanda lambang keluarga Ushiromiya. `
-` Amplop itu ditutup dengan lilin segel merah, `
-` ...dan selain itu, ada tanda yang sepertinya dibuat oleh Cincin Kepala keluarga. `
-` Dengan kata lain, bahkan tanpa bertanya apa isi surat ini, `
-` ...Rosa tahu bahwa wanita yang disebut Maria sebagai {f:5:Beatrice}, `
-` cukup dipercaya untuk ditugaskan mengurus surat pribadi Kepala Ushiromiya saat ini...! `
-` "Sebenarnya tidak peduli siapapun dari kalian yang menerimanya. `
+`Dia mungkin tidak pernah membayangkan bahwa penyihir itu akan berbicara padanya. `
+`Rosa terkejut melihat amplop kedua yang tiba-tiba disodorkan padanya. `
+`Dia pernah melihat jenis amplop seperti ini sebelumnya. `
+`...Tidak ada keraguan tentang hal itu. `
+`Itu adalah salah satu amplop khusus Kinzo, yang digunakan ketika dia menulis dengan tangannya sendiri dan bertanda lambang keluarga Ushiromiya. `
+`Amplop itu ditutup dengan lilin segel merah, `
+`...dan selain itu, ada tanda yang sepertinya dibuat oleh Cincin Kepala keluarga. `
+`Dengan kata lain, bahkan tanpa bertanya apa isi surat ini, `
+`...Rosa tahu bahwa wanita yang disebut Maria sebagai {f:5:Beatrice}, `
+`cukup dipercaya untuk ditugaskan mengurus surat pribadi Kepala Ushiromiya saat ini...! `
+`"Sebenarnya tidak peduli siapapun dari kalian yang menerimanya. `
 `Namun, fakta bahwa aku bertemu denganmu di sini kemungkinan besar karen kamu dipilih oleh roulette Kinzo. `
-` ...Jadi ambillah. `
+`...Jadi ambillah. `
 `Kemudian bacakan isinya dengan lantang saat duduk di meja makan, ketika semua saudara kandung berkumpul." `
-` "......Apa yang kau katakan...?" `
-` Rosa menatap bolak-balik beberapa kali antara wajah penyihir dan amplop yang telah diberikan kepadanya. `
+`"......Apa yang kau katakan...?" `
+`Rosa menatap bolak-balik beberapa kali antara wajah penyihir dan amplop yang telah diberikan kepadanya. `
 `Hari ini adalah rapat keluarga, dan topik utama pembicaraan yaitu masalah warisan. `
-` ...Jadi, dia telah bekerja sama dengan Eva dan Rudolf, `
-` dan mereka berencana memaksa Krauss untuk memenuhi syarat tertentu agar dapat memeras beberapa ratus juta yen darinya. `
+`...Jadi, dia telah bekerja sama dengan Eva dan Rudolf, `
+`dan mereka berencana memaksa Krauss untuk memenuhi syarat tertentu agar dapat memeras beberapa ratus juta yen darinya. `
 `Seolah-olah penyihir tersebut mengetahui semua itu. `
 `...Apa yang ingin dia diumumkan...ketika semua saudara telah berkumpul? `
 `Dan dengan amplop pribadi yang hanya bisa digunakan oleh Kepala Ushiromiya...! `
-` "...Maria, `
-` cuacanya semakin memburuk. `
-` Kembalilah ke penginapan hingga jam makan tiba. `
-` ...Untukmu Rosa, kita akan bertemu kembali. `
-` Jka tia saatnya, izinkan aku untuk memperkenalkan diri Kembali. `
+`"...Maria, `
+`cuacanya semakin memburuk. `
+`Kembalilah ke penginapan hingga jam makan tiba. `
+`...Untukmu Rosa, kita akan bertemu kembali. `
+`Jka tia saatnya, izinkan aku untuk memperkenalkan diri Kembali. `
 `...*terkekeh*." `
-` Penyihir tersebut membalikkan punggungnya, sambal tertawa. `
+`Penyihir tersebut membalikkan punggungnya, sambal tertawa. `
 `...Lalu, dia mulai berjalan menuju mansion dengan sikap tenang. `
-` Maria dengan bersemangat memanggil dan menyaksikannya pergi, lalu mulai berlari menuju rumah tamu, meninggalkan Rosa di belakang. `
-` ...Seolah-olah dia ingin memberitahu sepupu-sepupunya tentang pertemuannya yang beruntung dengan penyihir itu secepat mungkin. `
-` Pada akhirnya, Rosa ditinggal sendirian di kebun mawar dengan keadaan angin yang semakin kencang, `
-` ...Dia tidak bisa berbuat apa-apa selain berdoa agar semua yang terjadi hanyalah mimpi siang bolong... `
-` Ketika sang penyihir tiba di ruang masuk, ...Genji telah menunggunya. `
-` Genji menyambut "tamu" yang mendekati ruang masuk dengan membungkuk hormat... `
-` "Aku telah menunggumu, `
-` ......{f:5:Beatrice}-sama." `
-` "...Sudah cukup lama, Genji. `
-` ......Hmph. `
+`Maria dengan bersemangat memanggil dan menyaksikannya pergi, lalu mulai berlari menuju rumah tamu, meninggalkan Rosa di belakang. `
+`...Seolah-olah dia ingin memberitahu sepupu-sepupunya tentang pertemuannya yang beruntung dengan penyihir itu secepat mungkin. `
+`Pada akhirnya, Rosa ditinggal sendirian di kebun mawar dengan keadaan angin yang semakin kencang, `
+`...Dia tidak bisa berbuat apa-apa selain berdoa agar semua yang terjadi hanyalah mimpi siang bolong... `
+`Ketika sang penyihir tiba di ruang masuk, ...Genji telah menunggunya. `
+`Genji menyambut "tamu" yang mendekati ruang masuk dengan membungkuk hormat... `
+`"Aku telah menunggumu, `
+`......{f:5:Beatrice}-sama." `
+`"...Sudah cukup lama, Genji. `
+`......Hmph. `
 `Kau semakin tua." `
-` "...Tidak peduli berapa umurnya, furniture akan tetap menjadi furnitur hingga akhir hayat." `
-` "...Aku jadi teringat bagaimana istri pria itu cemburu padamu. `
-` ...Bagaimana kabar Kinzo?" `
-` "Dia dalam keadaan yang sangat baik." `
-` "...Hmph. `
-` *terkekeh*!" `
-` Mungkin sang peyihir tertawa karena dia tahu bahwa dokter yang merawat Kinzo mengumumkan bahwa hidupnya tidak akan lama. `
-` ...Namun, jika ada yang benar-benar memperhatikan Kinzo dan melihat vitalitasnya, yang sama sekali tidak seperti yang diharapkan dari seseorang yang mendekati akhir hidupnya, `
-` mereka mungkin dakan mengatakan seperti "dia telah hidup dengan sangat baik". `
-` ...Mungkin itulah yang membuat penyihir itu tertawa. `
-` "Mari kita pergi untuk menyapanya. `
-` Aku tidak sabar untuk saling melempar kutukan setelah 30 tahun." `
-` Saat penyihir itu tersenyum, dia mulai berjalan, meninggalkan Genji di belakang. `
-` ...Gaya jalannya seperti seorang anggota keluarga yang sangat mengenal bagian dalam mansion. `
-` Genji mengikutinya dengan sikap seseorang yang melayaninya. `
-` Pada saat itu, Kyrie keluar dari ruang tamu. `
-` ...Dia mungkin keluar untuk memperbaiki riasan atau semacamnya. `
-` Dan saat dia melihat Genji yang mengikuti sang penyihir, dia terkejut, meskipun ekspresinya tidak berubah. `
-` Seorang tamu untuk Kinzo telah tiba, meskipun dia hampir mati, pada hari konferensi keluarga ketika nasib warisan akan diputuskan. `
-` ...Selain itu, orang ini cukup familiar dengan rumah tangga Keluarga Ushiromiya sehingga Genji mengikuti di belakangnya. `
+`"...Tidak peduli berapa umurnya, furniture akan tetap menjadi furnitur hingga akhir hayat." `
+`"...Aku jadi teringat bagaimana istri pria itu cemburu padamu. `
+`...Bagaimana kabar Kinzo?" `
+`"Dia dalam keadaan yang sangat baik." `
+`"...Hmph. `
+`*terkekeh*!" `
+`Mungkin sang peyihir tertawa karena dia tahu bahwa dokter yang merawat Kinzo mengumumkan bahwa hidupnya tidak akan lama. `
+`...Namun, jika ada yang benar-benar memperhatikan Kinzo dan melihat vitalitasnya, yang sama sekali tidak seperti yang diharapkan dari seseorang yang mendekati akhir hidupnya, `
+`mereka mungkin dakan mengatakan seperti "dia telah hidup dengan sangat baik". `
+`...Mungkin itulah yang membuat penyihir itu tertawa. `
+`"Mari kita pergi untuk menyapanya. `
+`Aku tidak sabar untuk saling melempar kutukan setelah 30 tahun." `
+`Saat penyihir itu tersenyum, dia mulai berjalan, meninggalkan Genji di belakang. `
+`...Gaya jalannya seperti seorang anggota keluarga yang sangat mengenal bagian dalam mansion. `
+`Genji mengikutinya dengan sikap seseorang yang melayaninya. `
+`Pada saat itu, Kyrie keluar dari ruang tamu. `
+`...Dia mungkin keluar untuk memperbaiki riasan atau semacamnya. `
+`Dan saat dia melihat Genji yang mengikuti sang penyihir, dia terkejut, meskipun ekspresinya tidak berubah. `
+`Seorang tamu untuk Kinzo telah tiba, meskipun dia hampir mati, pada hari konferensi keluarga ketika nasib warisan akan diputuskan. `
+`...Selain itu, orang ini cukup familiar dengan rumah tangga Keluarga Ushiromiya sehingga Genji mengikuti di belakangnya. `
 `...Kyrie segera enyadari bahwa orang yang belum pernah ia temui sbelumnya ini merupakan orang penting. `
-` Mata Kyrie dan sang penyihir saling bertemu. `
-` ...Menyadari bahwa akan sangat tidak sopan jika mengabaikannya, dia menyapa penyihir tersebut. `
-` "......Senang bertemu denganmu." `
-` "Kau adalah istri kedua Rudolf, bukan?" `
-` "Itu benar. `
-` Beliau adalah Kyrie-sama, istri Rudolf-sama saat ini." `
-` Dari pertemuan ini, Kyrie sadar bahwa tamu ini merupakan tamu kelas atas, bahkan dikalangan keluarga Ushiromiya. `
+`Mata Kyrie dan sang penyihir saling bertemu. `
+`...Menyadari bahwa akan sangat tidak sopan jika mengabaikannya, dia menyapa penyihir tersebut. `
+`"......Senang bertemu denganmu." `
+`"Kau adalah istri kedua Rudolf, bukan?" `
+`"Itu benar. `
+`Beliau adalah Kyrie-sama, istri Rudolf-sama saat ini." `
+`Dari pertemuan ini, Kyrie sadar bahwa tamu ini merupakan tamu kelas atas, bahkan dikalangan keluarga Ushiromiya. `
 `......Dan, fakta bahwa tamu itu berada di level tersebut, `
 `...Ditambah lagi dengan kemiripannya dengan lukisan di ruang masuk, ...membuat mata Kyrie langsung melebar... `
-` "...Senang bertemu denganmu. `
-` Aku Kyrie. `
-` Aku penasaran apakah ini pertemuan pertama kali kita. `
-` Jika kita pernah bertemu sebelumnya, aku minta maaf karena telah melupakan namamu." `
-`  "...Jadi, kau berniat memaksaku untuk menyebutkan namaku, meskipun kamu memiliki gambaran samar tentang jawabannya?" `
-` ".................." `
-` Kyrie mengira bahwa dia akan memberikan sapaan yang ramah dan bermartabat. `
-` Raut wajahnya sedikit mendung mendengar respons yang begitu menekan. `
-` ...Bagaimanapun, sepertinya orang ini bukan orang yang bisa dia sukai. `
-` ...Namun jika tebakan Kyrie benar, ...si "penyihir" ini mungkin memegang kunci penting terkait hal yang paling menarik bagi suaminya sendiri, `
-` sesuatu yang tak bisa dihindari akan mempengaruhi rapat keluarga malam ini... `
-` Jadi tanpa membalas dengan kata-kata tajam, Kyrie diam-diam menyaksikannya naik ke lantai dua, dengan Genji mengikuti di belakangnya. `
-` Jadi, ketika seseorang menepuk bahunya dari belakang, dia begitu terkejut hingga hampir tersedak. `
+`"...Senang bertemu denganmu. `
+`Aku Kyrie. `
+`Aku penasaran apakah ini pertemuan pertama kali kita. `
+`Jika kita pernah bertemu sebelumnya, aku minta maaf karena telah melupakan namamu." `
+` "...Jadi, kau berniat memaksaku untuk menyebutkan namaku, meskipun kamu memiliki gambaran samar tentang jawabannya?" `
+`".................." `
+`Kyrie mengira bahwa dia akan memberikan sapaan yang ramah dan bermartabat. `
+`Raut wajahnya sedikit mendung mendengar respons yang begitu menekan. `
+`...Bagaimanapun, sepertinya orang ini bukan orang yang bisa dia sukai. `
+`...Namun jika tebakan Kyrie benar, ...si "penyihir" ini mungkin memegang kunci penting terkait hal yang paling menarik bagi suaminya sendiri, `
+`sesuatu yang tak bisa dihindari akan mempengaruhi rapat keluarga malam ini... `
+`Jadi tanpa membalas dengan kata-kata tajam, Kyrie diam-diam menyaksikannya naik ke lantai dua, dengan Genji mengikuti di belakangnya. `
+`Jadi, ketika seseorang menepuk bahunya dari belakang, dia begitu terkejut hingga hampir tersedak. `
 `Itu adaalah...Natsuhi... `
-` "......Kyrie-san, `
-` Kenapa kamu berdiri di tempat seperti ini? `
-` Apa kau merasa tidak enak...?" `
-` "A-Aku minta maaf. `
-` ...Aku hanya sedikit terpesona oleh potret sang penyihir itu." `
+`"......Kyrie-san, `
+`Kenapa kamu berdiri di tempat seperti ini? `
+`Apa kau merasa tidak enak...?" `
+`"A-Aku minta maaf. `
+`...Aku hanya sedikit terpesona oleh potret sang penyihir itu." `
 `"...Oh, aksudmu Penyihir Emas, {f:5:Beatrice}. `
-` Yang dikatakan bahwa emasnya diperlukan untuk keluarga Ushiromiya yang bangkit kembali hingga saat ini. `
-` ...Cerita yang cukup fantastis, persis seperti yang diharapkan dari Ayah." `
-` Natsuhi berbicara dengan cara yang sangat biasa. `
-` Itu adalah jenis komentar dari seseorang yang yakin bahwa keberadaan penyihir hanyalah omong kosong, tak lebih dari salah satu omong kosong Kinzo. `
-` ...Namun, entah mengapa, sudut pandang itu tidak terasa benar bagi Kyrie saat ini. `
-` Baru saja, dia sendiri melihat Penyihir Emas masuk dari lorong masuk dan naik tangga. `
+`Yang dikatakan bahwa emasnya diperlukan untuk keluarga Ushiromiya yang bangkit kembali hingga saat ini. `
+`...Cerita yang cukup fantastis, persis seperti yang diharapkan dari Ayah." `
+`Natsuhi berbicara dengan cara yang sangat biasa. `
+`Itu adalah jenis komentar dari seseorang yang yakin bahwa keberadaan penyihir hanyalah omong kosong, tak lebih dari salah satu omong kosong Kinzo. `
+`...Namun, entah mengapa, sudut pandang itu tidak terasa benar bagi Kyrie saat ini. `
+`Baru saja, dia sendiri melihat Penyihir Emas masuk dari lorong masuk dan naik tangga. `
 `Jadi, perkataan Natsuhi membuatnya merasa seolah-olah ada yang menyangkal keberadaan orang itu, `
 `atau membuatnya dia tidak pernah ada di sana sejak awal... `
-` "...Maafkan aku. `
-` Mungkin aku sedikit akit kepala. `
-` ...Sepertinya aku akan beristirahat sebentar." `
-` "Oh, begitu kah...? `
-` Kalau begitu, aku memliki beberapa obat sakit kepala. `
-` Aku akan memberikannya padamu..." `
-` Koridor di depan ruang kerja Kinzo dipenuhi dengan aroma racun manis yang khas dari minuman hijau tersebut... `
-` Genji, yang sudah terbiasa dengan hal itu, tidak mengernyit. `
+`"...Maafkan aku. `
+`Mungkin aku sedikit akit kepala. `
+`...Sepertinya aku akan beristirahat sebentar." `
+`"Oh, begitu kah...? `
+`Kalau begitu, aku memliki beberapa obat sakit kepala. `
+`Aku akan memberikannya padamu..." `
+`Koridor di depan ruang kerja Kinzo dipenuhi dengan aroma racun manis yang khas dari minuman hijau tersebut... `
+`Genji, yang sudah terbiasa dengan hal itu, tidak mengernyit. `
 `...Dan Penyihir Emas juga tidak mengernyit. `
-` "...Sudah berapa lama dia berada di sana sejak terakhir kali dia keluar?" `
-` "Aku yakin itu sudah bertahun-tahun." `
-` "......Apakah dia begitu putus asa ingin mengubahku menjadi burung dalam sangkar?" `
-` ...Sungguh menyedihkan. `
-` ......Saat ini, kau seperti burung di dalam sangkar. `
-` ...Kau layaknya hantu di penelitian ini, bukan? `
-` ...Sungguh menyedihkan bahwa dia tidak menyadari hal itu." `
-` "...Sampai dia bertemu denganmu kembali, dia mungkin akan terus melanjutkan penelitiannya, bahkan  jika dia benar-benar berubah menjadi hantu." `
-` "Apakah itu cinta atau kegilaan atau delusi? `
-` ...Dan mungkin, hal-hal tersebut dapat membentuk kekuatan magis yang cukup kuat. `
-` ...Dasar penyihir yang malang." `
-` Penyihir itu memegang pegangan pintu ke ruang kerja. `
-` ...Saat dia melakukannya, terdengar suara seperti daging yang terbakar dan terbelah. `
-` ...Itu adalah suara gagang pintu yang secara harfiah membakar tangan penyihir. `
-` "...{f:5:Beatrice}-sama..." `
-` "Apa itu? `
-` ......Perlindungan terhadap sihir! `
-` ...Apakah orang itu tidak bisa bertahan tanpa bergantung pada sesuatu seperti ini...?" `
-` "...Aku mendengar bahwa pintu ini akan menyebabkanmu rasa sakit yang hebat, {f:5:Beatrice}-sama. ` ` Haruskah aku membukakannya...?" `
-` "Tidak, ...itu tidak perlu. `
-` Jika dia menang, aku akan menjadi seperti burung dalam sangkar selamanya. `
-` ...Jika dia kalah, dia hanya akan hidup sebagai bahan tertawaan, khidupam dari seorang penyihir malang yang gila karena cinta dan kehilangan segalanya." `
-` "...Baik aku maupun Kinzo hanyalah sebuah bidak yang tersebar di papan permainan. `
-` ...Yang tersisa hanyalah roulette yang menentukan siapa yang menang dan siapa yang kalah. `
-` ......Sampai roulette menunjukkan hasilnya, tidak ada alasan bagiku dan Kinzo untuk bertemu lagi." `
-` Penyihir itu melihat tangannya, yang mulai sembuh sedikit demi sedikit, meskipun telah terbakar. `
-` "...Atau mungkin itulah sebabnya dia memiliki mantra pelindung di sini sejak awal. `
-` ......Hmph. `
+`"...Sudah berapa lama dia berada di sana sejak terakhir kali dia keluar?" `
+`"Aku yakin itu sudah bertahun-tahun." `
+`"......Apakah dia begitu putus asa ingin mengubahku menjadi burung dalam sangkar?" `
+`...Sungguh menyedihkan. `
+`......Saat ini, kau seperti burung di dalam sangkar. `
+`...Kau layaknya hantu di penelitian ini, bukan? `
+`...Sungguh menyedihkan bahwa dia tidak menyadari hal itu." `
+`"...Sampai dia bertemu denganmu kembali, dia mungkin akan terus melanjutkan penelitiannya, bahkan  jika dia benar-benar berubah menjadi hantu." `
+`"Apakah itu cinta atau kegilaan atau delusi? `
+`...Dan mungkin, hal-hal tersebut dapat membentuk kekuatan magis yang cukup kuat. `
+`...Dasar penyihir yang malang." `
+`Penyihir itu memegang pegangan pintu ke ruang kerja. `
+`...Saat dia melakukannya, terdengar suara seperti daging yang terbakar dan terbelah. `
+`...Itu adalah suara gagang pintu yang secara harfiah membakar tangan penyihir. `
+`"...{f:5:Beatrice}-sama..." `
+`"Apa itu? `
+`......Perlindungan terhadap sihir! `
+`...Apakah orang itu tidak bisa bertahan tanpa bergantung pada sesuatu seperti ini...?" `
+`"...Aku mendengar bahwa pintu ini akan menyebabkanmu rasa sakit yang hebat, {f:5:Beatrice}-sama. `
+`Haruskah aku membukakannya...?" `
+`"Tidak, ...itu tidak perlu. `
+`Jika dia menang, aku akan menjadi seperti burung dalam sangkar selamanya. `
+`...Jika dia kalah, dia hanya akan hidup sebagai bahan tertawaan, khidupam dari seorang penyihir malang yang gila karena cinta dan kehilangan segalanya." `
+`"...Baik aku maupun Kinzo hanyalah sebuah bidak yang tersebar di papan permainan. `
+`...Yang tersisa hanyalah roulette yang menentukan siapa yang menang dan siapa yang kalah. `
+`......Sampai roulette menunjukkan hasilnya, tidak ada alasan bagiku dan Kinzo untuk bertemu lagi." `
+`Penyihir itu melihat tangannya, yang mulai sembuh sedikit demi sedikit, meskipun telah terbakar. `
+`"...Atau mungkin itulah sebabnya dia memiliki mantra pelindung di sini sejak awal. `
+`......Hmph. `
 `...Ya, mungkin hal itu merupakan cara yang terhormat. `
-` ...Saat ini, smuanya telah berada di atas papan permainan Kinzo." `
-` "Aku menyukainya, Kinzo. `
-` Izinkan aku menikmati permainan bersamamu. `
+`...Saat ini, smuanya telah berada di atas papan permainan Kinzo." `
+`"Aku menyukainya, Kinzo. `
+`Izinkan aku menikmati permainan bersamamu. `
 `...Izinkan aku menikmati kegagalan dari taruhan terakhir... dari si penyihir tua yang jatuh cinta padaku dan membuang seluruh hidupnya...!!" `
