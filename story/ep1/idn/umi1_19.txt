@@ -1,116 +1,116 @@
-`"...What sort of tea should I prepare next? `
-`You have free choice of any brand that ever was throughout the ages." `
-`"...Dried plum black tea. `
-`...The kind that goes for 200 yen a pack." `
-`"*cackle*cackle*...! `
-`...For a thousand years, I have been fond of black tea, but I did not know of such a thing. `
-`...I will never tire of living in this world." `
+`"...Teh macam apa yang harus kusiapkan selanjutnya? `
+`Kau bebas memilih merek apa pun yang pernah ada sepanjang zaman." `
+`"...Teh hitam rasa plum kering. `
+`...Jenis yang harganya 200 yen per bungkus." `
+`"*kekeh*kekeh*...! `
+`...Selama seribu tahun, aku menyukai teh hitam, tapi aku tak tahu soal yang seperti itu. `
+`...Aku tak akan pernah bosan hidup di dunia ini." `
 `"......Beato, `
-`you don't have to display such hostility. `
-`...I am just a wandering witch. `
-`I didn't come with the intention of violating the rules of your territory." `
-`"...*cackle*cackle* Hostility? I bear nothing of the sort. `
-`...I am just terribly concerned with seeing to it that the legendary witch, Lady {f:5:Bernkastel}, is well attended to." `
-`"...You misunderstand. `
-`I am powerless. `
-`Before a witch such as you, who possesses the dreadful power to kill an individual a hundred times, I am completely powerless." `
-`"That a powerless Lady Witch like you possesses a power that none can approach is what is truly terrifying. `
-`After all, that Great Witch, Lady {f:5:Lambdadelta}, was dethroned by you alone." `
-`"...I only won an endurance contest. `
-`She simply got tired." `
-`"That is not what Lady {f:5:Lambdadelta} said though. `
-`...*cackle*cackle*cackle* Too much humility can be unseemly, Lady {f:5:Bernkastel}." `
-`"...That girl has a dreadful power. `
-`...The power to kill an individual "without fail". `
-`However, "without fail" doesn't exist in this world. `
-`No matter how many times you divide one, you can never reach zero. `
-`That girl has the power to bring the odds of failure down to "almost exactly zero", ...the power to give rise to "almost perfect certainty". `
-`...I hope I never have to fight such a terrifying witch again." `
-`"However, you have the power to cause success without fail, "as long as the odds are not zero". `
-`...Though you say "without fail" doesn't exist in this world, you possess an infallible power yourself. `
-`...How very terrifying, *cackle*cackle*...!" `
-`"...The power to kill an individual "endlessly"... `
-`...I think you're the more terrifying one." `
-`"You jest. `
-`...From your point of view, mine is but a trifling power. `
-`This is most certainly what one would call empty praise." `
-`"...Call it flattery to make up for the cost of staying here. `
-`...I am a fleeing traveler who crosses the Fragments, continually running from boredom. `
-`...I simply came around because I heard you'd started something interesting. `
-`Have no doubts that I will choose to leave as soon as you are no longer interesting." `
-`"*cackle*cackle*...! `
-`I, {f:5:Beatrice}, am deeply and humbly delighted to have the great Lady {f:5:Bernkastel} as an observer. `
-`*cackle*cackle*! `
-`And so, your impressions?" `
-`"...{f:5:Lambdadelta} is terrifying because of her cruelty, but she's a girl I can understand. `
-`...You do seem to be capable of affection, but I can't understand you at all. `
-`That makes you much more terrifying than her." `
-`"*cackle*cackle*cackle*...! `
-`I am fickle by nature. `
-`Do forgive me. `
-`...Besides, I believe you also enjoy entrusting your fate to the roll of fickle dice, right, Lady {f:5:Bernkastel}?" `
-`"...When I roll the dice, I have a roll I clearly want to get. `
-`Unlike you. `
-`You, on the other hand, never let the dice fall from your hand. `
-`So, whatever the roll might have been, you're never disappointed. `
-`Whatever roll the dice show you, you are satisfied "without fail". `
-`...In that sense, you far surpass me." `
-`"...You're one I really don't want to fight with. `
-`Inside of you, there's nothing but zero. `
-`That's why I can't win against you with my power. `
-`...It's the worst compatibility. `
-`...Perhaps {f:5:Lambdadelta}, on the other hand, has a good compatibility against you. `
-`Since she would be able to kill your "endless" nature." `
-`"*cackle*cackle*, *cackle*cackle*cackle*! `
-`...Oh yes, witches truly are the best people to enjoy black tea with. `
-`One doesn't get bored. `
-`*cackle*cackle*!" `
-`"...Then, I'm relieved. `
-`Boredom is the only poison that can kill me. `
-`...So, don't kill me, okay? `
-`Lady {f:5:Beatrice}, Endless Witch." `
-`"If such is your wish, I, {f:5:Beatrice}, shall show you an even better time. `
-`...In that case, wouldn't it be best if I brought the next chessboard in right away? `
-`It seems the next tale would do more for you than another cup of black tea." `
+`kau tak perlu menunjukkan permusuhan seperti itu. `
+`...Aku hanyalah seorang penyihir pengembara. `
+`Aku tak datang dengan niat melanggar aturan wilayahmu." `
+`"...*kekeh*kekeh* Permusuhan? Aku tak punya yang seperti itu. `
+`...Aku hanya sangat peduli memastikan penyihir legendaris, Lady {f:5:Bernkastel}, dilayani dengan baik." `
+`"...Kau salah paham. `
+`Aku tak berdaya. `
+`Di hadapan penyihir sepertimu, yang punya kekuatan mengerikan untuk membunuh seseorang ribuan kali, aku sama sekali tak berdaya." `
+`"Bahwa seorang Lady Penyihir tak berdaya sepertimu memiliki kekuatan yang tak bisa didekati siapa pun, itulah yang benar-benar menakutkan. `
+`Lagipula, Penyihir Agung itu, Lady {f:5:Lambdadelta}, tergulingkan hanya olehmu seorang." `
+`"...Aku hanya memenangkan pertandingan ketahanan. `
+`Dia hanya lelah saja." `
+`"Itu bukan yang dikatakan Lady {f:5:Lambdadelta} sih. `
+`...*kekeh*kekeh*kekeh* Terlalu merendah bisa jadi tak pantas, Lady {f:5:Bernkastel}." `
+`"...Gadis itu punya kekuatan yang mengerikan. `
+`...Kekuatan untuk membunuh seseorang 'tanpa gagal'. `
+`Namun, 'tanpa gagal' tak pernah ada di dunia ini. `
+`Tak peduli berapa kali kau membagi satu, kau tak akan pernah mencapai nol." `
+`"Gadis itu punya kekuatan untuk menurunkan kemungkinan gagal menjadi 'hampir tepat nol', ...kekuatan untuk menciptakan 'kepastian yang hampir sempurna'. `
+`...Aku berharap tak perlu bertarung lagi dengan penyihir mengerikan seperti itu." `
+`"Namun, kau punya kekuatan untuk membuat keberhasilan tanpa gagal, 'selama kemungkinannya tidak nol'. `
+`...Walau kau bilang 'tanpa gagal' tak ada di dunia ini, kau sendiri punya kekuatan yang tak bisa diganggu gugat. `
+`...Sungguh menakutkan, *kekeh*kekeh*...!" `
+`"...Kekuatan untuk membunuh seseorang 'tanpa akhir'... `
+`...Kupikir kaulah yang lebih menakutkan." `
+`"Kau bercanda. `
+`...Dari sudut pandangmu, kekuatanku hanyalah kekuatan sepele. `
+`Ini jelas hanya pujian kosong." `
+`"...Anggap saja ini sanjungan sebagai ganti biaya tinggal di sini. `
+`...Aku adalah pengelana yang kabur, melintasi Fragmen, terus berlari dari kebosanan. `
+`...Aku hanya mampir karena kudengar kau memulai sesuatu yang menarik. `
+`Tak perlu khawatir, aku akan pergi begitu kau tak lagi menarik." `
+`"*kekeh*kekeh*...! `
+`Aku, {f:5:Beatrice}, sangat senang dan rendah hati menerima Lady {f:5:Bernkastel} yang agung sebagai pengamat. `
+`*kekeh*kekeh*! `
+`Jadi, bagaimana kesanmu?" `
+`"...{f:5:Lambdadelta} menakutkan karena kekejamannya, tapi dia gadis yang bisa kupahami. `
+`...Kau memang terlihat mampu menunjukkan kasih sayang, tapi aku sama sekali tak bisa memahamimu. `
+`Itu membuatmu jauh lebih menakutkan darinya." `
+`"*kekeh*kekeh*kekeh*...! `
+`Aku memang moody dari sananya. `
+`Maafkan aku. `
+`...Lagipula, kupikir kau juga suka menyerahkan nasibmu pada lemparan dadu yang moody, kan, Lady {f:5:Bernkastel}?" `
+`"...Saat aku melempar dadu, aku punya hasil yang jelas ingin kudapatkan. `
+`Tak seperti dirimu. `
+`Kau, di sisi lain, tak pernah membiarkan dadu jatuh dari tanganmu." `
+`"Jadi, apa pun hasilnya, kau tak pernah kecewa. `
+`Hasil apa pun yang dadu tunjukkan padamu, kau puas 'tanpa gagal'. `
+`...Dalam hal itu, kau jauh melampauiku." `
+`"...Kau adalah orang yang benar-benar tak ingin kuhadapi. `
+`Di dalam dirimu, tak ada apa pun selain nol. `
+`Itulah sebabnya aku tak bisa menang melawanmu dengan kekuatanku. `
+`...Kecocokan terburuk. `
+`...Mungkin {f:5:Lambdadelta}, sebaliknya, punya kecocokan yang baik melawanmu. `
+`Karena dia akan bisa membunuh sifat 'tanpa akhir'-mu." `
+`"*kekeh*kekeh*, *kekeh*kekeh*kekeh*! `
+`...Oh ya, penyihir memang teman terbaik untuk menikmati teh hitam. `
+`Tak pernah membosankan. `
+`*kekeh*kekeh*!" `
+`"...Kalau begitu, aku lega. `
+`Kebosanan adalah satu-satunya racun yang bisa membunuhku. `
+`...Jadi, jangan bunuh aku, oke? `
+`Lady {f:5:Beatrice}, Penyihir Tanpa Akhir." `
+`"Jika itu keinginanmu, aku, {f:5:Beatrice}, akan memberimu waktu yang lebih menyenangkan lagi. `
+`"...Kalau begitu, bukankah sebaiknya aku segera membawa papan catur berikutnya? `
+`Sepertinya kisah berikutnya akan lebih berharga bagimu daripada secangkir teh hitam lainnya." `
 `"..............." `
-`"Just wait for a moment. `
-`...*cackle*cackle*!" `
-`...Something troublesome seems to have taken a liking to you. `
-`I'd really like to lend you my power, but as you just heard, that girl's power and mine have a very bad compatibility. `
-`Unfortunate as that may be. `
-`But you really are pitiful, so I'll help you out just a bit. `
-`First of all, about that girl. `
-`She does have the name {f:5:Beatrice}, but that doesn't necessarily mean she is "one individual woman". `
-`Get what I mean? `
-`In other words, she's not some Human. `
-`Her existence is a personification of the rules of this world. `
-`To beat her, you have to expose the rules of this world and unravel them. `
-`Perhaps this can be likened to learning the rules of chess by watching a game. `
-`First, take a good look at the chessboard. `
-`Then, learn the movements and roles of the pieces. `
-`Then, look for the conditions required to win at her game. `
-`When you've managed to reveal all these things, her heart will be exposed. `
-`After that, you can rip it apart or crush it as you please. `
-`...I am being quite generous. `
-`In the past, when I had a human body, it took me a hundred years to notice even this much. `
-`This is my meager farewell gift to you, the pitiful one captured by Beato. It's just like a spoon. `
-`A spoon can be used for more than just drinking soup. `
-`You can use it to dig through the prison you're locked in, or as a weapon to gouge the witch's eyes out. `
-`...Of course, you can also use the spoon to continually sip the watery soup inside your eternal cell. `
-`...Don't get the wrong idea. I have no intention of becoming your ally. `
-`I do feel empathy for you, but I won't help you. `
-`...It's like I'm sitting in front of the television yelling at you on the other side, even though my voice won't reach you. `
+`"Tunggu sebentar saja. `
+`...*kekeh*kekeh*!" `
+`"...Sepertinya sesuatu yang merepotkan mulai menyukaimu." `
+`"Aku benar-benar ingin meminjamkan kekuatanku padamu, tapi seperti yang baru saja kau dengar, kekuatanku dan kekuatan gadis itu punya kecocokan yang sangat buruk. `
+`Sayang sekali memang." `
+`"Tapi kau benar-benar kasihan, jadi aku akan membantumu sedikit saja." `
+`"Pertama-tama, tentang gadis itu." `
+`"Dia memang punya nama {f:5:Beatrice}, tapi itu tak selalu berarti dia adalah 'satu perempuan individu'." `
+`"Paham maksudku?" `
+`"Dengan kata lain, dia bukan manusia. `
+`Eksistensinya adalah personifikasi dari aturan dunia ini." `
+`"Untuk mengalahkannya, kau harus mengungkap aturan dunia ini dan membongkarnya." `
+`"Mungkin ini bisa diibaratkan seperti mempelajari aturan catur dengan menonton permainan." `
+`"Pertama, perhatikan papan caturnya dengan baik. `
+`Lalu, pelajari gerakan dan peran bidaknya. `
+`Kemudian, cari syarat yang dibutuhkan untuk menang dalam permainannya." `
+`"Saat kau berhasil mengungkap semua itu, hatinya akan terbuka. `
+`Setelah itu, kau bisa merobeknya atau menghancurkannya sesukamu." `
+`"...Aku cukup murah hati. `
+`Dulu, saat aku masih punya tubuh manusia, butuh seratus tahun bagiku untuk menyadari hal ini saja." `
+`"Ini adalah hadiah perpisahan kecilku untukmu, si malang yang ditangkap Beato. Ini seperti sendok." `
+`"Sendok bisa digunakan bukan hanya untuk minum sup. `
+`Kau bisa memakainya untuk menggali penjara tempatmu dikurung, atau sebagai senjata untuk mencungkil mata penyihir itu." `
+`"...Tentu saja, kau juga bisa memakai sendok itu untuk terus meneguk sup encer di dalam sel abadimu." `
+`"...Jangan salah paham. Aku tak berniat menjadi sekutumu." `
+`"Aku memang merasa simpati padamu, tapi aku tak akan membantumu. `
+`...Ini seperti aku duduk di depan televisi sambil berteriak padamu di sisi lain, walau suaraku takkan sampai padamu." `
 `{a:c: `
-`SO, YOU UNDERSTAND THAT I AM A WITCH, RIGHT?} `
-`I intend to enjoy this endless tale that Beato is going to weave until I tire of it. `
-`But that alone won't hold my interest. `
-`...That's why I'll lend you my power. `
-`It's all so that I don't get tired of this. `
-`I am the cruelest witch in the world. `
-`Whoever the opponent may be, I'll make them surrender with certainty. `
-`...Even if it's {f:5:Beatrice}, the Endless Witch, okay...? `
-`You are my game piece. `
-`Give it your best shot. `
-`I'll give you advice sometimes, out of her sight. `
-`Don't bore me, okay...? `
-`*giggle*giggle*giggle*... `
+`"JADI, KAU MENGERTI KALAU AKU INI PENYIHIR, KAN?"} `
+`"Aku berniat menikmati kisah tanpa akhir yang akan ditenun Beato ini sampai aku bosan. `
+`Tapi itu saja takkan cukup membuatku tertarik." `
+`"...Itulah sebabnya aku akan meminjamkan kekuatanku padamu. `
+`Semua ini agar aku tak bosan." `
+`"Aku adalah penyihir paling kejam di dunia. `
+`Siapa pun lawannya, akan kubuat menyerah dengan pasti." `
+`"...Bahkan jika itu {f:5:Beatrice}, Penyihir Tanpa Akhir, oke...?" `
+`"Kau adalah bidak permainanku. `
+`Lakukan yang terbaik. `
+`Kadang-kadang aku akan memberimu nasihat, di luar penglihatannya." `
+`"Jangan membuatku bosan, oke...?" `
+`*cekikikan*cekikikan*cekikikan* `

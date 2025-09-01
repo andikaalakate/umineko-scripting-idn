@@ -1,240 +1,240 @@
-`"Well then, `
-`...did you find that `
-`game enjoyable?" `
-`"...A game that one-sided goes beyond being riveting. It's boring." `
-`"*cackle*cackle* My, my, but you're as harsh as always. `
-`...Considering how proud I was to have created a development so `
-`impactful that it might satisfy even the boredom-hating Lady {f:5:Bernkastel}, this response is quite harsh." `
-`"...Well, I'll admit it was impactful. `
-`...However, it was horrible as a fair game. `
-`Unless you make the conditions a bit more even-" `
-`"...Are you saying there's no way to win? `
-`Not even for Lady {f:5:Bernkastel}? `
-`...*cackle*cackle*." `
-`".........I wonder what you mean by that, Beato." `
-`"There's no need to try and fool me. `
-`I already know. `
-`...That {i:you're no bystander}." `
+`"Baiklah, `
+`...apakah kau menikmati `
+`permainan itu?" `
+`"...Permainan yang satu arah seperti itu bukan sekadar memikat. Membosankan." `
+`"*kekeke*kekeke* Eh, wah, kau memang galak seperti biasa. `
+`...Mengingat betapa bangganya aku telah menciptakan sebuah pengembangan yang sedemikian `
+`berpengaruh sehingga mungkin bisa memuaskan bahkan Lady {f:5:Bernkastel} yang membenci kebosanan, tanggapanmu sungguh kejam." `
+`"...Baiklah, kurasa memang berpengaruh. `
+`...Namun, ia mengerikan sebagai permainan yang adil. `
+`Kecuali kau membuat kondisinya sedikit lebih seimbang—" `
+`"...Maksudmu tak ada jalan menang? `
+`Bahkan untuk Lady {f:5:Bernkastel}? `
+`...*kekeke*kekeke*." `
+`".........Aku heran apa maksudmu, Beato." `
+`"Tak perlu menipu aku. `
+`Aku sudah tahu. `
+`...Bahwa {i:kau bukan sekadar penonton}." `
 `"............" `
-`"Were you planning on hiding it? `
-`You're an outrageous person to come into someone else's territory from such a great distance to work against them. `
-`You came to watch from the sidelines, and probably to push strongly for my defeat. `
-`I've guessed right, haven't I...?" `
+`"Apakah maksudmu menyembunyikannya? `
+`Dasar orang keterlaluan, datang jauh-jauh ke wilayah orang lain hanya untuk melawannya. `
+`Kau datang untuk menyaksikan dari pinggir, dan mungkin menekan agar aku kalah. `
+`Kau tebakanku benar, bukan...?" `
 `"......... `
-`And if so?" `
-`"...*cackle*cackle*! `
-`Truly amusing! `
-`That I should be granted a chance to fight against Lady {f:5:Bernkastel}, the strongest of witches who defeated Lady {f:5:Lambdadelta}, is truly a pleasure!!" `
-`"...Yes. `
-`I'm also pleased. `
-`I came all this way because I really wanted to see you, brimming with confidence, fall apart and lose." `
-`"What an honest person. `
-`*cackle*cackle*!! `
-`Even so, it would be a shame if the contest between me and the great Lady {f:5:Bernkastel} `
-`was resolved without at least one observer." `
+`Kalau memang begitu?" `
+`"...*kekeke*kekeke*! `
+`Sungguh menggelikan! `
+`Bahkan aku diberi kesempatan bertarung melawan Lady {f:5:Bernkastel}, penyihir terkuat yang pernah mengalahkan Lady {f:5:Lambdadelta}, sungguh suatu kesenangan!!" `
+`"...Ya. `
+`Aku juga senang. `
+`Aku datang sejauh ini karena benar-benar ingin melihatmu, yang penuh percaya diri, hancur dan kalah." `
+`"Betapa jujurnya dirimu. `
+`*kekeke*kekeke*!! `
+`Meski begitu, sayang jika duel antara aku dan agungnya Lady {f:5:Bernkastel} `
+`diselesaikan tanpa setidaknya ada seorang pengamat." `
 `"......... `
-`...You called her here, didn't you. `
-`That kid." `
+`...Kau memanggilnya ke sini, bukan? `
+`Itu anak." `
 `"Hohohohohoh! `
-`I found you, I've finally found you, {f:5:Bernkastel}!!" `
-`"......How are you, Lambda? `
-`Looks like you've got lots of spare time too. `
-`I wonder if it's fate that the pair who hates boredom should run into each other again..." `
-`"Stupid kid. `
-`Can't you see you only won against me because of a little luck and a problem of compatibility? `
-`After that, you became such a brag, and now you're even picking a fight with {f:5:Beatrice}? Shouldn't you learn your place?" `
-`"*giggle* {f:5:Beatrice} is strong. `
-`And she's even more brutal than I am. `
-`Just a bit!" `
-`"And by the way, don't go shortening people's names without their permission!" `
-`"......You're dumb too, Beato. `
-`If this kid's in your game, she'll make a mess of everything." `
-`"I certainly didn't just bring Lady {f:5:Lambdadelta} here to watch from the sidelines. `
-`After informing me that you were betting against me, she said that she would bet against you." `
-`"............You're still holding a grudge, aren't you." `
+`Aku menemukannya, akhirnya kutemukan, {f:5:Bernkastel}!!" `
+`"......Apa kabarmu, Lambda? `
+`Kelihatannya kau juga punya banyak waktu luang. `
+`Aku bertanya-tanya apakah ini takdir — dua jiwa yang membenci kebosanan bertemu lagi..." `
+`"Anak bodoh. `
+`Apa kau tak melihat bahwa kau hanya menang atasku karena sedikit keberuntungan dan masalah kecocokan? `
+`Setelah itu, kau jadi sok pamer, dan sekarang kau berani menantang {f:5:Beatrice}? Seharusnya kau belajar batasmu!" `
+`"*hehe* {f:5:Beatrice} kuat. `
+`Dan dia bahkan lebih brutal dariku. `
+`Hanya sedikit saja!" `
+`"Omong-omong, jangan memendekkan nama orang tanpa izin mereka!" `
+`"......Kau juga tolol, Beato. `
+`Kalau anak ini masuk ke permainanmu, dia akan membuat berantakan segalanya." `
+`"Tentu saja aku tak hanya membawa Lady {f:5:Lambdadelta} ke sini untuk menonton dari pinggir. `
+`Setelah memberitahuku bahwa kau memasang taruhan melawanku, dia bilang dia akan memasang taruhan melawanmu." `
+`"............Kau masih menyimpan dendam, ya." `
 `"Hohohohoh!! `
-`Because I'm the strongest witch in the universe. `
-`But I lost to you, which means I'm not the strongest! `
-`So any enemy of yours is my ally!!" `
-`"*cackle*cackle*! `
-`And there you have it. `
-`With the great Lady {f:5:Bernkastel} as our opponent, this may not even count as a handicap, but it should make for good entertainment." `
-`"......Do as you like. `
-`...Now that I've been exposed, allow me to get serious." `
-`"That would be well. `
-`"Going easy" has never been written in my dictionary. `
-`*cackle*cackle*cackle*cackle*cackle*! `
-`Lady {f:5:Lambdadelta}, let us enjoy our precious time together." `
-`"Yeah, I'll be counting on you, Lady {f:5:Beatrice}! `
-`I've been betrayed pretty bad by her too. `
-`Until the two of us smash her up and pay her back double, I won't be able to rest!!" `
-`"......I'll be counting on you, Lambda. `
-`And you, Beato. `
-`...No matter what we fight over, this will be a very significant battle for us all." `
-`"That's right. `
-`Of course, I don't plan on losing, but we've got a goal beyond who wins and who loses." `
-`"After all, we hate boredom." `
-`The three witches giggled, cackled, and guffawed. `
-`"...That's right. `
-`I should thank you, Beato. `
-`It looks like I'll finally be able to escape my boredom. `
-`Do your best to entertain me. `
-`Along with {f:5:Lambdadelta}." `
-`"Leave it to me. `
-`*cackle*cackle*...!!" `
-`"If we're decided, Beato, then let's start a strategy meeting right now! `
-`I know all of this girl's weak points, and I'll teach you all of them!" `
-`"And yet, Lady {f:5:Lambdadelta}, you were defeated by her, *cackle*cackle*...!" `
-`"Urrrrrrrrgggh, I won't tell you, I won't tell you! `
+`Karena aku penyihir terkuat di alam semesta. `
+`Tapi aku kalah darimu, berarti aku bukan yang terkuat! `
+`Jadi musuhmu adalah sekutuku!!" `
+`"*kekeke*kekeke*! `
+`Dan begitulah. `
+`Dengan agungnya Lady {f:5:Bernkastel} sebagai lawan, ini mungkin bahkan bukan handicap, tapi pasti jadi tontonan yang seru." `
+`"......Lakukan sesukamu. `
+`...Sekarang aku terbongkar, izinkan aku menjadi serius." `
+`"Baguslah. `
+`"Bermain enteng" tak pernah ada dalam kamusku. `
+`*kekeke*kekeke*kekeke*kekeke*kekeke*! `
+`Lady {f:5:Lambdadelta}, mari kita nikmati waktu berhargamu bersama." `
+`"Ya, kuandalkan padamu, Lady {f:5:Beatrice}! `
+`Aku juga dikhianati olehnya. `
+`Sampai kita berdua memecahkannya dan membalas dua kali lipat, aku tak akan bisa tenang!!" `
+`"......Aku mengandalkanmu, Lambda. `
+`Dan kau, Beato. `
+`...Apa pun yang kita perebutkan, ini akan jadi pertarungan yang sangat berarti bagi kita semua." `
+`"Betul. `
+`Tentu, aku tak berniat kalah, tapi kita punya tujuan di luar soal menang atau kalah." `
+`"Lagipula, kita membenci kebosanan." `
+`Tiga penyihir itu terkikik, tertawa sinis, dan terbahak. `
+`"...Betul. `
+`Aku harus berterima kasih padamu, Beato. `
+`Sepertinya akhirnya aku bisa melarikan diri dari kebosan. `
+`Berusahalah menghiburku. `
+`Bersama {f:5:Lambdadelta}." `
+`"Serahkan padaku. `
+`*kekeke*kekeke*...!!" `
+`"Kalau sudah diputuskan, Beato, mari kita mulai rapat strategi sekarang juga! `
+`Aku tahu semua titik lemah gadis ini, dan akan kuceritakan semuanya padamu!" `
+`"Dan lagi, Lady {f:5:Lambdadelta}, kau dikalahkan olehnya, *kekeke*kekeke*...!" `
+`"Urrrrrrrrgggh, tak akan kukatakan, tak akan kukatakan! `
 `Tsun!" `
-`"*cackle*cackle* Hahhahahahahahaha! `
-`...She's never boring, that Lady {f:5:Lambdadelta}." `
-`"......Isn't she? `
-`Take care of her. `
-`She gets lonely easily." `
-`"I see. `
-`So she's one of "those" that are popular these days. `
-`*cackle* As expected from Lady {f:5:Lambdadelta}. `
-`Quite cutting edge. `
-`*cackle*cackle*cackle*cackle*." `
-`"Go already. `
-`That kid's waiting for you to chase after her." `
-`"...Then, if you'll excuse me. `
-`See you next game. `
-`*cackle*cackle*cackle*cackle*cackle*!" `
-`...I'm sorry. `
-`That troublesome one came, but don't mind it. `
-`More importantly, `
-`......things sure got ugly. `
-`I thought I experienced a very tragic end in Lambda's game, `
-`......but this one is...exceptionally horrible. `
-`...I can't say I don't understand why you're hugging your knees and closing up your heart. `
-`If you meet a fate like that a few more times, `
-`it'll take a lot less than a hundred years to kill your heart. `
-`...Beato saw through me, so I'll confess. `
-`You are now just like I was in the past, when I was imprisoned inside Lambda's world. `
-`Shut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking. `
-`...I am a witch who was born from there. `
-`...So maybe I'm like an older sister to you. `
-`So I decided that I'd lend you my power. `
-`However, `
-`......even compared to my fate, `
-`...yours is...truly brutal. `
-`Not only do I sympathize with you, I'm almost brought to tears by your tragic fate. `
-`But please, don't lose heart. `
-`Please don't submit to Beato, no matter what. `
-`Certainly, that child's game is quite unfair. `
-`I've only been allowed a glimpse of the game board, `
-`but the unfair and clever devices set up on the stage are so disgusting...that I imagine they far surpass those on {f:5:Lambdadelta}'s game board. `
-`And what's even more frightening...is that when that kid moves a piece, she doesn't always make the best possible move. `
-`This is where she's very different from Lambda. `
-`Lambda always uses an overpowering number of pieces to make the best possible move in order to win. `
-`But Beato sometimes intentionally goes easy on her opponent when she moves her pieces. `
-`Since, when we're in trouble, we try to seek out our opponent's strategy by looking at their moves, `
-`this creates a very formidable amount of noise in our information. `
-`That might cause a troublesome amount of disorder. `
-`...However, as in chess, `
-`though a player might be able to create some noise for their opponent with a useless move, they'll still miss out on the more valuable move they avoided. `
-`In other words, it's not like your opportunities to take advantage of this are zero. `
-`Although you may not be able to believe it, that analogy holds true for this game as well. `
-`...Even though those developments looked so overpowering, `
-`...there actually was a weak point. `
-`A weak point that almost looks like she wanted you to take advantage of it. `
-`...Though, I don't know if it's a trap or if she's testing us. `
-`Anyway, don't surrender. `
-`Don't stop thinking. `
-`Don't deny any possibility. `
-`As long as you continue to hold the will to fight, Beato will not win. `
-`What's the most important element in defense during a witch's battle? `
-`Rather than trying to win, try not to lose. `
-`...If accepting her means your defeat, then you definitely mustn't accept her. `
-`...Making you accept witches. `
-`There is no longer any doubt that this is one of {f:5:Beatrice}'s victory conditions. `
-`Now that I have announced that I'm your ally, I too will make as great an effort as possible to lend you my power. `
-`Make an effort yourself as well. `
-`If you're still hugging your knees, quickly stand back up. `
-`......Umm, in times like this, what did I use to say again? `
+`"*kekeke*kekeke* Hahhahahahahahaha! `
+`...Lady {f:5:Lambdadelta} itu tak pernah membosankan." `
+`"......Bukankah begitu? `
+`Jaga dia baik-baik. `
+`Dia mudah merasa kesepian." `
+`"Kuh mengerti. `
+`Jadi dia termasuk 'itu' yang populer akhir-akhir ini. `
+`*kekeke* Seperti yang diharapkan dari Lady {f:5:Lambdadelta}. `
+`Cukup kekinian. `
+`*kekeke*kekeke*kekeke*kekeke*." `
+`"Pergilah. `
+`Anak itu menunggumu untuk mengejarnya." `
+`"...Kalau begitu, mohon izin. `
+`Sampai permainan selanjutnya. `
+`*kekeke*kekeke*kekeke*kekeke*kekeke*!" `
+`...Maafkan aku. `
+`Yang merepotkan itu datang, tapi jangan hiraukan dia. `
+`Yang lebih penting, `
+`......halnya jadi jelek sekali. `
+`Kupikir aku pernah merasakan akhir yang sangat tragis di permainan Lambda, `
+`......tapi yang ini...luar biasa mengerikan. `
+`...Tak heran kau memeluk lututmu dan menutup hatimu. `
+`Kalau kau mengalami nasib seperti itu beberapa kali lagi, `
+`tak perlu menunggu seratus tahun untuk mematikan hatimu. `
+`...Beato menembus aku, jadi akan kujujur. `
+`Kini kau persis seperti aku dulu, ketika aku dipenjara di dalam dunia Lambda. `
+`Terkurung dalam labirin takdir yang kejam, disiksa oleh seorang penyihir, bisa dikatakan begitu. `
+`...Akulah penyihir yang lahir dari sana. `
+`...Jadi mungkin aku seperti kakak perempuan bagimu. `
+`Maka kuberanikan diri meminjamkan kekuatanku padamu. `
+`Namun, `
+`......meski dibandingkan dengan nasibku, `
+`...nasibmu...benar-benar kejam. `
+`Bukan hanya aku bersimpati, aku hampir meneteskan air mata oleh nasib tragismu. `
+`Tapi tolong, jangan kehilangan semangat. `
+`Tolong jangan menyerah pada Beato, apapun yang terjadi. `
+`Memang, permainan anak itu cukup tidak adil. `
+`Aku hanya diberi secuil pandangan pada papan permainan, `
+`tetapi perangkat tak adil dan licik yang dipasang di panggung begitu menjijikkan...hingga kurasa jauh melampaui yang ada di papan permainan {f:5:Lambdadelta}. `
+`Dan yang lebih menakutkan...adalah ketika anak itu menggerakkan bidaknya, dia tak selalu membuat gerakan terbaik. `
+`Di sinilah perbedaannya dengan Lambda. `
+`Lambda selalu menggunakan jumlah bidak yang berlebihan untuk membuat gerakan terbaik demi menang. `
+`Tetapi Beato kadang sengaja memberi lawannya gerakan yang 'lebih ringan' ketika memindahkan bidaknya. `
+`Karena, ketika kita kesulitan, kita mencoba mencari strategi lawan dengan melihat gerakan mereka, `
+`ini menciptakan jumlah kebisingan informasi yang sangat besar. `
+`Itu bisa menyebabkan kekacauan yang merepotkan. `
+`...Namun, seperti dalam catur, `
+`meskipun seorang pemain mungkin menciptakan kebisingan bagi lawannya dengan gerakan yang tak berguna, mereka tetap kehilangan gerakan yang lebih berharga yang dihindarkannya. `
+`Dengan kata lain, bukan berarti kesempatanmu untuk memanfaatkannya nol. `
+`Walau mungkin kau tak bisa mempercayainya, analogi itu juga berlaku untuk permainan ini. `
+`...Meskipun perkembangan itu tampak begitu dominan, `
+`...sebenarnya ada titik lemah. `
+`Titik lemah yang hampir terlihat seolah-olah dia ingin kau memanfaatkannya. `
+`...Meski, aku tak tahu apakah itu jebakan atau dia sedang menguji kita. `
+`Bagaimanapun, jangan menyerah. `
+`Jangan berhenti berpikir. `
+`Jangan menutup kemungkinan apapun. `
+`Selama kau terus memegang kehendak untuk bertarung, Beato tak akan menang. `
+`Apa elemen terpenting dalam pertahanan selama pertempuran penyihir? `
+`Alih-alih mencoba menang, cobalah untuk tidak kalah. `
+`...Jika menerima dia berarti kekalahanmu, maka kau jelas tak boleh menerimanya. `
+`...Membuatmu menerima para penyihir. `
+`Tak ada keraguan lagi bahwa ini salah satu kondisi kemenangan {f:5:Beatrice}. `
+`Sekarang aku telah mengumumkan diriku sebagai sekutumu, aku pun akan berusaha sekuat mungkin meminjamkan kekuatanku padamu. `
+`Berusahalah juga dari pihakmu sendiri. `
+`Kalau kau masih memeluk lutut, cepat-cepat bangkitlah. `
+`......Umm, di saat seperti ini, dulu aku biasanya berkata apa ya? `
 `......Umm, uh, `
 `......g- `
-`go for it, `
+`lakukanlah, `
 `yea~h. `
 `Meep, `
 `nipah~{p:0:☆} `
-`......It's so embarrassing, doing this. `
-`...I've done this much for you, so quickly stand back up. `
-`"...Ah, there you are. `
-`I wonder where Bern shrank off to? `
-`*giggle* Could she be any more lame?" `
-`Even so. `
-`Just like usual, the pieces Bern chooses are pretty shabby. `
-`It's the same with chess, right? `
-`If all of your pieces were pawns, you'd have zero chance to win, right? `
-`If all of your pieces were rooks and bishops, you definitely wouldn't lose. `
-`...W-Well, last time, right when I felt just a little pity and said she could start with her pieces anywhere she wanted, `
-`that idiot Bern, without taking notice of my compassion, started with all of her pawns on my side of the board!! `
-`What's up with that? That wasn't a loss or anything!! `
-`Aaah, just remembering it makes me queasy. `
-`Because of that, I won't be able to rest until I see Bern's speechless face. `
-`And since you, Bern's piece, fucked up so bad, I'm feeling just great! `
-`Plus, she may not look it, but that girl really hates to lose, `
-`so I'll bet she's off somewhere grinding her teeth and crying her eyes out right now. `
-`How totally lame, *giggle*, hoohohohohohohohoh! `
-`C'mon, laugh with me, ohohohohoh! `
-`......Wait a sec. `
-`Are you still hugging your knees? `
-`You're already like this just because Beato got a little serious? `
-`Could you be any more pathetic? `
-`You're so pathetic, I'll help you just a little bit. `
-`I, the great Lady {f:5:Lambdadelta}, the Witch of Certainty and the strongest in the universe, `
-`will associate myself just a tiny bit with you and your hopeless chances at winning. `
-`You should thank me. `
-`You know, {f:5:Beatrice} may really be a cruel and powerful witch, but she's no match for me. `
-`Why? `
-`Because she's soft. `
-`Though she'll set up the board in a way that'll let her win with just a few more moves, she'll intentionally avoid cornering you. `
-`She'll do things like take worthless pieces and place excess pieces on the board to make things more one-sided. `
-`Simply put, she's got the bad habit of playing around as soon as she thinks she's won. `
-`Almost all the various attacks that hurt you and Bern...... `
-`look like utter waste and overkill to me. `
-`...In other words, she's got a weakness, and you've got a chance. `
-`See? `
-`She isn't an opponent to be afraid of, right? `
-`She sometimes mistakes her means for her ends. `
-`And she has too much dark fun. `
-`Sometimes, that even ends up creating and exposing her own weak points. `
-`For a super-powerful witch like me, it's hard to understand why she's able to act so tough. `
-`Why she lowers her own chances of winning. `
-`......But, well. `
-`Because of that, a witch like Bern, who likes to thoroughly read her opponent, has a really bad affinity with her. `
-`Because reading her doesn't work. `
-`...Maybe it's really easy for Bern to read and handle a straightforward and honest type like me. `
-`Annoyingly enough! `
-`...Well, still, a super firepower type like me can flat out beat up a light, wide-range barrage type like {f:5:Beatrice}, `
-`so it's kinda like rock-paper-scissors. `
-`If I'm paper, Beato is rock. `
-`Which means Bern is scissors. `
-`Well, maybe that doesn't matter. `
-`Even though my paper loses to Bern's scissors, `
-`if I was a sheet of super-paper, which is way more awesome than normal paper, I could beat even scissors, right?! `
-`Bascially, I, Lady {f:5:Lambdadelta}, `
-`am {ruby:a moron:super-paper}! `
+`......Malu sekali harus melakukan ini. `
+`...Aku sudah melakukan sebanyak ini untukmu, jadi cepat bangkitlah." `
+`"...Ah, kau di sana juga. `
+`Kukira Bern menghilang ke mana? `
+`*hehe* Apa dia bisa lebih payah lagi?" `
+`Meski begitu. `
+`Seperti biasa, bidak yang dipilih Bern sungguh payah. `
+`Sama juga dengan catur, kan? `
+`Kalau semua bidakmu pion, peluangmu menang nol, kan? `
+`Kalau semua bidakmu benteng dan gajah, pasti kau tak akan kalah. `
+`...W-Well, terakhir kali, tepat saat aku sedikit merasa kasihan dan bilang dia boleh meletakkan bidaknya di mana saja dia mau, `
+`bego Bern itu, tanpa menyadari belas kasihku, menempatkan semua pionnya di sisi papanku!! `
+`Ada apa dengan itu? Itu bukanlah suatu kekalahan atau apapun!! `
+`Aaaah, mengingatnya saja membuatku mual. `
+`Karena itu, aku tak bisa tenang sampai melihat wajah Bern yang tak bisa berkata apa-apa. `
+`Dan karena kau, bidaknya Bern, berantakan sedemikian rupa, aku merasa sangat hebat! `
+`Lagipula, meski tak kelihatan, gadis itu sungguh benci kalah, `
+`jadi aku yakin dia sedang menggerinda gigi dan menangis sekarang juga. `
+`Betapa payahnya, *hehe*, hoohohohohohohohoh! `
+`Ayo, tertawalah bersamaku, ohohohohoh! `
+`......Tunggu sebentar. `
+`Masih memeluk lututkah kau? `
+`Kau sudah begini hanya karena Beato jadi sedikit serius? `
+`Bisa lebih menyedihkan lagi? `
+`Kau begitu menyedihkan, aku akan membantumu sedikit. `
+`Akulah, Lady {f:5:Lambdadelta} yang agung, Penyihir Kepastian dan terkuat di alam semesta, `
+`akan berasosiasi sedikit saja denganmu dan kesempitan peluangmu untuk menang. `
+`Kau harus berterima kasih padaku. `
+`Tahu gak, {f:5:Beatrice} mungkin benar-benar penyihir yang kejam dan kuat, tapi dia tak sebanding denganku. `
+`Kenapa? `
+`Karena dia lembek. `
+`Meski dia menata papan sedemikian rupa sehingga bisa menang dalam beberapa langkah lagi, dia sengaja menghindari memojokkanmu. `
+`Dia akan mengambil bidak tak berharga dan menaruh bidak berlebih di papan untuk membuat segalanya semakin timpang. `
+`Singkatnya, dia punya kebiasaan buruk bersenang-senang begitu dia merasa menang. `
+`Hampir semua serangan yang menyakitimu dan Bern...... `
+`terlihat sebagai pemborosan dan berlebihan bagiku. `
+`...Dengan kata lain, dia punya kelemahan, dan kau punya peluang. `
+`Lihat? `
+`Dia bukan lawan yang perlu ditakuti, kan? `
+`Kadang dia salah mengira alat menjadi tujuan. `
+`Dan dia terlalu senang dengan kesenangan gelapnya sendiri. `
+`Kadang itu bahkan berakhir dengan menciptakan dan mengekspos titik lemahnya sendiri. `
+`Bagi penyihir super-perkasa sepertiku, sulit memahami kenapa dia bisa bertindak begitu garang. `
+`Kenapa dia menurunkan peluangnya sendiri untuk menang. `
+`......Tapi, yah. `
+`Karena itu, penyihir seperti Bern, yang suka membaca lawan secara menyeluruh, punya kecocokan yang sangat buruk dengan dia. `
+`Karena membaca dia tak berhasil. `
+`...Mungkin mudah bagi Bern membaca dan menangani tipe lurus dan jujur sepertiku. `
+`Sungguh menjengkelkan! `
+`...Yah, tetap saja, tipe super berapi sepertiku bisa saja mengalahkan tipe serangan ringan area luas seperti {f:5:Beatrice}, `
+`jadi ini semacam gunting-batu-kertas. `
+`Kalau aku kertas, Beato batu. `
+`Yang berarti Bern gunting. `
+`Yah, mungkin itu tak penting. `
+`Walau kertasku kalah dari gunting Bern, `
+`kalau aku adalah selembar super-kertas, yang jauh lebih hebat dari kertas biasa, aku bisa mengalahkan gunting, kan?! `
+`Intinya, aku, Lady {f:5:Lambdadelta}, `
+`adalah {ruby:orang tolol:super-kertas}! `
 `Hohohohoh! `
-`It looks like you've regained a bit of your color. `
-`That Beato, she's having fun torturing some piece called Rosa. `
-`At a glance, you'd think she has really nasty tastes, right? `
-`Wrong. `
-`...She's just killing time, hoping that you'll stand back up and return. `
-`It's a move to fire up your righteous indignation by intentionally doing something detestable. `
-`Ah man, I hate kids like that! `
-`Anyway, I'll head on back. `
+`Kelihatannya warnamu mulai kembali. `
+`Beato itu, dia senang menyiksa sesuatu yang dipanggil Rosa. `
+`Sekilas, kau pikir selera dia sangat kejam, kan? `
+`Salah. `
+`...Dia cuma membunuh waktu, berharap kau berdiri kembali dan kembali. `
+`Itu langkah untuk membangkitkan kemarahanmu dengan sengaja melakukan sesuatu yang menjijikkan. `
+`Ah Tuhan, aku benci anak-anak seperti itu! `
+`Bagaimanapun, aku akan pergi kembali. `
 `Ah! `
-`Don't tell anyone about me helping you out just a little bit! `
-`I mean, it's not like I helped you because I wanted to save you, okay?! `
-`I, the strongest witch in the universe, had my throne stolen away when I lost to Bern! `
-`So I've gotta take that throne back from her, `
-`but if she loses to Beato here, then it's Beato who'll get the position of strongest next, right?! `
-`...Well, it's not like I'm complaining. It'd be easier to steal the throne back from Beato, but then I wouldn't be satisfied, you see?! `
-`I will defeat Bern! `
-`And I'll take back my position as the strongest! `
-`It's not like I'm really helping you, okay?! `
-`I won't forgive you if you make Bern cry! `
+`Jangan bilang pada siapapun bahwa aku sedikit membantumu! `
+`Maksudku, bukan karena aku ingin menyelamatkanmu, oke?! `
+`Akulah, penyihir terkuat di alam semesta, tak lagi di takhtaku setelah kalah dari Bern! `
+`Jadi aku harus merebut kembali takhta itu darinya, `
+`tapi kalau dia kalah dari Beato di sini, maka posisi terkuat akan jatuh ke Beato, kan?! `
+`...Yah, bukan berarti aku mengeluh. Akan lebih mudah merebut takhta dari Beato, tapi aku tak akan puas, mengerti?! `
+`Aku akan mengalahkan Bern! `
+`Dan kucuri kembali posisiku sebagai yang terkuat! `
+`Bukan berarti aku benar-benar membantumu, oke?! `
+`Aku tak akan memaafkanmu jika kau membuat Bern menangis!`

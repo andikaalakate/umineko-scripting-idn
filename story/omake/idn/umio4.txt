@@ -1,124 +1,124 @@
-`A warm welcome to you, traveler, and congratulations on your final steps to complete our port of {i:Umineko no Naku Koro ni ~Rondo of the Witch and Reasoning~}.`
-` We appreciate your effort to check every hidden part of the game.`
-`Those who have been waiting for this since 2011, when the first promo videos appeared, please accept our deep apologies.`
-`After all that arduous labor, we have finally reached the grand finale of the first half.`
-` Each month was needed to refine things to the level they are now, and it has to be admitted that our current schedule matches our planned deadlines very closely.`
-` Your wild applause, please.`
-`This omake is likely going to be the last one, and we thought long and hard about what to include in it.`
-` Maybe some scary stories of what happened to us during the development, reverse‐engineering, and translation process.`
-` Perhaps the minutes of blank despair we had.`
-` The times we wanted to sit down, pour our glasses full of something heavy, and send the whole thing to ashes.`
-` Or even the upcoming news we plan to announce sooner or later.`
-`We even thought of sharing some of the experiences we had.`
-` But, no, that would have been boring.`
-`In the end we decided to talk about some easter eggs(?) that we found in the remake.`
-` Most of them you are supposed to find yourself, so call ours an appetizer preceding the next reread.`
-`Hope you enjoyed the opening video for at least the fifth time.`
-`Did you notice anything strange in it?`
-` Here is a hint: it's on the record at the beginning.`
-`The first thing that comes to mind is "Senza {nobreak:{m:-5:——}—}, la verità non si vede".`
-`{n}Without {nobreak:{m:-5:——}—}, the truth cannot be seen.`
-`{n}We think that word is "a monocle", since that small blurry text on the edges of the record that cannot be seen is:`
-`“Il destino, chi festeggerà?/{0}Oh Maga!/{0}Oh Maga!/{0}Che cosa mi annuncerai?{n}Il vento diviene bufera/{0}Infuriano i marosi/{0}Il mare chiama mugghiando la Maga che ha vissuto mille anni/{0}Ho tanto atteso questo giorno! Ho tanto temuto questo giorno!`
-`Beatrice! Maga crudele!/{0}Di bellezza senza pari/{0}Beatrice! Oh! Di dolcezza capricciosa/{0}Mai potrò liberarmi dal tuo incantesimo/{0}Se questa pena deve durare, almeno una volta abbi pietà”`
-`We doubt we need to say where these lyrics come from.`
-` And your homework will be to decipher the first twenty seconds of Igreja of Echoing Vows.`
-`Incidentally, while we're on the topic of music, let's ask a simple question.`
-` What's the BGM playing now?`
-`The answer is "suspicion".`
-` (Those of you who have BGM Title Display enabled get zero points.)`
-` However, on PS3—Episodes 1 to 4 only—you will actually hear a {i:different track} under this name.`
-` Furthermore, under the name of the other track, you will find that it instead plays "suspicion".`
-` Not so bad for your next piece of homework?`
-`Next up: Alchemist did some level of harm to Umineko by the means of censorship.`
-` Not only did they remove the references to Touhou and tsurupettan, but also the words from system0.`
-` For some reason probably relating to ratings boards and Japan's drinking age, they removed references to Battler drinking alcohol in Episodes 1, 2, and 4.`
-` They also removed a number of references to real people, brands, and places, including references to Doraemon, Card Captor Sakura, Steve McQueen, Château Pétrus, and Germany.`
-`Furthermore, there are unused voice files left on the disc that show that at one point, they were even considering deleting references to Higurashi, referring instead to "the mystery novel you were reading the other day".`
-` To our relief, they ultimately found this unnecessary.`
-` Mii,`
-` nipah~{p:0:☆}`
-`In fact, the disc has a number of treasures hidden in the voice files—not only censored and uncensored dialogues, but also faulty texts and incorrect speakers.`
-` There are also a few interesting errors that actually made it into the game.`
-` We'd like to take you on a tour of them now.`
-`The guests had already been greeted, so it was time for some tea to be prepared for them.`
-`...That tea was late, and having the guests talk about making some themselves was an embarrassment for the host.`
-`Natsuhi bit her lower lip, frustrated with the ineptitude of the servants who were taking too long to bring the tea.`
-`...Seeing her face, Eva, without hesitation, started to giggle.`
-`......Of course, Shannon had no way of knowing what was taking place in the parlor.`
-`As she came in pushing a dish cart piled with tea cups,`
-` Natsuhi gave her a pained look for no apparent reason, and Shannon couldn't help but flinch without knowing what she had done wrong.`
-`"......E‐excuse me.`
-` I shall prepare some tea for you."`
-`"Oh, Shannon‐chan, it's been a while!`
-` You keep getting prettier every time I see you!"`
-`".........Oh,`
-` ...um,`
-` .........thanks—"`
-`"Leave the chatting for after you've set the table.`
-` The tea will get cold."`
-`Notice anything strange here?`
-`The answer is:`
-` the location.`
-` For some reason, even though the text describes them {i:twice} as being in the parlor, this is definitely the dining hall!`
-` The background file is even called "{nobr:mdin}", short for "mansion dining".`
-`This error was present in the released PS3 game, and we fixed it in our port.`
-` Worst of all is that this is the very first time you ever see the parlor, and in PS3 it is presented with dining hall backgrounds throughout this scene, confusing readers as to what the parlor is meant to look like.`
-` We think that Episode 1 was quite rushed.`
-`Returning to the scene a few moments later, we found something buried in the unused voice files.`
-`"Shannon‐chan?`
-` Do you know what silver spoons are used for?`
-` Or why they have to be silver?`
-` Do you know why?"`
-`"...............no...`
-`.........umm......"`
-`Eva's eyes played over Shannon, who was setting the table, as a catty smile floated onto her face.`
-`...Taken on its own, the expression on Eva's face may have been charming, in an impish sort of way.`
-`However, the words being spun from her lips held within them the keenness of a razor.`
-`Shannon tried with all her might to avoid Eva's gaze, which continued to focus on her.`
-`Grasping that Shannon was hard‐pressed for an answer, Rosa promptly gave some timely help.`
-` ({i:Courtesy of the unused voice files, Rosa's part will be played today by Eva herself!})`
-`"They say that silver dims if it is touched by poison.`
-` ...*giggle*, you've learned something, right, Shannon‐chan?"`
-`"I have a memo with the epitaph on it!`
-` Let's all solve the puzzle, let's all solve the puzzle...!"`
-`"This story probably went wrong ever since that time."`
-`".........That may be so.`
-` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
-` ({i:Hold on, wasn't this line supposed to belong to...})`
-`"It makes no fucking sense!!`
-` Don't talk to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!"`
-`"C'mon c'mon c'mon c'mon, don't cry, alright??`
-` Kaboom, kabang, it's magic!!"`
-`"If you want, I'll crush the moon and make comets fall like rain!`
-` I can even bury the whole island in those {b:sexy dynamite nee‐chans} you like so much, seeeeeeeeee??`
-` Hihhihhihhihhi!!"`
-`When I think about it, the world is so vast, ......and yet so small.`
-`Billions of people live on the Earth.`
-`{n}But I probably won't meet even one percent of those people.`
-`Even so, I will speak of the world.`
-`{n}Without knowing even one percent of the world—I will speak of "my world".`
-`"I'm not qualified to deny the laws of a world I don't know.`
-` ......So just because magic doesn't exist in my world, I can't deny that magic exists in a world I don't know."`
-`"That makes it a true Devil's Proof.`
-` No, maybe it's more like "when in Rome, do as the Romans do"."`
-`I can be confident in the world I know.`
-` So even if my world {i:is} denied by a complete stranger who doesn't know a thing about it, that's nothing to worry about.`
-`And in the same way, just because I don't know another world,`
-` that doesn't make me qualified to deny it.`
-`"Which is why,`
-` regardless of whether there is magic in my world or not,`
-` ......I cannot deny the magic Maria onee‐chan taught me."`
-`We are pretty grateful for the materials they left on the disc, actually.`
-` Leaving the fixed and uncensored unused dialogues untouched in the resources actually allowed us to implement a more complete port.`
-`They were likely in a hurry.`
-` If you play the game on PSP, you will notice that some sprites stop smiling where inappropriate.`
-`Some mistakes didn't get a fix even there.`
-`Hmm, something feels wrong here.`
-` No, the water‐proof makeup still looks fine.`
-` Oh, right, did {f:5:Beatrice} randomly lose her previously obtained ring for no reason?`
-`In the end we would like to once again thank all our testers for spending their time on our work.`
-` Without you it would not have been seen!`
-`That's all I want to say.`
-` Well then,`
-` <see you again, have a nice day>.`
+`Selamat datang untukmu, Traveler, dan selamat atas langkah terakhirmu dalam menyelesaikan port kami dari {i:Umineko no Naku Koro ni ~Rondo dan Logika Sang Penyihir~}. `
+`Kami menghargai usahamu untuk memeriksa setiap bagian tersembunyi dari game ini. `
+`Bagi mereka yang sudah menunggu ini sejak 2011, saat video promo pertama muncul, mohon terima permintaan maaf kami yang sebesar-besarnya. `
+`Setelah semua kerja keras yang berat itu, akhirnya kami sampai di akhir besar dari paruh pertama. `
+`Setiap bulan dibutuhkan untuk menyempurnakan semuanya hingga mencapai level seperti sekarang, dan harus diakui bahwa jadwal kami saat ini hampir sama persis dengan tenggat yang kami rencanakan. `
+`Tepuk tangan meriah, silakan. `
+`Omake ini kemungkinan besar akan menjadi yang terakhir, dan kami sudah memikirkan dengan lama apa yang akan kami masukkan di dalamnya. `
+`Mungkin beberapa kisah menyeramkan tentang apa yang menimpa kami selama proses pengembangan, reverse-engineering, dan penerjemahan. `
+`Atau mungkin momen-momen kosong penuh keputusasaan yang kami alami. `
+`Saat-saat kami ingin duduk, menuang gelas penuh sesuatu yang kuat, dan membakar semua ini sampai jadi abu. `
+`Atau bahkan kabar terbaru yang akan kami umumkan cepat atau lambat. `
+`Kami bahkan sempat terpikir untuk membagikan sebagian pengalaman kami. `
+`Tapi, tidak, itu akan membosankan. `
+`Akhirnya kami memutuskan untuk membicarakan beberapa easter egg(?) yang kami temukan di remake. `
+`Sebagian besar memang seharusnya kau temukan sendiri, jadi anggap saja ini sebagai hidangan pembuka sebelum membaca ulang. `
+`Semoga kamu menikmati video pembuka untuk setidaknya kelima kalinya. `
+`Apakah kamu melihat sesuatu yang aneh di dalamnya? `
+`Ini petunjuknya: ada di piringan rekaman di awal. `
+`Hal pertama yang terlintas adalah "Senza {nobreak:{m:-5:——}—}, la verità non si vede". `
+`{n}Tanpa {nobreak:{m:-5:——}—}, kebenaran tidak bisa dilihat. `
+`{n}Kami pikir kata itu adalah "monokel", karena teks kecil yang buram di tepi piringan itu, yang tidak terlihat, adalah: `
+`“Il destino, chi festeggerà?/{0}Oh Maga!/{0}Oh Maga!/{0}Che cosa mi annuncerai?{n}Il vento diviene bufera/{0}Infuriano i marosi/{0}Il mare chiama mugghiando la Maga che ha vissuto mille anni/{0}Ho tanto atteso questo giorno! Ho tanto temuto questo giorno! `
+`Beatrice! Maga crudele!/{0}Di bellezza senza pari/{0}Beatrice! Oh! Di dolcezza capricciosa/{0}Mai potrò liberarmi dal tuo incantesimo/{0}Se questa pena deve durare, almeno una volta abbi pietà” `
+`Kami rasa tidak perlu dijelaskan dari mana lirik ini berasal. `
+`Dan pekerjaan rumahmu adalah memecahkan dua puluh detik pertama dari Igreja of Echoing Vows. `
+`Ngomong-ngomong soal musik, mari kita ajukan pertanyaan sederhana. `
+`BGM apa yang sedang diputar sekarang? `
+`Jawabannya adalah "suspicion". `
+`(Bagi yang mengaktifkan Tampilan Judul BGM, nilainya nol.) `
+`Namun, di PS3—Episode 1 sampai 4 saja—kamu akan mendengar {i:lagu yang berbeda} dengan nama ini. `
+`Selain itu, dengan nama lagu yang satunya, justru yang diputar adalah "suspicion". `
+`Tidak buruk untuk pekerjaan rumah selanjutnya, bukan? `
+`Selanjutnya: Alchemist melakukan beberapa tingkat kerusakan pada Umineko lewat sensor. `
+`Mereka tidak hanya menghapus referensi ke Touhou dan tsurupettan, tapi juga kata-kata dari system0. `
+`Entah karena alasan yang mungkin berkaitan dengan lembaga rating dan usia legal minum di Jepang, mereka menghapus referensi Battler yang meminum alkohol di Episode 1, 2, dan 4. `
+`Mereka juga menghapus sejumlah referensi pada orang nyata, merek, dan tempat, termasuk Doraemon, Card Captor Sakura, Steve McQueen, Château Pétrus, dan Jerman. `
+`Selain itu, ada file suara yang tidak digunakan di dalam disk yang menunjukkan bahwa pada satu titik, mereka bahkan mempertimbangkan untuk menghapus referensi ke Higurashi, menggantinya dengan "novel misteri yang kau baca tempo hari". `
+`Syukurlah, pada akhirnya mereka merasa itu tidak perlu. `
+`Mii, `
+`nipah~{p:0:☆} `
+`Faktanya, disk ini memiliki banyak harta tersembunyi di file suaranya—bukan hanya dialog yang disensor dan tidak disensor, tetapi juga teks salah dan pembicara yang keliru. `
+`Ada juga beberapa kesalahan menarik yang justru masuk ke dalam game. `
+`Sekarang kami ingin mengajakmu melihatnya. `
+`Para tamu sudah disambut, jadi saatnya menyiapkan teh untuk mereka. `
+`...Teh itu terlambat, dan tamu-tamu sampai berbicara tentang membuatnya sendiri—ini memalukan bagi tuan rumah. `
+`Natsuhi menggigit bibir bawahnya, frustrasi dengan ketidakmampuan para pelayan yang terlalu lama membawa teh. `
+`...Melihat wajahnya, Eva tanpa ragu mulai terkekeh. `
+`......Tentu saja, Shannon tidak tahu apa yang sedang terjadi di ruang tamu. `
+`Saat ia masuk mendorong troli penuh cangkir teh, `
+`Natsuhi memberinya tatapan kesakitan tanpa alasan jelas, membuat Shannon terkejut tanpa tahu apa kesalahannya. `
+`"......M-maafkan saya. `
+`Saya akan menyiapkan teh untuk kalian." `
+`"Oh, Shannon-chan, sudah lama! `
+`Kamu makin cantik setiap kali aku melihatmu!" `
+`".........Oh, `
+`...um, `
+`.........terima kasih—" `
+`"Simpan obrolannya setelah kau menata meja. `
+`Tehnya bisa dingin." `
+`Melihat sesuatu yang aneh di sini? `
+`Jawabannya adalah: `
+`lokasinya. `
+`Entah kenapa, walau teksnya {i:dua kali} menyebut mereka berada di ruang tamu, ini jelas ruang makan! `
+`File background-nya bahkan bernama "{nobr:mdin}", singkatan dari "mansion dining". `
+`Kesalahan ini ada di rilis PS3, dan kami memperbaikinya di port kami. `
+`Yang paling parah, ini adalah pertama kalinya kamu melihat ruang tamu, dan di PS3 seluruh adegannya justru memakai latar ruang makan, membuat pembaca bingung seperti apa seharusnya ruang tamu itu. `
+`Kami rasa Episode 1 memang cukup terburu-buru. `
+`Kembali ke adegan beberapa saat kemudian, kami menemukan sesuatu yang tersembunyi di file suara yang tidak digunakan. `
+`"Shannon‐chan? `
+`Kau tahu untuk apa sendok perak digunakan? `
+`Atau kenapa harus perak? `
+`Kau tahu alasannya?" `
+`"...............tidak... `
+`.........umm......" `
+`Mata Eva menatap Shannon, yang sedang menata meja, sambil senyum licik muncul di wajahnya. `
+`...Jika dilihat sekilas, ekspresi Eva ini mungkin terlihat manis dengan cara yang nakal. `
+`Namun, kata-kata yang meluncur dari bibirnya mengandung ketajaman seperti pisau. `
+`Shannon berusaha sekuat tenaga menghindari tatapan Eva yang terus mengarah padanya. `
+`Menyadari Shannon kesulitan menjawab, Rosa segera memberikan bantuan tepat waktu. `
+`({i:Berkat file suara yang tidak digunakan, kali ini peran Rosa dibawakan oleh Eva sendiri!}) `
+`"Katanya perak akan berubah warna jika terkena racun. `
+`...*kekeh*, sekarang kau belajar sesuatu, kan, Shannon-chan?" `
+`"Aku punya catatan dengan epitafnya! `
+`Ayo kita pecahkan teka-tekinya, ayo kita pecahkan teka-tekinya...!" `
+`"Sepertinya cerita ini sudah salah arah sejak waktu itu." `
+`".........Mungkin saja. `
+`Mungkin kita seharusnya mencoba memecahkan teka-teki epitaf dari awal, seperti yang {f:5:Beatrice}‐sama katakan." `
+`({i:Tunggu, bukankah dialog ini seharusnya milik...}) `
+`"Ini sama sekali tidak masuk akal!! `
+`Jangan bicara padakuuuuuuuuuu, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!" `
+`"Ayo ayo ayo ayo, jangan menangis, oke?? `
+`Kaboom, kabang, ini sihir!!" `
+`"Kalau mau, akan kupecahkan bulan dan membuat komet jatuh seperti hujan! `
+`Aku bahkan bisa mengubur seluruh pulau ini dengan {b:onee-chan seksi dinamit} yang sangat kau sukai, lihattttttt?? `
+`Hihhihhihhihhi!!" `
+`Kalau kupikir-pikir, dunia ini begitu luas, ......namun juga begitu kecil. `
+`Miliaran orang hidup di Bumi. `
+`{n}Tapi mungkin aku tidak akan bertemu bahkan satu persen dari mereka. `
+`Meski begitu, aku akan berbicara tentang dunia. `
+`{n}Tanpa mengetahui bahkan satu persen dari dunia—aku akan berbicara tentang "duniaku". `
+`"Aku tidak berhak menyangkal hukum dunia yang tidak kuketahui. `
+`......Jadi hanya karena sihir tidak ada di duniaku, aku tidak bisa menyangkal bahwa sihir ada di dunia yang tidak kuketahui." `
+`"Itu adalah bukti iblis sejati. `
+`Tidak, mungkin lebih tepat disebut "dimana bumi dipijak, disitu langit dijunjung"." `
+`Aku bisa percaya pada dunia yang kuketahui. `
+`Jadi meskipun duniaku {i:ditolak} oleh orang asing yang sama sekali tidak tahu tentangnya, itu bukan masalah. `
+`Dan dengan cara yang sama, hanya karena aku tidak tahu dunia lain, `
+`itu tidak membuatku berhak untuk menyangkalnya. `
+`"Itulah sebabnya, `
+`terlepas ada atau tidaknya sihir di duniaku, `
+`......aku tidak bisa menyangkal sihir yang diajarkan Maria onee‐chan padaku." `
+`Kami cukup berterima kasih untuk materi yang mereka tinggalkan di disk, sebenarnya. `
+`Membiarkan dialog yang diperbaiki dan yang tidak disensor tetap ada di sumber memungkinkan kami membuat port yang lebih lengkap. `
+`Sepertinya mereka terburu-buru. `
+`Jika kamu memainkan game ini di PSP, kamu akan menyadari beberapa sprite berhenti tersenyum di momen yang tidak tepat. `
+`Bahkan di sana, beberapa kesalahan tidak diperbaiki. `
+`Hmm, ada yang terasa aneh di sini. `
+`Tidak, riasan anti-airnya masih terlihat baik. `
+`Oh, benar, apakah {f:5:Beatrice} tiba-tiba kehilangan cincin yang sebelumnya dia miliki tanpa alasan? `
+`Akhirnya kami ingin sekali lagi mengucapkan terima kasih kepada semua tester kami karena telah meluangkan waktu untuk menguji karya kami. `
+`Tanpa kalian, karya ini tidak akan pernah terlihat! `
+`Itu saja yang ingin kukatakan. `
+`Baiklah, `
+`<sampai jumpa lagi, semoga harimu menyenangkan>. `
