@@ -810,7 +810,7 @@
 `"............Mungkin ini karena surat dari {f:5:Beatrice}-sama." `
 `"...Kenapa 'mungkin'?" `
 `"...Setelah surat semisterius itu muncul, wajar jika Krauss-sama mulai mencurigai salah satu dari kami. `
-`.........Kami langsung melayani Tuan, jadi Krauss-sama berusaha sebisa mungkin menjauhkan kami dari konferensi keluarga." `
+`.........Kami langsung melayani Grandmaster, jadi Krauss-sama berusaha sebisa mungkin menjauhkan kami dari konferensi keluarga." `
 `Genji, Shannon, dan Kanon semuanya diizinkan memakai lambang keluarga Ushiromiya, "Elang Bersayap Satu", sebagai pelayan yang langsung mengabdi pada Kinzo. `
 `Tentu saja, karena mereka bekerja untuk keluarga Ushiromiya, mereka harus mematuhi perintah siapa pun, tapi atasan satu-satunya adalah Kinzo. `
 `Karena hanya Kinzo yang memiliki hak untuk mempekerjakan mereka, bahkan Krauss tidak bisa memecat mereka sesuka hati. `
