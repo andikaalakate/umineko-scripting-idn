@@ -349,8 +349,8 @@
 `".........................................." `
 `...George-aniki menghela napas panjang, tanpa mengangkat kepalanya... `
 `...Atau mungkin air mata telah menggenang di matanya. `
-`"......Sepertinya Shannon sedang bertugas di rumah tamu tadi malam. `
-`...Tapi... karena dia terlalu malu untuk kembali ke rumah tamu bersamaku, `
+`"......Sepertinya Shannon sedang bertugas di Guest House tadi malam. `
+`...Tapi... karena dia terlalu malu untuk kembali ke Guest House bersamaku, `
 `...dia pergi ke mansion." `
 `"...Pikirkan bagaimana perasaan Shannon saat itu. `
 `...Saat menerima cincin pertunangan, meski sudah diberi peringatan sebelumnya, sangat wajar kalau jadi begitu bersemangat hingga pikiran kosong. `
@@ -614,14 +614,14 @@
 `Tapi aku tidak tahu sampai jam berapa itu berlangsung. `
 `Aku dan suamiku sudah bangun pagi hari itu. `
 `Kami sangat mengantuk, dan lewat sedikit tengah malam, mereka membiarkan kami pergi. `
-`Kami lalu kembali ke rumah tamu dan beristirahat di sana." `
+`Kami lalu kembali ke Guest House dan beristirahat di sana." `
 `"...Apakah ada orang selain Paman Hideyoshi yang bisa membuktikan itu? `
 `Tunggu, bukan berarti aku mencurigaimu atau semacamnya, ya? `
 `Hihihi!" `
 `"Oh, kau yakin akan itu? `
 `*cekikikan* `
-`Aku tidak tahu apakah itu bisa dihitung sebagai bukti, tapi ketika kami kembali ke rumah tamu, kami disambut oleh Genji-san, yang menanyakan apakah kami memerlukan handuk. `
-`Kupikir itu cukup untuk membuktikan bahwa kami kembali ke rumah tamu sedikit lewat tengah malam. `
+`Aku tidak tahu apakah itu bisa dihitung sebagai bukti, tapi ketika kami kembali ke Guest House, kami disambut oleh Genji-san, yang menanyakan apakah kami memerlukan handuk. `
+`Kupikir itu cukup untuk membuktikan bahwa kami kembali ke Guest House sedikit lewat tengah malam. `
 `...Meskipun, kalau teoriku benar, para pelayan semuanya bersekongkol, dan itu sebenarnya tidak akan menjadi alibi yang kuat." `
 `"Hei, kau benar juga. `
 `Berarti sekarang aku sedang bermain detektif bersama pelaku aslinya, ya? `

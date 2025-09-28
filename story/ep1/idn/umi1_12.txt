@@ -1115,7 +1115,7 @@
 `Kalau kau mau ambil jalan itu, kenapa tidak biarkan aku, `
 `Ushiromiya Battler, membalik papan catur sekali lagi?!! `
 `Bibi Eva, menurut argumenmu sendiri, `
-`...kau harus menjelaskan pada kami kenapa kau dan Paman Hideyoshi tidak mungkin membunuh keenam orang itu tadi malam lalu dengan santai kembali ke rumah tamu...!" `
+`...kau harus menjelaskan pada kami kenapa kau dan Paman Hideyoshi tidak mungkin membunuh keenam orang itu tadi malam lalu dengan santai kembali ke Guest House...!" `
 `Kau sudah berusaha memaksa Bibi Natsuhi menjelaskan. `
 `Jadi aku yakin kau juga bisa membuktikan ketidakbersalahanmu sendiri, kan?! `
 `Apalagi sekarang ketika seluruh kekayaan Kakek tiba-tiba jatuh begitu saja ke tanganmu!!" `
@@ -1227,7 +1227,7 @@
 `{i:ketika camar menangis}. `
 `"...Natsuhi nee-san, aku rasa kau tidak ingin melihat wajahku lagi? `
 `Aku juga begitu. `
-`...Jika aku ingat dengan benar, kemarin, kau sudah menyiapkan beberapa kamar untuk kami di mansion supaya kami tidak perlu kembali ke rumah tamu, bukan? `
+`...Jika aku ingat dengan benar, kemarin, kau sudah menyiapkan beberapa kamar untuk kami di mansion supaya kami tidak perlu kembali ke Guest House, bukan? `
 `Masing-masing seharusnya punya kamar mandi dan toilet, juga kunci dan rantai untuk mengamankan pintu. `
 `Bahkan ada ranjang untuk berbaring, dan suamiku bisa menonton TV tanpa harus berebut dengan Maria-chan soal saluran mana yang ditonton, benar?" `
 `".................. `

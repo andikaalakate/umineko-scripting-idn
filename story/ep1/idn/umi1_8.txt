@@ -150,7 +150,7 @@
 `Dan sejak saat itu, cuaca semakin buruk, jadi pergi naik kapal itu nyaris tidak mungkin." `  
 `Kalau begitu, orang itu pasti masih ada di pulau ini, bersembunyi dari hujan entah di mana. `  
 `......Dan tak satu pun dari kita yang melihatnya." `  
-`".........Benar juga, kita semua sudah berlalu-lalang sesuka hati di seantero mansion dan rumah tamu, tapi tidak ada satu pun yang bertemu dengan orang ke-19. `  
+`".........Benar juga, kita semua sudah berlalu-lalang sesuka hati di seantero mansion dan Guest House, tapi tidak ada satu pun yang bertemu dengan orang ke-19. `  
 `...Tapi pulau ini besar. `  
 `Bisa saja ada tempat lain buat berteduh selain mansion dan guesthouse." `  
 `Saat itu, aku mulai menyadari ke arah mana kecurigaan Kyrie-san membawa kami. `  
@@ -282,7 +282,7 @@
 `Gaya bicaranya memang tidak berubah, tapi dia tidak sepenuhnya bisa menyembunyikan rasa lelahnya. `  
 `...Aku tidak bisa bilang aku simpati, tapi dibanding biasanya yang penuh energi, dia kelihatan menyedihkan. `  
 `"Tapi hujannya parah banget. `  
-`Aku bener-bener nggak pengen balik ke rumah tamu. `  
+`Aku bener-bener nggak pengen balik ke Guest House. `  
 `Sepertinya Natsuhi nee-san sudah atur agar kita bisa bermalam di mansion. `  
 `Apa yang akan kita lakukan?" `  
 `"......Kita tidak perlu putuskan sebelum semuanya selesai, kan? `  
@@ -694,7 +694,7 @@
 `...Walau kita berencana begadang, rasanya sudah waktunya untuk balik ke kamar.`
 `"Oh ya, Ibu siapkan kamar buat kita di rumah utama. `
 `...Kita gimana?"`
-`"Aku lebih milih balik ke rumah tamu saja. `
+`"Aku lebih milih balik ke Guest House saja. `
 `......Melihat keadaan orang tua kita tadi, kurasa lebih baik kita tidak di rumah utama."`
 `"Setuju. `
 `Rasanya seperti mereka memberi isyarat ke anak-anak untuk tidak ikut campur urusan orang dewasa."`
@@ -707,10 +707,10 @@
 `......Kita harus memindahkannya ke tempat tidur."`
 `"Kalau mau, biar aku saja yang menggendongnya ke tempat tidur."`
 `"Terima kasih, itu akan sangat membantu. `
-`......Kalian semua mau kembali ke rumah tamu? `
+`......Kalian semua mau kembali ke Guest House? `
 `Atau mau menginap di kamar yang Natsuhi nee-san siapkan di sini?"`
 `"Kami tadi baru saja membicarakan itu. `
-`Kami baru memutuskan untuk balik ke rumah tamu."`
+`Kami baru memutuskan untuk balik ke Guest House."`
 `"Begitu ya. `
 `Kalau begitu, bolehkah aku titipkan Maria pada kalian? `
 `...Aku akan merasa lebih tenang kalau dia tinggal bersama kalian para sepupu."`
@@ -727,7 +727,7 @@
 `......Sepertinya pertemuan kami akan berlangsung sampai sangat larut. `
 `Jadi walau aku minta maaf sudah merepotkan kalian, aku titip Maria pada kalian ya."`
 `"Hei, Maria, kamu udah tidur nyenyak ya...? `
-`Kita mau balik ke rumah tamu nih."`
+`Kita mau balik ke Guest House nih."`
 `Maria bergumam tak jelas, membalikkan badan, dan kembali tidur.`
 `......Sepertinya dia tidur sangat lelap.`
 `"Dia benar-benar tertidur pulas. `
@@ -736,11 +736,11 @@
 `Tubuh Maria jauh lebih ringan daripada kelihatannya.`
 `Aku mengangkatnya dan menaruhnya di punggung George-aniki.`
 `Di luar hujan deras, dan Aniki tidak bisa membawa payung sambil menggendong Maria.`
-`Sepertinya Bibi Rosa akan ikut mengantar kami sampai ke rumah tamu untuk membantu.`
+`Sepertinya Bibi Rosa akan ikut mengantar kami sampai ke Guest House untuk membantu.`
 `Namun saat terdengar suara Paman Krauss memanggilnya, ia tak punya pilihan selain kembali.`
 `"......Yah, ini jadi masalah. `
 `Aku harus kembali sekarang."`
-`".........Apa semuanya akan kembali ke rumah tamu?"`
+`".........Apa semuanya akan kembali ke Guest House?"`
 `Setelah kami keluar dari ruang tengah menuju pintu masuk, pintu ruang pelayan terbuka dan Shannon-chan keluar.`
 `"Sudah sangat gelap, jadi biarkan saya yang mengantar kalian."`
 `"Itu bagus sekali, Shannon-chan. `
@@ -764,13 +764,13 @@
 `"......Maria, `
 `......Maafkan Ibu atas segalanya..."`
 `Suara lirih Rosa tidak sampai ke orang yang dimaksud, juga tidak ke anak-anak lain, melainkan tenggelam dalam suara hujan......`
-`Setelah menembus taman mawar yang basah, kami tiba di rumah tamu.`
+`Setelah menembus taman mawar yang basah, kami tiba di Guest House.`
 `"Aah, andai saja aku mendaftar sebagai penggendong Maria! `
 `Pasti aku bisa dapat kesempatan merasakan dada Shannon-chan yang luar biasa itu menempel ke lenganku!"`
 `"T-T-T-T-T-T-Tapi bukan karena itu! Ini salah paham...!"`
 `"S-saya hanya berpikir kalau saya tidak berjalan seperti ini, George-sama bisa kehujanan........."`
 `"Sudah, jangan ngoceh terus. Masuk sana!"`
-`Setelah didesak oleh Jessica, kami melipat payung dan masuk ke rumah tamu.`
+`Setelah didesak oleh Jessica, kami melipat payung dan masuk ke Guest House.`
 `"Ada yang bajunya basah? `
 `Bisa saya bawakan handuk kalau mau..."`
 `"Kamu tidak perlu terlalu repot. `
@@ -783,9 +783,9 @@
 `Sepertinya juga ada beberapa perubahan, jadi akan saya periksa dahulu......"`
 `"Tunggu, kalau harus balik ke mansion untuk cari tahu, tidak usah memaksakan diri."`
 `"Oh, tidak apa-apa. `
-`Saya bisa cek dari ruang pelayan di rumah tamu. `
+`Saya bisa cek dari ruang pelayan di Guest House. `
 `...Mohon izin sebentar."`
-`Shannon-chan membungkuk sebentar lalu masuk ke ruang pelayan rumah tamu.`
+`Shannon-chan membungkuk sebentar lalu masuk ke ruang pelayan Guest House.`
 `Kami yang lain menuju kamar sepupu dan memutuskan untuk membaringkan Maria terlebih dahulu.`
 `Maria tidur sangat lelap, tidak ada tanda-tanda ia akan membuka matanya...`
 `Untuk sekarang, kami mengambil minuman ringan dari kulkas di kamar dan meminumnya sambil bermain kartu atau semacamnya...`
@@ -797,16 +797,16 @@
 `Beliau melakukan cukup banyak perubahan pada jadwal shift."`
 `"......Benar. `
 `Gohda-san sekarang bertugas malam di mansion. `
-`Shannon dan Kanon bertugas malam di rumah tamu."`
-`Kumasawa-san dan aku diperintahkan untuk menginap di rumah tamu... `
+`Shannon dan Kanon bertugas malam di Guest House."`
+`Kumasawa-san dan aku diperintahkan untuk menginap di Guest House... `
 `Baru saja ada telepon, katanya setelah kalian tiba, kalian juga harus tetap di sini sampai besok pagi." `
 `"Hah...? `
 `I-Itu memang perubahan yang cukup besar... `
-`Jadwal malam di rumah tamu dan rumah utama benar-benar dibalik, ya...?" `
-`Awalnya, Shannon dan Kanon dijadwalkan bertugas malam di rumah utama, sedangkan tugas malam di rumah tamu tempat semua kerabat menginap diberikan pada Gohda, yang punya banyak pengalaman dalam menjamu tamu. `
-`Kumasawa seharusnya tidur di rumah tamu, dan Genji tidur di rumah utama. `
+`Jadwal malam di Guest House dan rumah utama benar-benar dibalik, ya...?" `
+`Awalnya, Shannon dan Kanon dijadwalkan bertugas malam di rumah utama, sedangkan tugas malam di Guest House tempat semua kerabat menginap diberikan pada Gohda, yang punya banyak pengalaman dalam menjamu tamu. `
+`Kumasawa seharusnya tidur di Guest House, dan Genji tidur di rumah utama. `
 `Namun, sepertinya Krauss tiba-tiba memerintahkan agar jadwal itu diubah. `
-`......Semua jadwal di rumah tamu dan rumah utama ditukar, dan Genji pun menginap di rumah tamu. `
+`......Semua jadwal di Guest House dan rumah utama ditukar, dan Genji pun menginap di Guest House. `
 `"............Mungkin ini karena surat dari {f:5:Beatrice}-sama." `
 `"...Kenapa 'mungkin'?" `
 `"...Setelah surat semisterius itu muncul, wajar jika Krauss-sama mulai mencurigai salah satu dari kami. `
@@ -834,7 +834,7 @@
 `Kemungkinan besar mereka akan bermalam di kamar mereka di rumah utama." `
 `"Ya, mungkin begitu... `
 `Aku hanya mengatakan ini karena Genji-sama tidak ada, `
-`tapi aku sedikit senang dikirim ke rumah tamu... kurasa..." `
+`tapi aku sedikit senang dikirim ke Guest House... kurasa..." `
 `"Oh...? `
 `Kenapa begitu? `
 `Karena kau bisa menjauh dari Nyonya dan Eva-sama, para penindas itu? `
@@ -897,7 +897,7 @@
 `......Haah, jadi maksudmu George-aniki itu..." `
 `George tidak terlihat dimanapun di ruangan. `
 `Beberapa saat yang lalu, saat Shannon datang ke kamar, George tiba-tiba bilang bahwa dia lupa sesuatu di rumah utama dan harus kembali untuk mengambilnya. `
-`Shannon bilang akan menemaninya, seperti saat menuju rumah tamu tadi, dan mereka pun berangkat bersama. `
+`Shannon bilang akan menemaninya, seperti saat menuju Guest House tadi, dan mereka pun berangkat bersama. `
 `"......Yah, sebenarnya sudah kelihatan dari dulu juga sih. `
 `Tau kan, pertanyaan-pertanyaan tentang hobi dan hal-hal yang disukai. `
 `Dulu kupikir itu cuma sekadar ketertarikan, ...dan lihat saja apa yang terjadi sekarang!" `
@@ -1091,7 +1091,7 @@
 `Shannon mengangguk pelan. `
 `...Hari ini adalah puncak dari banyak hari yang telah mereka lalui bersama. `
 `...Momen ini memang bukan kejutan bagi Shannon... `
-`".........Kita sebaiknya segera kembali ke rumah tamu. `
+`".........Kita sebaiknya segera kembali ke Guest House. `
 `Kalau kita terlalu lama, nanti yang lain khawatir." `
 `"......Ah, `
 `......umm... `
