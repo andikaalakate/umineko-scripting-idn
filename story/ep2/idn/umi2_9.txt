@@ -465,7 +465,7 @@
 ` "Ya...!" `
 ` "Kembalikan, Mama!! `
 ` Kembalikan suratku!! `
-` Itu adalah {i:undangan untuk pergi menuju Taman Emas}!!" `
+` Itu adalah {i:undangan untuk pergi menuju Tanah Emas}!!" `
 ` Mereka tidak tahu, tetapi sesuatu pasti sedang terjadi. `
 ` Battler dan yang lainnya mengikuti Kanon dan Nanjo... `
 ` Aaah, ...dan mereka pun menyadarinya. `
@@ -608,7 +608,7 @@
 ` "...Ayolah, Maria. `
 `...Apa yang lucu dari situasi ini?!" `
 ` "{f:5:Beatrice} adalah seorang penyihir. `
-` Dan upacara untuk membuka gerbang menuju Taman Emas akhirnya dimulai. `
+` Dan upacara untuk membuka gerbang menuju Tanah Emas akhirnya dimulai. `
 ` Keenam orang tersebut merupakan pengorbanan. `
 ` ...Kihihihihihihihihihihihihihihihihi! `
 ` Mari, kita mulai perjamuan Sang Penyihir. `
@@ -699,6 +699,6 @@
 ` ...Jadi, ini sudah dimulai, {f:5:Beatrice}. `
 ` ...Lagipula, tidak ada yang bisa memecahkan teka-teki ini. `
 ` Beato pasti menang." `
-` "...Cepatlah, buka gerbang menuju Taman Emas. `
+` "...Cepatlah, buka gerbang menuju Tanah Emas. `
 ` Dan bawalah aku bersamamu. `
 `...Kihihihihihihihihihihihihihi!" `
