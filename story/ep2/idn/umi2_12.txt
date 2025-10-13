@@ -1,1188 +1,1188 @@
-`...Rosa and the rest returned from the chapel to the parlor in the mansion. `
-`So many things had happened since early in the morning. `
-`Of course they were high-strung... `
-`Battler and George, who had cried, raged, and let their emotions explode after seeing their parents' tragic bodies, `
-`returned to the parlor and sat in the sofas, dazed, as though everything up until then had been a lie... `
-`Only Maria was completely unchanged and looked just like normal. `
-`...When she wasn't playing pranks, she was basically a kid who played wordlessly by herself, `
-`so even if she was dazed, she would probably look just as she did. `
-`...But as she turned on the TV and flipped through the channels, it looked as though nothing about her had changed from normal. `
-`Did Rosa think anything in particular about this attitude, which was clearly different from normal people? `
-`...She stared at Maria's back as though looking at something that wasn't quite heartwarming. `
-`Eventually, Kumasawa came to say good morning. `
-`...Her cheerful manner was clearly out of place, and she couldn't help but be bewildered by the strange atmosphere in the room. `
-`...Then, when she heard the details from Gohda, she reacted loudly with shock. `
-`"O-O-O-Of course you've contacted the police, right...?! `
-`What should we do in a time like this, oooh, what should we do...?!" `
-`"......Please calm down and listen. `
-`...It seems a machine somewhere was somehow done in by lightning last night. `
-`Because of that, we haven't been able to use the phones..." `
-`"Whaaaat?!! `
-`Th-Then, until the typhoon passes, we can't even contact the police?!" `
-`Maybe Kumasawa's exaggerated surprise was a little comical. `
-`Even in this kind of situation, Rosa giggled. `
-`...Because of that, the fog of confusion that had covered her head cleared up a little. `
-`"......I've got to stay strong. `
-`...It's not just Maria. `
-`I'm acting as a parent for George-kun and Battler-kun too, so I have to stay strong..." `
-`Rosa had been the youngest sibling, with a large difference in age between her and the others. `
-`So, she had always been treated as a child. `
-`Every time she learned something new, it was something obvious to her siblings, `
-`and she had built up a complex, becoming convinced of her own incompetence. `
-`So, she had developed a passive personality, asking her siblings for advice every time something happened... `
-`......But she no longer had any brothers or sisters. `
-`Now, Rosa was the only one of the four Ushiromiya siblings left. `
-`...Furthermore, if Kinzo continued to shut himself away even in this extraordinary situation, `
-`...Rosa would have to surpass this crisis as the Head's representative. `
-`"......I'm not a child anymore, not a child. `
+`...Rosa dan yang lainnya kembali dari kapel ke ruang tamu mansion. `
+`Begitu banyak hal yang telah terjadi sejak pagi buta. `
+`Wajar saja kalau mereka semua tegang... `
+`Battler dan George, yang telah menangis, mengamuk, dan meluapkan emosi mereka setelah melihat jasad tragis orang tua mereka, `
+`kembali ke ruang tamu, dan duduk terdiam di sofa, seolah semua yang terjadi hanyalah kebohongan... `
+`Hanya Maria yang sama sekali tidak berubah dan terlihat seperti biasa. `
+`...Saat tidak sedang berulah, pada dasarnya dia adalah anak yang diam dalam sendirian, `
+`jadi bahkan jika dia sedang terdiam, dia mungkin akan terlihat sama saja. `
+`...Tapi saat ia menyalakan TV dan mengganti-ganti saluran, sepertinya tidak ada yang berubah dari dirinya yang biasa. `
+`Entah apa yang Rosa pikirkan tentang sikap Maria, yang jelas berbeda dari kebanyakan orang? `
+`...Ia menatap punggung Maria seolah melihat sesuatu yang tidak mengenakkan. `
+`Tak lama, Kumasawa datang untuk mengucapkan selamat pagi. `
+`...Sikapnya yang ceria jelas tidak pada tempatnya, dan ia pun bingung dengan suasana aneh di dalam ruangan. `
+`...Lalu, ketika mendengar detailnya dari Gohda, reaksinya sangat terkejut. `
+`"T-T-T-Tentu saja kalian sudah menghubungi polisi, kan...?! `
+`Apa yang harus kita lakukan di saat ini, oooh, apa yang harus kita lakukan...?!" `
+`"......Tolong tenang dan dengarkan. `
+`...Sepertinya ada mesin di entah dimana tempatnya yang rusak karena petir tadi malam. `
+`Karena itu, kita tidak bisa menggunakan telepon..." `
+`"Apaaaa?!! `
+`K-Kalau begitu, sampai topannya selesai, kita tidak bisa menghubungi polisi?!" `
+`Mungkin reaksi terkejutnya Kumasawa yang berlebihan itu terdengar sedikit lucu. `
+`Bahkan dalam situasi seperti ini, Rosa cekikikan. `
+`...Karena itu, kabut kebingungan yang menyelimuti kepalanya sedikit sirna. `
+`"......Aku harus tetap kuat. `
+`...Bukan hanya untuk Maria. `
+`Aku juga sebagai orang tua bagi George-kun dan Battler-kun, jadi aku harus kuat..." `
+`Rosa adalah anak bungsu, dengan perbedaan usia yang jauh dari kakak-kakaknya. `
+`Jadi, ia selalu diperlakukan seperti anak kecil. `
+`Setiap kali ia mempelajari sesuatu yang baru, itu hal yang sudah diketahui oleh saudara-saudaranya, `
+`dan ia pun membangun sebuah kompleks, mempercayai bahwa dirinya tidak kompeten. `
+`Karena itu, ia mengembangkan kepribadian yang pasif, selalu meminta arahan saudara-saudaranya setiap kali terjadi sesuatu... `
+`......Tapi ia tidak lagi punya kakak laki-laki atau perempuan. `
+`Sekarang, Rosa adalah satu-satunya yang tersisa dari empat Ushiromiya bersaudara. `
+`...Terlebih lagi, jika Kinzo terus mengurung diri bahkan dalam situasi yang luar biasa ini, `
+`...Rosa harus melewati masalah ini sebagai perwakilan kepala keluarga. `
+`"......Aku bukan anak kecil lagi, bukan anak kecil. `
 `............" `
-`...Rosa slapped her knees lightly and stood up. `
-`She must not wait for orders now. `
-`...She had to start moving herself. `
-`She picked up the receiver of the extension phone on the side table. `
-`...Then she immediately remembered that the phones were down. `
-`Genji and Shannon, whom she had sent to see Kinzo, hadn't returned yet. `
-`...She had a good guess at what was going on. `
-`He was probably yelling something nonsensical again and becoming unmanagable. `
-`...His precious chapel had been defiled with blood. `
-`That was easy to imagine. `
-`She had planned on using the extension phone to call the study, but unfortunately, the phones were down. `
-`Rosa decided to go to the study directly, with her own two feet. `
-`Her old self would've been too frightened to go see Kinzo. `
-`...And in fact, if she did meet him, she would probably be blamed somehow and insulted. `
-`But this was no time to be frightened. `
-`......As his true daughter, she had to make him aware of the current situation. `
+`...Rosa menepuk lututnya pelan dan berdiri. `
+`Ia tidak lagi menunggu perintah sekarang. `
+`...Ia harus mulai bergerak sendiri. `
+`Ia mengambil gagang telepon sambungan di meja samping. `
+`...Lalu ia langsung teringat bahwa teleponnya mati. `
+`Genji dan Shannon, yang ia suruh untuk menemui Kinzo, belum juga kembali. `
+`...Ia bisa menebak apa yang sedang terjadi. `
+`Kinzo mungkin sedang meneriakkan hal yang tidak masuk akal lagi dan menjadi sulit diatur. `
+`...Kapel kesayangannya telah dinodai dengan darah. `
+`Mudah untuk dibayangkan. `
+`Ia berencana menggunakan telepon sambungan untuk menelepon ruang studi, tapi sayangnya, teleponnya mati. `
+`Rosa memutuskan untuk pergi langsung ke ruang studi dengan kakinya sendiri. `
+`Dirinya yang dulu pasti akan terlalu takut untuk menemui Kinzo. `
+`...Dan kenyataannya, jika ia bertemu dengannya, ia mungkin akan disalahkan dan dihina. `
+`Tapi ini bukan waktunya untuk takut. `
+`......Sebagai putri kandungnya, ia harus membuatnya sadar akan situasi saat ini. `
 `"...Kumasawa-san, `
-`I'm going to see Father. `
-`...Take special care of George-kun and Battler-kun. `
-`...I'm sure they're on edge right now." `
-`"Yes, yes... `
-`That may be true... `
-`...It is truly pitiable... `
-`I shall make them something warm to drink." `
-`"Thank you." `
-`Rosa went out into the hallway and headed towards Kinzo's study. `
-`The atmosphere in this mansion, which she'd spent her younger days in and should've been full of memories, seemed somehow different... `
-`She began to climb the stairs in the entrance hall... `
-`...Just then. `
-`In the faint darkness down the stairs behind Rosa's back, ...something glowed. `
-`It was a single, fluttering gold butterfly. `
-`...It fluttered around and sparkled. `
-`That butterfly danced about without a sound. `
-`...It was only natural. `
-`No one can hear the sound of a butterfly's wings beating. `
-`......And then, ...it came to a rest on Rosa's back as she slowly climbed the stairs. `
-`Rosa didn't notice it. `
-`If someone not in-the-know saw it, they'd probably assume it was just single sheet of gold leaf in the shape of a butterfly that had been stuck there. `
-`Without noticing a thing, Rosa continued heading towards Kinzo's study... `
-`"......So, how will you entertain me with this next one? `
-`...There are still many, many pieces left. `
-`...*cackle*cackle*cackle*cackle*...!" `
-`In the parlor, which had fallen silent again, the only sound was that of the TV that Maria was watching alone. `
-`If there was anything audible besides that, it was the sound of the rain, which had continued on and on since the previous night. `
-`Every one of those who had witnessed that unearthly and horrible scene stayed silent, as though praying that the events of that morning had all been a dream. `
-`Because Kumasawa alone hadn't seen it, her reaction was slightly different. `
-`...The silence itself seemed more unbearable to her, and she was anxious to encourage everyone somehow. `
-`...However, she was aware that she must avoid saying anything careless, and she seemed to be pondering how she could be most helpful... `
-`Normally, it would be time for breakfast. `
-`...However, possibly because something so outrageous had happened, Gohda seemed to have forgotten to prepare a meal. `
-`...Or maybe everyone was so beaten up that they'd forgotten their hunger. `
-`Kumasawa wanted to bring up the subject of what they should do for breakfast, but it didn't seem like the right atmosphere, so she really couldn't. `
-`But she really was hungry. `
-`...So, she casually made a proposal. `
-`"...It seems everyone is tired after all that has happened. `
-`...In times like this, I think the best thing is to heat yourself with some warm black tea." `
-`"...Indeed, that is an excellent plan. `
-`I agree as well." `
+`Aku akan menemui Ayah. `
+`...Tolong jaga George-kun dan Battler-kun baik-baik. `
+`...Aku yakin mereka sedang gelisah sekarang." `
+`"Ya, ya... `
+`Itu mungkin benar... `
+`...Sungguh menyedihkan... `
+`Saya akan membuatkan mereka minuman hangat." `
+`"Terima kasih." `
+`Rosa keluar ke lorong dan menuju ruang studi Kinzo. `
+`Suasana mansion ini, tempat ia menghabiskan masa mudanya dan seharusnya penuh kenangan, kini terasa berbeda... `
+`Ia mulai menaiki tangga di aula masuk... `
+`...Pada saat itu. `
+`Dalam remang-remang di bawah tangga di belakang punggung Rosa, ...sesuatu bersinar. `
+`Itu adalah seekor kupu-kupu emas. `
+`...Ia terbang berputar-putar dan berkilauan. `
+`Kupu-kupu itu menari tanpa suara. `
+`...Wajar saja. `
+`Tidak ada yang bisa mendengar suara kepakan sayap kupu-kupu. `
+`......Lalu, ...ia hinggap di punggung Rosa yang sedang perlahan menaiki tangga. `
+`Rosa tidak menyadarinya. `
+`Jika orang yang tidak tahu apa-apa melihatnya, mereka mungkin akan mengira itu hanyalah selembar daun emas berbentuk kupu-kupu yang menempel di sana. `
+`Tanpa menyadari apa pun, Rosa terus berjalan menuju ruang kerja Kinzo... `
+`"......Jadi, bagaimana kamu akan menghiburku selanjutnya? `
+`...Masih banyak sekali bidak yang tersisa. `
+`...*kekeh*kekeh*kekeh*kekeh*...!" `
+`Di ruang tamu yang kembali sunyi, satu-satunya suara adalah suara TV yang ditonton Maria sendirian. `
+`Jika ada suara lain yang terdengar, itu adalah suara hujan, yang terus turun tanpa henti sejak tadi malam. `
+`Semua yang telah menyaksikan kejadian mengerikan dan tak wajar itu tetap diam, seolah berdoa agar semua kejadian pagi itu hanyalah mimpi. `
+`Karena hanya Kumasawa yang tidak melihatnya, reaksinya sedikit berbeda. `
+`...Baginya, keheningan ini terasa lebih menyiksa, dan ia ingin sekali menyemangati yang lain, entah bagaimana caranya. `
+`...Namun, ia sadar bahwa ia harus menghindari perkataan yang sensitif, dan ia tampak merenungkan bagaimana cara yang paling membantu... `
+`Biasanya, ini adalah waktu untuk sarapan. `
+`...Namun, mungkin karena sesuatu yang begitu luar biasa telah terjadi, Gohda sepertinya lupa menyiapkan makanan. `
+`...Atau mungkin semua orang begitu terpukul sehingga mereka lupa akan rasa lapar. `
+`Kumasawa ingin mengangkat topik tentang apa yang harus mereka lakukan untuk sarapan, tetapi suasananya tidak mendukung, jadi ia benar-benar tidak bisa. `
+`Tapi ia benar-benar lapar. `
+`...Jadi, ia dengan santai mengajak. `
+`"...Sepertinya semua lelah setelah apa yang terjadi. `
+`...Di saat seperti ini, saya rasa hal terbaik adalah menghangatkan diri dengan teh hitam hangat." `
+`"...Tepat, itu cara yang sangat bagus. `
+`Aku juga setuju." `
 `"Hohohoh. `
-`How about some delicious black tea with biscuits and jam? `
-`Ah, yes, I hear Halloween will be here soon, and we have some delicious-looking pumpkin-shaped cookies on the shelf..." `
-`"...Ah, Kumasawa-san, that's......" `
-`Of course, she had said the wrong thing. `
-`...She had reminded Battler and the rest about that horrible and tragic Halloween party in the chapel... `
-`Nanjo hurriedly whispered into Kumasawa's ear. `
+`Bagaimana dengan teh hitam lezat dengan biskuit dan selai? `
+`Ah, ya, kudengar Halloween akan segera tiba, dan kita punya beberapa kue kering berbentuk labu yang terlihat lezat di rak..." `
+`"...Ah, Kumasawa-san, itu......" `
+`Tentu saja, ia salah bicara. `
+`...Ia telah mengingatkan Battler dan yang lainnya tentang pesta Halloween yang mengerikan dan tragis di kapel... `
+`Nanjo buru-buru berbisik ke telinga Kumasawa. `
 `"............" `
-`"...Battler-san, I am so sorry! `
-`...I didn't mean to upset you, truly I didn't..." `
-`"No, don't worry about it. `
-`......I'll definitely turn this boiling anger back on the culprit." `
-`"......I wonder if that culprit is still on the island." `
-`"Probably. `
-`At least, until the typhoon passes, no boat will come." `
-`"Y-Yes, that is true! `
-`After all, the boats stop coming even when it's just a little windy. `
-`They certainly wouldn't come during a typhoon, yes!" `
-`"...It creeps me out." `
-`"You think so, Aniki? `
-`Me too. `
-`......And that's even putting aside whether the culprit's that mystery guest or not." `
-`"Indeed. `
-`...We've naturally suspected the mysterious guest who calls herself {f:5:Beatrice}, `
-`but we still cannot be certain she is the culprit. `
-`...There is still the possibility she's a {i:victim whose corpse still hasn't been found}. `
-`"...When I think of it that way, there's something I just can't understand." `
-`"What...do you mean by that...?" `
-`"It's simple. `
-`It's just like Kumasawa baa-chan said a short while ago. `
-`Right now, this island is right in the middle of a typhoon, and escape is impossible. `
-`The same thing goes for the culprit. `
-`......In that case, having the crime come to light should've been the thing the culprit wanted to avoid most." `
-`"...I see. `
-`...So, there was no need to draw that creepy magic circle on the entrance to the chapel and show off the fact that the corpses were there." `
-`"Yeah, that's it. `
-`And, if they were able to take the time and effort to do something so horrible to those six people, `
-`it should've been possible for them to hide the six corpses where they'd be impossible to find." `
-`"I agree. That brutal Halloween party probably wasn't directed at those who died. `
-`...It was directed at the people who would eventually discover it, us. `
-`It's probably safe to say that the magic circle was there to help us find it." `
-`"...The culprit knows they won't be able to escape from this island for a while. `
-`...And yet, they acted as though they wanted to make us find the corpses in the middle of this typhoon. `
-`...What does it mean? `
-`...If I were the culprit, I definitely wouldn't play around and make us find the bodies." `
-`"......{f:5:Beatrice}-sama was not in her room. `
-`...And the room did not seem particularly disturbed. `
-`...Ah, no, Milady did disturb it quite a lot though..." `
-`"...Come to think of it, what happened to Jessica?" `
-`"Kanon-san is looking after her. `
-`...They are probably in Milady's room." `
-`"......That isn't good. `
-`...The culprit is definitely still on the island. `
-`...In this situation, I don't believe it's a very good idea to isolate ourselves in small numbers." `
-`"Wh-What do you mean by that...? `
-`Y-Y-You don't mean to say that the culprit plans to kill all of us...?! `
+`"...Battler-san, saya minta maaf! `
+`...Saya tidak bermaksud membuat Anda tidak nyaman, sungguh tidak..." `
+`"Tidak, jangan khawatirkan itu. `
+`......Aku pasti akan membalaskan amarah yang mendidih ini pada pelakunya." `
+`"......Kira-kira, apa pelakunya masih ada di pulau ini." `
+`"Mungkin. `
+`Setidaknya, sampai topan berlalu, tidak akan ada perahu yang datang." `
+`"B-Benar, itu benar! `
+`Lagipula, perahu-perahu berhenti datang saat angin sedikit mulai kencang. `
+`Mereka pasti tidak akan datang saat topan, ya!" `
+`"...Itu membuatku merinding." `
+`"Kamu pikir begitu, Aniki? `
+`Aku juga. `
+`......Dan bahkan belum diketahui apakah pelakunya adalah tamu misterius itu atau bukan." `
+`"Memang. `
+`...Kita secara alami mencurigai tamu misterius yang menyebut dirinya {f:5:Beatrice}, `
+`tapi kita masih belum bisa memastikan dia adalah pelakunya. `
+`...Masih ada kemungkinan dia adalah {i:korban yang jasadnya belum ditemukan}. `
+`"...Kalau dipikir-pikir, ada sesuatu yang tidak bisa kumengerti." `
+`"Apa... maksudmu...?" `
+`"Sederhana saja. `
+`Seperti yang dikatakan Kumasawa baa-chan tadi. `
+`Saat ini, pulau berada tepat di tengah topan, dan melarikan diri adalah hal yang mustahil. `
+`Hal yang sama berlaku untuk si pelaku. `
+`......Kalau begitu, seharusnya hal yang paling ingin dihindari oleh pelaku adalah kejahatannya terungkap." `
+`"...Begitu. `
+`...Jadi, tidak perlu menggambar lingkaran sihir menyeramkan itu di pintu masuk kapel dan menunjukkan fakta bahwa ada mayat di sana." `
+`"Ya, benar. `
+`Dan, jika mereka punya waktu dan tenaga untuk melakukan hal sekejam itu pada enam orang, `
+`seharusnya mereka bisa menyembunyikan keenam mayat itu di tempat yang mustahil ditemukan." `
+`"Aku setuju. Pesta Halloween berdarah itu mungkin tidak ditujukan pada mereka yang meninggal. `
+`...Itu ditujukan pada orang-orang yang pada akhirnya akan menemukannya, yaitu kita. `
+`Mungkin bisa dibilang lingkaran sihir itu ada di sana untuk membantu kita menemukannya." `
+`"...Pelaku tahu mereka tidak akan bisa melarikan diri dari pulau ini untuk sementara waktu. `
+`...Namun, mereka bertindak seolah-olah ingin kita menemukan mayat-mayat itu di tengah topan ini. `
+`...Apa artinya? `
+`...Jika aku pelakunya, aku pasti tidak akan bermain-main dan membuat kita menemukan mayatnya." `
+`"......{f:5:Beatrice}-sama tidak ada di kamarnya. `
+`...Dan kamarnya tidak terlihat terganggu. `
+`...Ah, tidak, Nona memang membuatnya cukup berantakan..." `
+`"...Kalau dipikir-pikir, apa yang terjadi dengan Jessica?" `
+`"Kanon-san sedang menjaganya. `
+`...Mereka mungkin ada di kamar Nona." `
+`"......Tidak. `
+`...Pelakunya pasti masih ada di pulau ini. `
+`...Dalam situasi ini, menurutku bukan ide yang bagus untuk mengisolasi diri dalam kelompok kecil." `
+`"A-Apa maksudmu...? `
+`J-J-Jangan bilang pelakunya berencana membunuh kita semua...?! `
 `Awawawawawawawawa..." `
-`"Let us remain calm... `
-`That is not yet certain..." `
-`"But unfortunately, we can't deny that the possibility exists. Ihihi. `
-`...This letter was in the chapel. `
-`According to this, the culprit is the witch, `
-`and if we don't solve the riddle of Grandfather's epitaph and find the gold, they'll massacre the whole family, ...or something like that." `
-`"Is that true...?! `
-`Umm, would you allow me to read it as well...?" `
+`"Mari kita tetap tenang... `
+`Itu belum pasti..." `
+`"Tapi sayangnya, kita tidak bisa menyangkal kemungkinan itu ada. Ihihi. `
+`...Surat ini ada di kapel. `
+`Menurut surat ini, pelakunya adalah si penyihir, `
+`dan jika kita tidak memecahkan teka-teki epitaf Kakek dan menemukan emasnya, mereka akan membantai seluruh keluarga, ...atau semacamnya." `
+`"Apa itu benar...?! `
+`Umm, bolehkah saya membacanya juga...?" `
 `"E-E-E-Eeeeeeeeeeeekk... Eeeeeeeeeeekk......!" `
 `"...Umumumumumumumu..." `
-`As they read the witch's letter, Gohda, Kumasawa, and Nanjo's faces grew even paler than they had been... `
-`Kumasawa could no longer hide her shaking. `
-`"......If you don't want to die, try finding Grandfather's hidden gold... Is that it? `
-`...Screwing around with us. `
-`I'll bet she can't solve the riddle, so she's trying to make us solve it...!" `
-`"However, ...I wonder what the truth is. `
-`Madam always stated that the Legend of the Gold was nothing more than an illusion created by the Master. `
-`...It is doubtful whether it actually existed..." `
-`"True... `
-`Supposedly, they thought it would be nice if it did exist, but only half-believed it. `
-`...The relatives started believing in the Legend of the Gold only after Kinzo's health worsened and the inheritance problem came up. `
-`Until then, hardly anyone believed in it, I understand." `
-`"...Oh, so maybe that's why... `
-`Do you remember? `
-`On the table in the chapel, `
-`...there were three gold ingots. `
-`That alone would be worth quite a lot. `
-`Doesn't that prove that the Legend of the Gold was real?" `
-`"E-Excuse me, ...please wait. `
-`Just now, did you say there were three gold bars...?" `
-`"...Yeah, there were definitely three of them piled up. `
-`So what?" `
-`"Umm, uh, I......happened to hear Krauss-sama say something once. `
-`...Yes, I just happened to hear it, you see! `
-`It's not like I was trying to listen in on secret discussions, no indeed!" `
-`"Don't worry about that now. `
-`So then what? `
-`Is there something wrong with there being three of those gold bars?" `
-`"...Y-Yes. `
-`According to Krauss-sama, ...there was only one bar ever found to support the Legend of the Gold." `
-`"...That is correct. `
-`I believe Kinzo-san showed the president of Marusoo a mountain of gold and let him take one bar back with him, or so the story goes." `
-`"That one bar came to be in Krauss-sama's possession. `
-`And, he said that `
-`no other gold supporting the Master's Legend of the Gold existed..." `
-`"You're talking about Uncle Krauss here? `
-`So what does that mean? `
-`...No wait, ...three?! `
-`Wait, wait, where did they come from, that's too many, right?!" `
-`"Perhaps there is another explanation. `
-`Maybe the other relatives also found one each, and they each brought one of them there..." `
-`"No, I cannot believe that. `
-`When all of the relatives came to the mansion, I was entrusted with their luggage. `
-`I did not feel a suspicious weight back then." `
-`"...I think those would weigh about 10kg. `
-`If that much weight was in their bags, even I would notice. `
-`But it didn't seem that way." `
-`"Same here. `
-`At the most, there were some changes of clothes, a first aid kid, Kyrie-san's makeup. `
-`Stuff like that, I think. `
-`Aunt Rosa's luggage also looked pretty light." `
-`"...In that case, those three piled-up gold bars were being shown to them...or maybe to us. `
-`...The Legend of the Gold is definitely real. `
-`It isn't an illusion. `
-`They're telling us to try and find out the secret if we can." `
-`"Could they be scheming...to have us solve the epitaph, which points to where the gold is hidden, and then try to snatch it away?" `
-`"......Yeah, that does make some sense. `
-`...But there are a couple parts that don't fit. `
-`To start, our parents, who should've been the most likely to solve the epitaph, were killed first. `
-`That seems to create a contradiction right off the bat to me." `
-`"......And something else makes even less sense. `
-`...If the Legend of the Gold is actually true, `
-`{i:then how were they able to pile up all that gold}? `
-`...It's almost like the culprit's already found the gold... `
-`and is telling us to try and find it too." `
-`"Maybe the culprit found those three like Uncle Krauss did. Maybe that convinced them that the legend is true, and they're trying to make us search for the rest... `
-`I think that way fits the best." `
+`Saat mereka membaca surat penyihir, wajah Gohda, Kumasawa, dan Nanjo menjadi lebih pucat dari sebelumnya... `
+`Kumasawa tidak bisa lagi menyembunyikan gemetarnya. `
+`"......Kalau tidak mau mati, coba cari emas tersembunyi Kakek... Begitukah? `
+`...-main dengan kita. `
+`Aku yakin dia tidak bisa memecahkan teka-tekinya, jadi dia membuat kita yang memecahkannya...!" `
+`"Namun, ...saya bertanya-tanya apa kebenarannya. `
+`Nyonya selalu menyatakan bahwa Legenda Emas itu hanyalah ilusi yang diciptakan oleh Grandmaster. `
+`...Diragukan apakah itu benar-benar ada..." `
+`"Benar... `
+`Seharusnya, mereka berpikir akan bagus jika itu ada, tapi hanya setengah percaya. `
+`...Para kerabat mulai percaya pada Legenda Emas hanya setelah kesehatan Grandmaster memburuk dan masalah warisan muncul. `
+`Sampai saat itu, hampir tidak ada yang percaya, saya mengerti." `
+`"...Oh, jadi mungkin itu sebabnya... `
+`Apa kalian ingat? `
+`Di atas meja di kapel, `
+`...ada tiga batang emas. `
+`Itu saja sudah sangat berharga `
+`Bukankah itu membuktikan bahwa Legenda Emas itu nyata?" `
+`"P-Permisi, ...tunggu sebentar.. `
+`Tadi, apakah Anda bilang ada tiga batang emas...?" `
+`"...Ya, pasti ada tiga tumpuk emas di sana. `
+`Kenapa?" `
+`"Umm, uh, saya...... kebetulan pernah mendengar Krauss-sama mengatakan sesuatu. `
+`...Ya, saya hanya kebetulan mendengarnya! `
+`Bukannya saya mencoba menguping pembicaraan rahasia, sungguh tidak!" `
+`"Jangan khawatirkan itu sekarang. `
+`Jadi kenapa? `
+`Apa ada yang salah dengan adanya tiga batang emas itu?" `
+`"...Y-Ya. `
+`Menurut Krauss-sama, ...hanya ada satu batang emas yang pernah ditemukan untuk mendukung Legenda Emas itu." `
+`"...Itu benar. `
+`Saya yakin Kinzo-san menunjukkan segunung emas kepada pemimpin Marusoo dan membiarkannya membawa satu batang kembali, begitulah ceritanya." `
+`"Satu batang itu kemudian menjadi milik Krauss-sama. `
+`Dan, dia bilang `
+`tidak ada emas lain yang mendukung Legenda Emas Grandmaster yang ada..." `
+`"Kamu bicara tentang Paman Krauss, kan? `
+`Jadi apa artinya itu? `
+`...Bukan, tunggu, ...tiga?! `
+`Tunggu, tunggu, dari mana asalnya, itu terlalu banyak, kan?!" `
+`"Mungkin ada penjelasan lain. `
+`Mungkin kerabat yang lain juga menemukan satu, dan mereka masing-masing membawanya ke sana..." `
+`"Tidak, saya tidak percaya itu. `
+`Saat semua kerabat datang ke mansion, saya yang dipercayakan membawa barang-barang mereka. `
+`Saya tidak merasakan ada beban yang mencurigakan saat itu." `
+`"...Kurasa beratnya sekitar 10 kg. `
+`Kalau ada beban seberat itu di tas mereka, bahkan aku pun akan sadar. `
+`Tapi sepertinya tidak begitu." `
+`"Sama. `
+`Paling-paling isinya hanya beberapa baju ganti, kotak P3K, dan riasan Kyrie-san. `
+`Kurasa hanya barang-barang seperti itu. `
+`Koper Bibi Rosa juga terlihat cukup ringan." `
+`"...Kalau begitu, tumpukan tiga batang emas itu ditunjukkan kepada mereka...atau mungkin kepada kita. `
+`...Legenda Emas itu pasti nyata. `
+`Bukan ilusi. `
+`Mereka menyuruh kita untuk mencoba mengungkap rahasianya jika kita bisa." `
+`"Mungkinkah mereka berencana...agar kita memecahkan epitaf, yang menunjukkan lokasi emas tersembunyi, lalu mereka akan merebut emas itu?" `
+`"......Ya, cukup masuk akal. `
+`...Tapi ada beberapa hal yang tidak nyambung. `
+`Pertama, orang tua kita, yang seharusnya paling mungkin dapat memecahkan epitaf itu, malah dibunuh lebih dulu. `
+`Bagiku, itu saja sudah terasa kontradiktif." `
+`"......Dan ada hal lain yang lebih tidak masuk akal. `
+`...Jika Legenda Emas itu memang benar, `
+`{i:lalu bagaimana mereka bisa menumpuk semua emas itu}? `
+`...Ini seolah-olah pelakunya sudah menemukan emasnya... `
+`dan menyuruh kita untuk mencoba menemukannya juga." `
+`"Mungkin pelaku menemukan tiga batang itu seperti Paman Krauss. Mungkin itu meyakinkan mereka bahwa legenda itu benar, dan mereka mencoba membuat kita mencari sisanya... `
+`Kurasa itu yang paling cocok." `
 `"......... `
-`...The pieces on the chessboard aren't lined up at all. `
-`......We don't have a clue what the culprit is planning, what they want, or what they want to make us do. `
-`......Is there any point? `
-`No matter what we think, is there anything we can figure out right now...? `
+`...Bidak-bidak catur ini sama sekali tidak beraturan. `
+`......Kita tidak tahu apa rencana pelaku, apa yang mereka inginkan, atau apa yang mereka ingin kita lakukan. `
+`......Apa ada gunanya? `
+`Tak peduli apa yang kita pikirkan, apa ada yang bisa kita ketahui sekarang...? `
 `........." `
 `"...Kihihi. `
-`It was written down. `
-`What she wanted to make us do. `
-`Couldn't anyone read it? Kihihihihihihihihihi." `
-`Maria suddenly laughed in a creepy voice. `
-`...I'd thought she'd been concentrating on the TV, but apparently, she'd been listening in too. `
-`Without turning away from the TV, ...she very simply told us what we were forgetting. `
-`"{f:5:Beatrice} hasn't said once that she wants the gold. `
-`...All she's asking is whether you're all capable of solving the epitaph's riddle or not. `
-`...Though I'll bet she's pretty sure you could never do it. `
+`Itu telah tertulis. `
+`Apa yang dia ingin kita lakukan. `
+`Tidak adakah yang bisa membacanya? Kihihihihihihihihihi." `
+`Maria tiba-tiba tertawa dengan suara menyeramkan. `
+`...Kukira dia sedang fokus pada TV, tapi ternyata, dia juga ikut mendengarkan. `
+`Tanpa menoleh dari TV, ...dia memberitahu kami apa yang kami lupakan. `
+`"{f:5:Beatrice} tidak pernah bilang kalau dia menginginkan emasnya. `
+`...Yang dia tanyakan hanyalah apakah kalian semua mampu memecahkan teka-teki epitaf itu atau tidak. `
+`...Meskipun aku tau pasti dia juga cukup yakin kalian tidak akan pernah bisa memecahkannya. `
 `...Kihihihihihihihihihihihihihihihihi." `
-`"...So, are you saying you {i:can} solve it, Maria?" `
-`"...I don't care. `
-`After all, she'll take me to the Golden Land. `
-`So I won't get in {f:5:Beatrice}'s way. `
+`"...Jadi, maksudmu kamu {i:bisa} memecahkannya, Maria?" `
+`"...Aku tidak peduli. `
+`Lagipula, dia akan membawaku ke Taman Emas. ` `
+`Jadi aku tidak akan menghalangi {f:5:Beatrice}. `
 `Kihihihihihihihihihihi, `
-`ouch." `
-`"In any case, it looks like we'll have to ask Maria if we want to learn anything more. `
-`...Maria, tell us. `
-`......Who is this {f:5:Beatrice}? `
-`What is she planning?" `
+`aduh." `
+`Intinya, Kita harus bertanya pada Maria kalau ingin tahu lebih banyak. `
+`...Maria, beritahu kami. `
+`......Siapa {f:5:Beatrice} ini? `
+`Apa rencananya?" `
 `"Kihihihihihihihihihihihihihihihihi! `
-`You know, {f:5:Beatrice} is a witch! `
-`She can do anything with her strange powers. `
-`The power of magic can do anything. `
-`It can even create gold or bread. `
-`And of course, it can create sweets too, right? `
-`You saw, didn't you? `
+`Kalian tahu, {f:5:Beatrice} itu penyihir! `
+`Dia bisa melakukan apa saja dengan kekuatan anehnya. `
+`Kekuatan sihir bisa melakukan apa saja. `
+`Bahkan bisa menciptakan emas atau roti. `
+`Dan tentu saja, bisa menciptakan permen juga, kan? `
+`Kalian lihat, kan? `
 `Kihihihihihihihihihihihihihihihihihihihihihihihi!" `
 `"......hn?" `
-`At that time, everyone jumped at the sound of a door being slammed shut. `
-`When we turned around, we saw that Rosa had suddenly returned, bringing Genji and Shannon. `
-`...Then, she rapidly approached Maria, her heels squeaking, and hit her on the cheek. `
-`"...Stop talking about that. `
-`Battler-kun and the rest will take it badly." `
+`Saat itu, semua orang kaget mendengar suara pintu dibanting. `
+`Saat kami menoleh, kami melihat Rosa tiba-tiba kembali, membawa Genji dan Shannon. `
+`...Lalu, dengan cepat ia mendekati Maria, suara hak sepatunya berdecit, dan menampar pipinya. `
+`"...Berhenti membicarakan itu. `
+`Battler-kun dan yang lainnya tidak akan suka mendengarnya." `
 `".........Uu-..." `
-`Without waiting for a response, she hit Maria's cheek once more. `
-`Everyone could only stand there, stunned. `
-`"I don't know what uu- means. `
-`What about yes?" `
+`Tanpa menunggu respon Maria, ia menampar pipi Maria sekali lagi. `
+`Semua orang hanya bisa berdiri di sana, terdiam. `
+`"Aku tidak tahu apa arti uu-. `
+`Kenapa enggak bilang ya saja?" `
 `"......Uu-." `
-`She mercilessly hit Maria's cheek again. `
-`...Maybe Maria didn't feel like resisting after being hit twice. `
-`She weakly said yes. `
-`"...R-Rosa-san, there's no reason to be so harsh..." `
-`"...This is my daughter's education. `
-`Do not interrupt." `
-`The atmosphere around Rosa, with Genji and Shannon standing at attention behind her, was somehow cold, and yet dignified, `
-`...completely different from how she had seemed before she left. `
-`She was holding something that looked like a gun. `
-`...I couldn't imagine that she'd be holding a toy in this situation. `
-`"Aunt Rosa, what is...?" `
-`"...This is Father's. `
-`Because of the current situation, I borrowed it specially. `
-`......Everyone should understand. `
-`The culprit is still nearby. `
-`We don't know what might happen." `
-`"......I agree. `
-`...Rather than trying to figure out what the culprit is planning, it might be better to first think about our own safety." `
+`Ia tanpa ampun menampar pipi Maria lagi. `
+`...Mungkin Maria sudah tidak ingin melawan setelah ditampar dua kali. `
+`Ia dengan lemah berkata iya. `
+`"...R-Rosa-san, tidak ada alasan untuk bersikap sekeras itu..." `
+`"...Ini cara mendidik anakku. `
+`Jangan ikut campur." `
+`Aura di sekitar Rosa, dengan Genji dan Shannon yang berdiri siaga di belakangnya, terasa dingin, `
+`...sangat berbeda dari penampilannya sebelum ia pergi. `
+`Dia memegang sesuatu yang tampak seperti pistol. `
+`...Aku tidak bisa membayangkan dia memegang mainan dalam situasi seperti ini. `
+`"Bibi Rosa, apa itu...?" `
+`"...Ini milik Ayah. `
+`Karena situasi saat ini, aku meminjamnya. `
+`......Semua orang harus mengerti. `
+`Pelakunya masih ada di dekat sini. `
+`Kita tidak tahu apa yang mungkin terjadi." `
+`"......Aku setuju. `
+`...Daripada mencoba mencari tahu apa rencana si pelaku, mungkin lebih baik kita memikirkan keselamatan kita sendiri dulu." `
 `"............" `
-`"Father was fine, but he was considerably shaken by these sudden events. `
-`...Fortunately, he said he won't leave his room, so he should be safe. `
-`For now, we should all try to stay together as much as possible." `
-`"...I agree. `
-`We don't even know where the culprit's hiding, and...after all, there's no proof that there's only one of them. `
+`Ayah baik-baik saja, tapi dia sangat terguncang oleh kejadian mendadak ini. `
+`...Untungnya, dia bilang tidak akan meninggalkan kamarnya, jadi dia seharusnya aman. `
+`Untuk saat ini, kita semua harus berusaha untuk tetap bersama sebisa mungkin." `
+`"...Aku setuju. `
+`Kita bahkan tidak tahu dimana pelaku itu bersembunyi, dan...lagipula, tidak ada bukti hanya ada satu dari mereka. `
 `......" `
-`Even though I'd said it myself, I shivered. `
-`That's right. `
-`Could a single person kill six people and set up such a horrible scene all alone? `
-`...Isn't it natural to assume that this crime was carried out by multiple culprits? `
-`"...I agree with Rosa-san. `
-`It probably is good for us to stay together." `
-`"Yes, yes, I think it's good too, yes, yes!" `
-`"......Maybe it's about time we called for Milady and Kanon-san." `
-`"That's right. `
-`...Let's have them come down." `
-`George-aniki tried to grab the extension phone, but Gohda-san shook his head. `
-`...That's right, the phones are down right now, aren't they? `
-`"...I'll go with a couple people. `
-`If George-aniki and Gohda-san come too, that should be enough." `
-`"......No. `
-`Let's all go together. `
-`...It's a "Wolves and Sheep Puzzle". `
-`{i:If we're in balance while gathered together like this}, then maintaining this situation will be safest." `
-`"...A "Wolves and Sheep Puzzle"?" `
+`Walaupun itu keluar dari mulutku sendiri, Aku menjadi merinding. `
+`Itu benar. `
+`Apakah bisa seorang diri membunuh enam orang dan menyiapkan pandangan yang mengerikan itu seorang diri? `
+`...Tidak salah kan jika berasumsi kalau kejahatan ini dilakukan oleh lebih dari satu orang? `
+`"...Aku setuju dengan Rosa-san. `
+`Mungkin akan lebih baik untuk kita tetap bersama." `
+`"Ya, ya, Kupikir itu benar, ya, ya!" `
+`"......Mungkin sudah saatnya kita memanggil Nona dan Kanon-san." `
+`"Oh iya benar. `
+`...Ayo ajak mereka turun kesini." `
+`George-aniki mencoba untuk menggambil telepon sambungan, tapi Gohda-san menggelengkan kepalanya. `
+`...Itu benar, telepon tidak bisa digunakan sekarang, kan? `
+`"...Aku akan pergi dengan beberapa orang. `
+`Kalau George-aniki dan Gohda-san ikut juga, itu sudah cukup." `
+`"......Tidak. `
+`Ayo kita ikut semua. `
+`...Ini adalah sebuah "Puzzle Serigala dan Domba". `
+`{i:If kita dalam keadaan yang seimbang seperti ini}, maka mempertahankan situasi ini adalah hal teraman." `
+`"... "Puzzle Serigala dan Domba"?" `
 `"...Uu-. `
-`I've got it. `
-`I'll show you." `
-`"Maria, turn off the television. `
+`Aku mengerti. `
+`Aku akan menjelaskannya padamu." `
+`"Maria, matikan televisi nya. `
 `...Genji-san, `
-`please tell me where Jessica-chan's room is. `
-`Let's all go together." `
-`"...Yes. `
-`I will guide you." `
-`"Come on, everyone. `
-`We'll move together. `
-`Follow my instructions." `
-`We stood up. `
-`Maria alone looked like she had some regrets about the TV, but she decided to go along with everyone for now and got up. `
-`"...Shannon, thank goodness. `
-`I was a bit worried when you took so long to get back." `
-`"I am sorry to have worried you. `
-`The Master ordered me to transcribe something for him..." `
-`"Transcribe?" `
+`Katakan dimana kamar Jessica-chan. `
+`Ayo kita pergi bersama." `
+`"...Ya. `
+`Aku akan mengantarmu." `
+`"Ayo, semuanya. `
+`Kita akan bergerak bersama. `
+`Ikuti apa yang kukatakan." `
+`Kami berdiri. `
+`Maria kelihatannya sedikit menyesal tentang TV itu, tapi dia memutuskan untuk pergi bersama dengan semuanya dan berdiri. `
+`"...Shannon, Syukurlah. `
+`Aku sedikit khawatir karena kamu lama sekali." `
+`"Saya minta maaf karena membuatmu khawatir. `
+`Grandmaster menyuruhku untuk mentranskripkan sesuatu untuknya..." `
+`"Transkrip?" `
 `"......Shannon." `
-`"...I-I am sorry, excuse me..." `
-`We headed for Jessica's room, with the armed Aunt Rosa and Genji-san in the lead. `
-`Jessica and Kanon-kun were a boy and a girl of about the same age. `
-`It'd sure be a shame if we barged in on them at a bad time...or at least that's what we'd be joking about normally. `
-`However, Aunt Rosa was on edge, constantly exuding a sense of tension. `
-`...So it definitely wasn't the sort of atmosphere for careless remarks like that. `
-`"Hey, don't fall behind!! `
-`Everyone move together! `
-`We don't know when or where the culprit might leap out at us, right?!" `
-`...No, maybe Aunt Rosa's attitude was more appropriate. `
-`...Since Grandfather hadn't come down, Aunt Rosa was our leader. `
-`This wasn't a situation where she could smile like she always did. `
-`...And Aunt Rosa was a mother too. `
-`She probably also thought that, if she didn't get ahold of herself, some harm might befall her beloved daughter. `
-`The culprit had killed six of our parents at once. `
-`...The method they had used was unknown, but there was a good chance this opponent could take down a large number of people in a flash. `
-`Would that be with weapons, or with numbers? `
-`...Or with the magic of a witch? `
-`In any case, I couldn't think of any reason why it'd be okay to let our guards down... `
-`The rest of us had better take much, much greater care, just like Aunt Rosa... `
-`"......Everyone, stop!" `
-`Aunt Rosa spoke in a sharp voice. `
-`Wondering what this was all about, we peered forwards... `
-`...and immediately realized the reason... `
-`"......Wh-What is this..." `
+`"...A-Aku minta maaf, permisi..." `
+`Kami pergi ke ruang Jessica, dengan Bibi Rosa dan Genji-san yang memipin. `
+`Jessica dan Kanon-kun adalah anak laki-laki dan perempuan yang sebaya. `
+`Sayang sekali kalau kami menggangu mereka di waktu yang tidak tepat...setidaknya itulah candaan kami biasanya. `
+`Namun, Bibi Rosa sedang tegang, gerakannya terus menerus menunjukkan rasa tegang. `
+`...Jadi bukan suasana yang tepat untuk asal berbicara seperti itu. `
+`"Hei, awas ketinggalan!! `
+`Semuanya bergerak bersama! `
+`Kita tidak tahu kapan atau dimana pelakunya akan muncul tiba-tiba, benar?!" `
+`...Tidak, mungkin Sikap Bibi Rosa lebih tepat. `
+`...Karena kakek tidak turun, Bibi Rosa adalah pemimpin kita. `
+`Ini bukan situasi dimana dia bisa tersenyum seperti biasanya. `
+`...Dan Bibi Rosa adalah seorang ibu juga. `
+`Dia mungkin juga memikirkan itu, kalau dia tidak bisa mengendalikan dirinya, hal buruk mungkin menimpa putrinya. `
+`Pelakunya telah membunuh enam orang tua kami sekaligus. `
+`...Cara yang mereka gunakan tidak diketahui, tapi ada kemungkinan pelakunya bisa menghabisi banyak orang sekaligus dengan cepat. `
+`Apakah dengan senjata, atau dengan jumlah yang lebih banyak? `
+`...Atau dengan sihir sang penyihir? `
+`Bagaimanapun juga, Aku tidak punya alasan untuk memperlemah pertahanan kami... `
+`Kami juga harus berhati-hati, lebih berhati-hati, seperti Bibi Rosa... `
+`"......Semuanya, berhenti!" `
+`Bibi Rosa bersuara dengan suara tegas. `
+`Penasaran apa yang terjadi, kami melihat kedepan... `
+`...dan langsung mengetahui alasannya... `
+`"......A-Apa ini..." `
 `"Eeep......!" `
-`"Everyone, get back...!" `
-`Gohda-san and Genji-san approached the door... `
-`Beyond this door...was probably Jessica's room. `
-`"This...seems to be the same paint that was scribbled on the door to the chapel." `
-`"...It appears so. `
-`It seems not much time has passed since it was drawn." `
-`"What the heck...? `
-`...Is that...another magic circle?!" `
-`"...It's the first magic circle of the moon. `
-`...It has the power to open unopening doors." `
-`Drawn on the door to Jessica's room...was the same kind of creepy scribble that had been drawn on the door to the chapel. `
-`...That strange pattern must've had some occult meaning. `
-`But it didn't matter what that meaning was. `
-`We were worried about whether those two were okay. `
-`"Th-That doesn't matter! `
-`Are Jessica-chan and Kanon-kun safe?!" `
-`"...This does not bode well... `
-`We should quickly bring those two downstairs." `
-`"Milady! `
-`Milady!! `
-`Are you there? `
-`Please answer!!" `
-`Gohda-san knocked violently and yelled, ...but there was no answer. `
-`He gripped the doorknob with a clatter, but the lock just resisted him. `
-`"...Rosa-sama, it seems to be locked." `
-`"There's no helping it. `
-`Please open it up." `
-`Genji nodded, and Gohda quickly unlocked the door with the master key. `
-`...In the back of my mind, horrible images floated up and disappeared, one after another. `
-`...A magic circle had been drawn on the door to the chapel. `
-`Behind that lay six coprses. `
-`...So, if there's a magic circle drawn on the door to Jessica's room, ...then beyond it must be...... `
+`"Semuanya, kembali...!" `
+`Gohda-san dan Genji-san mendekati pintunya... `
+`Dibalik pintu ini...kemungkinan kamar Jessica. `
+`"Ini...sepertinya coretan yang sama seperti di pintu kapel." `
+`"...Nampaknya begitu. `
+`Sepertinya sudah cukup lama gambar itu dilukis." `
+`"Apa apaan ini...? `
+`...Apakah ini...lingkaran sihir lagi?!" `
+`"...Ini adalah lingkaran sihir bulan pertama. `
+`...Sihir itu memiliki kekuatan untuk membuka pintu yang tak bisa dibuka." `
+`Gambar di pintu kamar Jessica...coretan menyeramkan yang digambar di pintu kapel juga. `
+`...Pola aneh itu pasti memiliki arti gaib. `
+`Tapi tidak penting apa itu artinya. `
+`Kami lebih khawatir apakah mereka berdua baik-baik saja. `
+`"It-Itu tidak penting! `
+`Apakah Jessica-chan dan Kanon-kun aman?!" `
+`"...Ini bukan pertanda baik... `
+`Kita harus segera membawa mereka ke bawah." `
+`"Nona! `
+`Nona!! `
+`Apakah kamu di dalam? `
+`Tolong jawab aku!!" `
+`Gohda-san mengetuk dengan kasar dan berteriak, ...tapi tidak ada jawaban. `
+`Dia memeggang gagang pintu dengan bunyi berdecit, tetapi kunci pintu itu menolak. `
+`"...Rosa-sama, sepertinya pintu ini terkunci." `
+`"Tidak ada yang bisa dilakukan. `
+`Tolong buka pintunya." `
+`Genji mengangguk, dan Gohda dengan cepat membuka pintu itu dengan kunci utama. `
+`...Dalam pikiranku, pengelihatan mengerikan melayang dan menghilang, satu demi satu. `
+`...Sebuah lingkaran sihir digambar di depan pintu kapel. `
+`Dibelakang itu terbaring enam mayat. `
+`...Jadi, kalau ada lingkaran sihir digambar di pintu kamar Jessica, ...dibelakang pintu itu harusnya...... `
 `"...J-Jessica-sama!!" `
-`"Wh-What happened? `
-`Is she there?!" `
+`"A-Apa yang terjadi? `
+`Apa dia ada di sana?!" `
 `"Jessica!! `
-`What happened?!!" `
-`...It was truly heartless. `
-`...The expression on Gohda-san's face and his cry as he opened the door... `
-`prepared us for the brutal fate that Jessica had met even before we saw her... `
-`Everyone rushed into Jessica's room at once. `
-`...That scene told everyone that their worst fears were spot on... `
+`Apa yang terjadi?!!" `
+`...Kejam sekali. `
+`...Raut wajah Gohda-san dan teriakannya saat membuka pintu... `
+`seolah sudah memberitahu kami nasib mengenaskan yang menimpa Jessica, bahkan sebelum kami melihatnya... `
+`Semua orang langsung bergegas masuk ke kamar Jessica. `
+`...Pengelihatan itu memberitahu semua orang bahwa ketakutan terburuk mereka benar-benar terjadi... `
 `"...Jessicaaaaaaaaaaaaaaa!!!" `
-`"......How...horrible... `
-`...D-Doctor Nanjo!!" `
-`Inside the room, which seemed elegant for the bedroom of one so young, Jessica lay crumpled on the ground. `
-`There was a large pool of blood on the floor. `
-`...And there was a knife or something sticking deep into her back... `
-`...Was it a knife? `
-`There was a design on the handle that just had to symbolize something demonic. `
-`It had to be a weapon (?) with some kind of occult meaning. `
-`"...This is......horrible. `
-`...She has passed away. `
-`...This probably reached her lungs... `
-`...Not much time has passed since she died." `
+`"......Sangat...mengerikan... `
+`...D-Dokter Nanjo!!" `
+`Di dalam ruangan yang tampak elegan untuk kamar seorang gadis muda itu, Jessica terbaring kaku di lantai. `
+`Ada genangan darah yang banyak di lantai. `
+`...Dan ada sebuah pisau atau semacamnya yang menancap dalam di punggungnya... `
+`...Apakah itu pisau? `
+`Ada desain di gagangnya yang sepertinya melambangkan sesuatu yang gaib. `
+`Itu senjata senjata (?) dengan makna gaib. `
+`"...Ini......mengerikan. `
+`...Dia telah meninggal. `
+`...Ini mungkin mengenai paru-parunya... `
+`...Belum lama sejak dia meninggal." `
 `"Jessicaaaaaaaaaaaa!! `
-`Damn it, damn iiiiiiiiiiiiiiiiiit!!" `
+`Sialan, siaaaaaaaaaaaaaaaal!!" `
 `"...B-Battler-sama..." `
-`"I was naive!! `
-`I knew it!! `
-`Since the culprit couldn't escape the island, they were definitely close by! `
-`So why didn't I get cautious sooner?!! `
-`...I was naive!! `
-`I just assumed that a culprit would commit their crime and then just sneak away and hide!" `
-`"...We were stunned then. `
-`We thought Jessica-chan giving in to rage and running off was just something that couldn't be helped. `
-`...But we were naive. `
-`We should have stopped her...!" `
-`"...Gohda-san, why did you leave those two alone?! `
-`If only you had been with them, something like this...!!" `
-`"N-No, ...th-that is...umm!! `
-`I said it was dangerous, so we should return! `
-`It's just that, Milady said that she wanted to be alone! `
-`Kanon-san told me to leave it to him, and...! `
-`...Speaking of which, where is Kanon-san...?!" `
-`"That's right! `
-`What in the world happened to Kanon-kun?!" `
+`"Aku naif!! `
+`Sudah kuduga!! `
+`Karena pelakunya tidak bisa lari dari pulau, mereka pasti ada di dekat sini! `
+`Jadi kenapa aku tidak waspada lebih cepat?!! `
+`...Aku naif!! `
+`Aku hanya mengira pelaku akan melakukan kejahatannya lalu diam-diam bersembunyi!" `
+`"...Kita semua lengah saat itu. `
+`Kita pikir Jessica-chan yang terbawa amarah dan lari begitu saja adalah hal yang tak bisa dihindari. `
+`...Tapi kita naif. `
+`Seharusnya kita menghentikannya...!" `
+`"...Gohda-san, kenapa kamu biarkan mereka berdua sendirian?! `
+`Kalau saja kamu bersama mereka, hal seperti ini...!!" `
+`"B-Bukan, ...i-itu... umm!! `
+`Saya sudah bilang ini berbahaya dan kita harus kembali! `
+`Tapi, Nona bilang dia ingin sendirian! `
+`Kanon-san juga bilang serahkan saja padanya, dan...! `
+`...Ngomong-ngomong, di mana Kanon-san...?!" `
+`"Benar juga! `
+`Apa yang terjadi pada Kanon-kun?!" `
 `"...K-Kanon-kun... `
-`Where......" `
-`"Kanon-san should have been with Milady... `
-`Where in the world did he go...?!" `
-`"You don't think...they got him...?!" `
+`Di mana......" `
+`"Kanon-san seharusnya bersama Nona... `
+`Ke mana perginya dia...?!" `
+`"Jangan-jangan...dia juga...?!" `
 `"............ `
-`Quiet. `
-`......Someone might be hiding in this room. `
-`Search under the bed and in the closet!" `
-`There was a chance that Kanon-kun's corpse had been pushed away somewhere. `
-`At Rosa-san's order, everyone searched throughout the room together. `
-`...But there wasn't a single human hiding anywhere. `
-`"...He's nowhere!! `
-`Could the culprit have taken him out of the room?! `
-`Then we'll have to search for him quickly and save him! `
-`...If we're slow, something awful might happen!! `
-`Aunt Rosa, let's search all over the mansion! `
-`Let's search for the culprit! `
-`Let's save Kanon-kun!!" `
+`Diam. `
+`......Mungkin ada seseorang yang bersembunyi di kamar ini. `
+`Cari di bawah tempat tidur dan di dalam lemari!" `
+`Ada kemungkinan mayat Kanon-kun disingkirkan di suatu tempat. `
+`Atas perintah Rosa-san, semua orang mencari di seluruh ruangan bersama-sama. `
+`...Tapi tidak ada satu orang pun yang bersembunyi. `
+`"...Dia tidak ada di mana pun!! `
+`Mungkinkah pelakunya membawanya keluar dari kamar?! `
+`Kalau begitu kita harus cepat mencarinya dan menyelamatkannya! `
+`...Kalau kita lambat, sesuatu yang buruk bisa terjadi!! `
+`Bibi Rosa, ayo kita cari di seluruh mansion! `
+`Ayo kita cari pelakunya! `
+`Ayo selamatkan Kanon-kun!!" `
 `"......... `
-`......Quiet!!!" `
-`When Aunt Rosa yelled at us, we fell instantly silent. `
-`She was probably contemplating something. `
-`...However, what in the world could that be...? `
-`...Aunt Rosa walked around the room as though looking for something, or as though she was collecting her thoughts. `
-`......Then, she found something on the side table by the bed and picked it up. `
-`"......If anyone knows, tell me. `
-`...Which key is this?" `
-`Aunt Rosa showed everyone a key with a cute mascot attached to it. `
-`...Judging from its cute appearance, I didn't doubt that it was Jessica's key, but I had no way of knowing for sure. `
-`"...It is probably the key to this room, ...to Milady's room." `
-`After hearing that, Aunt Rosa made a point of going outside the door and checking. `
-`......Without a doubt, it was the key to this room. `
-`"......I wonder why it was set in a place like this. `
-`Wouldn't you normally keep such an important key in your pocket?" `
-`"...Umm, ......Milady wasn't in the habit of locking her room. `
-`It seems she would only do it when she went to school, `
-`because she didn't want someone like Krauss-sama to look inside her room..." `
-`"......I see. `
-`She wasn't at school, so it's natural that Jessica-chan would set the key down here. `
-`How many keys can open this door?" `
-`"J-Just the one Milady had..." `
-`"Can't it be opened with your master keys?" `
-`"...They can open it." `
-`"How many master keys are there? `
-`Are all of the servants holding them? `
-`Are there extras?" `
-`"Yes. `
-`We all have one. `
-`......As for extras, ...I wonder." `
-`"There used to be several, ...but Madam scolded us harshly, saying that was careless, so they should have been dealt with." `
-`"...That is correct. `
-`There is only one held by each servant. `
-`There are no more." `
+`......Diam!!!" `
+`Saat Bibi Rosa membentak kami, kami langsung terdiam. `
+`Dia mungkin sedang memikirkan sesuatu. `
+`...Namun, apa yang ia pikirkan...? `
+`...Bibi Rosa berjalan mengelilingi ruangan seolah mencari sesuatu, atau seolah sedang menyusun pikirannya. `
+`......Lalu, ia menemukan sesuatu di meja samping tempat tidur dan mengambilnya. `
+`"......Kalau ada yang tahu, katakan padaku. `
+`...Ini kunci apa?" `
+`Bibi Rosa menunjukkan kepada semua orang sebuah kunci dengan gantungan maskot yang lucu. `
+`...Dilihat dari penampilannya yang lucu, aku tidak ragu itu kunci Jessica, tapi aku tidak mungkin tahu pasti. `
+`"...Itu mungkin kunci kamar ini, ...kamar Nona." `
+`Setelah mendengar itu, Bibi Rosa sengaja keluar dari pintu dan memeriksanya. `
+`......Tanpa ragu, itu adalah kunci kamar ini. `
+`"......Kenapa diletakkan di tempat ini ya. `
+`Bukankah biasanya kunci sepenting ini disimpan di kantong?" `
+`"...Umm, ......Nona tidak biasanya mengunci kamarnya. `
+`Sepertinya dia hanya melakukannya saat pergi ke sekolah, `
+`karena dia tidak mau Master Krauss dan yang lainnya masuk ke dalam kamarnya..." `
+`"......Begitu. `
+`Dia tidak sedang di sekolah, jadi wajar jika Jessica-chan meletakkan kuncinya di sini. `
+`Ada berapa kunci yang bisa membuka pintu ini?" `
+`"H-Hanya yang dimiliki Nona..." `
+`"Tidak bisakah dibuka dengan kunci utama kalian?" `
+`"...Bisa." `
+`"Ada berapa banyak kunci utama? `
+`Apa semua pelayan memegangnya? `
+`Apa ada cadangannya?" `
+`"Ya. `
+`Kami semua punya satu. `
+`......Untuk cadangan, ...entahlah." `
+`"Dulu memang ada beberapa, ...tapi Nyonya memarahi kami karena katanya itu ceroboh, jadi kunci-kunci itu seharusnya sudah di selesaikan." `
+`"...Itu benar. `
+`Hanya ada satu yang dipegang oleh setiap pelayan. `
+`Tidak ada lagi." `
 `"...Hmm? `
-`Wait a sec. `
-`...I think we talked about extra master keys in the last game, right?" `
-`"Indeed. `
-`Well, regarding that, `
-`I have noticed that having several master keys whose locations are unknown is quite disadvantageous for me." `
-`"...That's probably right. `
-`Since you wanna make me believe in magic using closed rooms, it'd really hurt you if there were more master keys than we thought. `
-`...After all, every time a trick involving locks shows up, `
-`I planned to resist by arguing that the culprit had a master key that someone lost in the past or a duplicate." `
-`"Yes, that's correct. `
-`So I've decided to make a move to defeat that. `
-`...I'll update our setting." `
+`Tunggu. `
+`...Kurasa kita sudah membahas soal kunci utama cadangan di permainan sebelumnya, kan?" `
+`"Benar. `
+`Nah, terkait hal itu, `
+`Aku sadar memiliki beberapa kunci utama yang lokasinya tidak diketahui cukup merugikanku." `
+`"...Mungkin kamu benar. `
+`Karena kamu ingin aku percaya sihir lewat ruang tertutup, kamu akan rugi kalau ternyata ada lebih banyak kunci utama dari yang di duga. `
+`...Lagipula, setiap kali ada trik yang melibatkan kunci muncul, `
+`Aku berencana melawannya dengan argumen bahwa pelakunya punya kunci utama yang dulu hilang atau duplikatnya." `
+`"Ya, itu benar. `
+`Jadi aku memutuskan mengambil langkah untuk membantah argumen itu. `
+`...Akan kuperbarui pengaturannya." `
 `" `
-`{p:1:The only master keys are the ones held by the servants, one key each}. `
-`*cackle*cackle*" `
-`"...Messing with me. `
-`...More importantly, `
-`what kind of move is this? `
-`...What's Aunt Rosa talking about?" `
-`"*cackle*cackle* `
-`Who knows? `
-`You should try listening in." `
-`"......Thank you. `
-`I have the situation sorted out. `
-`...And, I've been able to pinpoint the culprit who assaulted Jessica-chan, or at least one of their accomplices." `
-`"Wh-What did you say...?! `
-`Who is it?!" `
-`"...Aunt Rosa, you don't mean Kanon-kun, do you...?" `
-`"...Huh, ...what?! `
-`Wh-Why Kanon-kun?!" `
-`"This room was locked. `
-`And the only keys that can unlock it are the master keys, held by each servant, and the key Jessica had. `
-`...But Jessica-chan's key was closed up in here. `
-`...Which means it's only possible that one of the master keys locked this room up." `
-`"......It is as you say." `
-`"In that case, someone killed Jessica, then locked the door! `
-`That person had a master key. `
-`And there are only five people with master keys!" `
-`"O-Oh my!! `
-`It wasn't me, not me! `
-`No, I could never do such a thing!" `
-`"...Kumasawa-san got up late. `
-`After we returned from the chapel to the parlor, we did meet you there, `
-`but it's impossible to prove where you were and what you were doing until that time. `
-`You watched us from the shadows, chased after Jessica-chan and Kanon-kun when they were isolated, and stealthily attacked them." `
-`"A-are you saying that I visited Milady's room, `
-`and did something so horrible?! `
-`I, I, I did no such thing! `
-`Gracious no, no such thing!!" `
-`"What about you, Gohda-san? `
-`You said you left Jessica-chan in Kanon-kun's care and returned. `
-`...But I wonder if that's true? `
-`...Maybe you actually killed the two of them, hid Kanon-kun's corpse, `
-`and then came back with an innocent look on your face!!" `
-`"Nothing of the sort happened! `
-`I, Gohda, swear that I did not do anything like that!!" `
-`"...I-It wasn't us...!! `
-`We were following the Master's orders and..." `
-`"Yes. `
-`You and Genji-san alone are clean. `
-`That's backed up by what I heard from Father. `
-`The two of you were in Father's room the whole time, transcribing and witnessing for him. `
-`Father and I can guarantee that." `
-`"......Thank you very much." `
-`"In that case, the argument becomes who is more suspicious, Gohda-san or Kumasawa-san? `
-`...I thought that myself right after entering this room. `
-`......But still, I found it strange. `
-`Look at the state of Jessica-chan's body. `
-`Doesn't everyone think it's strange?" `
-`"...Strange, ...you say...?" `
-`"Jessica-chan was struck in the back. `
-`......Come on, they say it all the time, right? `
-`That in crimes where the victim is struck in the back, there's a high likelihood that the culprit was someone whose face was known to the victim. `
-`She definitely wouldn't invite a person she didn't trust into her room...and defenselessly expose her back." `
-`"...R-Rosa-sama, you don't mean... `
-`...to say that was Kanon-kun, do you...?" `
-`"I do. `
-`We're all fully aware of the state Jessica-chan was in right before she was killed. `
-`...After seeing her parents' tragic bodies, Jessica-chan was very panicked. `
-`It's easy to imagine that, after she regained her composure, she'd be in a horrible slump." `
-`"...It would be very understandable if Jessica's frame of mind led her to shut herself up alone in her room. `
-`And those particulars match with Gohda-san's story." `
-`"...Jessica-chan said to leave her alone. `
-`...Then, Kanon-kun, who is of a similar age and who may have some adolescent relationship with her, said to leave this matter in his hands. `
-`That feeling is also very understandable." `
-`"......So, for that reason, I think Jessica-chan welcomed Kanon-kun into her room." `
-`"But what if it had been Gohda-san or Kumasawa-san? `
-`Would she have let them into her room?" `
-`"...I-I believe that I have gained Milady's trust. `
-`But even so, err..." `
-`"Oh, then I guess you're still a suspect after all, Gohda-san. `
-`I assumed Jessica-chan probably didn't like you very much, so I didn't think she would've let you into her room. `
-`I was convinced that you couldn't possibly be the culprit, but maybe I was mistaken?" `
-`"No, umm...! `
-`......I am sad to say that I may not have been accepted by Milady. `
-`...Wh-What about you, Kumasawa-san?" `
+`{p:1:Satu-satunya kunci utama adalah yang dipegang oleh para pelayan, masing-masing satu}. `
+`*kekeh*kekeh*" `
+`"...Main-main denganku. `
+`...Lebih penting lagi, `
+`langkah macam apa ini? `
+`...Apa yang Bibi Rosa bicarakan?" `
+`"*kekeh*kekeh* `
+`Siapa yang tahu? `
+`Coba saja kamu dengarkan." `
+`"......Terima kasih. `
+`Aku sudah memahami situasinya. `
+`...Dan, aku sudah bisa menentukan siapa pelakunya yang menyerang Jessica-chan, atau setidaknya salah satu pelakunya." `
+`"A-Apa katamu...?! `
+`Siapa orangnya?!" `
+`"...Bibi Rosa, jangan-jangan maksudmu Kanon-kun...?" `
+`"...Hah, ...apa?! `
+`K-Kenapa Kanon-kun?!" `
+`"Kamar ini terkunci. `
+`Dan kunci yang bisa membukanya hanyalah kunci utama yang dipegang setiap pelayan, dan kunci milik Jessica. `
+`...Tapi kunci Jessica-chan ada di dalam sini. `
+`...Yang berarti, kemungkinan kamar ini dikunci dengan salah satu kunci utama." `
+`"......Seperti yang Anda katakan." `
+`"Kalau begitu, seseorang membunuh Jessica, lalu mengunci pintunya! `
+`Orang itu punya kunci utama. `
+`Dan hanya ada lima orang yang punya kunci utama!" `
+`"A-Astaga!! `
+`Bukan saya, bukan saya! `
+`Tidak, saya tidak mungkin melakukan hal seperti itu!" `
+`"...Kumasawa-san bangun terlambat. `
+`Setelah kami kembali dari kapel ke ruang tamu, kami memang bertemu denganmu di sana, `
+`tapi mustahil untuk membuktikan di mana kamu dan apa yang kamu lakukan sampai saat itu. `
+`Kamu mengawasi kami dari kegelapan, mengikuti Jessica-chan dan Kanon-kun saat mereka sendirian, lalu menyerang mereka diam-diam." `
+`"A-apa Anda bilang saya masuk ke kamar Nona, `
+`dan melakukan hal sekejam itu?! `
+`Saya, saya, saya tidak melakukan hal seperti itu! `
+`Ya ampun, sama sekali tidak!!" `
+`"Bagaimana denganmu, Gohda-san? `
+`Kamu bilang kamu meninggalkan Jessica-chan dengan Kanon-kun dan kembali. `
+`...Tapi apakah itu benar? `
+`...Mungkin sebenarnya kamu membunuh mereka berdua, dan menyembunyikan mayat Kanon-kun, `
+`lalu kembali dengan wajah tak berdosa!!" `
+`"Hal seperti itu tidak terjadi! `
+`Saya, Gohda, bersumpah bahwa saya tidak melakukan hal seperti itu!!" `
+`"...B-Bukan kami...!! `
+`Kami sedang mengikuti perintah Grandmaster dan..." `
+`"Ya. `
+`Hanya kamu dan Genji-san yang aman. `
+`Itu didukung oleh apa yang kudengar dari Ayah. `
+`Kalian berdua berada di kamar Ayah sepanjang waktu, meneranskip dan menjadi saksi untuknya. `
+`Ayah dan aku bisa menjamin itu." `
+`"......Terima kasih banyak." `
+`"Kalau begitu, perdebatannya menjadi siapa yang lebih mencurigakan, Gohda-san atau Kumasawa-san? `
+`...Aku sendiri berpikir begitu tepat setelah memasuki ruangan ini. `
+`......Tapi tetap saja, aku merasa aneh. `
+`Melihat kondisi tubuh Jessica-chan. `
+`Apa kalian semua tidak merasa aneh?" `
+`"...Aneh, ...maksud Anda...?" `
+`"Jessica-chan ditusuk dari belakang. `
+`......Ayolah, sering disebutkan, bukan? `
+`Bahwa kejahatan yang di mana korban ditusuk dari belakang, ada kemungkinan besar pelakunya adalah seseorang yang dikenal oleh korban. `
+`Dia jelas tidak akan mengajak orang yang tidak ia percayai ke kamarnya... lalu membiarkan punggungnya terbuka tanpa pertahanan." `
+`"...R-Rosa-sama, jangan-jangan maksud Anda... `
+`...adalah Kanon-kun...?" `
+`"Tentu saja. `
+`Kita semua tahu kondisi Jessica-chan saat sebelum dia dibunuh. `
+`...Setelah melihat jasad tragis orang tuanya, Jessica-chan sangat panik. `
+`Mudah dibayangkan, setelah ia tenang, ia akan sangat terpuruk." `
+`"...Sangat bisa dimengerti jika kondisi pikiran Jessica membuatnya ingin mengurung diri sendirian di kamarnya. `
+`Dan detail itu cocok dengan cerita Gohda-san." `
+`"...Jessica-chan bilang untuk meninggalkannya sendirian. `
+`...Lalu, Kanon-kun, yang seumuran dan mungkin punya hubungan dengannya, mengatakan untuk menyerahkan masalah ini padanya. `
+`Perasaan itu juga sangat bisa dimengerti." `
+`"......Jadi, karena alasan itu, kurasa Jessica-chan mengijinkan Kanon-kun masuk ke dalam kamarnya." `
+`"Tapi bagaimana jika itu Gohda-san atau Kumasawa-san? `
+`Akankah dia membiarkan mereka masuk ke kamarnya?" `
+`"...S-Saya percaya saya sudah mendapatkan kepercayaan Nona. `
+`Tapi meski begitu, err..." `
+`"Oh, kalau begitu kamu masih jadi tersangka, Gohda-san. `
+`Kukira Jessica-chan mungkin tidak terlalu menyukaimu, jadi kupikir dia tidak akan membiarkanmu masuk ke kamarnya. `
+`Aku yakin kamu tidak mungkin pelakunya, tapi mungkin aku salah?" `
+`"Bukan, umm...! `
+`......Dengan berat hati saya katakan, saya mungkin belum diterima oleh Nona. `
+`...B-Bagaimana dengan Anda, Kumasawa-san?" `
 `"H-Hohohohohoho! `
-`We are far too separated by age to understand the feelings of a young person like Milady very well... `
-`And for the same reason, perhaps Milady never opened up her heart to us. `
-`Right, Gohda-san?!" `
-`"Yes, that's right! `
-`It would have been quite difficult for her to open her heart to the likes of us! `
-`And it would be inconceivable for Milady to let us into her room when she was grieving!" `
-`Gohda-san and Kumasawa baa-chan each rubbed their hands together, affirming each other with forced smiles on their faces. `
-`It was a truly unpleasant rondo. `
-`"So, it was a person who might be allowed to enter Jessica-chan's room while she was grieving. `
-`A person who might have been given access to her defenseless back, `
-`and who had a master key. `
-`That only points to one suspect. `
-`...It was impossible for anyone except Kanon-kun." `
-`"...P-Please, wait...! `
-`Kanon-kun definitely wouldn't do something like-" `
-`"Oh, then is there someone else? `
-`Is Gohda-san or Kumasawa-san suspicious after all? `
-`Who do you think is more suspicious, Shannon-chan...? Come on." `
-`"I...I...could never......" `
-`"It wasn't me, Shannon-san! `
-`Yes, it was not me!" `
-`"Of course, it wasn't me either! `
-`The ones who had close relationships with Milady were Kanon-san...and after him, you, right?!" `
-`"......Yeah, isn't that right? `
-`...Jessica-chan might also let Shannon-chan into her room. `
-`You were supposedly with Father. `
-`......But in reality, `
-`...could you be the culprit......?" `
-`"...Sh-Shannon couldn't be the culprit! `
-`Didn't you just say she was doing some important work with Grandfather?!" `
-`"Yes, I know. `
-`Neither Shannon-chan nor Genji-san is the culprit. `
-`Father confirmed that they were together the whole time. `
-`......Well then, what do you think, everyone...?" `
-`After being told that, no one could respond... `
-`Even if someone did manage to argue back, they'd then have to offer the name of a different suspect. `
-`...And no matter who that suspect was, it would have to be someone right here. `
-`...No one could do something like that. `
-`Aunt Rosa glanced at everyone in turn, fingering the gun like it was a toy... `
-`......She seemed so different from the kind Aunt Rosa I knew. `
-`...No, it's probably because I'm not fully aware of danger we're in. `
-`...Maybe Aunt Rosa's attitude would seem natural if I could truly sense the peril surrounding us... `
-`"It looks like no one has an opinion. `
-`Then I'll give you mine." `
-`"Of course, I can't deny the possibility that Kanon-kun's a victim without a corpse. `
-`But until we find that corpse, I certainly can't rule Kanon-kun out as a suspect. `
-`...There's a chance he'll suddenly appear again, `
-`claiming to have been attacked by the culprit and confined somewhere." `
-`"But take care. `
-`Most likely...no, there's no doubt about it. `
-`...... {i:Kanon-kun killed Jessica-chan}. `
-`"............N-No way......" `
-`"...I-I can't believe it... `
-`Kanon did that... `
-`......to Milady? `
-`...That's too much!!" `
-`"I feel the same as Shannon. `
-`I'm opposed to labeling Kanon-kun as the culprit." `
-`"Then is the culprit Gohda-san or Kumasawa-san? `
-`Tell me who's more suspicious." `
-`""I-I-I-It wasn't us!!"" `
-`"If it wasn't Kanon-kun, then who could've locked this door? `
-`How about it, Shannon-chan? `
+`Usia kami terlalu jauh untuk bisa memahami perasaan anak muda seperti Nona dengan baik... `
+`Dan karena alasan yang sama, mungkin Nona tidak pernah membuka hatinya pada kami. `
+`Benar, kan, Gohda-san?!" `
+`"Ya, benar sekali! `
+`Mustahil dia membuka hatinya pada orang-orang seperti kita! `
+`Dan mana mungkin Nona membiarkan kami masuk ke kamarnya saat dia sedang berduka!" `
+`Gohda-san dan Kumasawa baa-chan menggosokan tangan, membenarkan klaim satu sama lain dengan senyum terpaksa di wajah mereka. `
+`Benar-benar pemandangan yang tidak mengenakkan. `
+`"Jadi, pelakunya adalah orang yang mungkin diizinkan masuk ke kamar Jessica-chan saat dia berduka. `
+`Orang yang di biarkannya dengan punggungnya yang tanpa pertahanan, `
+`dan yang punya kunci utama. `
+`Pelakunya hanya mengarah pada satu orang. `
+`...Tidak mungkin ada orang lain selain Kanon-kun." `
+`"...T-Tolong, tunggu...! `
+`Kanon-kun pasti tidak akan melakukan hal seperti-" `
+`"Oh, kalau begitu apa ada orang lain? `
+`Apa Gohda-san atau Kumasawa-san yang mencurigakan? `
+`Menurutmu siapa yang lebih mencurigakan, Shannon-chan...? Ayo." `
+`"Aku... aku... tidak mungkin......" `
+`"Bukan saya, Shannon-san! `
+`Ya, bukan saya!" `
+`"Tentu saja, bukan saya juga! `
+`Yang punya hubungan dekat dengan Nona kan Kanon-san... dan setelahnya, kamu, kan?!" `
+`"......Yeah, benar juga, ya? `
+`...Jessica-chan mungkin juga akan membiarkan Shannon-chan masuk ke kamarnya. `
+`Kamu katanya sedang bersama Ayah. `
+`......Tapi kenyataannya, `
+`...mungkinkah kamu pelakunya......?" `
+`"...Sh-Shannon tidak mungkin pelakunya! `
+`Bukankah kamu baru saja bilang dia sedang mengerjakan tugas penting dengan Kakek?!" `
+`"Ya, aku tahu. `
+`Baik Shannon-chan maupun Genji-san bukanlah pelakunya. `
+`Ayah sudah memastikan mereka bersamanya sepanjang waktu. `
+`......Nah, kalau begitu, bagaimana menurut kalian semua...?" `
+`Setelah diberitahu begitu, tidak ada yang bisa menjawab... `
+`Kalaupun ada yang berhasil membantah, mereka harus menunjuk tersangka lain sebagai gantinya. `
+`...Dan siapa pun tersangka itu, pastilah salah satu orang yang ada di sini. `
+`...Tidak ada yang sanggup melakukan hal seperti itu. `
+`Bibi Rosa melirik semua orang secara bergantian, memainkan senjata api di tangannya seolah itu mainan... `
+`......Dia tampak sangat berbeda dari Bibi Rosa baik hati yang kukenal. `
+`...Tidak, mungkin ini karena aku belum sepenuhnya sadar akan bahaya yang kami hadapi. `
+`...Mungkin sikap Bibi Rosa akan terlihat wajar kalau saja aku benar-benar bisa merasakan bahaya yang mengancam kami... `
+`"Sepertinya tidak ada yang punya pendapat. `
+`Kalau begitu, aku akan berikan pendapatku." `
+`"Tentu, aku tidak bisa menyangkal kemungkinan Kanon-kun adalah korban yang mayatnya belum ditemukan. `
+`Tapi sampai kita menemukan mayat itu, aku jelas tidak bisa menyingkirkan Kanon-kun sebagai tersangka. `
+`...Ada kemungkinan dia akan tiba-tiba muncul, `
+`mengatakan telah diserang oleh pelaku dan disekap di suatu tempat." `
+`"Tapi hati-hati. `
+`Kemungkinan besar... tidak, ini sudah pasti. `
+`...... {i:Kanon-kun yang membunuh Jessica-chan}. `
+`"............T-Tidak mungkin......" `
+`"...A-Aku tidak percaya... `
+`Kanon melakukan itu... `
+`......pada Nona? `
+`...Itu keterlaluan!!" `
+`"Perasaanku sama seperti Shannon. `
+`Aku tidak setuju jika Kanon-kun dicap sebagai pelakunya." `
+`"Kalau begitu pelakunya Gohda-san atau Kumasawa-san? `
+`Katakan siapa yang lebih mencurigakan." `
+`""B-B-B-Bukan kami!!"" `
+`"Jika bukan Kanon-kun, lalu siapa yang bisa mengunci pintu ini? `
+`Bagaimana, Shannon-chan? `
 `George-kun? `
-`...Huh? `
+`...Hah? `
 `Huh huh huh...?" `
-`Aunt Rosa closed in on Shannon-chan and George-aniki, laughing unpleasantly. `
-`...Of course, they couldn't say anything back. `
-`They wanted to believe in Kanon-kun. `
-`...But if they did, they'd have to suspect the other servants. `
-`The simplest culprit was the mystery guest, {f:5:Beatrice}. `
-`...But she was nothing more than a guest and didn't have a master key. `
-`......So, if {f:5:Beatrice} is the culprit, despite lacking a master key... `
-`...Then do we have to accept the argument that she really is a witch, who locked the door with the power of magic...? `
-`"......That's a dirty argument... `
-`...Dirty, ...so dirty..." `
-`"What are you worried about? `
-`Make it my fault. `
-`You can just make it the fault of the 19th person, the mystery guest, right? `
-`If you do, you won't have to watch this ugly battle of humans blaming each other, right...? `
-`*cackle*cackle*cackle*cackle*!" `
-`"So then what? `
-`The culprit is the 19th person, the guest {f:5:Beatrice}. `
-`...She's a witch, so she could lock the door without a key, using magic. `
-`Are you telling me to accept that? `
-`Damn it...! `
-`...Damn it, damn it...!!" `
-`"...*cackle*cackle*cackle*cackle* `
-`In the last game, I learned all your weak points. `
-`So, what will you do, what will you do...? `
-`You said you definitely wouldn't accept me, right? `
-`Then, ......you can use Kanon as the perfect sacrifice he is." `
-`"Kanon killed Jessica! `
-`If you support Rosa's theory, everything is settled here, right? `
-`Kanon is already dead. `
-`There should be no need to show concern for the dead. `
-`And, you won't have to suspect anyone in this room! `
-`*cackle*hahahahahahahahahahaha!" `
-`"Damn it!! `
-`I won't accept you!!! `
-`But...Kanon-kun being the culprit...is impossible!!" `
-`"......I don't want to suspect anyone. `
-`...However, at times, "there's no smoke without fire" turns out to be true. `
-`...Anyway, you can never be too cautious..." `
-`"D-Doctor Nanjo, `
-`...what do you mean by that...?" `
-`"...Umm, please do not misunderstand. `
-`...I do not wish to label Kanon-san as the culprit. `
-`...However, until we understand the situation, there is a possibility that he's the culprit, `
-`and I believe thinking that way is safer." `
+`Bibi Rosa mendekati Shannon-chan dan George-aniki, tertawa dengan nada yang tidak enak didengar. `
+`...Tentu saja, mereka tidak bisa menjawab apa-apa. `
+`Mereka mau percaya pada Kanon-kun. `
+`...Tapi kalau begitu, mereka jadi harus mencurigai pelayan yang lain. `
+`Pelaku yang paling gampang adalah tamu misterius, {f:5:Beatrice}. `
+`...Tapi dia hanyalah seorang tamu dan tidak punya kunci utama. `
+`......Jadi, jika {f:5:Beatrice} adalah pelakunya, meskipun ia tidak punya kunci utama... `
+`...Berarti kita harus menerima argumen bahwa dia benar-benar seorang penyihir, yang mengunci pintu  itudengan kekuatan sihir...? `
+`"......Argumen yang curang... `
+`...Curang, ...curang sekali..." `
+`"Apa yang kamu khawatirkan? `
+`Salahkan saja aku. `
+`Kamu tinggal salahkan saja orang ke-19, si tamu misterius, kan? `
+`Kalau begitu, kamu tidak perlu menonton pertarungan buruk manusia yang saling menyalahkan ini, kan...? `
+`*kekeh*kekeh*kekeh*kekeh*!"`
+`"Lalu kenapa? `
+`Pelakunya adalah orang ke-19, tamu bernama {f:5:Beatrice}. `
+`...Dia seorang penyihir, jadi dia bisa mengunci pintu tanpa kunci, menggunakan sihir. `
+`Kamu mau aku menerima itu? `
+`Sialan...!`
+`...Sialan, sialan...!!" `
+`"...*kekeh*kekeh*kekeh*kekeh* `
+`Di permainan sebelumnya, aku sudah mempelajari semua titik lemahmu. `
+`Jadi, apa yang akan kamu lakukan, apa yang akan kamu lakukan...? `
+`Kamu bilang kamu sama sekali takkan menerimaku, kan? `
+`Kalau begitu, ......jadikan saja Kanon sebagai kambing hitam." `
+`"Kanon membunuh Jessica! `
+`Jika kamu mendukung teori Rosa, semuanya selesai di sini, kan? `
+`Kanon sudah mati. `
+`Tidak perlu mengkhawatirkan orang mati. `
+`Dan, kamu tidak perlu mencurigai siapa pun di ruangan ini! `
+`*kekeh*hahahahahahahahahahaha!" `
+`"Sialan!! `
+`Aku tidak akan menerimamu!!! `
+`Tapi... Kanon-kun pelakunya... itu mustahil!!" `
+`"......Aku tidak ingin mencurigai siapa pun. `
+`...Namun, peribahasa "tidak ada asap kalau tidak ada api" ternyata benar. `
+`...Pokoknya, kita tidak boleh lengah..." `
+`"D-Dokter Nanjo, `
+`...apa maksud anda...?" `
+`"...Umm, tolong jangan salah paham. `
+`...Bukannya saya ingin menuduh Kanon-san sebagai pelakunya. `
+`...Namun, sampai kita mengetahui kondisinya, ada kemungkinan dia pelakunya, `
+`dan saya yakin berpikir seperti itu lebih aman." `
 `"...H-Hohohoh... `
-`Yes, that's right, ...you cannot be too cautious." `
-`The general concensus certainly didn't seem to find fault with Nanjo for what he said. `
-`True, no one actually thought Kanon was the culprit. `
-`...But unless they suspected him, they'd have to suspect one of the servants here. `
-`...We didn't want to do that. `
-`We didn't want to suspect. `
-`We didn't want to be suspected. `
-`"That's correct. `
-`...We cannot be too vigilant. `
-`I take it no one objects to that, right?" `
-`"Understand? `
-`...There's a very high likelihood that these murders are connected to Father's Legend of the Gold. `
-`That means the crime must have been plotted by someone who wants to keep a vast amount of gold—worth several ten billion yen—all for themselves. `
-`...With that kind of money, you could play around for the rest of your life in any country. `
-`...And with a motivation like that, they might even intend to kill all of us." `
+`Ya, benar, ...kita tidak boleh lengah." `
+`Tampaknya tak seorangpun menyalahkan Nanjo. `
+`Memang, tidak ada yang benar-benar berpikir Kanon adalah pelakunya. `
+`...Tapi jika tidak mencurigainya, mereka harus mencurigai salah satu pelayan yang ada di sini. `
+`...Kami tidak mau melakukan itu. `
+`Kami tidak mau mencurigai. `
+`Kami tidak mau dicurigai. `
+`"Benar sekali. `
+`...Kita tidak boleh lengah sedikit pun. `
+`Kira-kira tidak ada yang keberatan soal itu, kan?" `
+`"Kalian mengerti? `
+`...Ada kemungkinan yang sangat besar bahwa pembunuhan ini berhubungan dengan Legenda Emas milik Ayah. `
+`Itu artinya kejahatan ini pasti direncanakan oleh seseorang yang ingin menyimpan emas dalam jumlah besar bernilai puluhan miliar yen untuk dirinya sendiri. `
+`...Dengan uang sebanyak itu, kamu bisa bersenang-senang seumur hidup di negara mana pun. `
+`...Dan dengan keinginan seperti itu, mereka bahkan mungkin berniat membunuh kita semua." `
 `"........." `
-`"Because she didn't have a master key, the 19th person, `
-`the guest {f:5:Beatrice}, is removed from suspicion for the murder of Jessica-chan alone. `
-`But we cannot conclude that she's unrelated to the crime. `
-`...After all, it's a vast amount of gold we're talking about. `
-`We can't deny the possibility that there are multiple culprits. `
-`...Right now, one of the people here among us might have been bought by the culprit!!" `
-`As Aunt Rosa yelled, she looked all around, her gun still raised. `
-`...Don't believe anyone, suspect the person next to you, ...that's what she was saying. `
-`But no one wanted to suspect. `
-`...They didn't want to suspect anyone here. `
-`That weakness in their hearts demanded an answer from those not present... `
-`"There are only two ways you can be sure someone isn't a suspect. `
-`......If it's yourself, or if they're already no more than a corpse. `
-`......The same goes for Kanon-kun." `
-`"Until we catch sight of his corpse, he is the most likely suspect in Jessica-chan's murder!! `
-`So take care. `
-`Even if he's still alive, even if he smoothes things over with some explanation, you definitely mustn't trust him! `
-`Got it?!" `
-`No one gave an answer of their own initiative. `
-`...However, those who met Aunt Rosa's eyes had to nod their heads... `
-`Humans are beings who live by molding themselves to fit society. `
-`...In other words, from the time they're born, trusting each other is genetically imprinted on them. `
-`...It's...unpleasant to go against that. `
-`They never want to suspect someone. `
-`...But if they're forced to suspect someone, `
-`...they find it safest to choose someone who isn't present at that moment. `
-`For the purpose of safety and nothing more, they half-heartedly chose Kanon to be the sacrifice. `
-`That's ridiculous...... `
-`I definitely don't want to believe that Kanon-kun is the culprit! `
-`I'd heard it from George-aniki just now, but not only were those two close in age, `
-`they also had that kind of adolescent relationship Aunt Rosa had mentioned. `
-`...It may be a little late now, but yes, they really did have that kind of air about them. `
-`After seeing her parents' tragic corpses, Jessica, bearing deep wounds in her heart, would only have trusted Kanon-kun. `
-`...It was very easy to imagine. `
-`And that's why I don't like it...!! `
-`Kanon-kun was the only one she trusted. `
-`So, she wouldn't have let anyone but Kanon-kun in. `
-`So, Kanon-kun was the only one who could've killed Jessica? ...I just can't accept that kind of argument...!!! `
-`"...Understand?! `
-`Even if Kanon-kun appears, don't let your guards down! `
-`As long as we cannot prove Kanon-kun's innocence, we will assume that Kanon-kun is the culprit who killed Jessica-chan!!" `
-`That was Aunt Rosa's claim. `
-`By using the vague word "assume", ...she managed to convince everyone in the end. `
-`Everyone nodded weakly, `
-`......and, with the excuse that they were just assuming it for the time being, `
-`......they "concluded" that Kanon was the culprit who had killed Jessica... `
-`......I wonder what the dead Jessica and Kanon would think if they could hear this exchange. `
-`Jessica...was crying. `
-`...She was crying into the chest of the person who had put his life on the line to fight for her, Kanon. `
-`It was frustrating. `
-`So frustrating that it felt like her chest would explode... `
-`She grieved and resented how far the dignity of the dead had been trampled... `
-`"...How can...those guys treat Kanon-kun like the culprit?!!" `
-`".........Because there's...no corpse." `
-`"How can they treat you like the culprit just because there's no corpse?! `
-`You risked your life to fight for me, right...?! `
-`Then, ...that witch erased the corpse for fun...! `
-`For them to call you the culprit after that...it's horrible, it's too horrible!!" `
-`"...It's okay. `
-`...I wasn't able to protect you in the end, `
-`......but I was able to be of use to you in our final minutes..." `
-`"...Why doesn't everyone understand that?! `
-`Stop it, Aunt Rosa!! `
-`Don't call Kanon-kun the culprit with that messed up logic!!" `
-`"......She isn't saying I'm the culprit. `
-`...She's just saying I'm suspicious... `
-`no, `
-`...she's saying to be careful." `
-`"She {i:is} saying it!! `
-`These people are saying you're the culprit so they can stop thinking! `
-`They aren't thinking about who the culprit who killed me is anymore!! `
-`They aren't thinking of the possibility that you aren't the culprit!! `
-`And after this, every time something happens, they'll use the excuse that Kanon-kun did it, since we don't know where he is!! `
-`...I can't stand that!!" `
-`"......It's okay. `
-`...At least you know the truth." `
-`"If only I know the truth, that's pointless!! `
-`I know it after dying. `
-`Truth belongs to living humans!! `
-`If the truth doesn't remain, the dead won't be rewarded!! `
-`They won't know what Kanon-kun risked his life for!!" `
-`"*cackle*cackle*cackle*cackle* Hahahahahahahahahahahaha! `
-`Truly a splendid sight. `
-`You hardly ever find a sweeter honey than the laments of the dead." `
-`"Lament, lament. `
-`No matter how much you lament, the voices of the dead never reach the living." `
-`"Damn it, damn iiiiiiit!! `
-`It doesn't matter who!! `
-`Hear my voice!! `
-`Kanon-kun isn't the culprit!! `
-`Kanon-kun's corpse was just erased! `
-`Why, why don't you understand that?!!" `
-`"......Milady." `
-`"...I can't stand this!! `
-`It's too sad! `
-`I hate it!! `
-`This way...it's like Kanon-kun died for nothing, right?!! `
-`The honor of the dead means nothing unless it's acknowledged by the living! `
-`It doesn't matter who! `
-`Notice it! `
-`Notice it, please!! `
-`Kanon-kun isn't the culprit!! `
-`Aaaaaaaaaaaaaahh, don't go, don't go, everyone!! `
-`Please, don't let it end like this...! `
-`Don't go, ...don't goooooooooooooo!!!" `
-`Rosa announced that this room would be sealed until the police came. `
-`...The rest didn't want to suspect each other, so they happily accepted that. `
-`...For now, they accepted that Kanon was the culprit. `
-`...Without even imagining how much disgrace that gave to the dead, they accepted it. `
-`"...Milady, ...you've done enough... `
-`...Thank you..." `
-`"Don't go!! `
-`Don't go, everyone!! `
-`I'm begging you, come back!! `
-`Don't leave us behind like this!!" `
-`"Don't...keep treating Kanon-kun...as the culpriiiiiiiit!! `
+`"Karena orang ke-19 tidak punya kunci utama, `
+`tamu bernama {f:5:Beatrice}, tidak dicurigai untuk kasus pembunuhan Jessica-chan. `
+`Tapi kita tidak bisa mengatakan kalau dia tidak ada hubungannya dengan kejadian ini. `
+`...Lagipula, ini soal emas dalam jumlah sangat besar. `
+`Kita tidak bisa menyangkal kemungkinan bahwa pelakunya ada banyak. `
+`...Bisa jadi, salah satu orang di antara kita ini sudah dibayar oleh si pelaku!!" `
+`Saat Bibi Rosa berteriak, ia melihat ke sekeliling, senjata apinya masih terangkat. `
+`...Jangan percaya siapa pun, curigai orang di sebelahmu, ...itulah yang ingin ia katakan. `
+`Tapi tidak ada yang mau mencurigai. `
+`...Mereka tidak mau mencurigai siapa pun di sini. `
+`Kelemahan di hati mereka menginginkan jawaban dari orang yang tidak ada di sini... `
+`"Hanya ada dua kelompok orang yang bukanlah tersangka. `
+`......Dirimu sendiri, dan mereka yang sudah menjadi mayat. `
+`......Hal yang sama berlaku untuk Kanon-kun." `
+`"Sampai kita melihat mayatnya, dialah tersangka paling mungkin dalam pembunuhan Jessica-chan!! `
+`Jadi hati-hati. `
+`Bahkan jika dia masih hidup, bahkan jika dia memberi penjelasan, kalian sama sekali tidak boleh memercayainya! `
+`Paham?!" `
+`Tak seorang pun yang berinisiatif untuk menjawab. `
+`...Namun, mereka yang bertatapan mata dengan Bibi Rosa terpaksa menganggukkan kepala... `
+`Manusia adalah makhluk sosial. `
+`...Dengan kata lain, sejak mereka lahir, saling percaya sudah tertanam secara genetik pada diri mereka. `
+`...Rasanya...tidak enak untuk menentang hal itu. `
+`Mereka tidak pernah mau mencurigai seseorang. `
+`...Tapi jika mereka dipaksa untuk curiga, `
+`...mereka merasa paling aman untuk memilih seseorang yang tidak hadir saat itu. `
+`Demi keamanan tidak lebih, mereka setengah hati memilih Kanon untuk dikorbankan. `
+`Konyol sekali...... `
+`Aku sama sekali tidak mau percaya kalau Kanon-kun pelakunya! `
+`Aku baru saja mendengarnya dari George-aniki, tapi bukan hanya karena mereka berdua seumuran, `
+`mereka juga punya hubungan seperti yang disebutkan Bibi Rosa. `
+`...Mungkin sudah sedikit terlambat, tapi ya, mereka memang punya hal seperti itu. `
+`Setelah melihat mayat tragis orang tuanya, Jessica, yang hatinya terluka parah, pasti hanya akan memercayai Kanon-kun. `
+`...Sangat mudah untuk membayangkannya. `
+`Dan itulah mengapa aku tidak suka...!! `
+`Kanon-kun adalah satu-satunya yang ia percayai. `
+`Jadi, dia tidak akan membiarkan siapa pun masuk selain Kanon-kun. `
+`Jadi, hanya Kanon-kun yang bisa membunuh Jessica? ...Aku tidak bisa menerima argumen seperti itu...!!! `
+`"...Kalian paham?! `
+`Bahkan jika Kanon-kun muncul, jangan lengah! `
+`Selama kita tidak bisa membuktikan Kanon-kun tidak bersalah, kita akan menganggap bahwa Kanon-kun adalah pelaku yang membunuh Jessica-chan!!" `
+`Itulah klaim Bibi Rosa. `
+`Dengan menggunakan kata "menganggap" yang samar-samar, ...ia berhasil meyakinkan semua orang. `
+`Semua orang mengangguk, `
+`......dan, dengan alasan bahwa mereka hanya menganggapnya untuk sementara waktu, `
+`......mereka "menyimpulkan" bahwa Kanon adalah pelaku yang telah membunuh Jessica... `
+`......Kira-kira apa yang akan dipikirkan oleh Jessica dan Kanon yang telah mati jika mereka bisa mendengar percakapan ini. `
+`Jessica... menangis. `
+`...Dia menangis di dada orang yang telah mempertaruhkan nyawanya untuk berjuang deminya, Kanon. `
+`Rasanya frustrasi. `
+`Sangat frustrasi hingga dadanya terasa sesak ingin meledak... `
+`Dia berduka dan kesal betapa jauhnya martabat orang mati telah diinjak-injak... `
+`"...Beraninya... mereka memperlakukan Kanon-kun seperti pelaku?!!" `
+`".........Karena... tidak ada mayat." `
+`"Bagaimana bisa mereka memperlakukanmu seperti pelaku hanya karena tidak ada mayat?! `
+`kamu mempertaruhkan nyawamu demiku, kan...?! `
+`Lalu, ...penyihir itu menghilangkan mayatmu untuk bersenang-senang...! `
+`Setelah itu mereka menyebutmu pelaku... itu mengerikan, terlalu mengerikan!!" `
+`"...Tidak apa-apa. `
+`...Aku tidak bisa melindungimu pada akhirnya, `
+`......tapi aku bisa berguna untukmu di saat-saat terakhir kita..." `
+`"...Kenapa tidak ada yang mengerti?! `
+`Hentikan, Bibi Rosa!! `
+`Jangan sebut Kanon-kun pelaku dengan alasanmu yang kacau itu!!" `
+`"......Dia tidak bilang aku pelakunya. `
+`...Dia hanya bilang aku mencurigakan... `
+`tidak, `
+`...dia bilang untuk berhati-hati." `
+`"Dia {i:memang} bilang begitu!! `
+`Orang-orang ini bilang Kamu pelakunya agar mereka bisa berhenti berpikir! `
+`Mereka tidak lagi memikirkan siapa pelaku yang membunuhku!! `
+`Mereka tidak memikirkan kemungkinan bahwa kamu bukan pelakunya!! `
+`Dan setelah ini, setiap kali terjadi sesuatu, mereka akan menggunakan alasan kalau Kanon-kun melakukannya yang tidak tau dimana keberadaannya!! `
+`...Aku tidak tahan!!" `
+`"......Tidak apa-apa. `
+`...Setidaknya kamu tahu yang sebenarnya." `
+`"Kalau hanya aku yang tahu kebenarannya, itu tidak ada gunanya!! `
+`Aku tahu setelah mati. `
+`Kebenaran itu milik manusia yang hidup!! `
+`Jika kebenaran hilang, kematian mereka sia-sia!! `
+`Mereka tidak akan tahu untuk apa Kanon-kun mempertaruhkan nyawanya!!" `
+`"*kekeh*kekeh*kekeh*kekeh* Hahahahahahahahahahahaha! `
+`Benar-benar pemandangan yang indah. `
+`Jarang-jarang lho bisa menemukan madu semanis selain ratapan orang mati." `
+`"Merataplah, merataplah. `
+`Sebanyak apa pun kamu meratap, suara orang mati tidak akan pernah sampai kepada yang hidup." `
+`"Sialan, siaaaaaaaaal!! `
+`Siapa pun tidak masalah!! `
+`Dengarkan suaraku!! `
+`Kanon-kun bukan pelakunya!! `
+`Mayat Kanon-kun hanya dihilangkan! `
+`Kenapa, kenapa kalian tidak mengerti itu?!!" `
+`"......Nona." `
+`"...Aku tidak tahan!! `
+`Ini terlalu menyedihkan! `
+`Aku benci ini!! `
+`Dengan begini... seolah-olah Kanon-kun mati sia-sia, kan?!! `
+`Mereka yang mati kehilangan kehormatannya bila yang hidup menolak untuk mengakui! `
+`Siapa pun tidak masalah! `
+`Sadarlah! `
+`Tolong, sadarlah!! `
+`Kanon-kun bukan pelakunya!! `
+`Aaaaaaaaaaaaaahh, jangan pergi, jangan pergi, semuanya!! `
+`Tolong, jangan biarkan ini berakhir seperti ini...! `
+`Jangan pergi, ...jangan pergiiiiiiiiiiiii!!!" `
+`Rosa mengumumkan bahwa ruangan ini akan disegel sampai polisi datang. `
+`...Yang lain tidak mau saling curiga, jadi mereka dengan senang hati menerimanya. `
+`...Untuk saat ini, mereka menerima bahwa Kanon adalah pelakunya. `
+`...Tanpa membayangkan betapa memalukannya hal itu bagi yang telah mati, mereka menerimanya. `
+`"...Nona, ...sudah cukup... `
+`...Terima kasih..." `
+`"Jangan pergi!! `
+`Jangan pergi, semuanya!! `
+`Aku mohon, kembalilah!! `
+`Jangan tinggalkan kami seperti ini!!" `
+`"Jangan... perlakukan Kanon-kun... sebagai pelakunyaaaaaaaaa!! `
 `Uwaaaaaaaaaaaaaaaaaaahhh...!!" `
-`"It won't reach!! `
-`The laments of the dead never reach!" `
-`"You make me laugh, yes, that face of yours makes me laugh!! `
-`Did you think your voice would reach them? `
-`It won't reach, will it, Jessicaaaaaaa??? `
-`*cackle*cackle*cackle*cackle*, wahahahahahahahahahahahahahahahahahahahahahahaha!!" `
-`"It's all useless." `
-`"Huh? `
-`......Battler-kun, did you say something?" `
-`"Yeah, it's useless. `
-`...{i:It's all useless}." `
-`Just as everyone was about to leave the room... `
-`...Battler stood alone with his back to them, still looking down at Jessica's corpse. `
-`"What do you mean, ...it's all useless? `
-`Do you have some objection...?" `
-`"I agree that we've gotta stay on our guards, `
-`...but sorry, I'm not buying all that about Kanon-kun being the culprit." `
+`"Tidak akan sampai!! `
+`Ratapan orang mati tidak akan pernah sampai!" `
+`"Kamu membuatku tertawa, ya, wajahmu itu membuatku tertawa!! `
+`Kamu pikir suaramu akan sampai pada mereka? `
+`Tidak akan sampai, kan, Jessicaaaaaaa??? `
+`*kekeh*kekeh*kekeh*kekeh*, wahahahahahahahahahahahahahahahahahahahahahahaha!!" `
+`"Semuanya sia-sia." `
+`"Hah? `
+`......Battler-kun, apa kamu bilang sesuatu?" `
+`"Ya, sia-sia. `
+`...{i:Semuanya sia-sia}." `
+`Tepat saat semua orang hendak meninggalkan ruangan... `
+`...Battler berdiri sendirian membelakangi mereka, masih menatap ke bawah pada mayat Jessica. `
+`"Apa maksudmu, ...semuanya sia-sia? `
+`Apa kamu punya keberatan...?" `
+`"Aku setuju kita harus tetap waspada, `
+`...tapi maaf, aku tidak percaya sedikit pun kalau Kanon-kun pelakunya." `
 `"...Hoh. `
-`So you're speaking up at a time like this. `
-`If Kanon wasn't the culprit, and it wasn't my doing, how do you explain this closed room that Jessica's room has become...?" `
-`"......To be honest, I don't even have a clue on that point. `
-`...Seriously, why'd I have to go and say it's all useless?" `
-`"...Guess I'd better take responsibility for my own words. `
+`Jadi kamu bicara di saat seperti ini. `
+`Jika Kanon bukan pelakunya, dan itu bukan perbuatanku, bagaimana kamu menjelaskan ruang tertutup di kamar Jessica ini...?" `
+`"......Jujur saja, aku sama sekali tidak punya petunjuk soal itu. `
+`...Serius, kenapa juga aku harus bilang semuanya sia-sia?" `
+`"...Kurasa aku harus bertanggung jawab atas kata-kataku sendiri. `
 `Ihihihihi...! `
-`......I'm empty-handed with zero weapons to argue with. `
-`...But I'm not gonna sit around on the sidelines anymore, {f:5:Beatrice}!!" `
+`......Aku tangan kosong tanpa senjata untuk berdebat. `
+`...Tapi aku tidak akan diam saja di sini sambil memutar-mutar jempolku lagi, {f:5:Beatrice}!!" `
 `"...B-Battler-sama..." `
-`"...I-Is there some proof that Kanon-kun isn't the culprit...?" `
-`The expression that rose to those two faces was definitely one of anticipation. `
-`...They didn't want to believe that Kanon was the culprit. `
-`They really believed in Kanon. `
-`So, they were expectant because they wanted me to strengthen their belief in him even more! `
-`"Then, Battler-kun, which of the other servants do you suspect? `
+`"...A-Apa ada bukti bahwa Kanon-kun bukan pelakunya...?" `
+`Ekspresi yang muncul di kedua wajah itu jelas merupakan sebuah antisipasi. `
+`...Mereka tidak ingin percaya bahwa Kanon adalah pelakunya. `
+`Mereka benar-benar percaya pada Kanon. `
+`Jadi, mereka berharap karena mereka ingin aku lebih menguatkan kepercayaan mereka padanya! `
+`"Kalau begitu, Battler-kun, siapa di antara pelayan lain yang kamu curigai? `
 `Gohda-san? `
-`Or is it Kumasawa-san?" `
-`"Quit it, Aunt Rosa. `
-`...I know the person called Kumasawa baa-chan well. `
-`...She'll sometimes slack off while on the job, but she always makes things fun for people. `
-`...Even if her eyes were dazzled by money, she isn't the kind of person who'd kill for it." `
+`Atau Kumasawa-san?" `
+`"Hentikan, Bibi Rosa. `
+`...Aku kenal orang yang bernama Kumasawa baa-chan. `
+`...Dia terkadang malas saat bekerja, tapi dia selalu membuat suasana jadi menyenangkan. `
+`...Bahkan jika matanya dibutakan oleh uang, dia bukan tipe orang yang akan membunuh demi itu." `
 `"...B-Battler-sama......" `
-`"And I just met Gohda-san yesterday. `
-`...Honestly, I still don't really understand him. `
-`...But there is something I do understand." `
-`".........I-I......" `
-`"...I've never seen anyone who cooks as happily as he does. `
-`...He's the same. `
-`The same as Kumasawa baa-chan. `
-`...Gohda-san likes to make people happy." `
-`"As if a person like that could kill those who praised his own food as delicious, ...even if money was piled up in front of him!!" `
-`"...Then, who do you think killed Jessica-chan, Battler-kun? `
-`Who do you think shut Jessica up in a room that could only be locked by a master key?" `
-`"Wait. `
-`...Before I argue about that, there's something I wanna make clear. `
-`I don't want to talk about, if so-and-so is not the culprit, then so-and-so must be the culprit. `
-`...I just want to talk about how it's completely impossible for Kanon-kun to be guilty." `
-`"You say you can prove that Kanon isn't the culprit? `
-`*cackle* How?!" `
-`"It's actually simple. `
-`...And it's something I almost overlooked. `
+`"Dan aku baru bertemu Gohda-san kemarin. `
+`...Jujur, aku masih belum benar-benar memahaminya. `
+`...Tapi ada satu hal yang aku pahami." `
+`".........S-Saya......" `
+`"...Aku belum pernah melihat orang yang memasak sesenang dirinya. `
+`...Dia sama. `
+`Sama seperti Kumasawa baa-chan. `
+`...Gohda-san itu suka membuat orang lain senang." `
+`"Mana mungkin orang seperti itu bisa membunuh mereka yang memuji masakannya enak, ...bahkan jika setumpuk uang diletakkan di depannya!!" `
+`"Lalu, menurutmu siapa yang membunuh Jessica-chan, Battler-kun? `
+`Menurutmu siapa yang mengurung Jessica di ruangan yang hanya bisa dikunci dengan kunci utama?" `
+`"Tunggu. `
+`...Sebelum aku berdebat tentang itu, ada sesuatu yang ingin kujelaskan. `
+`Aku tidak ingin bicara soal, jika si anu bukan pelakunya, maka si itu pasti pelakunya. `
+`...Aku hanya ingin bicara tentang betapa mustahilnya Kanon-kun bersalah." `
+`"Kamu bilang kamu bisa membuktikan Kanon bukan pelakunya? `
+`*kekeh* Bagaimana caranya?!" `
+`"Sebenarnya sederhana. `
+`...Dan ini sesuatu yang hampir kulewatkan. `
 `...Beato!" `
-`"Repeat it!! `
-`If you can say it, try saying it: "Kanon-kun had a master key on him"!!" `
+`"Ulangi!! `
+`Kalau kamu bisa, coba katakan: "Kanon-kun membawa kunci utama"!!" `
 `"............Hoh...!" `
-`"...Kanon-kun doesn't have a master key on him?! `
-`How could you possibly know that?!" `
-`"A short while ago, I heard from Gohda-san about what happened. `
-`...About how Jessica went to raid the VIP room, `
-`right before she and Kanon-kun went off on their own." `
-`"......Gohda-san, you did a good job remembering it. `
-`You protected Kanon's honor." `
-`"...I- `
-`I... `
-`...did...?!" `
-`"I heard him say the same thing. `
-`But I don't really understand! `
-`Could you explain it, Battler-kun?!" `
-`"...That's right. `
-`When Jessica unlocked the VIP room, `
-`she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
-`So Kanon-kun doesn't have a master key on him!!" `
-`"*cackle*cackle*! `
-`Is that really so? `
-`True, Gohda has no recollection of the master key being returned to Kanon. `
-`However, she might have returned it when Gohda wasn't looking! `
-`How does that prove that it definitely didn't happen?! `
-`*cackle*cackle*cackle* If you could just search the pocket of Kanon's corpse, you'd be able to say for sure, but you can't!! `
-`It's impossible to prove!!" `
-`"It's all useless. `
-`It's actually pretty simple, isn't it?" `
-`"...No way...! `
-`So, you're saying that's why Kanon-kun didn't have a key on him?!" `
-`"Yeah. `
-`And to prove it, all you have to do is search Jessica. `
-`...Kanon-kun's master key should be in Jessica's pocket. `
-`Doctor Nanjo, would you check for us?" `
-`"...I-Indeed." `
-`Nanjo dashed up to Jessica and searched in her jacket pocket... `
-`Everyone...was expectant......! `
+`"...Kanon-kun tidak membawa kunci utama?! `
+`Bagaimana bisa kamu tahu?!" `
+`"Tadi, aku dengar dari Gohda-san tentang apa yang terjadi. `
+`...Tentang bagaimana Jessica menggeledah ruang VIP, tepat sebelum dia dan Kanon-kun pergi berdua." `
+`"......Gohda-san, kamu hebat bisa mengingatnya. `
+`Kamu telah melindungi kehormatan Kanon." `
+`"...S- `
+`Saya... `
+`...berhasil...?!" `
+`"Aku juga mendengarnya bilang begitu. `
+`Tapi aku tidak terlalu mengerti! `
+`Bisa kamu jelaskan, Battler-kun?!" `
+`"...Benar. `
+`Saat Jessica membuka kunci ruang VIP, `
+`dia meminjam kunci dari Kanon-kun, {i:tapi tidak mengembalikannya}! `
+`Jadi Kanon-kun tidak membawa kunci utama!!" `
+`"*kekeh*kekeh*! `
+`Apa benar begitu? `
+`Memang, Gohda tidak ingat kunci utamanya dikembalikan ke Kanon. `
+`Tapi, bisa saja kuncinya dikembalikan saat Gohda tidak lihat! `
+`Bagaimana itu bisa membuktikan kalau kuncinya benar-benar tidak dikembalikan?! `
+`*kekeh*kekeh*kekeh* Kalau saja kamu bisa memeriksa saku mayat Kanon, kamu pasti bisa memastikannya, tapi kamu tidak bisa!! `
+`Mustahil untuk dibuktikan!!" `
+`"Kamu sama sekali tidak berguna.`
+`"Semuanya sia-sia. `
+`Sebenarnya ini cukup sederhana, kan?" `
+`"...Tidak mungkin...! `
+`Jadi, maksudmu karena itulah Kanon-kun tidak membawa kunci?!" `
+`"Ya. `
+`Dan untuk membuktikannya, kita hanya perlu memeriksa Jessica. `
+`...Kunci master milik Kanon-kun seharusnya ada di saku Jessica. `
+`Dokter Nanjo, bisa tolong periksa?" `
+`"...B-Baiklah." `
+`Nanjo bergegas menghampiri Jessica dan memeriksa saku jaketnya... `
+`Semua orang... menanti dengan cemas......! `
 `"...Mu..." `
-`...Please. `
-`Be there......!! `
-`"...Here it is! `
-`Is this it?" `
-`"......Yes. `
-`That is a master key. `
-`Without a doubt." `
-`At Genji's statement, there was a small "oooh" of joyful voices. `
-`"That's Kanon-kun's master key. `
-`......I'll say it again." `
-`""Kanon-kun doesn't have a master key on him." `
-`So there's no way he could've locked the door!!" `
-`"...It certainly does...appear that way. `
-`...But Kanon-kun was the last person to meet Jessica-chan. `
-`The fact that he's suspicious hasn't changed." `
-`"Let's...give that stuff a rest." `
-`"...Huh?" `
-`"Fundamentally, humans are supposed to be creatures that trust each other. `
-`...But because we live in a tough world, we learn how to be deeply suspicious. `
-`...So we suspect everything. `
-`We're sad creatures. `
-`...I won't deny that's our nature." `
-`"......But the one thing I won't let you do is reach conclusions without proof!! `
-`If someone looks suspicious, that doesn't make them guilty, it makes them innocent!! `
-`Of course, the world is filled with wolves. `
-`I'm not saying you should carelessly believe everyone!" `
-`"But if you're gonna conclude that someone's guilty, you'd better have some perfect evidence! `
-`Unless you do, don't go around accusing them based on speculation!!!" `
+`...Tolonglah. `
+`Ada di sana......!! `
+`"...Ini dia! `
+`Apa ini kuncinya?" `
+`"......Ya. `
+`Itu kunci utama. `
+`Tidak salah lagi." `
+`Mendengar pernyataan Genji, terdengar sorakan kecil penuh dengan kelegaan. `
+`"Itu kunci utama milik Kanon-kun. `
+`......Akan kuulang lagi." `
+`""Kanon-kun tidak membawa kunci utama." `
+`Jadi tidak mungkin dia bisa mengunci pintunya!!" `
+`"...Memang... kelihatannya begitu. `
+`...Tapi Kanon-kun adalah orang terakhir yang bertemu Jessica-chan. `
+`Fakta bahwa dia mencurigakan tidak berubah." `
+`"Sudah... hentikan omong kosong itu." `
+`"...Hah?" `
+`"Pada dasarnya, manusia itu seharusnya makhluk yang saling percaya. `
+`...Tapi karena kita hidup di dunia yang keras, kita jadi belajar untuk mencurigai. `
+`...Jadi kita mencurigai segalanya. `
+`Kita ini makhluk yang menyedihkan. `
+`...Aku tidak akan menyangkal kalau itu sifat kita." `
+`"......Tapi satu hal yang tidak akan kubiarkan adalah kalian menarik kesimpulan tanpa bukti!! `
+`Kalau seseorang terlihat mencurigakan, itu tidak membuat mereka bersalah, justru mereka tidak bersalah!! `
+`Tentu saja, dunia ini penuh dengan serigala. `
+`Aku tidak bilang kalian harus percaya pada semua orang begitu saja!" `
+`"Tapi kalau kalian mau menyimpulkan seseorang bersalah, kalian harus punya bukti yang kuat! `
+`Kalau tidak punya, jangan asal menuduh berdasarkan spekulasi!!!" `
 `"......Nnn... `
-`That's......" `
-`"...I was the one who brought up "there's no smoke without fire". `
-`......That was careless of me. `
-`I apologize." `
+`Itu......" `
+`"...Sayalah yang tadi mengungkit soal "tidak ada asap kalau tidak ada api". `
+`......Saya ceroboh. `
+`Saya minta maaf." `
 `"......Battler-sama......" `
-`"...W-Wonderful reasoning, Battler-kun! `
-`Thank you too, Gohda-san. `
-`Because of what you remembered, Kanon-kun's been cleared from suspicion!" `
-`"N-No, I...hahahaha..." `
-`Clap clap clap... `
-`...It was the crisp sound of the witch applauding. `
-`"Well done, well done. `
-`...Not a bad job." `
-`"......Crap. `
-`Did I fall for that bait piece just like you wanted...?" `
-`"You magnificently proved that Kanon at least couldn't lock the door to this room. `
-`The servants should all have had master keys. `
-`With that as proof, Kanon was treated as the culprit, but you've at least managed to clear away that suspicion. `
-`*cackle*cackle*cackle*." `
-`"...In that case, `
-`...how did the culprit who killed Jessica lock the door? `
-`So that's the problem we have now. `
-`Tch. `
-`...I got drawn into exactly the flow you wanted..." `
-`"I got you, didn't I...? `
-`Furthermore, you said something outrageous about not doubting any of the other servants. `
-`Well then, I can't wait to see how you try to smooth that over..." `
-`"Shut up. `
-`...Let's start right away. `
-`You'll probably just deny it anyway, ...but first let's check the definition of this room as a closed room." `
-`"Very well. `
-`First, `
-`{p:1:there are absolutely no types of hidden doors}. `
-`{p:1:This door is the only way in or out}. `
-`{p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant}." `
-`It is on the second floor, but it is probably possible to enter or leave through the window. `
-`However, `
-`{p:1:the window is locked from the inside}." `
-`"...I can spin the chessboard around already. `
-`...If I start by arguing about the door and the lock, I'll probably be stuck dancing on the palm of your hand." `
-`"Do as you like. `
-`Well then, what should I repeat?" `
-`"......Repeat it. `
-`"Kanon-kun was killed in this room"." `
-`"Very well. `
-`"{p:1:Kanon was killed in this room}". `
-`But I erased his corpse with magic, right? `
-`*cackle*cackle*cackle*!" `
-`"Again, repeat it. `
-`"Kanon-kun's corpse is in this room"." `
-`"*cackle*cackle*cackle*cackle*! `
-`I refuse. `
-`I can't repeat it. `
-`...Because I erased the corpse with magic. `
-`*giggle*giggle*giggle*!" `
-`"Yeah, figures you wouldn't say that. `
-`...There's got to be a secret hidden in there somewhere. `
-`...Damn, where's the mysterious point I've gotta find? `
-`......Did they lock it without the master key? `
-`Or did they somehow kill those two while they were inside the room and it was locked? `
-`Or did they kill those two, and then somehow escape?" `
-`"...I hate to say it, but I'll have to cover up the moat first. `
-`...Repeat it. `
-`..."The last time it was locked was due to a master key"." `
-`"I also refuse that. `
-`*cackle*cackle*." `
-`"...This refusing thing is really vague. `
-`I don't know if you refuse because it's impossible to repeat, or whether you can repeat it and you're refusing on purpose..." `
-`"Back when discussing the lock to the chapel, you completely turned the tables on me. `
-`When I have an advantage, there's no need to go out of my way to use red when it might be risky. `
-`That's all it is." `
-`"......I guess that makes sense. `
-`...Originally, the point of the red was to counter my strange theories." `
-`"Naturally, I'll use it in a way that works to my advantage. `
-`Now that I know I've got to worry about you twisting it around, I won't use it pointlessly." `
-`"...*cackle*cackle* `
-`Well then, what move will you use next? `
-`I imagine a move placing suspicion on Gohda or Kumasawa will be easiest, yes...?" `
-`"...Damn. `
-`It feels like you're leading me by the nose, and it pisses me off... `
-`Stay quiet a bit, I'm thinking...!" `
-`"Of course, this door is the same as the chapel. `
-`{p:1:When locked, it does not permit any form of entry or exit}." `
-`"I'll say more. {p:1:No trick could have the effect of locking the door from the outside without using a key}. `
-`*cackle*cackle*...!" `
-`"Tch. `
-`Damn you for always using red when I don't ask for it..." `
-`......Time to step back to square one. `
-`...For now, I've just gotta think. `
-`I'll lay out everything I know. `
-`First, there are two victims. `
-`Jessica and Kanon-kun. `
-`...Kanon-kun's corpse isn't here, but {f:5:Beatrice} admitted in red that Kanon-kun was killed. `
-`So even without a corpse, he's included as a victim. `
-`There are a few questionable points. `
-`And depending on which I focus on, my line of thought changes a lot. `
-`First, after the culprit committed murder in this room, how did they lock it? `
-`If we assume the culprit's someone with a master key, it's extremely simple. `
-`...But I'd like to avoid that if I can. `
-`Because I'd have to suspect Gohda-san or Kumasawa-san...or maybe even Shannon-chan and Genji-san. `
-`Here, I noticed something. `
-`...I was contradicting myself. `
-`I was strangling my own neck. `
-`I want to deny {f:5:Beatrice} no matter what. `
-`I want to erase the existence of that brutal, fickle, ridiculous witch! `
-`So, I have to explain everything with humans, not magic. `
-`...But that also means suspecting some human. `
-`I don't want to suspect anyone. `
-`...Of course, if there's some clear proof, I'll have to believe that the person in question is the culprit, `
-`...but until that happens, I don't want to suspect people. `
-`Am I just naive...? `
-`Am I just a kid who doesn't want to have my feelings betrayed, when those feelings tell me that this person at least could never commit murder...? `
-`I want to deny that a witch did it, and I also want to deny that a human did it. `
-`......I don't even know what I'm doing right now... `
-`"*cackle*cackle*! `
-`In the first place, the only victory condition in our game was whether or not you could deny my existence. `
-`...Even though that alone put you at a disadvantage, you've increased the number of victory conditions all by yourself, making your own victory harder...!" `
-`...It's just as she says. `
-`...If I just argue that someone with a master key did it, this closed room can be broken easily. `
-`...However, the number of keys that can open this door is limited, `
-`and since it's clearly known who has them, `
-`using that argument means I'd be suspecting someone I know well... `
-`...In fact, ...have I just been averting my eyes from the truth? `
-`Even while attacking that closed room trick in the chapel, which was exhilarating to destroy, `
-`I proposed that "someone stole the key from Maria's handbag and returned it". `
-`If that theory's right, then the question becomes who could've stolen the key from her handbag. `
-`...Maria's handbag was probably most unguarded while she slept. `
-`......In that case, `
-`......in addition to me, `
-`...George-aniki and Jessica are also suspects. `
-`So George-aniki or Jessica is the culprit? `
-`Or maybe an accomplice?! `
-`...All of our parents have been killed, right?! `
-`And yet, ...and yet, ...one of us consented to that and assisted with the crime?! `
-`We all lamented, mourned, shed tears together in the chapel. `
-`...And yet, one among us...was lying?! `
-`"...*cackle*cackle* `
-`That theory of yours about taking the key out of the handbag and putting it back cast a pronounced suspicion on the cousins, did it not...? `
-`And despite that, you acted like you didn't even notice, `
-`announcing a theory like that so happily...! `
-`*giggle*giggle*giggle*" `
-`"......D-Damn it... `
-`That doesn't guarantee that one of the family or the servants is the culprit! `
-`If you snuck up on us while hiding in a cardboard box, for example, `
-`there's a good chance you could've slunk into our room when we were fast asleep and stolen the key, right?!" `
+`"...P-Pemikiran yang bagus, Battler-kun! `
+`Terima kasih juga, Gohda-san. `
+`Berkat ingatanmu, Kanon-kun jadi tidak dicurigai lagi!" `
+`"T-Tidak, saya...hahahaha..." `
+`Tepuk tangan tepuk tangan tepuk tangan... `
+`...Itu adalah suara tepuk tangan si penyihir. `
+`"Bagus, bagus sekali. `
+`...Lumayan." `
+`"......Sial. `
+`Apa aku termakan umpanmu persis seperti yang kamu mau...?" `
+`"Kamu dengan hebatnya membuktikan bahwa setidaknya Kanon tidak bisa mengunci pintu kamar ini. `
+`Para pelayan seharusnya punya kunci utama. `
+`Dengan bukti itu, Kanon dianggap sebagai pelaku, tapi setidaknya kamu berhasil menghilangkan kecurigaan itu. `
+`*kekeh*kekeh*kekeh*." `
+`"...Kalau begitu, `
+`...bagaimana pelaku yang membunuh Jessica mengunci pintunya? `
+`Jadi itulah masalah kita sekarang. `
+`Cih. `
+`...Aku terseret persis ke alur yang kamu inginkan..." `
+`"Kena kamu, kan...? `
+`Terlebih lagi, kamu tadi mengatakan hal konyol dengan tidak meragukan pelayan lain. `
+`Nah, aku tidak sabar melihat bagaimana kamu akan mengatasi itu..." `
+`"Diam. `
+`...Ayo kita mulai saja. `
+`Kamu mungkin akan menyangkalnya juga, ...tapi pertama-tama kita tentukan dulu definisi ruangan sebagai ruang tertutup." `
+`"Baiklah. `
+`Pertama, `
+`{p:1:Tidak ada pintu rahasia dalam bentuk apapun}. `
+``{p:1:Pintu ini satu-satunya jalan masuk atau keluar}. `
+`{p:1:Satu-satunya cara mengunci pintu ini adalah dengan kunci Jessica atau kunci utama, yang masing-masing hanya dipegang satu oleh pelayan}." `
+`Kamar ini ada di lantai dua, tapi mungkin saja bisa masuk atau keluar lewat jendela. `
+`Namun, `
+`{p:1:jendelanya terkunci dari dalam}." `
+`"...Aku sudah bisa membalikkan papan caturnya. `
+`...Kalau aku mulai berdebat soal pintu dan kunci, aku mungkin akan terus dipermainkan olehmu." `
+`"Lakukan sesukamu. `
+`Nah, apa yang harus kuulangi?" `
+`"......Ulangi. `
+`"Kanon-kun dibunuh di kamar ini"." `
+`"Baiklah. `
+`"{p:1:Kanon dibunuh di kamar ini}". `
+`Tapi aku menghilangkan mayatnya dengan sihir, kan? `
+`*kekeh*kekeh*kekeh*!" `
+`"Sekali lagi, ulangi. `
+`"Mayat Kanon-kun ada di kamar ini"." `
+`"*kekeh*kekeh*kekeh*kekeh*! `
+`Aku menolak. `
+`Aku tidak bisa mengulanginya. `
+`...Karena aku menghilangkan mayatnya dengan sihir. `
+`*kekeh*kekeh*kekeh*!" `
+`"Ya, sudah kuduga kamu tidak akan mengatakannya. `
+`...Pasti ada rahasia tersembunyi di situ. `
+`...Sial, bagian misterius mana yang harus kuselesaikan? `
+`......Apa mereka menguncinya tanpa kunci utama? `
+`Atau justru entah bagaimana mereka membunuh keduanya saat mereka di dalam kamar yang terkunci? `
+`Atau mereka membunuh keduanya, lalu entah bagaimana caranya kabur?" `
+`"...Aku benci untuk mengakuinya, tapi aku harus menyingkirkan kemungkinan lain dulu. `
+`...Ulangi. `
+`..."Terakhir kali pintu ini dikunci adalah karena kunci utama"." `
+`"Itu juga aku tolak. `
+`*kekeh*kekeh*." `
+`"...Penolakan ini benar-benar tidak jelas. `
+`Aku tidak tahu kamu menolak karena mustahil untuk diulangi, atau kamu bisa mengulanginya tapi sengaja menolak..." `
+`"Waktu membahas kunci kapel, kamu benar-benar membalikkan keadaan. `
+`Saat aku unggul, tidak perlu repot-repot menggunakan red truth yang bisa saja berisiko. `
+`Hanya itu saja." `
+`"......Kurasa masuk akal. `
+`...Awalnya, fungsi red truth kan untuk melawan teori anehku." `
+`"Tentu saja, aku akan menggunakannya dengan cara yang menguntungkanku. `
+`Sekarang aku tahu aku harus khawatir kamu akan memutarbalikkannya, aku tidak akan menggunakannya tanpa tujuan." `
+`"...*kekeh*kekeh* `
+`Nah, langkah apa yang akan kamu gunakan selanjutnya? `
+`Mencurigai Gohda atau Kumasawa sepertinya langkah termudah, ya kan...?" `
+`"...Sial. `
+`Rasanya seperti kamu sedang menuntunku, dan itu membuatku kesal... `
+`Diam, aku sedang berpikir...!" `
+`"Tentu saja, pintu ini sama seperti kapel. `
+`{p:1:Saat terkunci, tidak memungkinkan segala bentuk untuk masuk atau keluar}." `
+`"Akan kutambahkan. {p:1:Tidak ada cara yang bisa mengunci pintu dari luar tanpa menggunakan kunci}. `
+`*kekeh*kekeh*...!" `
+`"Cih. `
+`Seenaknya saja kamu selalu menggunakan red truth saat aku tidak minta..." `
+`......Waktunya kembali ke titik awal. `
+`...Untuk saat ini, aku harus berpikir. `
+`Aku akan menjelaskan semua yang kutahu. `
+`Pertama, ada dua korban. `
+`Jessica dan Kanon-kun. `
+`...Mayat Kanon-kun tidak ada di sini, tapi {f:5:Beatrice} sudah mengaku dalam red truth bahwa Kanon-kun dibunuh. `
+`Jadi, bahkan tanpa mayat, dia termasuk korban. `
+`Ada beberapa poin yang meragukan. `
+`Dan tergantung pada mana yang ingin kufokuskan, alur pemikiranku bisa sangat berubah. `
+`Pertama, setelah pelaku melakukan pembunuhan di kamar ini, bagaimana cara mereka menguncinya? `
+`Jika kita berasumsi pelakunya adalah seseorang dengan kunci utama, itu sangat sederhana. `
+`...Tapi aku ingin menghindari itu sebisa mungkin. `
+`Karena aku jadi harus mencurigai Gohda-san atau Kumasawa-san... atau bahkan mungkin Shannon-chan dan Genji-san. `
+`Di sini, aku menyadari sesuatu. `
+`...Aku menentang diriku sendiri. `
+`Aku mencekik leherku sendiri. `
+`Aku ingin menyangkal {f:5:Beatrice} apa pun yang terjadi. `
+`Aku ingin melenyapkan keberadaan penyihir kejam, plin-plan, dan konyol ini! `
+`Jadi, aku harus menjelaskan semuanya dengan cara manusia, bukan sihir. `
+`...Tapi itu juga berarti mencurigai seorang manusia. `
+`Aku tidak mau mencurigai siapa pun. `
+`...Tentu, jika ada bukti yang jelas, aku harus percaya bahwa orang yang bersangkutan adalah pelakunya, `
+`...tapi sampai saat itu tiba, aku tidak mau curiga pada orang lain. `
+`Apa aku naif...? `
+`Apa aku seorang anak kecil yang tidak mau perasaanku dikhianati, saat perasaanku mengatakan bahwa setidaknya orang ini tidak mungkin melakukan pembunuhan...? `
+`Aku ingin menyangkal bahwa penyihir yang melakukannya, dan aku juga ingin menyangkal bahwa manusia yang melakukannya. `
+`......Aku bahkan tidak tahu apa yang sedang kulakukan sekarang... `
+`"*kekeh*kekeh*! `
+`Sejak awal, satu-satunya syarat kemenangan dalam permainan kita adalah apakah kamu bisa menyangkal keberadaanku atau tidak. `
+`...Meskipun itu saja sudah merugikanmu, kamu malah menambah sendiri syarat kemenanganmu, membuat kemenanganmu sendiri jadi lebih sulit...!" `
+`...Seperti yang dia katakan. `
+`...Kalau saja aku berargumen bahwa seseorang dengan kunci utama yang melakukannya, ruang tertutup ini bisa dengan mudah dipecahkan. `
+`...Namun, jumlah kunci yang bisa membuka pintu ini terbatas, `
+`dan karena sudah jelas siapa yang memilikinya, `
+`menggunakan argumen itu berarti aku akan mencurigai seseorang yang kukenal... `
+`...Sebenarnya, ...apakah selama ini aku hanya mengalihkan pandangan dari kebenaran? `
+`Bahkan saat menyelesaikan trik ruang tertutup di kapel, rasanya memuaskan saat menyelesaikan, `
+`aku mengatakan bahwa "seseorang mencuri kunci dari tas Maria dan mengembalikannya". `
+`Jika teori itu benar, maka pertanyaannya menjadi siapa yang bisa mencuri kunci dari tasnya. `
+`...Tas Maria mungkin paling tidak terjaga saat dia tidur. `
+`......Kalau begitu, `
+`......selain aku, `
+`...George-aniki dan Jessica juga jadi tersangka. `
+`Jadi George-aniki atau Jessica pelakunya? `
+`Atau mungkin mereka bekerja sama?! `
+`...Orang tua kita semua sudah dibunuh, kan?! `
+`Tapi... tapi... salah satu dari kita ternyata ikut membantu kejahatan ini?! `
+`Kita semua sama-sama meratap, berduka, dan menangis di kapel. `
+`...Tapi, salah satu dari kita... ternyata bohong?! `
+`"...*kekeh*kekeh* `
+`Teorimu soal mengambil kunci dari tas dan mengembalikannya jelas-jelas membuat para sepupu jadi dicurigai, iya kan...? `
+`Tapi kamu malah pura-pura tidak sadar, dan dengan senangnya menyatakan teori seperti itu...! `
+`*kekeh*kekeh*kekeh*" `
+`"......S-Sialan... `
+`Itu tidak menjamin kalau salah satu keluarga atau pelayan adalah pelakunya! `
+`Kalau kamu menyelinap sambil sembunyi di dalam kardus misalnya, `
+`Kamu pasti bisa masuk ke kamar kami saat kami tidur pulas dan mencuri kuncinya, kan?!" `
 `"Hmmmmmm. `
-`Perhaps that will do for that situation. `
-`By suspecting the guest, the 19th person, you won't have to suspect the others." `
-`"......In that case, how was Jessica's room locked? `
-`It's no trouble at all for me to open the lock with magic, but of course, I don't have a master key. `
-`If you deny my magic, you also have to deny that I'm a suspect, correct...?" `
-`"So, in other words, that means suspecting one of the 18...!!" `
-`"...O-Oh, yeah, thanks for the help. `
-`...I've managed to sort things out a bit. `
-`...My goal is to figure out how the 19th person, the Human guest {f:5:Beatrice}, committed the crimes. `
-`If I do that, I won't have to suspect anyone!!" `
-`"*cackle*cackle*! `
-`If you can do that? `
-`Foolish man. `
-`...This wasn't a closed room from the beginning. `
-`After all, there are a total of six keys that can open it." `
-`"And several people possessed such keys! `
-`You can suspect any of them! `
-`Suspect as much as you like!! `
-`But you went to all the trouble of denying all of them, making it a closed room yourself." `
-`"......Understand? `
-`This is a closed room born from your mental contradiction. `
-`*cackle*cackle*! `
-`You, and no one else, sealed that door." `
-`"...So you're trying to say that I've got two options: `
-`...accept that a witch opened it with magic, or accept that someone I know is the culprit. `
-`Damn, are you trying to fork the rook?!" `
-`"I just wanted to show you that moves such as this can exist as well." `
-`"...*cackle* `
-`So, what will you do, Ushiromiya Battleeeeeeer? `
-`Isn't it actually simple...? `
-`Don't you just have to make sacrifices of that overly self-confident cook and that hag who wouldn't be a loss if she died? `
-`*cackle*cackle*cackle*cackle*cackle*cackle*!!" `
-`"...............Damn it!! `
-`If I suspect Gohda-san and Kumasawa-san, everything will be fine?! `
-`That's useless! `
-`......I can't think of Gohda-san as the culprit! `
-`I can't think of Kumasawa-san as the culprit!! `
-`But I won't accept you!! `
-`No matter what!!" `
-`"In that case, they'd have to enter the room without using magic or a master key, `
-`kill Jessica and Kanon, and even erase Kanon's corpse without using magic." `
-`"...How could it be done?! `
-`How could it be done so that you can deny me, while still not suspecting anyone else?!! `
-`*cackle*cackle*cackle*cackle*cackle*!" `
-`"......I resign." `
-`"Huh? `
-`Battler-kun, what did you say?" `
-`"...I give up. `
-`I was able to prove that Kanon-kun couldn't have locked this door. `
-`...But that doesn't mean I've managed to figure out who killed Jessica." `
-`"...N-No, ...that's more than enough... `
-`Umm, ...for Kanon-kun's sake, `
-`...thank you very much...!" `
-`"...No need to thank me. `
-`After all, ...this means you're under suspicion too, Shannon-chan." `
+`Mungkin bisa jadi penjelasan untuk situasi itu. `
+`Dengan mencurigai si tamu, orang ke-19, kamu jadi tidak perlu curiga pada yang lain." `
+`"......Kalau begitu, bagaimana kamar Jessica bisa terkunci? `
+`Membuka kunci dengan sihir itu bukan masalah buatku, tapi tentu saja, aku tidak punya kunci utama. `
+`Kalau kamu menyangkal sihirku, kamu juga harus menyangkal kalau aku ini tersangka, kan...?" `
+`"Jadi, dengan kata lain, itu artinya harus mencurigai salah satu dari 18 orang...!!" `
+`"...O-Oh, ya, terima kasih bantuannya. `
+`...Aku jadi bisa memperbaiki cara berpikirku sedikit. `
+`...Tujuanku adalah mencari tahu bagaimana orang ke-19, tamu manusia bernama {f:5:Beatrice}, melakukan kejahatan ini. `
+`Kalau aku berhasil, aku tidak perlu mencurigai siapa pun!!" `
+`"*kekeh*kekeh*! `
+`Kalau kamu bisa melakukannya? `
+`Dasar bodoh. `
+`...Dari awal memang bukan ruang tertutup. `
+`Lagipula, total ada enam kunci yang bisa membukanya." `
+`"Dan ada beberapa orang yang punya kunci itu! `
+`Kamu bisa curiga pada siapa saja! `
+`Curigailah sesukamu!! `
+`Tapi kamu malah repot-repot menyangkal mereka semua, dan malah membuat ini jadi ruang tertutup dengan sendirinya." `
+`"......kamu mengerti? `
+`Ruang tertutup ini tercipta dari pikiranmu yang bertentangan. `
+`*kekeh*kekeh*! `
+`Kamulah, dan bukan orang lain, yang menyegel pintu itu." `
+`"...Jadi maksudmu aku punya dua pilihan: `
+`...menerima kalau penyihir membukanya dengan sihir,`
+`atau menerima kalau salah satu orang yang kukenal adalah pelakunya. `
+`Sial, kamu mau ngejebak bentengku?!" `
+`"Aku hanya ingin menunjukkan kalau langkah seperti ini juga ada." `
+`"...*kekeh* `
+`Jadi, apa yang akan kamu lakukan, Ushiromiya Battleeeeeeer? `
+`Bukankah ini sebenarnya sederhana...? `
+`Tidakkah kamu tinggal mengorbankan si koki yang terlalu percaya diri itu dan si nenek tua yang kalau mati pun tidak ada ruginya? `
+`*kekeh*kekeh*kekeh*kekeh*kekeh*kekeh*!!" `
+`"...............Sialan!! `
+`Kalau aku mencurigai Gohda-san dan Kumasawa-san, semuanya akan beres?! `
+`Itu sia-sia! `
+`......Aku tidak bisa menganggap Gohda-san sebagai pelaku! `
+`Aku tidak bisa menganggap Kumasawa-san sebagai pelaku!! `
+`Tapi aku tidak akan menerimamu!! `
+`Apa pun yang terjadi!!" `
+`"Kalau begitu, mereka harus masuk ke kamar tanpa sihir atau kunci utama, `
+`membunuh Jessica dan Kanon, dan bahkan menghilangkan mayat Kanon tanpa sihir." `
+`"...Bagaimana caranya?! `
+`Bagaimana caranya agar kamu bisa menyangkal diriku, tapi tetap tidak mencurigai orang lain?!! `
+`*kekeh*kekeh*kekeh*kekeh*kekeh*!" `
+`"......Aku menyerah." `
+`"Hah? `
+`Battler-kun, apa katamu?" `
+`"...Aku menyerah. `
+`Aku memang bisa membuktikan kalau Kanon-kun tidak mungkin mengunci pintu ini. `
+`...Tapi bukan berarti aku berhasil menemukan siapa yang membunuh Jessica." `
+`"...T-Tidak, ...itu sudah lebih dari cukup... `
+`Umm, ...demi Kanon-kun, `
+`...terima kasih banyak...!" `
+`"...Tidak perlu berterima kasih. `
+`Lagipula, ...ini artinya kamu juga jadi dicurigai, Shannon-chan." `
 `"........." `
-`"...And sorry, Aunt Rosa. `
-`...It's not like I wanted to resist you. `
-`I don't wanna die, and I want to find Dad and the rest's true enemy. `
-`...Sorry for saying something that wasn't cooperative." `
-`"...No, it's okay. `
-`I was also a little rash. `
-`Let's make up. `
-`As an aunt and nephew, we have to stay on good terms. `
-`......Right?" `
-`Aunt Rosa shifted the gun to one hand and held out her other. `
-`...I reached out, and for the time being, we shook hands. `
-`Aunt Rosa's gaze was sharp. `
-`...In order to deny the witch, she would sacrifice anyone. `
-`...That's what her eyes told me. `
-`And me...? `
-`I denied the witch. `
-`...But I wasn't prepared to lose anything. `
-`I was probably the one who seemed to be fighting the most, ...and yet, the one who was most separated from reality. `
+`"...Dan maaf, Bibi Rosa. `
+`...Bukannya aku mau melawanmu. `
+`Aku tidak mau mati, dan aku ingin menemukan musuh yang sebenarnya Ayah dan yang lainnya. `
+`...Maaf kalau tadi aku tidak bekerja sama." `
+`"...Tidak, tidak apa-apa. `
+`Aku juga tadi sedikit gegabah. `
+`Ayo kita baikan. `
+`Sebagai bibi dan keponakan, kita harus akur. `
+`......Iya, kan?" `
+`Bibi Rosa memindahkan pistolnya ke satu tangan dan mengulurkan tangan yang lain. `
+`...Aku menyambutnya, dan untuk sementara waktu, kami berjabat tangan. `
+`Tatapan Bibi Rosa sangat tajam. `
+`...Demi menyangkal si penyihir, dia rela mengorbankan siapa pun. `
+`...Itulah yang dikatakan matanya padaku. `
+`Dan aku...? `
+`Aku menyangkal si penyihir. `
+`...Tapi aku tidak siap kehilangan apa pun. `
+`Aku mungkin kelihatannya yang paling berjuang, ...tapi nyatanya, akulah yang paling jauh dari kenyataan. `
