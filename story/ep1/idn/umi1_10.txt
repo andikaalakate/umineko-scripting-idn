@@ -9,7 +9,7 @@
 `Namun mereka sedang mengikuti jadwal khusus untuk dua hari konferensi keluarga. `
 `Tapi, kecuali topan berlalu hari ini, para kerabat akan tinggal di pulau ini hingga besok. `
 `Kanon merasa lebih baik bersiap jika jadwal khusus ini diperpanjang satu hari lagi. `
-`Mereka berdua meninggalkan rumah tamu, membuka payung mereka. `
+`Mereka berdua meninggalkan Guest House, membuka payung mereka. `
 `Taman mawar telah hancur oleh angin dan hujan pada malam sebelumnya. `
 `Padahal mereka sudah menghabiskan beberapa hari untuk memperindahnya demi menyambut para tamu, tapi hanya dalam satu malam badai cukup untuk menghancurkannya. `
 `Kanon menghela napas. `
@@ -164,7 +164,7 @@
 `"......Kanon, `
 `apa kau masih belum menemukan Gohda?" `
 `".........Mohon maaf, Nyonya. `
-`Saya sudah mencari ke seluruh bagian mansion dan rumah tamu, `
+`Saya sudah mencari ke seluruh bagian mansion dan Guest House, `
 `...tapi saya masih belum menemukannya..." `
 `"Kemana dia pergi sebenarnya? `
 `......Bagaimanapun juga, sarapan lebih penting daripada mencari Gohda saat ini. `
@@ -181,10 +181,10 @@
 `Bahkan sebelum saya mendatangi anda, saya sudah pergi ke kamarnya untuk memberitahukan bahwa sarapan belum disiapkan, tapi saya tidak menemukannya di sana. `
 `Selain itu, dia bukan satu-satunya yang tidak ada. `
 `......Rudolf-sama, istrinya, dan Rosa-sama juga tidak ditemukan." `
-`"Tidak ada di rumah tamu? `
+`"Tidak ada di Guest House? `
 `Juga tidak di mansion?" `
 `".........Benar. `
-`Mereka juga tidak ada di kamar-kamar mereka di rumah tamu." `
+`Mereka juga tidak ada di kamar-kamar mereka di Guest House." `
 `Ketika ia mendengar bahwa hanya Gohda yang hilang, ia mengira Gohda mungkin ketiduran atau bermalas-malasan di suatu tempat. `
 `Namun, setelah mengetahui bahwa beberapa kerabat juga tidak ditemukan, ia mulai melihatnya dari sudut pandang yang sedikit lebih optimis. `
 `Mungkinkah konferensi keluarga semalam berlangsung sepanjang malam, sampai pagi ini? `
@@ -257,8 +257,8 @@
 `Ruang kerja itu memiliki kunci otomatis dan tak bisa dibuka selama Kinzo melarang masuknya orang lain. `
 `Namun, karena Genji sangat dipercaya oleh Kinzo, ia diperbolehkan membawa kunci itu... `
 `"Tapi kalau kunci ini digunakan, bukankah anda juga akan ikut disalahkan...?" `
-`"......Saat Tuan sedang tidur lelap, mengetuk pintu saja tak akan cukup. `
-`...Dan akan lebih sulit membujuk Tuan keluar dari ruangannya jika anda hanya berbicara dari balik pintu. `
+`"......Saat Grandmaster sedang tidur lelap, mengetuk pintu saja tak akan cukup. `
+`...Dan akan lebih sulit membujuk Grandmaster keluar dari ruangannya jika anda hanya berbicara dari balik pintu. `
 `Silakan gunakan ini..." `
 `"......Genji..." `
 `Selama ini, Natsuhi mengira Genji hanyalah pelayan dingin yang tak akan melakukan apa pun demi dirinya, karena dia bekerja langsung di bawah Kinzo. `
@@ -605,7 +605,7 @@
 `George melihat mereka berlari di taman mawar lewat jendela. `
 `"......Apa itu? `
 `Bukankah itu Genji-san dan Dokter Nanjo dan... `
-`dan itu Tante Natsuhi, bukan?" `
+`dan itu Bibi Natsuhi, bukan?" `
 `"Ada apa, Aniki?" `
 `".........Mungkin sesuatu terjadi. `
 `Mereka tampak sangat panik." `
@@ -674,7 +674,7 @@
 `tapi... jas itu, `
 `...itu kan jas si bajingan tua itu, bukan...? `
 `...Jadi itu Paman Krauss... `
-`Dan Kyrie-san, dan Tante Rosa, nnggyaaaaaaaahhhhhh!!! `
+`Dan Kyrie-san, dan Bibi Rosa, nnggyaaaaaaaahhhhhh!!! `
 `"Ayah, AYAH!!!" `
 `"Jangan, Jessica!! `
 `Jangan masuk!! `

@@ -308,7 +308,7 @@
 `Dia sangat yakin karena itu. `
 `...Tapi George mungkin tidak bisa melihat ke dalam hati Shannon. `
 `Shannon kesal dan sedih. `
-`...Pintu ke Taman Emas...akan terbuka. `
+`...Pintu ke Tanah Emas...akan terbuka. `
 `...Penyihir itu pasti telah memberitahunya. `
 `Yang artinya...kehancuran segalanya. `
 `.........Bahkan jika dia menerima cincin dari George, `
@@ -452,14 +452,14 @@
 `"...Bohong!! `
 `kenapa kamu membohongi dirimu sendiri?! `
 `Meskipun kamu tahu kmau tidak akan pernah bisa menjadi manusia! `
-`Meskipun kamu tahu kamu tidak bisa menjadi manusia kecuali kamu pergi ke Taman Emas!! `
+`Meskipun kamu tahu kamu tidak bisa menjadi manusia kecuali kamu pergi ke Tanah Emas!! `
 `...walaupun mengetahui itu, kenapa kamu meninggalkan janji yang akan membawamu ke sana...?!!" `
 `"Oh, benar. `
 `Dengan menerima cincin ini, ...janji dengan {f:5:Beatrice}-sama tidak ada lagi, bukan? `
 `...*cekikikan* Maafkan aku." `
 `"......Mulai sekarang, aku, kamu, George-sama, Master, dan semua orang... berada di situasi yang sama. `
 `13 orang akan dikorbankan. `
-`Hanya lima orang yang akan diundang ke Taman Emas. `
+`Hanya lima orang yang akan diundang ke Tanah Emas. `
 `...Dan kamu... `
 `...menolak tempat itu sendiri...." `
 `"Itu aneh. `
@@ -476,7 +476,7 @@
 `"......Kanon, kamulah yang sebenarnya menyesal. `
 `...Kita ini furnitur, kan? `
 `Kita akan dibebaskan apa pun hasilnya. `
-`...Jadi, tidak masalah apakah kita pergi ke Taman Emas atau tidak. `
+`...Jadi, tidak masalah apakah kita pergi ke Tanah Emas atau tidak. `
 `...Namun kamu ingin untuk pergi ke sana. `
 `......Kamu ingin menjadi manusia apa pun yang terjadi, kan? `
 `...Kenapa?" `
@@ -536,7 +536,7 @@
 `Tidak ada hal yang paling membosankan selain memainkan permainan yang kamu sendiri tidak dapat kalah, kan? `
 `Dan bagaimana cara untuk mengalahkanku... `
 `Yakni...epitaf yang berdiri sebagai persembahan untuk lukisanku. `
-`Itu sekaligus jalan untuk membuka pintu menuju Taman Emas… dan kunci untuk menghancurkan upacaraku. `
+`Itu sekaligus jalan untuk membuka pintu menuju Tanah Emas… dan kunci untuk menghancurkan upacaraku. `
 `Aku akan mencoba menyelesaikan upacara sesuai dengan epitaf itu. `
 `Kamu akan mencoba memecahkan teka-teki epitaf, menghancurkan upacara, dan menggulingkanku...! `
 `Pecahkanlah teka-teki yang tersembunyi dalam epitaf, dan ungkap lokasi harta emas yang pernah kuberikan pada Kinzo!!! `

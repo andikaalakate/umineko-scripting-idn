@@ -1,704 +1,704 @@
-` ...Suara apa yang selalu menghantui telingaku? `
-` Apakah itu suara hujan, suara air terjun, atau mungkin suara gangguan radio? `
-` Jika bukan, aku harap itu adalah suara darah yang mengalir di tubuhku. `
-` ...Aku harap itu adalah suara darah yang mengalir di dalam tubuhku, memberitahuku bahwa aku masih hidup... `
-` ".........Nnn... `
-` ...Ini sudah...pagi...?" `
-` Cahaya yang masuk melalui celah di tirai sedikit redup, tetapi setidaknya memberitahukan bahwa fajar telah tiba. `
-` Kinzo, masih berada di posisi saat dia bangun, ...masih duduk di kursi sambil melihat langit-langit, ...Merasakn darah yang perlahan mengalir ke seluruh tubuhnya.... `
-` ...Melihat dari jam, itu masih sangat pagi, jam 6:00 pas. `
-` ...Tidak peduli betapa lelahnya, betapa mengantuknya, dia selalu bangun di waktu ini, seolah-olah dia telah mengukurnya dengan jam pasir. `
-` Dia tidak membanggakan hal seperti ini, tapi dia mengatakan pada dirinya sendiri, selama dia masih bisa menahannya, kesehatannya tidak akan menjadi buruk. `
-` "......Pagi telah tiba, Yang berarti... `
-` ......hmmm. `
-` ...Sepertinya aku berhasil menghindari menjadi salah satu korban pertama. `
-` ...Apakah aku hanya beruntung saat roda roulette diputar, ...ataukah ini berkat usahaku? `
-` Betapa menjengkelkannya aku tidak bisa membedakan keduanya, tapi aku tidak boleh terganggu oleh hal-hal seperti itu." `
-` Kinzo merasa sedikit penasaran untuk melihat di balik pintu ruang kerja. `
-` Lagipula, dia mungkin menemukan jejak perjuangan yang sia-sia dari seseorang untuk membuka pintu, `
-` tanda bahwa seseorang telah mencoba memilihnya sebagai salah satu dari enam korban pertama. `
-` "...Hmph. `
-` ......Manusia hanyalah mahluk yang murahan. `
+`...Suara apa yang selalu menghantui telingaku? `
+`Apakah itu suara hujan, suara air terjun, atau mungkin suara gangguan radio? `
+`Jika bukan, aku harap itu adalah suara darah yang mengalir di tubuhku. `
+`...Aku harap itu adalah suara darah yang mengalir di dalam tubuhku, memberitahuku bahwa aku masih hidup... `
+`".........Nnn... `
+`...Ini sudah...pagi...?" `
+`Cahaya yang masuk melalui celah di tirai sedikit redup, tetapi setidaknya memberitahukan bahwa fajar telah tiba. `
+`Kinzo, masih berada di posisi saat dia bangun, ...masih duduk di kursi sambil melihat langit-langit, ...Merasakn darah yang perlahan mengalir ke seluruh tubuhnya.... `
+`...Melihat dari jam, itu masih sangat pagi, jam 6:00 pas. `
+`...Tidak peduli betapa lelahnya, betapa mengantuknya, dia selalu bangun di waktu ini, seolah-olah dia telah mengukurnya dengan jam pasir. `
+`Dia tidak membanggakan hal seperti ini, tapi dia mengatakan pada dirinya sendiri, selama dia masih bisa menahannya, kesehatannya tidak akan menjadi buruk. `
+`"......Pagi telah tiba, Yang berarti... `
+`......hmmm. `
+`...Sepertinya aku berhasil menghindari menjadi salah satu korban pertama. `
+`...Apakah aku hanya beruntung saat roda roulette diputar, ...ataukah ini berkat usahaku? `
+`Betapa menjengkelkannya aku tidak bisa membedakan keduanya, tapi aku tidak boleh terganggu oleh hal-hal seperti itu." `
+`Kinzo merasa sedikit penasaran untuk melihat di balik pintu ruang kerja. `
+`Lagipula, dia mungkin menemukan jejak perjuangan yang sia-sia dari seseorang untuk membuka pintu, `
+`tanda bahwa seseorang telah mencoba memilihnya sebagai salah satu dari enam korban pertama. `
+`"...Hmph. `
+`......Manusia hanyalah mahluk yang murahan. `
 `...Meskipun semuanya telah diputuskan oleh  Tuhan, ketika manusia diberikan nasib yang baik, mereka akan menjadi sombong dan merasa bahwa itu semua berkat kemampuannya." `
-` Itulah mengapa dia ingin mengecek apakah ada tanda erusakan di pintu tersebut. `
+`Itulah mengapa dia ingin mengecek apakah ada tanda erusakan di pintu tersebut. `
 `...Keinginan itu sendiri adalah manusiawi. `
-` Dan itulah mengapa Kinzo tidak memeriksanya. `
-` Dia sering menolak keinginan yang datang padanya karena dia adalah manusia. `
-` Dengan melakukan itu, dia dapat tenggelam dalam perasaan kecukupan, seolah-olah dia sendiri telah menjadi makhluk yang melampaui manusia... `
-` Dia sadar akan keinginan manusiawinya...dan berusaha menolaknya. `
-` Hal-hal yang ingin dilakukan manusia, dia menolaknya. `
-` ...Kecenderungan eksentrik dan pemberontak yang pasti memberinya Langkah yang jenius, `
-` membuatnya sukses dalam usaha menghidupkan kembali keluarga Ushiromiya dalam satu generasi... `
-` "Baiklah, kalua begitu, {f:5:Beatrice}. `
-` Apa saja enam pion yang kamu ambil? `
-` `...Lalu, apa rencanamu selanjutnya? `
-` ...Hiburlah aku. `
-` ......Pertahananku sangat sempurna. `
-` Aku tidak akan empermalukan diriku seperti sebelumnya. `
-` ...Heh, ...heheheh." `
-` Para pelayan bangun lebih awal. `
-` Mereka telah membuka tirai, menyiapkan sarapan, dan menyelesaikan beberapa tugas untuk menyambut para tamu. `
-` Gohda adalah orang yang sangat antusias. `
-` Selama konferensi keluarga, dia telah diperintahkan untuk fokus terutama pada keahliannya dalam memasak, `
-` dan dia telah dibebaskan secara khusus dari beberapa tugas yang biasanya harus dilakukan oleh pelayan. `
+`Dan itulah mengapa Kinzo tidak memeriksanya. `
+`Dia sering menolak keinginan yang datang padanya karena dia adalah manusia. `
+`Dengan melakukan itu, dia dapat tenggelam dalam perasaan kecukupan, seolah-olah dia sendiri telah menjadi makhluk yang melampaui manusia... `
+`Dia sadar akan keinginan manusiawinya...dan berusaha menolaknya. `
+`Hal-hal yang ingin dilakukan manusia, dia menolaknya. `
+`...Kecenderungan eksentrik dan pemberontak yang pasti memberinya Langkah yang jenius, `
+`membuatnya sukses dalam usaha menghidupkan kembali keluarga Ushiromiya dalam satu generasi... `
+`"Baiklah, kalua begitu, {f:5:Beatrice}. `
+`Apa saja enam pion yang kamu ambil? `
+``...Lalu, apa rencanamu selanjutnya? `
+`...Hiburlah aku. `
+`......Pertahananku sangat sempurna. `
+`Aku tidak akan empermalukan diriku seperti sebelumnya. `
+`...Heh, ...heheheh." `
+`Para pelayan bangun lebih awal. `
+`Mereka telah membuka tirai, menyiapkan sarapan, dan menyelesaikan beberapa tugas untuk menyambut para tamu. `
+`Gohda adalah orang yang sangat antusias. `
+`Selama konferensi keluarga, dia telah diperintahkan untuk fokus terutama pada keahliannya dalam memasak, `
+`dan dia telah dibebaskan secara khusus dari beberapa tugas yang biasanya harus dilakukan oleh pelayan. `
 `...Gohda, yang suka pamer, tampaknya merasa sangat superior akan hal itu. `
-` Dia membiarkan Genji dan yang lainnya menyiapkan sisa mansion...dan bekerja menyiapkan sarapan di dapur. `
-` Genji membagi pekerjaan dengan Shannon dan Kanon, dan mereka melaksanakan berbagai tugas. `
-` Shannon menuju ruang makan dan mengetuk pintu. `
-` ...Tahun lalu, rapat keluarga berlanjut hingga dini hari. `
-` Tidak aneh jika rapat tahun ini juga berlangsung hingga larut malam. `
-` Mengingat kemungkinan mereka masih berdiskusi di dalam, dia mengetuk pintu. `
-` Namun tidak ada respon, jadi dia membuka pintu lalu mengucapkan selamat pagi. `
-` "...Selamat pagi. `
-` ......Apakah ada orang?" `
-` Ruangannya begitu dingin, dan sepertinya konferensi telah lama selesai. `
-` Ada seperangkat teh di atas meja yang kemungkinan besar telah mereka gunakan, disusun sedemikian rupa sehingga memudahkan pembersihan. `
-` Membersihkan teh adalah tugas pelayan. `
-` Jika anggota keluarga bersikap sangat dermawan dan membersihkannya sendiri, para pelayan akan kehilangan muka. `
-` Jadi, tindakan kebaikan yang bisa dilakukan oleh keluarga adalah dengan melakukan hal ini. `
-` Saat dia mendekati meja untuk membersihkannya, dia menyadari sesuatu semacam memo yang ditinggalkan dekat peralatan apur an cangkir. `
-` Karena letaknya tepat di samping seperangkat teh, Shannon mengambilnya, umumnya dia mengira itu adalah catatan untuk pelayan yang sedang membersihkan. `
-` Di sana tidak tertulis perintah, maupun ucapan terima kasih atas persiapan teh. Hanya ada satu kata. `
-` Shannon melhatnya dengan bingung lalu membacanya dengan lantang... `
-` "......Kapel. `
-` ......?" `
-` Suara kecil itu terus berulang-ulang. `
-` Normalnya, suara itu terlalu kecil untuk dipedulikan. `
-` Andai saja aku bisa menghentikan suaranya segera, aku bisa tidur lagi seketika, ...pikirnya samar-samar. `
-` ...Tapi tak peduli berapa lama waktu berlalu, suara itu tak kunjung berhenti. `
-` Suara itu berulang terus-menerus. `
-` Aaah, berisik. `
-` Siapa di sana? `
-` Memukul pintu sepanjang waktu... `
-` Saat dia menyadarinya, dia bangun. `
-` ...Seseorang mengetuk. `
-` Kemudian, dia menyadari bahwa itu bukan hanya ketukan, tetapi ada sebuah suara. `
-` "......Rosa-sama, ...Rosa-sama. `
-` ...Selamat pagi." `
-` "...T-Tunggu. `
-` Aku keluar sekarang." `
-` Sepertinya itu suara Genji. `
-` Melihat dari jam, bahkan belum menunjukkan pukul 7:00. `
-` ...Masih terlalu pagi untuk membangunkan tamu. `
-` ...Apakah sesuatu yang buruk sedang terjadi? `
-` Dia merasa bahwa rasa kantuknya perlahan memudar berkat prasangka buruknya. `
-` Meskipun Genji hanyalah seorang pelayan, Rosa telah mengenalnya sejak kecil, jadi meskipun dia dalam kedaan berantakan dengan piyamanya, dia sdikit membuka pintu dan menjawab. `
-` "Selamat pagi. `
-` Maafkan saya karena telah membangunkan anda lebih awal." `
-` "...Apakah sesuatu sedang terjadi?" `
-` "Ya... `
-` ......Sebenarnya, di kapel...... `
-` Genji...membisikkan sesuatu di dekat telinga Rosa. `
-` Dalam sekejap, kelihatannya Rosa tidak mengerti dengan apa yang telah diberitahukan. `
-` Setelah diulang beberapa kali, she realized that apparently, something strange had happened. `
-` Rosa menutup pintunya sebentar, segera mengganti pakaiannya, dan.mengikuti Genji menuju mansion... `
-` Kapel tersebut memerlukan penjelasan. `
-` Bukan di dalam mansion, melainkan di sebuah hutan kecil di belakangnya, berjarak beberapa langkah. `
-` Kapel itu dibangun pada waktu yang sama dengan mansion, `
-` jadi meskipun dindingnya telah diperbaiki berkali-kali, membuatnya terlihat baru dari luar, padahal itu adalah bangunan yang sangat tua. `
-` Rosa berlari melalui hujan bersama Genji. `
-` Sama seperti malam sebelumnya, hujan turun dengan deras. `
-` Bahkan, Kapel itu terlihat dari balik semak-semak yang tipis... `
-` Hanya dengan melihatnya dari luar, tempat itu tampak begitu indah dan memukau, tempat yang mungkin diinginkan oleh sepasang kekasih muda untuk menikah. `
-` Namun, Kinzo sepertinya melihat itu sebagai tempat yang sangat menyeramkan, `
-` jadi Rosa dan saudaranya diberi peringatan yang ketat untuk tidak mndekatinya. `
-` Meskipun mereka semua telah beranjak dewasa, mendekati kapel tanpa alasan yang jelas membuat mereka merasa bersalah... `
-` dan juga kecewa, seolah-olah Ayah mereka akan memukunya di tempat... `
-` Siluet pelayan dapat terlihat di pintu masuk kapel. `
-` Gohda, Shannon dan Kanon. `
-` ...Yang berarti seluruh pelayan yang memiliki sift pagi telah berkumpul. `
-` Beberapa saat yang lalu, Genji telah berbicara kepada Rosa, menjelaskan situasi apa yang sedang trjadi. `
-` Namun, ...tanpa melihatnya dengan langsung, dia tidak akan bisa mengerti... `
-` Itu juga mungkin berlaku kepada seluruh pelayan yang sudah berkumpul. `
-` ...{i:Tanpa melihat dengan mata mereka sendiri}, mereka tidak akan mengerti dengan apa yang sedang terjadi. `
-` Di depan pintu masuk kapel... `
-` sesuatu yang sangat besar, ...Digambar dengan seram, Cat yang berwarna merah membuat orang teringat pada darah... ...Sesuatu seperti lingkaran sihir yang menyeramkan. `
-` "Ap‐ `
-` Apa ini... `
-` ...sebenarnya...? `
-` Sejak kapan ini digambar?!" `
-` Para pelayan saling melihat satu sama lain. `
-` Gohda adalah orang pertama yang membuka mulutnya. `
-` "...M-Maafkan kami. `
-` Kami biasanya tidak memasuki gedung ini, jadi kita tidak tahu kapan itu digambar." `
-` "Lalu siapa yang pertama kali menemukannya?!" `
-` "I-Itu saya. `
+`Dia membiarkan Genji dan yang lainnya menyiapkan sisa mansion...dan bekerja menyiapkan sarapan di dapur. `
+`Genji membagi pekerjaan dengan Shannon dan Kanon, dan mereka melaksanakan berbagai tugas. `
+`Shannon menuju ruang makan dan mengetuk pintu. `
+`...Tahun lalu, rapat keluarga berlanjut hingga dini hari. `
+`Tidak aneh jika rapat tahun ini juga berlangsung hingga larut malam. `
+`Mengingat kemungkinan mereka masih berdiskusi di dalam, dia mengetuk pintu. `
+`Namun tidak ada respon, jadi dia membuka pintu lalu mengucapkan selamat pagi. `
+`"...Selamat pagi. `
+`......Apakah ada orang?" `
+`Ruangannya begitu dingin, dan sepertinya konferensi telah lama selesai. `
+`Ada seperangkat teh di atas meja yang kemungkinan besar telah mereka gunakan, disusun sedemikian rupa sehingga memudahkan pembersihan. `
+`Membersihkan teh adalah tugas pelayan. `
+`Jika anggota keluarga bersikap sangat dermawan dan membersihkannya sendiri, para pelayan akan kehilangan muka. `
+`Jadi, tindakan kebaikan yang bisa dilakukan oleh keluarga adalah dengan melakukan hal ini. `
+`Saat dia mendekati meja untuk membersihkannya, dia menyadari sesuatu semacam memo yang ditinggalkan dekat peralatan apur an cangkir. `
+`Karena letaknya tepat di samping seperangkat teh, Shannon mengambilnya, umumnya dia mengira itu adalah catatan untuk pelayan yang sedang membersihkan. `
+`Di sana tidak tertulis perintah, maupun ucapan terima kasih atas persiapan teh. Hanya ada satu kata. `
+`Shannon melhatnya dengan bingung lalu membacanya dengan lantang... `
+`"......Kapel. `
+`......?" `
+`Suara kecil itu terus berulang-ulang. `
+`Normalnya, suara itu terlalu kecil untuk dipedulikan. `
+`Andai saja aku bisa menghentikan suaranya segera, aku bisa tidur lagi seketika, ...pikirnya samar-samar. `
+`...Tapi tak peduli berapa lama waktu berlalu, suara itu tak kunjung berhenti. `
+`Suara itu berulang terus-menerus. `
+`Aaah, berisik. `
+`Siapa di sana? `
+`Memukul pintu sepanjang waktu... `
+`Saat dia menyadarinya, dia bangun. `
+`...Seseorang mengetuk. `
+`Kemudian, dia menyadari bahwa itu bukan hanya ketukan, tetapi ada sebuah suara. `
+`"......Rosa-sama, ...Rosa-sama. `
+`...Selamat pagi." `
+`"...T-Tunggu. `
+`Aku keluar sekarang." `
+`Sepertinya itu suara Genji. `
+`Melihat dari jam, bahkan belum menunjukkan pukul 7:00. `
+`...Masih terlalu pagi untuk membangunkan tamu. `
+`...Apakah sesuatu yang buruk sedang terjadi? `
+`Dia merasa bahwa rasa kantuknya perlahan memudar berkat prasangka buruknya. `
+`Meskipun Genji hanyalah seorang pelayan, Rosa telah mengenalnya sejak kecil, jadi meskipun dia dalam kedaan berantakan dengan piyamanya, dia sdikit membuka pintu dan menjawab. `
+`"Selamat pagi. `
+`Maafkan saya karena telah membangunkan anda lebih awal." `
+`"...Apakah sesuatu sedang terjadi?" `
+`"Ya... `
+`......Sebenarnya, di kapel...... `
+`Genji...membisikkan sesuatu di dekat telinga Rosa. `
+`Dalam sekejap, kelihatannya Rosa tidak mengerti dengan apa yang telah diberitahukan. `
+`Setelah diulang beberapa kali, she realized that apparently, something strange had happened. `
+`Rosa menutup pintunya sebentar, segera mengganti pakaiannya, dan.mengikuti Genji menuju mansion... `
+`Kapel tersebut memerlukan penjelasan. `
+`Bukan di dalam mansion, melainkan di sebuah hutan kecil di belakangnya, berjarak beberapa langkah. `
+`Kapel itu dibangun pada waktu yang sama dengan mansion, `
+`jadi meskipun dindingnya telah diperbaiki berkali-kali, membuatnya terlihat baru dari luar, padahal itu adalah bangunan yang sangat tua. `
+`Rosa berlari melalui hujan bersama Genji. `
+`Sama seperti malam sebelumnya, hujan turun dengan deras. `
+`Bahkan, Kapel itu terlihat dari balik semak-semak yang tipis... `
+`Hanya dengan melihatnya dari luar, tempat itu tampak begitu indah dan memukau, tempat yang mungkin diinginkan oleh sepasang kekasih muda untuk menikah. `
+`Namun, Kinzo sepertinya melihat itu sebagai tempat yang sangat menyeramkan, `
+`jadi Rosa dan saudaranya diberi peringatan yang ketat untuk tidak mndekatinya. `
+`Meskipun mereka semua telah beranjak dewasa, mendekati kapel tanpa alasan yang jelas membuat mereka merasa bersalah... `
+`dan juga kecewa, seolah-olah Ayah mereka akan memukunya di tempat... `
+`Siluet pelayan dapat terlihat di pintu masuk kapel. `
+`Gohda, Shannon dan Kanon. `
+`...Yang berarti seluruh pelayan yang memiliki sift pagi telah berkumpul. `
+`Beberapa saat yang lalu, Genji telah berbicara kepada Rosa, menjelaskan situasi apa yang sedang trjadi. `
+`Namun, ...tanpa melihatnya dengan langsung, dia tidak akan bisa mengerti... `
+`Itu juga mungkin berlaku kepada seluruh pelayan yang sudah berkumpul. `
+`...{i:Tanpa melihat dengan mata mereka sendiri}, mereka tidak akan mengerti dengan apa yang sedang terjadi. `
+`Di depan pintu masuk kapel... `
+`sesuatu yang sangat besar, ...Digambar dengan seram, Cat yang berwarna merah membuat orang teringat pada darah... ...Sesuatu seperti lingkaran sihir yang menyeramkan. `
+`"Ap‐ `
+`Apa ini... `
+`...sebenarnya...? `
+`Sejak kapan ini digambar?!" `
+`Para pelayan saling melihat satu sama lain. `
+`Gohda adalah orang pertama yang membuka mulutnya. `
+`"...M-Maafkan kami. `
+`Kami biasanya tidak memasuki gedung ini, jadi kita tidak tahu kapan itu digambar." `
+`"Lalu siapa yang pertama kali menemukannya?!" `
+`"I-Itu saya. `
 `...Saat saya pergi ke ruang makan untuk membereskan seperangkat teh , ...asaya menemukan memo yang bertuliskan "kapel"..." `
-` Shannon menyerahkan memo dengan tangan yang bergetar. `
-` "...Tulisan siapa ini? `
-` Ini tidak seperti milik Nii-san atau Nee-san. `
-` ...Jadi, setelah itu, kamu datang ke sini dan menemukan ini, benar?" `
-` "Ya..." `
-` "...Rosa-sama, .....,lihat ini." `
-` "Apa? `
-` <......Selamat Halloween...untuk...> `
-` ...Apa?!" `
-` Kanon menunjuk pada sebuah kalimat bahasa Inggris yang tetrulis di Bawah gambar lingkaran sihir. `
-` Sebelum ditunjuk olehnya, dia mengira ahwa itu hanyalah gambar lingkaran sihir yang lain. `
-` Disana, terdapat kalimat ahasa Inggris ang bertuliskan : `
-` <Happy HALLOWEEN for MARIA.> `
-` Happy Halloween... `
-` untuk Maria... `
-` Lingkaran sihir yang menyeramkan ini... `
-` untuk Maria. `
-` <Happy Halloween.> `
-` Kemarin, hanya ada satu orang yang mengucapkan <Happy Halloween> kepada Maria... `
-` Kuncinya pun sangat cocok. `
-` ...Itu adalah Penyihir Emas, {f:5:Beatrice}...! `
-` "Ba-Bagaimana dengan Maria?! `
-` Dia seharusnya masih tertidur bersama para sepupunya, kan? `
-` Apa kau sudah memeriksanya?!" `
-` "...Maafkan aya. `
-` Kami baru menyadari bahwa nama Maria-sama berada di sana. `
-` ...Kami belum memeriksanya. `
-` Segera-" `
-` "Apa yang kalian lakukan?!! `
-` Aku akan memeriksanya dan Kembali ke sini! `
-` Beritahu Krauss nii-san dan yang lainnya. `
-` Setelah itu, tetap ikuti instruksi!" `
-` ...Setelah mengatakan banyak hal, Rosa akhirnya menyadari sesuatu yang janggal. `
-` Kedudukannya di keluarga merupakan yang terendah dari keempat lainnya. `
-` ...Mengapa hanya dia yang dipanggil dalam situasi abnrmal sperti ini, seanhgkan yang lainnya tidak? `
-` ...Bahkan jika nama Maria yang muncul. `
-` "Jangan bikang...hah? `
-` ...Apa?!" `
-` "...I-Iya. `
-` kami mencoba untuk memberitahu Krauss-sama, `
-` ...tetapi kami tidak dapat menemukannya..." `
-` "Dan nyonya pun idak ada di ruangannya. `
-` ...Menilai dari kondisi yang ada, dia mungkin belum Kembali dari kasurnya tadi malam." `
-` Rosa merasakan sesuatu yang mengerikan merangkak di punggunggnya... `
-` "......A-Apakah kamu telah memeriksa di dalam kapel?" `
-` "Tidak. `
-` Kami telah mencobanya, tapi..." `
+`Shannon menyerahkan memo dengan tangan yang bergetar. `
+`"...Tulisan siapa ini? `
+`Ini tidak seperti milik Nii-san atau Nee-san. `
+`...Jadi, setelah itu, kamu datang ke sini dan menemukan ini, benar?" `
+`"Ya..." `
+`"...Rosa-sama, .....,lihat ini." `
+`"Apa? `
+`<......Selamat Halloween...untuk...> `
+`...Apa?!" `
+`Kanon menunjuk pada sebuah kalimat bahasa Inggris yang tetrulis di Bawah gambar lingkaran sihir. `
+`Sebelum ditunjuk olehnya, dia mengira ahwa itu hanyalah gambar lingkaran sihir yang lain. `
+`Disana, terdapat kalimat ahasa Inggris ang bertuliskan : `
+`<Happy HALLOWEEN for MARIA.> `
+`Happy Halloween... `
+`untuk Maria... `
+`Lingkaran sihir yang menyeramkan ini... `
+`untuk Maria. `
+`<Happy Halloween.> `
+`Kemarin, hanya ada satu orang yang mengucapkan <Happy Halloween> kepada Maria... `
+`Kuncinya pun sangat cocok. `
+`...Itu adalah Penyihir Emas, {f:5:Beatrice}...! `
+`"Ba-Bagaimana dengan Maria?! `
+`Dia seharusnya masih tertidur bersama para sepupunya, kan? `
+`Apa kau sudah memeriksanya?!" `
+`"...Maafkan aya. `
+`Kami baru menyadari bahwa nama Maria-sama berada di sana. `
+`...Kami belum memeriksanya. `
+`Segera-" `
+`"Apa yang kalian lakukan?!! `
+`Aku akan memeriksanya dan Kembali ke sini! `
+`Beritahu Krauss nii-san dan yang lainnya. `
+`Setelah itu, tetap ikuti instruksi!" `
+`...Setelah mengatakan banyak hal, Rosa akhirnya menyadari sesuatu yang janggal. `
+`Kedudukannya di keluarga merupakan yang terendah dari keempat lainnya. `
+`...Mengapa hanya dia yang dipanggil dalam situasi abnrmal sperti ini, seanhgkan yang lainnya tidak? `
+`...Bahkan jika nama Maria yang muncul. `
+`"Jangan bikang...hah? `
+`...Apa?!" `
+`"...I-Iya. `
+`kami mencoba untuk memberitahu Krauss-sama, `
+`...tetapi kami tidak dapat menemukannya..." `
+`"Dan nyonya pun idak ada di ruangannya. `
+`...Menilai dari kondisi yang ada, dia mungkin belum Kembali dari kasurnya tadi malam." `
+`Rosa merasakan sesuatu yang mengerikan merangkak di punggunggnya... `
+`"......A-Apakah kamu telah memeriksa di dalam kapel?" `
+`"Tidak. `
+`Kami telah mencobanya, tapi..." `
 `"...Sebenarnya, kunci untuk kapel merupakan kunci khusus, jadi master key pun tidak akan bekerja. `
-` Hanya ada satu kunci yang dapat membukanya, ...tetapi kuci tersebut hilang dari kotak kunci." `
-` Dia tidak ingin mendekati pintu dengan lingkaran sihir yang mengerikan jika dia mau. `
-` Rosa menyiapkan diri dan mendekat, lalu mencoba mendorong dan menarik kenop. `
+`Hanya ada satu kunci yang dapat membukanya, ...tetapi kuci tersebut hilang dari kotak kunci." `
+`Dia tidak ingin mendekati pintu dengan lingkaran sihir yang mengerikan jika dia mau. `
+`Rosa menyiapkan diri dan mendekat, lalu mencoba mendorong dan menarik kenop. `
 `...Yang dia rasakan ialah ketahanan kunci yang kokoh. `
-` "Kami telah mencari apakah ada jendela untuk masuk ke dalam, tapi... `
-` Sepertinya kita harus menghancurkan jendela untuk memeriksa keadaan di dalam... `
-` Bagaimana menurut nyonya?" `
-` "...Tidak mungkin aku memberikan izin untuk melakukan hal seperti itu. `
-` Ini merupakan kapel milik Ayah yang sangat berharga. `
-` ........." `
-` Pada saat itu, kejadian di hari sebelumnya mulai berputar-putar di dalam pikiran Rosa... `
-` ......Itu benar, `
-` ...saat aku menemui sang penyihir di taman mawar, `
-` ...bukankah dia memberikan Maria sebuah amplop? `
-` Ya, tidak salah lagi, dia memberikannya. `
-` Sat Maria mencoba membukanhya, sang penyihir melarangnya, dan mengatakan : `
-` "{i:Akan ada waktu dimana kau harus membukanya}"... `
-` Rosa sangat yakin. `
-` ...Tidak salah lagi. `
+`"Kami telah mencari apakah ada jendela untuk masuk ke dalam, tapi... `
+`Sepertinya kita harus menghancurkan jendela untuk memeriksa keadaan di dalam... `
+`Bagaimana menurut nyonya?" `
+`"...Tidak mungkin aku memberikan izin untuk melakukan hal seperti itu. `
+`Ini merupakan kapel milik Ayah yang sangat berharga. `
+`........." `
+`Pada saat itu, kejadian di hari sebelumnya mulai berputar-putar di dalam pikiran Rosa... `
+`......Itu benar, `
+`...saat aku menemui sang penyihir di taman mawar, `
+`...bukankah dia memberikan Maria sebuah amplop? `
+`Ya, tidak salah lagi, dia memberikannya. `
+`Sat Maria mencoba membukanhya, sang penyihir melarangnya, dan mengatakan : `
+`"{i:Akan ada waktu dimana kau harus membukanya}"... `
+`Rosa sangat yakin. `
+`...Tidak salah lagi. `
 `...Amplop yang diberikan kepada Maria merupakan...... `
-` Setelah berlari menuju penginapan, Rosa mendekati ruangan para sepupu sambil menyembunyikan suara kakinya, `
-` dengan pelan dia membuka pintu, dan mengintip ke dalam... `
-` Dari dalam, dia bisa mendengar dengkuran dari orang-orang muda. `
-` Ada empat anak-anak. `
-` Dan Maria ada di sana. `
-` ...Sedang tidur dengan nyenyak. `
-` Setelah menarik nafas sejenak, dia memasuki ruangan secara diam-diam. `
-` ...Dia mencari tas Maria, yang sedang beristirahat di atas sofa. `
-` Maria suka membawa sesuatu yang berharga di dekatnya. `
-` ...Dia mungkin meniru cara ibunya selalu membawa kosmetiknya kemana-mana. `
-` Tentu saja, dia hanya meniru ibunya, jadi semua isi di dalamnya hanyalah barang-barang tak berguna. `
-` Dalam kasus Maria, isinya penuh dengan barang-barang kecil yang menyeramkan dan berbau okultisme, buku catatan yang berisikan hal-hal semacam itu, dan sebagainya. `
-` ...Rosa tidak pernah senang melihat putrinya berjalan-jalan dengan barang seperti itu, yang sama sekali tidak feminin. `
-` Namun, memaksa Maria untuk menghentikannya hanya akan menimbulkam pertengkaran, jadi dia membiarkannya. `
-` ".........Ketemu. `
-` ......Ini dia......" `
-` Sebuah amplop bergaya barat dengan lambang elang emas.... `
-` Saat dia mengeluarkannya dari tas, dia menyadari ada suatu benda yang berat, Sebuah amplop bergaya barat dengan lambang elang emas, yang berbentuk silinder di dalamnya. `
-` ...Dia bisa mengetahui dari beratnya. `
-` ...Tidak diragukan lagi. `
-` Ini adalah...sebuah kunci. `
-` Setelah membalikkan badan dan memastikan bahwa Maria masih tertidur, `
-` Rosa merobek amplopnya, dan mengeluarkan isinya. `
+`Setelah berlari menuju penginapan, Rosa mendekati ruangan para sepupu sambil menyembunyikan suara kakinya, `
+`dengan pelan dia membuka pintu, dan mengintip ke dalam... `
+`Dari dalam, dia bisa mendengar dengkuran dari orang-orang muda. `
+`Ada empat anak-anak. `
+`Dan Maria ada di sana. `
+`...Sedang tidur dengan nyenyak. `
+`Setelah menarik nafas sejenak, dia memasuki ruangan secara diam-diam. `
+`...Dia mencari tas Maria, yang sedang beristirahat di atas sofa. `
+`Maria suka membawa sesuatu yang berharga di dekatnya. `
+`...Dia mungkin meniru cara ibunya selalu membawa kosmetiknya kemana-mana. `
+`Tentu saja, dia hanya meniru ibunya, jadi semua isi di dalamnya hanyalah barang-barang tak berguna. `
+`Dalam kasus Maria, isinya penuh dengan barang-barang kecil yang menyeramkan dan berbau okultisme, buku catatan yang berisikan hal-hal semacam itu, dan sebagainya. `
+`...Rosa tidak pernah senang melihat putrinya berjalan-jalan dengan barang seperti itu, yang sama sekali tidak feminin. `
+`Namun, memaksa Maria untuk menghentikannya hanya akan menimbulkam pertengkaran, jadi dia membiarkannya. `
+`".........Ketemu. `
+`......Ini dia......" `
+`Sebuah amplop bergaya barat dengan lambang elang emas.... `
+`Saat dia mengeluarkannya dari tas, dia menyadari ada suatu benda yang berat, Sebuah amplop bergaya barat dengan lambang elang emas, yang berbentuk silinder di dalamnya. `
+`...Dia bisa mengetahui dari beratnya. `
+`...Tidak diragukan lagi. `
+`Ini adalah...sebuah kunci. `
+`Setelah membalikkan badan dan memastikan bahwa Maria masih tertidur, `
+`Rosa merobek amplopnya, dan mengeluarkan isinya. `
 `...Itu merupakan sebuah kunci tua dengan desain intrinstik... `
-` Rosa menggenggam kunci tersebut lalu segera berlari. `
-` ...Sepertinya Battler menyadari ada nya suara,  tetapi setelah menggerutu dan membalikkan badan, dia kembali mendengkur... `
-` "...Genji-san, `
+`Rosa menggenggam kunci tersebut lalu segera berlari. `
+`...Sepertinya Battler menyadari ada nya suara,  tetapi setelah menggerutu dan membalikkan badan, dia kembali mendengkur... `
+`"...Genji-san, `
 `...apakah benar...ini kunci untuk kapel?" `
-` "Dimana anda... `
+`"Dimana anda... `
 `...Ya, ini adalah kunci untuk membuka kapel." `
-` Rosa kembali mendekati lingkaran sihir yang menyeramkan itu...lalu memasukkan kunci ke lubangnya. `
-` ...ada sebuah sanggahan yang kuat. `
-` Setelah bebeapa saat, ...sanggahan itu berhenti dengan bunyi klak.. `
-` Kemudian, pintu berderit dengan suara yang menusuk telinga, ...pelan-pelan, pelan-pelan mulai terbuka...... `
-` "......Apakah...ada orang......?!" `
-` Suaranya bergema masuk ke dalam ruangan. `
+`Rosa kembali mendekati lingkaran sihir yang menyeramkan itu...lalu memasukkan kunci ke lubangnya. `
+`...ada sebuah sanggahan yang kuat. `
+`Setelah bebeapa saat, ...sanggahan itu berhenti dengan bunyi klak.. `
+`Kemudian, pintu berderit dengan suara yang menusuk telinga, ...pelan-pelan, pelan-pelan mulai terbuka...... `
+`"......Apakah...ada orang......?!" `
+`Suaranya bergema masuk ke dalam ruangan. `
 `...Tentu saja, tidak ada jawaban. `
-` Kapel tersebut memiliki langit-langit yang tinggi, dan udara yang dingin. `
-` ...Dan meskipun sedang hujan, hari yang menhgganggu, itu terasa menakutkan untuk berbagai alasan... `
-` Para pelayan dengan ragu mengikuti Rosa. `
-` "...Rosa-sama, lihat di sana." `
-` Kanon menyadari sesuatu sambil menunjur. `
-` ...Di sebelah sana...merupakan alar. `
-` DTempat yang biasanya diisi oleh seorang pendeta yang berkhotbah tentang kasih tuhan, terdapat sebuah meja yang seharusnya tidak ada di sana. `
-` Pada awalnya, itu terlihat seperti meja makan pada umumna. `
-` ...Sebenarnya ada piring dan alat makan yang indah di sana, membuatnya terlihat seperti pesta ulang tahun anak-anak atau semacamnya. `
-` Setelah diperhatikan lebih dekat, area sekitarnya dihiasi dengan labu ddengan pita hitam dan oranye. `
-` Mungkin itu... hiasan Halloween. `
-` Dan ada orang-orang yang duduk di meja. `
-` Tiga orang di setiap sisi saling berhadapan, duduk di kursi. `
-` Sekilas mereka bisa dikenali. `
-` Krauss dan istrinya, Eva dan suaminya, lalu Rudolf dan istrinya. `
-` Namun jika kamu ingin memastikannya, kau harus lebih mendekatinya. `
-` ...Karena mereka hampir terlhat seperti boneka. `
-` Rosa dan yang lainnya membuka pintu, memasuki ruangan ekaligus diiringi rentetan angkah kaki, sambal memanggil, apakah ada orang di dalam. `
-` ...Dan ya, masih belum ada respon. `
+`Kapel tersebut memiliki langit-langit yang tinggi, dan udara yang dingin. `
+`...Dan meskipun sedang hujan, hari yang menhgganggu, itu terasa menakutkan untuk berbagai alasan... `
+`Para pelayan dengan ragu mengikuti Rosa. `
+`"...Rosa-sama, lihat di sana." `
+`Kanon menyadari sesuatu sambil menunjur. `
+`...Di sebelah sana...merupakan alar. `
+`DTempat yang biasanya diisi oleh seorang pendeta yang berkhotbah tentang kasih tuhan, terdapat sebuah meja yang seharusnya tidak ada di sana. `
+`Pada awalnya, itu terlihat seperti meja makan pada umumna. `
+`...Sebenarnya ada piring dan alat makan yang indah di sana, membuatnya terlihat seperti pesta ulang tahun anak-anak atau semacamnya. `
+`Setelah diperhatikan lebih dekat, area sekitarnya dihiasi dengan labu ddengan pita hitam dan oranye. `
+`Mungkin itu... hiasan Halloween. `
+`Dan ada orang-orang yang duduk di meja. `
+`Tiga orang di setiap sisi saling berhadapan, duduk di kursi. `
+`Sekilas mereka bisa dikenali. `
+`Krauss dan istrinya, Eva dan suaminya, lalu Rudolf dan istrinya. `
+`Namun jika kamu ingin memastikannya, kau harus lebih mendekatinya. `
+`...Karena mereka hampir terlhat seperti boneka. `
+`Rosa dan yang lainnya membuka pintu, memasuki ruangan ekaligus diiringi rentetan angkah kaki, sambal memanggil, apakah ada orang di dalam. `
+`...Dan ya, masih belum ada respon. `
 `...Bahkan jka Rosa dan yang lainnya berasumsi bahwa mereka diabaikan, setidaknya kau masih berharap ada sedikit reaksi. `
 `...Dan itu bahkan tidak terjadi. `
-` Jadi pada awalnya, seperti ada seseorang yang meletakkan beberapa boneka yang sangat mirip dengan orang-orang itu... `
-` ...Saat ini, bukan hanya Rosa. `
-` ...Shannon dan Kanon, bahkan Gohda. `
-` ...Mereka semua berjuang dengan rasa panik melawan perasaan mengerikan yang mencengkeram hati mereka. `
-` "...Nii-san...? `
-` ......Nee-san......?" `
- ` Selama dia berjalan melalui altar, dia memanggil kembali, tetapi masih tidak ada respon. `
-` ...Benar, ...untuk sekarang, Rosa sangat yakin. `
-` ...Dia yakin bahwa itu semua bukanlah boneka, `
-` {i:tetapi mereka sendiri}...! `
-` "......Ini kan......" `
-` "........." `
-` Mereka semakin mendekat untuk melihat apa yang disajikan di atas meja. `
-` Itu terlihat seperti perjamuan mewah, mengingatkan pada pesta ulang tahun anak. `
-` Piring-piring bertumpuk dengan permen, gelas-gelas lucu berisi minuman. `
-` Berbagai macam hiasan berbentuk labu... `
-` ...Semuanya didekorasi dengan gaya Halloween, ...dan meskipun ini mungkin bukan saat yang tepat untuk memikirkannya, Maria pasti akan sangat senang melihat semua ini. `
-` Begitulah keadaan meja di depan mereka, sepertinya mereka tertidur... `
-` Itu adalah pemandangan yang menyeramkan, ...seolah-olah pesta Halloween kecil yang terlihat menyenangkan telah terhenti di tengah jalan.... `
-` "...Mereka semua... `
+`Jadi pada awalnya, seperti ada seseorang yang meletakkan beberapa boneka yang sangat mirip dengan orang-orang itu... `
+`...Saat ini, bukan hanya Rosa. `
+`...Shannon dan Kanon, bahkan Gohda. `
+`...Mereka semua berjuang dengan rasa panik melawan perasaan mengerikan yang mencengkeram hati mereka. `
+`"...Nii-san...? `
+`......Nee-san......?" `
+ `Selama dia berjalan melalui altar, dia memanggil kembali, tetapi masih tidak ada respon. `
+`...Benar, ...untuk sekarang, Rosa sangat yakin. `
+`...Dia yakin bahwa itu semua bukanlah boneka, `
+`{i:tetapi mereka sendiri}...! `
+`"......Ini kan......" `
+`"........." `
+`Mereka semakin mendekat untuk melihat apa yang disajikan di atas meja. `
+`Itu terlihat seperti perjamuan mewah, mengingatkan pada pesta ulang tahun anak. `
+`Piring-piring bertumpuk dengan permen, gelas-gelas lucu berisi minuman. `
+`Berbagai macam hiasan berbentuk labu... `
+`...Semuanya didekorasi dengan gaya Halloween, ...dan meskipun ini mungkin bukan saat yang tepat untuk memikirkannya, Maria pasti akan sangat senang melihat semua ini. `
+`Begitulah keadaan meja di depan mereka, sepertinya mereka tertidur... `
+`Itu adalah pemandangan yang menyeramkan, ...seolah-olah pesta Halloween kecil yang terlihat menyenangkan telah terhenti di tengah jalan.... `
+`"...Mereka semua... `
 `...tertidur...? `
-` ......?" `
-` Saat dia semakin mendekati mereka, ...dia mnyadari bahwa ada beberapa cemilan yang berserakan di sekitar lantai. `
-` Permen, kue, soda and coklat, ...semua dengan kemasan bertema fantasi yang kuat... `
-` Semua tu tersebar di atas karpet yang dipenuhi selai blackberry dan cranberry... `
-` "......Wa...uwaaaaaaaaaaaaaaaaaaaaa?!" `
-` Rosa dan yang lainnya......akhirnya menyadari situasinya... `
-` Itu adalah...sebuah pesta Halloween. `
-` Sebuah perjamuan yang seharusnya tidak da di dunia ini...! `
+`......?" `
+`Saat dia semakin mendekati mereka, ...dia mnyadari bahwa ada beberapa cemilan yang berserakan di sekitar lantai. `
+`Permen, kue, soda and coklat, ...semua dengan kemasan bertema fantasi yang kuat... `
+`Semua tu tersebar di atas karpet yang dipenuhi selai blackberry dan cranberry... `
+`"......Wa...uwaaaaaaaaaaaaaaaaaaaaa?!" `
+`Rosa dan yang lainnya......akhirnya menyadari situasinya... `
+`Itu adalah...sebuah pesta Halloween. `
+`Sebuah perjamuan yang seharusnya tidak da di dunia ini...! `
 `Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, dan Kyrie were duduk di atas kursi, telihat seperti tertidur, ...tetapi mereka semua mati. `
-` Bagaimana kau bisa mengetahui bahwa mereka semua telah mati? `
-` Itu karena... `
-` mereka... `
-` d- `
-` dibelah... `
-` ...secara vertikal... `
-` ...dari dada hingga ke perut......! `
-` "...K-Krauss-sama......!! `
-` Hiiiiiiiiiiiiiiiii...!" `
-` ".........Sungguh...kejam..." `
-` Keenamnya duduk di pesta Halloween, ...sebelum perut mereka dibelah, mereka dibunuh. `
-` Lalu selai yang menutupi lantai... itu pasti makanan yang jatuh setelah mereka makan sampai kenyang, kan...? `
-` ...Tidak!! `
-` Pemandangan isi ari perut mereka yag menyebar di skitar lantai!! `
-` Dan bukan hanya itu. `
-` Dari perut mereka, ...seolah-olah...seolah-olah... `
-` seolah-olah mereka telah menuangkan...!! `
-` S-Seolah-olah camilan telah keluar dari sana!! `
-` Permen dan kue, soda dan coklat... `
-` tampak keluar, bersamaan dengan darah, dan menyebar di sekitar lantai!! `
-` Apa yang menyebabkan semua ini?! `
-` Seolah-olah perut mereka dipenuhi dengan permen hingga hampir meledak... `
-` dan semuanya tumpah saat perut mereka pecah!! `
-` Rosa ingat sebuah hidangan yang mengejutkan, seekor kalkun yang disajikan di ulang tahunnya sendiri. `
-` Ketika dipotong dengan pisau, ...keluarlah salah satu makanan favoritnya. `
-` ...Tapi karena dia tidak diberitahu apa yang ada di dalamnya, telur dadar nasi dengan saus tomat merah tua itu tumpah seperti belatung berdarah... `
-` berdenyut, `
-` menetes, `
-` licin, `
-` berair. `
-` bergemericik!! `
-` "Uerreeeeeeeeeeeeeeeeeeeechgh!! `
-` Eeeeeeaaaaaaaaaaaaaaaaaaaaaa!!" `
-` Trauma masa kecilnya terbangun. `
-` Rosa merasa sebuah monster mengamuk di dalam perutnya seperti asam lambung yang mulai bangkit. `
-` ...Karena tidak kuat menahannya, dia mengeluarkan semuanya ke lantai. `
-` Perut kosongnya tidak lebih dari asam lambung. `
-` Pemandangan di depannya sama sekali tidak menggambarkan pesta Halloween...! `
-` Tiga paangan yang diabadikan di sana, perut mereka dibelah secara vertikal, `
-` dibuka paksa dengan gyuiiiiiiigubaaa. `
-` Begitu banyak cemilan yang diletakkan di sana, `
-` yag berair, lembut. `
-` Darah, isi perut, dan permen berceceran di lantai, `
-` ...bercak darah, `
-` lengket, `
-` lengket, `
-` licin, `
-` berair, `
-` cemilan manis yang membuat jari-jarimu lengket, `
-` lengket, `
-` lengket, `
-` aaah, tetapi, terkena oleh bercak darah `
-` lengket, `
-` dan berair! `
-` Apa yang baru saja aku injak tadi, itu tidak terasa seperti permen, kue, soda, atau cokelat! `
-` Aaaaaaaaaaaaaah, aku takut! Apa yang baru saja aku injak? Aku bahkan tidak berani melihat bagian bawah kakiku!! `
-` Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa!!! `
-` ...Apa ini... mengapa ada pesta Halloween yang mengerikan...!!! `
+`Bagaimana kau bisa mengetahui bahwa mereka semua telah mati? `
+`Itu karena... `
+`mereka... `
+`d- `
+`dibelah... `
+`...secara vertikal... `
+`...dari dada hingga ke perut......! `
+`"...K-Krauss-sama......!! `
+`Hiiiiiiiiiiiiiiiii...!" `
+`".........Sungguh...kejam..." `
+`Keenamnya duduk di pesta Halloween, ...sebelum perut mereka dibelah, mereka dibunuh. `
+`Lalu selai yang menutupi lantai... itu pasti makanan yang jatuh setelah mereka makan sampai kenyang, kan...? `
+`...Tidak!! `
+`Pemandangan isi ari perut mereka yag menyebar di skitar lantai!! `
+`Dan bukan hanya itu. `
+`Dari perut mereka, ...seolah-olah...seolah-olah... `
+`seolah-olah mereka telah menuangkan...!! `
+`S-Seolah-olah camilan telah keluar dari sana!! `
+`Permen dan kue, soda dan coklat... `
+`tampak keluar, bersamaan dengan darah, dan menyebar di sekitar lantai!! `
+`Apa yang menyebabkan semua ini?! `
+`Seolah-olah perut mereka dipenuhi dengan permen hingga hampir meledak... `
+`dan semuanya tumpah saat perut mereka pecah!! `
+`Rosa ingat sebuah hidangan yang mengejutkan, seekor kalkun yang disajikan di ulang tahunnya sendiri. `
+`Ketika dipotong dengan pisau, ...keluarlah salah satu makanan favoritnya. `
+`...Tapi karena dia tidak diberitahu apa yang ada di dalamnya, telur dadar nasi dengan saus tomat merah tua itu tumpah seperti belatung berdarah... `
+`berdenyut, `
+`menetes, `
+`licin, `
+`berair. `
+`bergemericik!! `
+`"Uerreeeeeeeeeeeeeeeeeeeechgh!! `
+`Eeeeeeaaaaaaaaaaaaaaaaaaaaaa!!" `
+`Trauma masa kecilnya terbangun. `
+`Rosa merasa sebuah monster mengamuk di dalam perutnya seperti asam lambung yang mulai bangkit. `
+`...Karena tidak kuat menahannya, dia mengeluarkan semuanya ke lantai. `
+`Perut kosongnya tidak lebih dari asam lambung. `
+`Pemandangan di depannya sama sekali tidak menggambarkan pesta Halloween...! `
+`Tiga paangan yang diabadikan di sana, perut mereka dibelah secara vertikal, `
+`dibuka paksa dengan gyuiiiiiiigubaaa. `
+`Begitu banyak cemilan yang diletakkan di sana, `
+`yag berair, lembut. `
+`Darah, isi perut, dan permen berceceran di lantai, `
+`...bercak darah, `
+`lengket, `
+`lengket, `
+`licin, `
+`berair, `
+`cemilan manis yang membuat jari-jarimu lengket, `
+`lengket, `
+`lengket, `
+`aaah, tetapi, terkena oleh bercak darah `
+`lengket, `
+`dan berair! `
+`Apa yang baru saja aku injak tadi, itu tidak terasa seperti permen, kue, soda, atau cokelat! `
+`Aaaaaaaaaaaaaah, aku takut! Apa yang baru saja aku injak? Aku bahkan tidak berani melihat bagian bawah kakiku!! `
+`Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa!!! `
+`...Apa ini... mengapa ada pesta Halloween yang mengerikan...!!! `
  `Dari jauh, terlihat benar-benar indah, fantastis, dan menyenangkan. `
-` Tapi dari dekat, mengerikan, menjijikkan, dan entah bagaimana terlihat indah...!! `
-` “Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!” `
-` Pikiran liar Rosa berusaha sekuat tenaga untuk melepaskan diri dari tenggorokannya dengan suara keras yang bukan teriakan maupun raungan... `
-` "......Krauss-sama......" `
-` "...Ini...sangat...sangat kejam......" `
-` "...P-Panggil ambulans, `
-` ...panggil polisi......!" `
-` "...I-Itu benar,e polisi... `
-` Polisi, polisi polisi polisi polisi!!" `
-` Jika kata yang begitu erat kaitannya dengan kenyataan itu tidak keluar dari mulut Gohda, Rosa dan yang lainnya mungkin masih terjebak dalam pesta mimpi buruk itu hingga saat ini. `
-` ...Tapi bukan karena mereka berpikir polisi mungkin bisa berbuat sesuatu. `
-` Jika mereka tidak terus berteriak tentang polisi, ...seolah-olah kursi lain akan disiapkan di pesta setan ini dan diberikan kepada mereka...!! `
-` Dada mereka terasa membesar secara tidak nyaman dari dalam!! `
-` Gemuruh, `
-` bergolak, `
-` ...Dan tentu saja itu karena permen hampir keluar dari perut mereka!! `
-` Rosa, sekali lagi merasa mual, memuntahkan asam lambungnya ke lantai. `
-` Lalu dia mencari. `
-` Mencari untuk melihat apakah ada permen di dalamnya!! `
-` "...Haah, ......haah, ...haah...!! `
-` Eeeeh, ...haah... `
+`Tapi dari dekat, mengerikan, menjijikkan, dan entah bagaimana terlihat indah...!! `
+`“Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!” `
+`Pikiran liar Rosa berusaha sekuat tenaga untuk melepaskan diri dari tenggorokannya dengan suara keras yang bukan teriakan maupun raungan... `
+`"......Krauss-sama......" `
+`"...Ini...sangat...sangat kejam......" `
+`"...P-Panggil ambulans, `
+`...panggil polisi......!" `
+`"...I-Itu benar,e polisi... `
+`Polisi, polisi polisi polisi polisi!!" `
+`Jika kata yang begitu erat kaitannya dengan kenyataan itu tidak keluar dari mulut Gohda, Rosa dan yang lainnya mungkin masih terjebak dalam pesta mimpi buruk itu hingga saat ini. `
+`...Tapi bukan karena mereka berpikir polisi mungkin bisa berbuat sesuatu. `
+`Jika mereka tidak terus berteriak tentang polisi, ...seolah-olah kursi lain akan disiapkan di pesta setan ini dan diberikan kepada mereka...!! `
+`Dada mereka terasa membesar secara tidak nyaman dari dalam!! `
+`Gemuruh, `
+`bergolak, `
+`...Dan tentu saja itu karena permen hampir keluar dari perut mereka!! `
+`Rosa, sekali lagi merasa mual, memuntahkan asam lambungnya ke lantai. `
+`Lalu dia mencari. `
+`Mencari untuk melihat apakah ada permen di dalamnya!! `
+`"...Haah, ......haah, ...haah...!! `
+`Eeeeh, ...haah... `
 `...N-Ngomong-ngomong!! `
 `*uhuk*, *uhuk*!!" `
-` Rosa Kembali batuk, dengan paksa memuntahkan asam lambung yang telah membakar tenggorokannya. `
-` Dia menyadari bahwa saat ini, seluruh tubuhnya telah tertutup keringat kotor... `
-` "G-Genji-san, Shannon-chan, tolong beritahu Ayah lalu minta instruksi. `
-` Gohda-san, pergi dengan Kanon-kun dan panggil polisi. `
-` ...Kemudian, bawa Dokter Nanjo ke ini..." `
-` Mengapa harus membawa Dokter Nanjo? `
-` Itu sudh sangat terlambat ntuk pemeriksaan...! `
-` Para pelayan menerima perintah lalu berlari. `
-` Setelah melihat mereka keluar, ......Rosa sekali lagi menatap saudaranya, dengan siapa dia menghabiskan Waktu sedih maupun senang, Bersama rekannya `
-` Meskipun tidak ada yang lebih tragis dari pemandangan ini, `
-` ...untuk berbagai alasan, dia tergoda untuk menggambarkan kematian-kematian fantastis ini sebagai keindahan...... `
-` "...Mereka tidak ada di sana. `
-` Kemana mereka pergi?" `
-` "Ruangan pelayan dan dapur kosong. `
-` ...Apa yang sedang terjadi?" `
+`Rosa Kembali batuk, dengan paksa memuntahkan asam lambung yang telah membakar tenggorokannya. `
+`Dia menyadari bahwa saat ini, seluruh tubuhnya telah tertutup keringat kotor... `
+`"G-Genji-san, Shannon-chan, tolong beritahu Ayah lalu minta instruksi. `
+`Gohda-san, pergi dengan Kanon-kun dan panggil polisi. `
+`...Kemudian, bawa Dokter Nanjo ke ini..." `
+`Mengapa harus membawa Dokter Nanjo? `
+`Itu sudh sangat terlambat ntuk pemeriksaan...! `
+`Para pelayan menerima perintah lalu berlari. `
+`Setelah melihat mereka keluar, ......Rosa sekali lagi menatap saudaranya, dengan siapa dia menghabiskan Waktu sedih maupun senang, Bersama rekannya `
+`Meskipun tidak ada yang lebih tragis dari pemandangan ini, `
+`...untuk berbagai alasan, dia tergoda untuk menggambarkan kematian-kematian fantastis ini sebagai keindahan...... `
+`"...Mereka tidak ada di sana. `
+`Kemana mereka pergi?" `
+`"Ruangan pelayan dan dapur kosong. `
+`...Apa yang sedang terjadi?" `
 `"Uu-uu-uu-!! 
-` Mama!! `
-` Dimana Mama?!! `
-` Suratku! `
-` Surat yan aku terima dari Beato! `
-` Kembalikan! `
-` Kembalikaaaaaaaan!! `
-` Waaauau!!" `
-` "Membingungkan. `
-` ...Battler-kun, apa kau yakin itu Bibi Rosa?" `
-` "...Ya, meskipun aku setengah tertidur, aku tidak begitu yakin, `
-` tapi aku memiliki firasat, di awal pagi, Bibi Rosa dating ke sini dan berpindah-pindah di sekitar tas Maria." `
-` "...Aku rasa itu mungkin tube pasta gigi atau semacamnya." `
-` "Kenapa ada tube pasta gigi di tas tangan Maria? `
-` Sepertinya kamu lebih dari sekedar setengah tertidur." `
-` Battler samar-samar mengingat Rosa masuk ke kamar sepupu-sepupunya. `
-` Dan juga, saat Maria bangun sebelum mereka, dia mulai marah-marah, mengatakan bahwa seseorang membuka amplop yang sangat dia jaga. `
-` ...Dengan mencocokkan keduanya, mereka menebak bahwa Rosa mungkin datang dan membuka amplop. `
-` "...Sebuah surat dari Penyihir Emas... `
-` Aku penasaran apa isinya." `
-` "Aku tidak tahu. `
+`Mama!! `
+`Dimana Mama?!! `
+`Suratku! `
+`Surat yan aku terima dari Beato! `
+`Kembalikan! `
+`Kembalikaaaaaaaan!! `
+`Waaauau!!" `
+`"Membingungkan. `
+`...Battler-kun, apa kau yakin itu Bibi Rosa?" `
+`"...Ya, meskipun aku setengah tertidur, aku tidak begitu yakin, `
+`tapi aku memiliki firasat, di awal pagi, Bibi Rosa dating ke sini dan berpindah-pindah di sekitar tas Maria." `
+`"...Aku rasa itu mungkin tube pasta gigi atau semacamnya." `
+`"Kenapa ada tube pasta gigi di tas tangan Maria? `
+`Sepertinya kamu lebih dari sekedar setengah tertidur." `
+`Battler samar-samar mengingat Rosa masuk ke kamar sepupu-sepupunya. `
+`Dan juga, saat Maria bangun sebelum mereka, dia mulai marah-marah, mengatakan bahwa seseorang membuka amplop yang sangat dia jaga. `
+`...Dengan mencocokkan keduanya, mereka menebak bahwa Rosa mungkin datang dan membuka amplop. `
+`"...Sebuah surat dari Penyihir Emas... `
+`Aku penasaran apa isinya." `
+`"Aku tidak tahu. `
 `...Namun amplop tersebut digunakan khusus untuk Kakek, dan itu memiliki lambang Keluarga Ushiromiya. `
-` ......Apapun yang ada di dalamnya pasti berhubungan dengan konferensi keluarga." `
-` Dia tidak membiarkan siapapun menyentuhnya, tetapi kemarin, Maria menunjukkan amplop tersebut kepada  Battler dan yang lainnya. `
-` ...Jadi mereka mengingatnya. `
+`......Apapun yang ada di dalamnya pasti berhubungan dengan konferensi keluarga." `
+`Dia tidak membiarkan siapapun menyentuhnya, tetapi kemarin, Maria menunjukkan amplop tersebut kepada  Battler dan yang lainnya. `
+`...Jadi mereka mengingatnya. `
 `"Uu-uu-uu-!! `
-` kembalikan, Mama! `
-` kembalikan, Mama!! `
-` Uu-uu-uu-! `
-` Waauuuuuuuuuuuuu!!" `
-` "...Ya, jika kau benar, itu pasti merupakan benda yang sangat penting... `
-` ...Mengapa sang penyihir memberikan sesuatu yang sangat penting kepada Maria? `
-` ...Aku tidak paham." `
-` Sesekali, suasana pagi yang menyegarkan sepenuhnya terganggu oleh suara guntur. `
-` ...Itu hal yang normal. `
-` Semenjak mereka semua bangun, mereka belum menemukan siapapun. `
-` Rasanya seperti hanya mereka yang tersisa, seperti seisi mansion hanyalah bangunan yang kosong. `
-` "...Heeeeey `
-` Apakah ada orang?! `
-` Jawab aku!" `
-` Jessica berteriak ke arah lorong, dan akhirnya, jawaban pun datang. `
-` Suara itu berasal dari lorong masuk. `
-` "Aku bisa mendengarmu. `
+`kembalikan, Mama! `
+`kembalikan, Mama!! `
+`Uu-uu-uu-! `
+`Waauuuuuuuuuuuuu!!" `
+`"...Ya, jika kau benar, itu pasti merupakan benda yang sangat penting... `
+`...Mengapa sang penyihir memberikan sesuatu yang sangat penting kepada Maria? `
+`...Aku tidak paham." `
+`Sesekali, suasana pagi yang menyegarkan sepenuhnya terganggu oleh suara guntur. `
+`...Itu hal yang normal. `
+`Semenjak mereka semua bangun, mereka belum menemukan siapapun. `
+`Rasanya seperti hanya mereka yang tersisa, seperti seisi mansion hanyalah bangunan yang kosong. `
+`"...Heeeeey `
+`Apakah ada orang?! `
+`Jawab aku!" `
+`Jessica berteriak ke arah lorong, dan akhirnya, jawaban pun datang. `
+`Suara itu berasal dari lorong masuk. `
+`"Aku bisa mendengarmu. `
  `...Apakah sesuatu sedang terjadi?" `
-` "Itu adalah Dokter Nanjo. `
+`"Itu adalah Dokter Nanjo. `
 `...Terima kasih tuhan. `
-` Sepertinya, semua orang kecuali kita belum menghilang dari pulau ini." `
-` "Dokter Nanjo, selamat pagi. `
-` ...Umm, maaf, tapi apakah kamu tahu kemana perginya orang tua kita...?" `
-` "Maafkan aku. `
+`Sepertinya, semua orang kecuali kita belum menghilang dari pulau ini." `
+`"Dokter Nanjo, selamat pagi. `
+`...Umm, maaf, tapi apakah kamu tahu kemana perginya orang tua kita...?" `
+`"Maafkan aku. `
 `...Aku baru saja bangun dan datang ke sini. `
-` Aku tidak begitu yakin, tapi mari kita lihat..." `
-` Itu hal yang normal. `
-` Nanjo merupakan tamu yang sama seperti yang lain. `
-` Dia datang ke sini hanya untuk menghabiskan waktu sampai sarapan tiba. `
-` "Uu-uu-uu-!! `
-` Dokter Nanjo, Mama mengambilnya, Mama memanggil suratku!! `
-` Kembalikan, kembalikan, uu-uu-uu-!!!" `
-` Maria menenggelamkan wajahnya ke perut Nanjo yang gemuk, meratap dan menangis. `
+`Aku tidak begitu yakin, tapi mari kita lihat..." `
+`Itu hal yang normal. `
+`Nanjo merupakan tamu yang sama seperti yang lain. `
+`Dia datang ke sini hanya untuk menghabiskan waktu sampai sarapan tiba. `
+`"Uu-uu-uu-!! `
+`Dokter Nanjo, Mama mengambilnya, Mama memanggil suratku!! `
+`Kembalikan, kembalikan, uu-uu-uu-!!!" `
+`Maria menenggelamkan wajahnya ke perut Nanjo yang gemuk, meratap dan menangis. `
 `...Nanjo tak bisa berbuat apa-apa selain bingung dengan keributan di pagi buta ini. `
-` "......Ah. `
-` Seseorang berlari lewat sini. `
-` Jessica! `
-` Seseorang datang!" `
-` Dari ujung koridor, mereka bisa merasakan orang-orang berlari terburu-buru. `
-` Mereka melihat Gohda dan Kanon sedang mendekat. `
-` ...Biasanya, seorang pelayan yng berlari di dalam mansion amerupakan hal yang tidak pantas. `
-` Namun, Battler dan yang lainnya bahkan tidak terpikir untuk mempertanyakannya sekarang. `
-` Tangisan Maria sudah begitu tak terkendali, mereka ingin bertanya pada siapa pun—siapa saja—di mana Rosa berada. `
-` Namun, kedua pelayan itu tampaknya memiliki hal yang lebih penting di pikiran mereka ketimbang Jessica, yang sedang melambaikan tangan pada mereka. `
-` Gohda berlari ke ruang pelayan, dan ketika Kanon menyadari bahwa Nanjo ada di sana, dia membungkuk dan mendekati dokter dengan langkah cepat sebelum berbisik sesuatu di telinganya. `
-` "......Apa kau bilang? `
+`"......Ah. `
+`Seseorang berlari lewat sini. `
+`Jessica! `
+`Seseorang datang!" `
+`Dari ujung koridor, mereka bisa merasakan orang-orang berlari terburu-buru. `
+`Mereka melihat Gohda dan Kanon sedang mendekat. `
+`...Biasanya, seorang pelayan yng berlari di dalam mansion amerupakan hal yang tidak pantas. `
+`Namun, Battler dan yang lainnya bahkan tidak terpikir untuk mempertanyakannya sekarang. `
+`Tangisan Maria sudah begitu tak terkendali, mereka ingin bertanya pada siapa pun—siapa saja—di mana Rosa berada. `
+`Namun, kedua pelayan itu tampaknya memiliki hal yang lebih penting di pikiran mereka ketimbang Jessica, yang sedang melambaikan tangan pada mereka. `
+`Gohda berlari ke ruang pelayan, dan ketika Kanon menyadari bahwa Nanjo ada di sana, dia membungkuk dan mendekati dokter dengan langkah cepat sebelum berbisik sesuatu di telinganya. `
+`"......Apa kau bilang? `
 `Rosa-san yang melakukannya?" `
-` "Ya. `
-` Saya akan memandu anda, jadi tolong ikuti saya." `
-` "Baik..." `
-` "Sebelah sini." `
-` Tanpa mengatakan apapun selain itu, Kanon akhirnya menyadari Jessica lal membungkuk kepadanya. `
+`"Ya. `
+`Saya akan memandu anda, jadi tolong ikuti saya." `
+`"Baik..." `
+`"Sebelah sini." `
+`Tanpa mengatakan apapun selain itu, Kanon akhirnya menyadari Jessica lal membungkuk kepadanya. `
 `...Namun dia sedang tidak tenang. `
-` Dia berlari kembali ke lorong tempat dia datang, diikuti oleh Nanjo. `
-` Dilihat dari betapa terburu-burunya mereka, Battler dan yang lainnya menyadari bahwa, sesuatu yang buruk pasti telah terjadi. `
-` Mereka melihat Gohda melalui pintu ke ruang pelayan, yang telah dibuka lebar-lebar. `
-` ...Dia memegang receiver dan menekan tombol dengan keras. `
-` Dari situ, mereka menyadari bahwa dia mencoba menelepon rumah sakit atau polisi. Bagaimanapun, dia mencoba menelepon seseorang karena keadaan darurat yang serius telah terjadi. `
-` "Mari kita lihat...!" `
-` "Ya...!" `
-` "Kembalikan, Mama!! `
-` Kembalikan suratku!! `
-` Itu adalah {i:undangan untuk pergi menuju Taman Emas}!!" `
-` Mereka tidak tahu, tetapi sesuatu pasti sedang terjadi. `
-` Battler dan yang lainnya mengikuti Kanon dan Nanjo... `
-` Aaah, ...dan mereka pun menyadarinya. `
-` Kanon-kun telah memanggil Dokter Nanjo, tetapi dia tidak memanggil kami. `
-` ...Jadi kita tidak perlu mengikuti mereka. `
+`Dia berlari kembali ke lorong tempat dia datang, diikuti oleh Nanjo. `
+`Dilihat dari betapa terburu-burunya mereka, Battler dan yang lainnya menyadari bahwa, sesuatu yang buruk pasti telah terjadi. `
+`Mereka melihat Gohda melalui pintu ke ruang pelayan, yang telah dibuka lebar-lebar. `
+`...Dia memegang receiver dan menekan tombol dengan keras. `
+`Dari situ, mereka menyadari bahwa dia mencoba menelepon rumah sakit atau polisi. Bagaimanapun, dia mencoba menelepon seseorang karena keadaan darurat yang serius telah terjadi. `
+`"Mari kita lihat...!" `
+`"Ya...!" `
+`"Kembalikan, Mama!! `
+`Kembalikan suratku!! `
+`Itu adalah {i:undangan untuk pergi menuju Tanah Emas}!!" `
+`Mereka tidak tahu, tetapi sesuatu pasti sedang terjadi. `
+`Battler dan yang lainnya mengikuti Kanon dan Nanjo... `
+`Aaah, ...dan mereka pun menyadarinya. `
+`Kanon-kun telah memanggil Dokter Nanjo, tetapi dia tidak memanggil kami. `
+`...Jadi kita tidak perlu mengikuti mereka. `
 `Aku penasaran apakah Alice menyesali rasa penasarannya yang berlebihan saat dia mengejar kelinci yang memegang jam.... `
-` "Tidak, kau tidak boleh masuk!! `
-` Jangan melihat ke dalam!! `
-` Jessica-chan! `
-` Tidak!!" `
-` "Hii... `
+`"Tidak, kau tidak boleh masuk!! `
+`Jangan melihat ke dalam!! `
+`Jessica-chan! `
+`Tidak!!" `
+`"Hii... `
 `......t- `
-` tidaaaaaaaaaaaaaaaaaaaaaaaaaaaak!!!" `
-` "Ibu, Ayah!! `
-` Apa...apa yang terjadi!! `
+`tidaaaaaaaaaaaaaaaaaaaaaaaaaaaak!!!" `
+`"Ibu, Ayah!! `
+`Apa...apa yang terjadi!! `
 `Uuuuuuuuuuuuuuuuuuuuuuu!!" `
-` "...Apa-apaan ini... `
-` ...Ini lebih dari sekedar kejam... `
-` Bukankah membunuh seseorang saja sudah cukup buruk...? `
-` ......Apa maksudnya ini!!" `
-` Mengapa mereka harus mati dengan keadaan duduk di kursi, dibelah perutnya, dan ditarik usus mereka hingga keluar?!! `
-` Kau sengaja mengisi perut mereka dengan permen?!! `
-` Mengapa... mengapa kau melakukan hal yang begitu gila?!! `
-` Sial, sial! `
-` Dasar, kau bajingan, gila, keparat!! `
-` Gyyaaaaaaaaggghh!!" `
-` "......Semuanya, lebih baik jika kalian pergi keluar...! `
-` Mereka pasti tidak ingin kalian melihatny diperlakukan seperti ini..." `
-` Nanjo menyuruh anak-anak untuk pergi keluar, tetapi tidak ada yang mendengarkan. `
-` "Rosa-san, tolong perintahkan mereka. `
-` Jika mereka terus melihat sesuatu seperti ini, ...Hal itu hanya akan menimbulkan kesedihan...!" `
-` "........." `
-` Rosa menyesali kelalaiannya. `
+`"...Apa-apaan ini... `
+`...Ini lebih dari sekedar kejam... `
+`Bukankah membunuh seseorang saja sudah cukup buruk...? `
+`......Apa maksudnya ini!!" `
+`Mengapa mereka harus mati dengan keadaan duduk di kursi, dibelah perutnya, dan ditarik usus mereka hingga keluar?!! `
+`Kau sengaja mengisi perut mereka dengan permen?!! `
+`Mengapa... mengapa kau melakukan hal yang begitu gila?!! `
+`Sial, sial! `
+`Dasar, kau bajingan, gila, keparat!! `
+`Gyyaaaaaaaaggghh!!" `
+`"......Semuanya, lebih baik jika kalian pergi keluar...! `
+`Mereka pasti tidak ingin kalian melihatny diperlakukan seperti ini..." `
+`Nanjo menyuruh anak-anak untuk pergi keluar, tetapi tidak ada yang mendengarkan. `
+`"Rosa-san, tolong perintahkan mereka. `
+`Jika mereka terus melihat sesuatu seperti ini, ...Hal itu hanya akan menimbulkan kesedihan...!" `
+`"........." `
+`Rosa menyesali kelalaiannya. `
 `...Dia seharusnya menyadari bahwa anak-anak itu akan datang ke sini. `
 `...Dia seharusnya segera mengunci pintu daripada hanya berdiam diri. `
-` Jadi, anak-anak itu telah datang ke sini. `
-` Mereka telah melihatnya...! `
-` Tentu saja, pada saat itu juga, mereka sedang menyaksikan pemandangan yang membekas di mata mereka... `
-` yang jauh lebih mengerikan daripada hidangan mengerikan yang pernah disaksikan Rosa di masa mudanya... `
-` Sambil memeluk Maria, yang tampaknya terlalu terkejut untuk menunjukkan emosi apa pun di hadapan pemandangan yang mengerikan itu, `
-` Rosa menangis untuk mereka dan orang tua mereka. `
-` Empat suara mengerang dan menangis, kesedihan mereka, ...terus bergema di tempat yang seharusnya mengenal kasih Tuhan... `
-` "Kau benar-benar sampah!! `
-` Lagi dan lagi?! Kau membuat ini sebagai pembunuhan?!! `
-` Dan kali ini kau membuatnya lebih jelas, membunuh mereka seolah-olah itu hanya lelucon!!" `
-` "*Terkekeh-kekeh* `
-` Padahal aku berharap kau berterima kasih padaku, ketimbang menangisinya." `
-` "Berterima kasih?!! `
-` Kau bilang aku harus berterima kasih, jalang tua?! `
-` Sialan, jika ada yang salah dengan telingamu, aku akan memotong keduanya agar kau bisa mendengar!! `
-` Mengapa aku harus melhat kegilaan dari pembunuhan ini dan mengatan "Oh, terima kasih banyak {f:5:Beatrice}-sama"?! Aku akan menghancurkan otakmu!!!" `
-` "Di permainan sebelumnya, `
-` Kau menyesal karena tidak bisa melihat wajah orang tuamu setelah mereka mati, bukan? `
-` Jadi kali ini, aku membiarkannya. `
-` Sama sekali tidak menyentuhnya!! `
-` {i:Lihat kembali, tidak diragukan lagi, ayahmu dan yang lainnya telah dibunuh}!! `
-` "Su...ungguh, pelayanan yang indah, aku sangat senang!! `
-` Aku bersumpah akan menghancurkan wajahmu setelah aku mencekikmu, tapi aku tarik kembal kata-kata itu. Sebagai gantinya aku akan mencabik-cabik isi perutmu!!!" `
-` "Jangan terlalu bawa emosi, jangan berhenti berpkir. `
-` Permainanku baru saja dimulai, tahu? `
+`Jadi, anak-anak itu telah datang ke sini. `
+`Mereka telah melihatnya...! `
+`Tentu saja, pada saat itu juga, mereka sedang menyaksikan pemandangan yang membekas di mata mereka... `
+`yang jauh lebih mengerikan daripada hidangan mengerikan yang pernah disaksikan Rosa di masa mudanya... `
+`Sambil memeluk Maria, yang tampaknya terlalu terkejut untuk menunjukkan emosi apa pun di hadapan pemandangan yang mengerikan itu, `
+`Rosa menangis untuk mereka dan orang tua mereka. `
+`Empat suara mengerang dan menangis, kesedihan mereka, ...terus bergema di tempat yang seharusnya mengenal kasih Tuhan... `
+`"Kau benar-benar sampah!! `
+`Lagi dan lagi?! Kau membuat ini sebagai pembunuhan?!! `
+`Dan kali ini kau membuatnya lebih jelas, membunuh mereka seolah-olah itu hanya lelucon!!" `
+`"*Terkekeh-kekeh* `
+`Padahal aku berharap kau berterima kasih padaku, ketimbang menangisinya." `
+`"Berterima kasih?!! `
+`Kau bilang aku harus berterima kasih, jalang tua?! `
+`Sialan, jika ada yang salah dengan telingamu, aku akan memotong keduanya agar kau bisa mendengar!! `
+`Mengapa aku harus melhat kegilaan dari pembunuhan ini dan mengatan "Oh, terima kasih banyak {f:5:Beatrice}-sama"?! Aku akan menghancurkan otakmu!!!" `
+`"Di permainan sebelumnya, `
+`Kau menyesal karena tidak bisa melihat wajah orang tuamu setelah mereka mati, bukan? `
+`Jadi kali ini, aku membiarkannya. `
+`Sama sekali tidak menyentuhnya!! `
+`{i:Lihat kembali, tidak diragukan lagi, ayahmu dan yang lainnya telah dibunuh}!! `
+`"Su...ungguh, pelayanan yang indah, aku sangat senang!! `
+`Aku bersumpah akan menghancurkan wajahmu setelah aku mencekikmu, tapi aku tarik kembal kata-kata itu. Sebagai gantinya aku akan mencabik-cabik isi perutmu!!!" `
+`"Jangan terlalu bawa emosi, jangan berhenti berpkir. `
+`Permainanku baru saja dimulai, tahu? `
 `*terkekeh-kekeh* `
-` Kali ini ak memutuskn untuk membiarkan dan mennggalkan mayat dengan rapi." `
-` "Kau tahu kenapa? `
+`Kali ini ak memutuskn untuk membiarkan dan mennggalkan mayat dengan rapi." `
+`"Kau tahu kenapa? `
 `Saat kau membantah keberadaanku di permaian terakhir, `
-` kau menggunakan kalimat ini untuk berpikir..." `
-` "{i:"Wajah mereka hancur, jadi identitas dari mayat tidak dapat dikonfirmsi.}" `
+`kau menggunakan kalimat ini untuk berpikir..." `
+`"{i:"Wajah mereka hancur, jadi identitas dari mayat tidak dapat dikonfirmsi.}" `
 `"{i:Oleh karena itu, kita tidak dapat mengesampingkan kemungkinan bahwa mayat palsu disiapkan untuk menciptakan alibi.}" `
-` "{i:Selama kemungkinan tersebut tidak dibantah, teori bahwa pelaku merupakan manusia masih bisa dibuat!!}"" `
-` "Apa katamuuuuuu...?!!" `
+`"{i:Selama kemungkinan tersebut tidak dibantah, teori bahwa pelaku merupakan manusia masih bisa dibuat!!}"" `
+`"Apa katamuuuuuu...?!!" `
  `"*terkekeh-kekeh*kikikikikikikikikikikikikikikikikikikiki!! `
-` Jadi, Battler, apakah boleh menyerahkan pemeriksaan mayat kepada Nanjo? `
+`Jadi, Battler, apakah boleh menyerahkan pemeriksaan mayat kepada Nanjo? `
 `Bukankah dalam novel misteri, dokter yang melakukan pemeriksaan semacam itu biasanya menjadi kaki tangan?" `
-` "Kalau begitu, jangan serahkan pemeriksaan itu kepadanya. Lakukan sendiri. `
-` Buktikan bahwa keenam mayat itu benar-benar keenam orang yang seharusnya, bahwa mereka benar-benar, sudah mati, bukan hanya berpura-pura!!" `
-` "Jika kamu ingin memastikan bahwa Ayah dan Ibumu dibunuh dengan perut mereka dipotong dan ususnya ditarik keluar, `
-` lebih baik kau memasukkan tanganmu ke dalam perut mereka dan merabanya!! `
-` Kuhahahahahahahahahahahahahahahahahahahaha, ki-hahahahahahahahahahahahahahaha!!" `
-` "Aku tidak akan menangis!!! `
-` Sial, sialan, ...aku tidak akan menangis...!!" `
-` Battler tiba-tiba berteriak. `
-` Air matanya masih mengalir, tapi seolah-olah menegur dirinya sendiri karena dianggap pengecut, dia menampar wajahnya dengan keras beberapa kali menggunakan kedua tangannya. `
-` Meskipun begitu, air mata tetap tidak berhenti. `
+`"Kalau begitu, jangan serahkan pemeriksaan itu kepadanya. Lakukan sendiri. `
+`Buktikan bahwa keenam mayat itu benar-benar keenam orang yang seharusnya, bahwa mereka benar-benar, sudah mati, bukan hanya berpura-pura!!" `
+`"Jika kamu ingin memastikan bahwa Ayah dan Ibumu dibunuh dengan perut mereka dipotong dan ususnya ditarik keluar, `
+`lebih baik kau memasukkan tanganmu ke dalam perut mereka dan merabanya!! `
+`Kuhahahahahahahahahahahahahahahahahahahaha, ki-hahahahahahahahahahahahahahaha!!" `
+`"Aku tidak akan menangis!!! `
+`Sial, sialan, ...aku tidak akan menangis...!!" `
+`Battler tiba-tiba berteriak. `
+`Air matanya masih mengalir, tapi seolah-olah menegur dirinya sendiri karena dianggap pengecut, dia menampar wajahnya dengan keras beberapa kali menggunakan kedua tangannya. `
+`Meskipun begitu, air mata tetap tidak berhenti. `
 `...Namun, dia merasakan panas yang membakar di kedua matanya. `
 `"Siapa pun yang bertanggung jawab atas hal ini, aku akan membuat mereka membayar sepenuhnya!! `
-` Ini bukan waktunya untuk menangis, aku harus memikirkan apa yang harus dilakukan!! `
+`Ini bukan waktunya untuk menangis, aku harus memikirkan apa yang harus dilakukan!! `
 `Aaaah, percuma, semuanya sia-sia!! `
 `Jika kamu punya waktu untuk menangis, maka pikirkan! `
-` Ini bukan waktunya untuk membiarkan dirimu menangis!!" `
-` Ketimbang disebut kemarahan murni, itu lebih seperti kemarahan untuk menyembunyikan kesedihannya. `
+`Ini bukan waktunya untuk membiarkan dirimu menangis!!" `
+`Ketimbang disebut kemarahan murni, itu lebih seperti kemarahan untuk menyembunyikan kesedihannya. `
 `. ..Namun, hal itu memberinya sedikit keberanian kepada George dan Jessica, yang telah hancur oleh kesedihan. `
-` "...Itu benar. `
-` ...Meskipun kita menangis, `
+`"...Itu benar. `
+`...Meskipun kita menangis, `
 `...itu tidak akan mengubah kenyataan... `
-` atas apa yang telah terjadi." `
-` "Sial, ...sial sial sial, ...sial sial sial!! `
-` Lalu apa yang harus kta lakukan?! `
-` Apa yang harus aku lakukan... demi Ibu dan Ayah?!!" `
-` "...Rosa-sama... `
-` Aku telah kembali..." `
-` "Gohda-san, bagaimana denan polisinya? `
-` Apa yang mereka katakan? `
-` Apakah mereka mengatakan kapan mereka memperkirakan bisa sampai di sini?" `
-` "...Mengenai itu, ...sepertinya teleponnya rusak... `
-` Saya juga telah mencoba telepon darurat, tapi...umm, mungkin karena cuacanya, itu juga tidak dapat berfungsi..." `
-` "Apa kau bilang...?! `
-` Jadi, kita tidak bisa menelpon polisi?!" `
-` "Pasti ulah orang itu! `
-` Mereka melakukan sesuatu dengan teleponnya, membuat kita tidak dapat menelpon polisi!!" `
-` Ketika mendengar bahwa telepon-telepon itu rusak, Jessica langsung menyimpulkan bahwa itu ulah tamu misterius. `
-` Matanya merah membara setelah menangis begitu lama, dan semakin merah karena amarah. `
-` "...Ah, tidak perlu dibahas lagi, bukan?! `
-` Aku mengerti semuanya, itu benar, aku paham! `
-` Siapa yang membunuh Ayah dan Ibu?!" `
-` "Sudah pasti dia orangnya!! `
-` Orang yang memperkenalkan diri sebagai penyihir atau semacamnya kemarin!!! `
-` Aku akan memegang kerahnya!! `
-` Sial sial siaaaaaaaaaaaaaaal!!" `
-` "Jessica-chan...! `
-` Tunggu! `
+`atas apa yang telah terjadi." `
+`"Sial, ...sial sial sial, ...sial sial sial!! `
+`Lalu apa yang harus kta lakukan?! `
+`Apa yang harus aku lakukan... demi Ibu dan Ayah?!!" `
+`"...Rosa-sama... `
+`Aku telah kembali..." `
+`"Gohda-san, bagaimana denan polisinya? `
+`Apa yang mereka katakan? `
+`Apakah mereka mengatakan kapan mereka memperkirakan bisa sampai di sini?" `
+`"...Mengenai itu, ...sepertinya teleponnya rusak... `
+`Saya juga telah mencoba telepon darurat, tapi...umm, mungkin karena cuacanya, itu juga tidak dapat berfungsi..." `
+`"Apa kau bilang...?! `
+`Jadi, kita tidak bisa menelpon polisi?!" `
+`"Pasti ulah orang itu! `
+`Mereka melakukan sesuatu dengan teleponnya, membuat kita tidak dapat menelpon polisi!!" `
+`Ketika mendengar bahwa telepon-telepon itu rusak, Jessica langsung menyimpulkan bahwa itu ulah tamu misterius. `
+`Matanya merah membara setelah menangis begitu lama, dan semakin merah karena amarah. `
+`"...Ah, tidak perlu dibahas lagi, bukan?! `
+`Aku mengerti semuanya, itu benar, aku paham! `
+`Siapa yang membunuh Ayah dan Ibu?!" `
+`"Sudah pasti dia orangnya!! `
+`Orang yang memperkenalkan diri sebagai penyihir atau semacamnya kemarin!!! `
+`Aku akan memegang kerahnya!! `
+`Sial sial siaaaaaaaaaaaaaaal!!" `
+`"Jessica-chan...! `
+`Tunggu! `
 `Gohda-san, Kanon-kun, ayo!" `
-` "B-baik Nyonya...!" `
-` "Nona, tunggu...!" `
+`"B-baik Nyonya...!" `
+`"Nona, tunggu...!" `
 `Menutupi kesedihannya yang tak terkendali dengan amarah, Jessica berlari ke luar, dilahap oleh emosi. `
 `...Memikirkan hal itu dengan terburu-buru, mungkin tamu misterius yang tiba kemarin, {f:5:Beatrice}, telihat mencurigakan. `
-` Namun, pada saat itu, sama sekali tidak ada bukti bahwa dia adalah pelakunya. `
-` ...Saat ini, dia hanyalah tamu biasa, tidak lebih, tidak kurang. `
-` Jadi Rosa, dengan keputusan dewasa, terpaksa menghentikan Jessica dalam amukannya yang gegabah. `
-` Gohda dan Kanon segera menyadari hal itu dan mengejarnya. `
-` "...Apakah tamu yang tidak diundang, {f:5:Beatrice}, adalah pelakunya...?” `
-` "Aku mengerti bagaimana perasaan Jessica. `
-` ...Aku berharap bisa berpikir seperti itu juga. `
-` Tidak peduli siapa yang melakukannya, aku ingin seseorang menjadi pelaku agar aku bisa memukul tepat di wajah mereka!! `
-` ...Namun sebelum itu, kia harus memahami apa yang sdang terjadi. `
-` ...Siapa itu {f:5:Beatrice}? `
-` Ak belum pernah melihat wajahnya!!" `
-` "...Kihihihihihihihihihihihihihihihi. `
-` Jika kau penasaran, itu ada di lukisan besar di dalam Mansion. `
-` Kau masih belum mengingatnya seelah melihatnya begitu lama? `
-` Kihihihihihi." `
-` "...Ayolah, Maria. `
+`Namun, pada saat itu, sama sekali tidak ada bukti bahwa dia adalah pelakunya. `
+`...Saat ini, dia hanyalah tamu biasa, tidak lebih, tidak kurang. `
+`Jadi Rosa, dengan keputusan dewasa, terpaksa menghentikan Jessica dalam amukannya yang gegabah. `
+`Gohda dan Kanon segera menyadari hal itu dan mengejarnya. `
+`"...Apakah tamu yang tidak diundang, {f:5:Beatrice}, adalah pelakunya...?” `
+`"Aku mengerti bagaimana perasaan Jessica. `
+`...Aku berharap bisa berpikir seperti itu juga. `
+`Tidak peduli siapa yang melakukannya, aku ingin seseorang menjadi pelaku agar aku bisa memukul tepat di wajah mereka!! `
+`...Namun sebelum itu, kia harus memahami apa yang sdang terjadi. `
+`...Siapa itu {f:5:Beatrice}? `
+`Ak belum pernah melihat wajahnya!!" `
+`"...Kihihihihihihihihihihihihihihihi. `
+`Jika kau penasaran, itu ada di lukisan besar di dalam Mansion. `
+`Kau masih belum mengingatnya seelah melihatnya begitu lama? `
+`Kihihihihihi." `
+`"...Ayolah, Maria. `
 `...Apa yang lucu dari situasi ini?!" `
-` "{f:5:Beatrice} adalah seorang penyihir. `
-` Dan upacara untuk membuka gerbang menuju Taman Emas akhirnya dimulai. `
-` Keenam orang tersebut merupakan pengorbanan. `
-` ...Kihihihihihihihihihihihihihihihihi! `
-` Mari, kita mulai perjamuan Sang Penyihir. `
-` Malam ini merupakan Halloween, jadi seluruh penyihir akan berkumpul untuk merayakannya. `
+`"{f:5:Beatrice} adalah seorang penyihir. `
+`Dan upacara untuk membuka gerbang menuju Tanah Emas akhirnya dimulai. `
+`Keenam orang tersebut merupakan pengorbanan. `
+`...Kihihihihihihihihihihihihihihihihi! `
+`Mari, kita mulai perjamuan Sang Penyihir. `
+`Malam ini merupakan Halloween, jadi seluruh penyihir akan berkumpul untuk merayakannya. `
 `Ki-hihihihihihihihihihihihihihihihihihihihihihihihihi!!" `
-` "Maria, sudah berapa kali aku katakan untuk berhenti tertawa dengan suara seram seperti itu!" `
-` Suara keras tamparan Rosa pada Maria bergema di dalam kapel berlangit-langit tinggi... `
-` Sejak hujan mulai turun kemarin... `
-` Tidak, ...sejak pulau itu tertelan oleh badai, aku merasa seolah-olah ada sesuatu...yang salah. `
-` Saat aku tiba di Rokkenjima, cuacanya cerah dan cerah, tapi karena aku bangun pagi dan mengantuk, aku tidur sebentar. `
-` ...Saat aku bangun, hujan sudah mulai turun. `
-` Dan sejak saat itu... `
-` Tiba-tiba, seorang pengunjung misterius yang menyebut dirinya Penyihir Emas {f:5:Beatrice} datang, dan rasanya seperti aku perlahan-lahan tenggelam ke dalam dunia yang aneh. `
-` Apa yang terjadi saat aku tidur siang? `
-` Apakah aku harus percaya bahwa pulau ini terisolasi di dalam dunia lain, dimana akal sehat tidak berlaku...?! `
-` Siapa orang yang disebut {f:5:Beatrice} ini? `
-` Apakah ada orang tak dikenal yang mencoba campur tangan dalam masalah warisan, seperti yang dibicarakan orang tua kita dengan panik saat makan malam tadi malam? `
-` ...Atau apakah pelakunya adalah penyihir dari Legenda Emas, seperti yang dikatakan Maria?! `
-` Bahkan jika kita mengesampingkan kemarahan Jessica, melihat dari situasinya, masuk akal untum mengatakan bahwa pengunjung tersebut sangat mencurigakan. `
-` Namun kita tidak boleh berpikir dengan perasaan. `
-` Aaah, percuma, percuma, semuanya sia-sia...!! `
-` Aku menepuk wajahku dengan kedua tangan lagi, mendinginkan otakku sebelum terlalu panas. `
-` Meskipun mungkin itu usaha yang sia-sia... `
-` '...Ini......adalah salah satu amplop milik Kakek.' `
-` Di atas nampan yang dipenuhi permen yang menghiasi meja, George-aniki menemukan amplop bergaya Barat yang dihiasi lambang keluarga Ushiromiya dengan daun emas. `
-` Dan amplop itu belum dibuka. `
-` "Artinya...mungkin amplop ini untuk kita, kan? `
-` Kalau amplop itu dibaca oleh Ayah dan yang lain, seharusnya sudah dibuka." `
-` "...Sepertinya dugaanmumu benar. `
-` ...Itu tertulis di sini. `
-` Seseorang menulis "bagi mereka yang tersisa"." `
-` "Apakah itu...surat yang ditinggalkan oleh pelaku...?! `
-` A-apa isinya...?" `
-` "Aniki, cepat buka...!" `
-` Setelah sedikit mengangguk, George-aniki membuka segelnya. `
+`"Maria, sudah berapa kali aku katakan untuk berhenti tertawa dengan suara seram seperti itu!" `
+`Suara keras tamparan Rosa pada Maria bergema di dalam kapel berlangit-langit tinggi... `
+`Sejak hujan mulai turun kemarin... `
+`Tidak, ...sejak pulau itu tertelan oleh badai, aku merasa seolah-olah ada sesuatu...yang salah. `
+`Saat aku tiba di Rokkenjima, cuacanya cerah dan cerah, tapi karena aku bangun pagi dan mengantuk, aku tidur sebentar. `
+`...Saat aku bangun, hujan sudah mulai turun. `
+`Dan sejak saat itu... `
+`Tiba-tiba, seorang pengunjung misterius yang menyebut dirinya Penyihir Emas {f:5:Beatrice} datang, dan rasanya seperti aku perlahan-lahan tenggelam ke dalam dunia yang aneh. `
+`Apa yang terjadi saat aku tidur siang? `
+`Apakah aku harus percaya bahwa pulau ini terisolasi di dalam dunia lain, dimana akal sehat tidak berlaku...?! `
+`Siapa orang yang disebut {f:5:Beatrice} ini? `
+`Apakah ada orang tak dikenal yang mencoba campur tangan dalam masalah warisan, seperti yang dibicarakan orang tua kita dengan panik saat makan malam tadi malam? `
+`...Atau apakah pelakunya adalah penyihir dari Legenda Emas, seperti yang dikatakan Maria?! `
+`Bahkan jika kita mengesampingkan kemarahan Jessica, melihat dari situasinya, masuk akal untum mengatakan bahwa pengunjung tersebut sangat mencurigakan. `
+`Namun kita tidak boleh berpikir dengan perasaan. `
+`Aaah, percuma, percuma, semuanya sia-sia...!! `
+`Aku menepuk wajahku dengan kedua tangan lagi, mendinginkan otakku sebelum terlalu panas. `
+`Meskipun mungkin itu usaha yang sia-sia... `
+`'...Ini......adalah salah satu amplop milik Kakek.' `
+`Di atas nampan yang dipenuhi permen yang menghiasi meja, George-aniki menemukan amplop bergaya Barat yang dihiasi lambang keluarga Ushiromiya dengan daun emas. `
+`Dan amplop itu belum dibuka. `
+`"Artinya...mungkin amplop ini untuk kita, kan? `
+`Kalau amplop itu dibaca oleh Ayah dan yang lain, seharusnya sudah dibuka." `
+`"...Sepertinya dugaanmumu benar. `
+`...Itu tertulis di sini. `
+`Seseorang menulis "bagi mereka yang tersisa"." `
+`"Apakah itu...surat yang ditinggalkan oleh pelaku...?! `
+`A-apa isinya...?" `
+`"Aniki, cepat buka...!" `
+`Setelah sedikit mengangguk, George-aniki membuka segelnya. `
 `...Sebuah surat terlipat di dalamnya. `
-` "......Akan ku bacakan. `
+`"......Akan ku bacakan. `
 `......Selamat datang di Rokkenjima, para anggota keluarga Ushiromiya. `
 `Saya adalah {f:5:Beatrice}, ahli alkimia di keluarga ini yang dipekerjakan langsung oleh Kinzo-sama..." `
-` Surat itu benar-benar hanya lelucon. `
-` Beatrice, yang menyebut dirinya alkemis keluarga, telah mengumumkan bahwa dia akan mengumpulkan emas yang dipinjamkan kepada Kakek, beserta bunganya. `
-` Dan bunga itu...adalah segala sesuatu yang telah diciptakan oleh Kakek. `
-` Karena tragedi ini terjadi tepat di depan mata kita saat paragraf ini dibacakan, jelas bahwa itu tidak hanya merujuk pada kekayaan yang telah dibangun oleh Kakek. `
-` ...Itu literal. `
-` Segala sesuatu yang telah diciptakan oleh Kakek... `
-` ...Dengan kata lain, ...semua keturunan Kakek termasuk dalam bunganya! `
-` "Kau bajingan!! `
-` Kontrak yang kacau balau! `
-` Hidup sebagai jaminan untuk emas, katamu?! `
-` Itu hampir seperti kontrak dengan setan, tahu?! `
-` Kau pikir itu membuatmu terlihat seperti penyihir?! `
-` Ha, jangan buat aku tertawa!!" `
-` "...Klausul khusus. `
+`Surat itu benar-benar hanya lelucon. `
+`Beatrice, yang menyebut dirinya alkemis keluarga, telah mengumumkan bahwa dia akan mengumpulkan emas yang dipinjamkan kepada Kakek, beserta bunganya. `
+`Dan bunga itu...adalah segala sesuatu yang telah diciptakan oleh Kakek. `
+`Karena tragedi ini terjadi tepat di depan mata kita saat paragraf ini dibacakan, jelas bahwa itu tidak hanya merujuk pada kekayaan yang telah dibangun oleh Kakek. `
+`...Itu literal. `
+`Segala sesuatu yang telah diciptakan oleh Kakek... `
+`...Dengan kata lain, ...semua keturunan Kakek termasuk dalam bunganya! `
+`"Kau bajingan!! `
+`Kontrak yang kacau balau! `
+`Hidup sebagai jaminan untuk emas, katamu?! `
+`Itu hampir seperti kontrak dengan setan, tahu?! `
+`Kau pikir itu membuatmu terlihat seperti penyihir?! `
+`Ha, jangan buat aku tertawa!!" `
+`"...Klausul khusus. `
 `......Namun, jika seseorang berhasil menemukan emas tersembunyi dalam kontrak ini, {f:5:Beatrice} harus menyerahkan hak-hak ini selamanya." `
-` "......Hmm... `
-` ...Kinzo-sama telah secara terbuka mengungkapkan lokasi emas tersembunyi di dalam nisan di bawah lukisanku..." `
-` "...Dengan kata lain, itu sesuatu yang seperti ini. `
-` Jika pembunuhan-pembunuhan ini mewakili minat koleksinya, `
-` maka dia memberi tahu kita untuk mencoba menemukan emas yang dia berikan kepada Kakek jika kita ingin dia berhenti... `
-` Dan, dia juga mengatakan bahwa rahasia yang mengarah ke emas tersembunyi dalam epitaf potret." `
-` "Jadi, intinya, ...ini adalah surat tantangan dari penyihir? `
-` Dia menyuruh kita untuk mencoba memecahkan kode yang mengarah ke emas tersembunyi, jika kita bisa?! `
-` Dan jika kita tidak bisa, dia akan terus mengumpulkan bunga seperti yang direncanakan?" `
+`"......Hmm... `
+`...Kinzo-sama telah secara terbuka mengungkapkan lokasi emas tersembunyi di dalam nisan di bawah lukisanku..." `
+`"...Dengan kata lain, itu sesuatu yang seperti ini. `
+`Jika pembunuhan-pembunuhan ini mewakili minat koleksinya, `
+`maka dia memberi tahu kita untuk mencoba menemukan emas yang dia berikan kepada Kakek jika kita ingin dia berhenti... `
+`Dan, dia juga mengatakan bahwa rahasia yang mengarah ke emas tersembunyi dalam epitaf potret." `
+`"Jadi, intinya, ...ini adalah surat tantangan dari penyihir? `
+`Dia menyuruh kita untuk mencoba memecahkan kode yang mengarah ke emas tersembunyi, jika kita bisa?! `
+`Dan jika kita tidak bisa, dia akan terus mengumpulkan bunga seperti yang direncanakan?" `
 `“Aku akan membunuhmu sampai mati, cepat!!!” `
-` "...B-Battler-kun! `
-` Lihat, ...lihat!!!" `
-` Meja itu dipenuhi dengan banyak manisan, `
-` ...jadi meskipun barang-barang itu ada di tempat terbuka, kita akan mengira bahwa itu juga manisan. `
-` ...Maksudku, ayolah, kau sering melihatnya, kan? `
-` ...Kau tahu, kotak cokelat berbentuk batangan emas...! `
-` "...Ini bukan kotak permen... `
-` Ini barang asli...! `
-` Ini adalah batangan emas asli...!!" `
-` "...Terdapat lambang Elang Bersayap Satu di atasnya... `
-` ...Aku mendengar Ibu membicarakannya tadi. `
-` ...Ini adalah batangan emas dari Legenda Emas Kakek...!!" `
-` Tiga batang emas seberat 10 kilogram masing-masing...ditumpuk di tengah meja! `
-` Itu tempat di mana kue ulang tahun akan diletakkan jika ini adalah pesta ulang tahun. `
-` ...Dengan kata lain, ini adalah kue ulang tahun dari pesta yang disebut konferensi keluarga! `
+`"...B-Battler-kun! `
+`Lihat, ...lihat!!!" `
+`Meja itu dipenuhi dengan banyak manisan, `
+`...jadi meskipun barang-barang itu ada di tempat terbuka, kita akan mengira bahwa itu juga manisan. `
+`...Maksudku, ayolah, kau sering melihatnya, kan? `
+`...Kau tahu, kotak cokelat berbentuk batangan emas...! `
+`"...Ini bukan kotak permen... `
+`Ini barang asli...! `
+`Ini adalah batangan emas asli...!!" `
+`"...Terdapat lambang Elang Bersayap Satu di atasnya... `
+`...Aku mendengar Ibu membicarakannya tadi. `
+`...Ini adalah batangan emas dari Legenda Emas Kakek...!!" `
+`Tiga batang emas seberat 10 kilogram masing-masing...ditumpuk di tengah meja! `
+`Itu tempat di mana kue ulang tahun akan diletakkan jika ini adalah pesta ulang tahun. `
+`...Dengan kata lain, ini adalah kue ulang tahun dari pesta yang disebut konferensi keluarga! `
 `"Jika itu memang emas murni 49 karat... `
-` ...nn, *menelan*. `
-` Mereka, mereka bernilai sekitar 60 juta yen!" `
-` "Kau bodoh sekali, jalaaaaaang!! `
-` Itu terlalu murah!!! `
-` Enam orang tua kita dibunuh, dan emas yang kau berikan kepada kita sebagai gantinya hanya 60 juta yen?! `
+`...nn, *menelan*. `
+`Mereka, mereka bernilai sekitar 60 juta yen!" `
+`"Kau bodoh sekali, jalaaaaaang!! `
+`Itu terlalu murah!!! `
+`Enam orang tua kita dibunuh, dan emas yang kau berikan kepada kita sebagai gantinya hanya 60 juta yen?! `
 `Jangan anggap kami bodoh, sialaaaaaaaaaan!!!" `
-` "...Kihihihihihihihihihihihihihihihi. `
-` ...Jadi, ini sudah dimulai, {f:5:Beatrice}. `
-` ...Lagipula, tidak ada yang bisa memecahkan teka-teki ini. `
-` Beato pasti menang." `
-` "...Cepatlah, buka gerbang menuju Taman Emas. `
-` Dan bawalah aku bersamamu. `
+`"...Kihihihihihihihihihihihihihihihi. `
+`...Jadi, ini sudah dimulai, {f:5:Beatrice}. `
+`...Lagipula, tidak ada yang bisa memecahkan teka-teki ini. `
+`Beato pasti menang." `
+`"...Cepatlah, buka gerbang menuju Tanah Emas. `
+`Dan bawalah aku bersamamu. `
 `...Kihihihihihihihihihihihihihi!" `
