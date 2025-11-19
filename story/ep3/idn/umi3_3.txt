@@ -1,676 +1,676 @@
-`Without even being allowed to wait for dessert, we were chased out of the room. `
-`I heard that, in the end, our parents were unable to get Grandfather to respond. `
-`...Well, I hate to say it, but I feel like giving Grandfather a high five right now. `
-`He was probably pretty satisfied with how his strange letter had given his children a good shock, since they'd all been so infatuated with the inheritance problem while Grandfather was still alive. `
-`I also felt like our despicable parents had gotten what they deserved in all of this confusion. `
-`...But I couldn't really say that I was feeling great. `
-`I felt all sulky. `
-`Apparently, Grandfather hadn't seemed concerned with the whole thing, but he also hadn't denied anything about the letter either. `
-`When talking about the witch's letter, Grandfather's name kept popping up. `
-`If Grandfather knew that someone was stealing his name, then considering his character, he'd probably be mad with rage. `
-`But even though Grandfather now knew the contents of that letter, he coldly ignored it. `
-`So, did that count as a silent yes? `
-`Aunt Eva and Dad were trying to interpret the letter in their favor, their greed clearly visible. `
-`It wouldn't have mattered so much if that was all, but the adults had now started focusing on Maria, who had received the letter. `
-`They kept pounding her with questions about who had given it to her. `
-`Maria repeated over and over again that she had gotten it from {f:5:Beatrice}, but there was no way such a mysterious person could've sneaked onto the island. `
-`...After all, this island's small, and there's no one living on it outside the Ushiromiya family household. `
-`Maria kept repeating that she'd gotten it from {f:5:Beatrice} no matter how many times she was asked. `
-`The adults seemed to think she was trying to trick them, so they didn't hold back and questioned her until she broke out in tears... `
-`When Maria was released, she sobbed, all worn out from crying. `
-`After our parents ordered us to go to the guesthouse and take Maria with us, `
-`they shut themselves up in the dining hall and started getting louder and louder as they discussed the inheritance. `
-`It seemed that, because of that strange letter, Uncle Krauss's chances of becoming the next Head might've been reduced to a blank slate, `
-`and in exchange for accepting him, my dad and the rest were trying to swindle Uncle Krauss out of a lot of money...or something like that. `
-`Disgusted as we were, Jessica and I were happy to move over to the guesthouse. `
-`We didn't want to be under the same roof as those filthy adults, their heads so filled with thoughts about money. `
-`George-aniki pleaded on our parents' behalf, saying that he wanted us to understand them. `
-`...I understood his reasoning. `
-`No matter how filthy this talk of money was, it wouldn't go away if you just closed your eyes to it. `
-`But even so, how could they sink so low as to overtly fight over the money of the dead...? `
-`Maria had cried herself dry and was hiding in her bed. `
-`She hadn't even twitched for a while, so she was probably sleeping... `
-`"......Who in the world gave that letter to Maria-chan?" `
+`Tanpa diberi kesempatan untuk menunggu hidangan penutup, kami diusir keluar dari ruangan. `
+`Katanya, pada akhirnya, orang tua kami tidak berhasil membuat Kakek menjawab. `
+`...Yah, walau aku tidak mau mengatakannya, tapi aku merasa ingin memberi Kakek jempol sekarang. `
+`Dia mungkin cukup puas dengan bagaimana surat anehnya telah memberi kejutan besar pada anak-anaknya, karena mereka semua begitu terobsesi dengan masalah warisan saat Kakek masih hidup. `
+`Aku juga merasa orang tua kami yang menjijikkan telah mendapat balasan yang pantas dalam kekacauan ini. `
+`...Tapi tidak bisa dibilang juga kalau aku baik-baik saja. `
+`Aku merasa kesal. `
+`Sepertinya Kakek tidak terlalu peduli dengan seluruh hal itu, tapi dia juga tidak membantah apa pun tentang surat itu. `
+`Saat membicarakan surat penyihir, nama Kakek terus muncul. `
+`Kalau Kakek tau kalau seseorang mencuri namanya, maka mengingat sifatnya, dia pasti akan marah besar. `
+`Tapi meskipun Kakek sekarang tahu isi surat itu, dia mengabaikannya dengan dingin. `
+`Jadi, apakah itu berarti setuju secara diam-diam? `
+`Bibi Eva dan Ayah mencoba menafsirkan surat itu untuk keuntungan mereka, keserakahan mereka jelas terlihat. `
+`Bukan masalah kalau hanya itu saja, tapi orang dewasa sekarang mulai fokus pada Maria, yang menerima surat itu. `
+`Mereka terus mendesak Maria dengan pertanyaan tentang siapa yang memberikannya. `
+`Maria terus mengulang kalau dia mendapatkannya dari {f:5:Beatrice}, tapi tidak mungkin orang misterius seperti itu bisa menyusup ke pulau ini. `
+`...Lagi pula, pulau ini kecil, dan tidak ada orang yang tinggal di sana selain keluarga Ushiromiya. `
+`Maria terus mengulang kalau dia mendapatkannya dari {f:5:Beatrice} berapa pun kali dia ditanya. `
+`Orang dewasa sepertinya berpikir dia mencoba menipu mereka, jadi mereka tidak menahan diri dan terus menanyainya hingga dia menangis... `
+`Ketika Maria dilepaskan, dia menangis tersedu-sedu, kelelahan karena menangis. `
+`Setelah orang tua kami menyuruh kami untuk pergi ke rumah tamu dan membawa Maria bersama kami, `
+`mereka mengunci diri di ruang makan dan mulai berbicara semakin keras saat membahas warisan. `
+`Sepertinya, karena surat aneh itu, peluang Paman Krauss untuk menjadi Kepala berikutnya mungkin telah berkurang menjadi nol, `
+`dan sebagai gantinya menerima dia, ayahku dan yang lain mencoba menipu Paman Krauss dengan banyak uang... atau sesuatu seperti itu. `
+`Sama-sama merasa jijik, Jessica dan aku dengan senang pindah ke guesthouse. `
+`Kami tidak ingin berada di bawah atap yang sama dengan orang dewasa kotor itu, pikiran mereka dipenuhi dengan urusan uang. `
+`George-aniki memohon atas nama orang tua kami, mengatakan kalau dia ingin kami memahami mereka. `
+`...Aku mengerti alasannya. `
+`Tidak peduli seberapa kotor pembicaraan tentang uang ini, itu tidak akan hilang jika kau hanya menutup mata padanya. `
+`Tapi meskipun begitu, bagaimana mereka bisa jatuh sedemikian rendah hingga secara terang-terangan berebut uang orang mati...? `
+`Maria sudah menangis sampai kering dan bersembunyi di tempat tidurnya. `
+`Dia tidak bergerak sama sekali untuk sementara waktu, jadi dia mungkin sedang tidur... `
+`"......Siapa orang yang memberikan surat itu kepada Maria-chan?" `
 `"George nii-san, `
-`you can't ask her that anymore. `
-`Isn't it fine to say that Maria got it from {f:5:Beatrice} and leave it at that...?" `
-`"After all, we don't want to make her cry any more than this." `
-`...Even though we said that, `
-`we couldn't clear away a gloomy feeling. `
-`"There are only 18 people on this island now. `
-`The thought that, somewhere in the rain, a 19th person gave Maria-chan that letter and is now hiding somewhere... `
-`doesn't seem realistic at all." `
-`"Most likely, ...somebody got Shannon or someone to put on the dress from that portrait...and cleverly got Maria to go along with their story." `
-`"...Though, in Maria's case, just seeing the dress would probably convince her that it really was {f:5:Beatrice}." `
-`"Maybe it doesn't really matter who handed her the letter. `
-`The important thing is who sent it. `
-`...The point is that Grandfather wanted to cause an uproar by assuming the name of the witch. `
-`Seriously, that old geezer's good at riling people up." `
-`The most likely answer is that our occult-loving Grandfather was playing around, `
-`handing the letter over to Maria, who shares the same hobby as he does, in such a dramatic way. `
-`...Though, he failed to give any thought for what Maria would have to go through, making it a pretty shitty thing to do... `
-`"Seriously. Messing around with Maria's pure heart... `
-`It doesn't matter who handed the letter over. `
-`Maria says she got it from {f:5:Beatrice}, so let's treat it that way." `
-`"I agree. `
-`Let's do that. `
-`To Maria-chan, {f:5:Beatrice} is kind of like what Santa Claus is to most kids." `
-`"Whether we're dealing with some nonexistent 19th person or Santa Claus, `
-`as long as we all acknowledge them, they'll at least "exist" inside Maria. `
-`...I see, guess it can be important to lie to a child to protect their dreams." `
+`kau tidak bisa menanyakannya lagi. `
+`Bukankah lebih baik mengatakan kalau Maria mendapatkannya dari {f:5:Beatrice} dan biarkan begitu saja...?" `
+`"Lagi pula, kita tidak ingin membuatnya menangis lebih dari ini." `
+`...Meskipun kita mengatakan itu, `
+`kita tidak bisa menghilangkan perasaan suram itu. `
+`"Sekarang hanya ada 18 orang di pulau ini. `
+`Pikirakn kalau, di suatu tempat di tengah hujan, orang ke-19 memberikan surat itu kepada Maria-chan dan sekarang bersembunyi di suatu tempat... `
+`tidak masuk akal sama sekali." `
+`"Kemungkinan besar, ...seseorang meminta Shannon atau seseorang lain untuk mengenakan gaun dari potret itu...dan dengan cerdik membuat Maria mengikuti cerita mereka." `
+`"...Meskipun, dalam kasus Maria, hanya melihat gaun itu saja mungkin sudah cukup meyakikannya kalau itu benar-benar {f:5:Beatrice}." `
+`"Mungkin tidak terlalu penting siapa yang memberikan surat itu kepadanya. `
+`Yang penting adalah siapa yang mengirimnya. `
+`...Intinya, Kakek ingin membuat keributan dengan mengambil nama penyihir. `
+`Jujur saja, orang tua itu jago bikin orang marah." `
+`Jawaban paling mungkin adalah Kakek kita yang suka hal-hal gaib sedang bercanda, `
+`memberikan surat itu kepada Maria, yang memiliki hobi yang sama dengannya, dengan cara yang dramatis. `
+`...Meskipun begitu, dia tidak memikirkan sama sekali apa yang harus dialami Maria, membuat itu menjadi hal yang sangat tidak pantas dilakukan... `
+`"Benar-benar. Mengganggu hati murni Maria... `
+`Tidak peduli siapa yang menyerahkan surat itu. `
+`Maria bilang dia mendapatkannya dari {f:5:Beatrice}, jadi mari kita anggap begitu." `
+`"Aku setuju. `
+`Mari kita lakukan itu. `
+`Bagi Maria-chan, {f:5:Beatrice} seperti Santa Claus bagi kebanyakan anak-anak." `
+`"Baik kita berurusan dengan orang ke-19 yang tidak ada atau Santa Claus, `
+`selama kita semua mengakui mereka, mereka setidaknya akan "ada" di dalam Maria. `
+`...Begitu ya, sepertinya penting untuk berbohong pada anak untuk melindungi mimpi mereka." `
 `"......Hmm? `
-`What's up, Jessica? `
-`Are you still angry?" `
-`Jessica had her hand on her chin, as though there was something that she just couldn't understand. `
-`When I called out to her, she came to her senses. `
-`"Aah, ...sorry. `
-`Well, ...actually, `
-`...I was wondering if Maria might've actually met {f:5:Beatrice}." `
-`"...What do you mean by that? `
-`Are you saying there's a 19th person on this island?" `
-`"If you truly take Maria-chan's words to heart, then you would arrive at that answer." `
-`"No, that's not what I mean. `
-`...I'm talking about the story that someone we don't know has been living on this island since long ago." `
-`"Living, you say? Where?" `
-`"...In the forest." `
-`The adults were gathered in the dining hall, spending a very long time continuing the discussion that had been started by {f:5:Beatrice}'s letter... `
-`Krauss strongly claimed that the letter was a simple prank, `
-`but he couldn't overturn the claim that Kinzo's failure to deny the letter was answer enough. `
-`Judging by Kinzo's character, if he knew that a letter had been written in his name, he would be mad with rage. `
-`Since all of the siblings knew that, Krauss had no choice but to withdraw his claim. `
-`Without even having to summarize it, the contents of the letter were simple. `
-`The person who could solve the witch's epitaph would receive the Headship and assets. `
-`This did a lot of damage to Krauss, who had been sure that he would receive the Headship, `
-`and was better news than the rest of them, who had already given up, could have hoped for. `
-`However, there were some points that worried them. `
-`"The person who solved the epitaph" was not limited to a member of the Ushiromiya family. `
-`Taken literally, anyone, no matter how doubtful their origin, might receive the Headship. `
-`And furthermore, this meant there was a chance that all of the Ushiromiya family's assets would be stolen by some unknown person. `
-`In that sense, it was definitely not a situation where even the other siblings could afford to lower their guard. `
-`Had this letter come from an assassin sent by Kinzo, calling themselves {f:5:Beatrice}? `
-`...Or was this the scheme of some unknown person trying to steal the Ushiromiya family's wealth? `
-`They still didn't know the truth. `
-`...But they could say one thing for certain. `
-`Maria had received this problematic letter... `
-`received this problematic letter... `
-`today, on this island. `
-`In other words, someone planning something to do with that letter was on this island today. `
-`...Had it been set up by Kinzo, one of the four siblings, `
-`or maybe some unknown person? `
-`No matter how much they suspected each other, they couldn't reach a conclusion. `
-`After getting tired of bickering with each other, `
-`they finally reached the extremely obvious conclusion that doubting each other was just a waste of time... `
-`"...We've made no progress. `
-`We've just been spinning our wheels." `
-`"That's right. `
-`And the mere fact that you've realized it means we won't have to waste any more time." `
-`"It is not certain that Father sent the letter. `
-`My husband is merely exasperated by your inability to hold a conversation." `
-`"Who's unable to hold a conversation? `
-`You keep yelling at me every time I say something. `
-`Do you truly think that such shameful behavior is fitting for a member of the Ushiromiya family?" `
-`"Would you give it a rest, Eva? `
-`You too, Natsuhi-san. `
-`That topic's finished for now." `
-`"Sh-Shall we all cool our heads off for now? `
-`Let's have some cool drinks brought over." `
-`"That sounds good. `
-`It would probably be wiser if we cooled our heads. `
-`Don't you want to take a short break too, dear?" `
-`"...Aneki looks like she's in a bad mood, `
-`so I'll pass on that break. `
-`But I agree about the cool drinks. `
-`Rosa, have someone bring some water. `
-`A whole pitcher." `
-`"Yes, understood..." `
-`Rosa headed over to the extension telephone in a corner of the room and called the servant room. `
-`She then passed on what Rudolf had told her to the person on the other end. `
-`The vicious bickering up until now vanished as though it had been a lie. `
-`That silence continued until Gohda finished setting the table and retreated from the room... `
-`"......Is there anything else that you require?" `
-`"No. `
-`Please leave us." `
-`"Yes. `
-`...Then if you will excuse me. `
-`If you need anything, call me at any time." `
-`After listening to the sound of Gohda's footsteps disappear off into the distance, everyone took a deep breath at the same time to break the tension. `
-`"...It sure is raining hard. `
-`I wonder if this 19th person is taking shelter in the rose garden arbor about now." `
-`"I-I wonder. `
-`...They might be able to escape the rain there, but it would be quite cold." `
-`"...A mysterious 19th person as a visitor. `
-`Sounds pretty interestin', just like a mystery novel. `
-`Normally, in that kind of story, it's a safe bet that the person doesn't exist, that one of us 18 would be fakin' it." `
-`"...I suspect Genji and the others. `
-`Just as I thought, it would have been better if we had dismissed all of the servants of the One-Winged Eagle, no matter what excuses we had to make." `
-`"Come now, don't say that. `
-`We must be grateful for their long years of service. `
-`...Of course, we can't let our guard down." `
-`"I'm sure you agree too, Nii-san, that whether or not Father was behind this, `
-`the person who handed Maria the letter was a servant." `
-`"Indeed. `
-`In any event, we were all being "friendly" in our big happy circle until dinner, weren't we? `
-`All of the siblings have alibis. `
-`Only a servant could have handed Maria that letter." `
-`"...But all of the servants... `
-`said that they were too busy with the bed-making to have any spare time during which they could go to Maria-chan in the rose garden... `
+`Ada apa, Jessica? `
+`Masih marah? `
+`Jessica menaruh tangannya di dagunya, seolah ada sesuatu yang tidak bisa dia pahami. `
+`Ketika aku memanggilnya, dia sadar kembali. `
+`"Aah, ...maaf. `
+`Yah, ...sebenarnya, `
+`...aku penasaran apakah Maria mungkin benar-benar bertemu {f:5:Beatrice}." `
+`"...Apa maksudmu? `
+`Maksudmu ada orang ke-19 di pulau ini?" `
+`"Kalau kau benar-benar mempercayai kata-kata Maria-chan, maka kau akan sampai pada jawaban itu." `
+`"Tidak, itu bukan yang aku maksud. `
+`...Aku berbicara tentang cerita kalau seseorang yang tidak kita kenal telah tinggal di pulau ini sejak lama." `
+`"Tinggal, katamu? Di mana?" `
+`"...Di hutan." `
+`Para orang dewasa berkumpul di ruang makan, menghabiskan waktu yang sangat lama melanjutkan pembicaraan yang dimulai oleh surat {f:5:Beatrice}... `
+`Krauss dengan tegas mengklaim kalau surat itu hanyalah lelucon, `
+`tetapi dia tidak bisa membantah klaim kalau kegagalan Kinzo untuk membantah surat itu sudah cukup sebagai jawaban. `
+`Mengingat karakter Kinzo, jika dia tahu kalau surat itu ditulis atas namanya, dia pasti akan marah besar. `
+`Karena semua saudara kandung tahu itu, Krauss tidak punya pilihan selain menarik kembali klaimnya. `
+`Tanpa perlu meringkasnya, isi surat tersebut sangat sederhana. `
+`Orang yang dapat memecahkan epitaf penyihir akan menerima jabatan Kepala dan harta bendanya. `
+`Hal ini sangat merugikan Krauss, yang yakin bahwa dia akan menerima jabatan Kepala, `
+`dan merupakan kabar baik bagi yang lain, yang sudah menyerah,masih mempunyai harapan. `
+`Tapi, ada beberapa hal yang membuat mereka khawatir. `
+`"Orang yang memecahkan teka-teki epitaf" tidak terbatas pada anggota keluarga Ushiromiya. `
+`Secara harfiah, siapa pun, terlepas dari asal-usulnya yang diragukan, mungkin akan mendapatkan jabatan Kepala Keluarga. `
+`Dan lebih jauh lagi, ini berarti ada kemungkinan semua harta kekayaan keluarga Ushiromiya akan dicuri oleh seseorang yang tidak dikenal. `
+`Kalau begitu, ini jelas bukan situasi di mana bahkan saudara-saudara lainnya bisa menurunkan kewaspadaan mereka. `
+`Apakah surat ini berasal dari pembunuh yang dikirim oleh Kinzo, yang menyebut diri mereka {f:5:Beatrice}? `
+`...Atau apakah ini skema seseorang yang tidak dikenal yang mencoba mencuri kekayaan keluarga Ushiromiya? `
+`Mereka masih belum tahu kebenarannya. `
+`...Tapi mereka bisa mengatakan satu hal dengan pasti. `
+`Maria telah menerima surat penuh masalah ini... `
+`menerima surat penuh masalah ini... `
+`hari ini, di pulau ini. `
+`Dengan kata lain, seseorang yang merencanakan sesuatu terkait surat itu ada di pulau ini hari ini. `
+`...Apakah itu diatur oleh Kinzo, salah satu dari empat saudara kandung, `
+`atau mungkin seseorang yang tidak dikenal? `
+`Tidak peduli seberapa besar mereka saling mencurigai, mereka tidak bisa mencapai kesimpulan. `
+`Setelah bosan berdebat satu sama lain, `
+`mereka akhirnya sampai pada kesimpulan yang sangat jelas kalau meragukan satu sama lain hanyalah pemborosan waktu... `
+`"...Kita tidak membuat kemajuan apapun. `
+`Kita hanya berputar-putar di tempat." `
+`"Benar. `
+`Dan fakta kalau kau menyadarinya berarti kita tidak perlu membuang waktu lagi." `
+`"Belum pasti kalau Ayah yang mengirim surat itu. `
+`Suamiku hanya jengkel karena ketidakmampuanmu untuk menjaga mulutmu." `
+`"Siapa yang tidak bisa menjaga mulut itu? `
+`Kau terus berteriak padaku setiap kali aku bicara. `
+`Apakah kau benar-benar berpikir kalau perilaku memalukan seperti itu pantas untuk anggota keluarga Ushiromiya?" `
+`"Bisakah kau berhenti, Eva? `
+`Kau juga, Natsuhi-san. `
+`Pembahasan itu sudah selesai untuk saat ini." `
+`"B-Bagaimana kalau kita semua menenangkan diri dulu? `
+`Kita minum minuman dingin dulu." `
+`"Itu terdengar bagus. `
+`Mungkin lebih baik jika kita menenangkan diri. `
+`Apakah kau juga ingin istirahat sebentar, sayang?" `
+`"...Aneki kelihatannya sedang dalam perasaan buruk, `
+`jadi aku akan melewatkan istirahat itu. `
+`Tapi aku setuju soal minuman dingin. `
+`Rosa, suruh seseorang membawa air. `
+`Sebotol penuh." `
+`"Ya, dimengerti..." `
+`Rosa berjalan ke telepon sambungan di sudut ruangan dan menelepon ruang pelayan. `
+`Dia lalu meneruskan apa yang dikatakan Rudolf kepada orang di ujung telepon. `
+`Pertengkaran sengit yang terjadi hingga saat itu menghilang seolah-olah itu bohong. `
+`Keheningan itu berlanjut hingga Gohda selesai menyiapkan meja dan meninggalkan ruangan... `
+`"......Apa ada lagi yang anda butuhkan?" `
+`"Tidak. `
+`Tolong tinggalkan kami." `
+`"Baik. `
+`...Kalau begitu, saya permisi. `
+`Jika anda membutuhkan sesuatu, hubungi saya kapan saja." `
+`Setelah mendengar suara langkah kaki Gohda menghilang ke kejauhan, semua orang menarik napas dalam-dalam bersamaan untuk meredakan ketegangan. `
+`"...Hujan memang sangat deras. `
+`Aku penasaran apakah orang ke-19 ini sedang berlindung di gazebo taman mawar saat ini." `
+`"A-Aku juga penasaran. `
+`...Mungkin mereka bisa menghindari hujan di sana, tapi pasti sangat dingin." `
+`"...Orang ke-19 sebagai tamu. `
+`Kedengarannya cukup menarik, seperti novel misteri. `
+`Biasanya, dalam cerita semacam itu, bisa dipastikan orang itu tidak ada, salah satu dari 18 kita yang berpura-pura." `
+`"...Aku mencurigai Genji dan yang lainnya. `
+`Seperti dugaanku, lebih baik kita pecat semua pelayan Elang Bersayap Satu, dengan alasan apapun yang kita buat." `
+`"Ayolah, jangan bilang begitu. `
+`Kita harus bersyukur atas tahun-tahun pelayanan mereka. `
+`...Tentu saja, kita tidak boleh lengah." `
+`"Aku yakin kau juga setuju, Nii-san, entah Ayah berada di balik ini atau tidak, `
+`orang yang memberikan surat kepada Maria adalah seorang pelayan." `
+`"Benar. `
+`Bagaimanapun, kita semua bersikap "ramah" dalam lingkaran bahagia kita hingga waktu makan malam, bukan begitu? `
+`Semua saudara kandung memiliki alibi. `
+`Hanya seorang pelayan yang bisa memberikan surat itu kepada Maria." `
+`"...Tapi semua pelayan... `
+`mengatakan bahwa mereka terlalu sibuk dengan urusan merapikan tempat tidur sehingga tidak punya waktu luang untuk pergi ke Maria-chan di taman mawar... `
 `........." `
-`"Hey hey, what are you trying to say then? `
-`You aren't saying that the witch of the forest, {f:5:Beatrice}-sama, came over and actually handed Maria that letter, are you?" `
+`"Hei hei, apa yang kau coba katakan? `
+`Kau tidak mengatakan kalau penyihir hutan, {f:5:Beatrice}-sama, datang dan benar-benar memberikan surat itu kepada Maria, kan?" `
 `"Ahahaha. `
-`Rosa, you used to believe in that so much, it really frightened you, right? `
-`Don't tell me you still believe at this age. `
-`In the witch of the forest." `
-`...If she did exist, I'd love for her to appear. `
-`But no matter how much I wished, she didn't appear before me even once. `
-`She didn't save me from my crisis... `
-`"O-Of course not... `
-`I just thought that since all 18 of us said we didn't do it, there might really be a 19th person..." `
-`"That can't be. In the first place, we were the only ones who came in on that boat. `
-`We didn't see any mysterious stranger ridin' with us. `
-`You don't think they coulda swam across this rough sea, right? `
-`I can't really imagine it. `
+`Rosa, kau dulu sangat percaya pada itu, sampai benar-benar ketakutan, kan? `
+`Jangan bilang kau masih percaya di usia ini. `
+`Pada penyihir hutan." `
+`...Jika dia benar-benar ada, aku ingin dia muncul. `
+`Tapi seberapapun aku berharap, dia tidak pernah muncul di hadapanku sekali pun. `
+`Dia tidak menyelamatkanku dari krisisku... `
+`"T-Tentu saja tidak... `
+`Aku hanya kepikiran karena ke-18 dari kita mbilang kita tidak melakukannya, mungkin benar-benar ada orang ke-19..." `
+`"Itu tidak mungkin. Dari awal, kita adalah satu-satunya yang datang dengan perahu itu. `
+`Kita tidak melihat orang asing misterius yang ikut bersama kita. `
+`Kau tidak berpikir mereka bisa berenang melintasi laut yang ganas ini, kan? `
+`Aku tidak bisa membayangkannya. `
 `Wahahahahahaha." `
-`"...Logically, that's true. `
-`It is difficult to imagine that there's a single hidden and uninvited guest on this isolated island... `
-`...However, `
-`......it looks like some of us still can't abandon the possibility completely, right?" `
-`Hideyoshi had laughed it off, saying there couldn't be a 19th person, `
-`but Kyrie had sensitively picked up on the delicate atmosphere among the four siblings. `
-`In a normal situation, there shouldn't have been any uninvited guests on this small, isolated island. `
-`How would they have come here, and from where, and where were they hiding? `
-`And why hadn't they appeared openly, even though they had sent a letter in their name? `
-`...Nothing could explain that. `
-`But not only had the four siblings not joined in on Hideyoshi's laughing, `
-`they also seemed unable to completely deny in their hearts the possibility of a 19th person... `
+`"...Secara logis, itu benar. `
+`Sulit membayangkan ada tamu tersembunyi dan tidak diundang di pulau terpencil ini... `
+`...Namun, `
+`......sepertinya beberapa dari kita masih tidak bisa sepenuhnya mengesampingkan kemungkinan itu, kan?" `
+`Hideyoshi tertawa mengabaikannya, mengatakan tidak mungkin ada orang ke-19, `
+`tetapi Kyrie dengan sensitif menangkap suasana yang tegang di antara keempat saudara itu. `
+`Dalam situasi normal, seharusnya tidak ada tamu tak diundang di pulau kecil dan terpencil ini. `
+`Bagaimana mereka bisa datang ke sini, dari mana, dan di mana mereka bersembunyi? `
+`Dan mengapa mereka tidak muncul secara terbuka, meskipun mereka telah mengirim surat atas nama mereka? `
+`...Tidak ada yang bisa menjelaskan itu. `
+`Tapi, tidak hanya keempat saudara kandung itu tidak ikut tertawa bersama Hideyoshi, `
+`mereka juga tampaknya tidak bisa sepenuhnya menampik kemungkinan adanya orang ke-19... `
 `"Kyrie-san, `
-`please don't misunderstand. It's not as though we believe in anything like that fairy tale-like legend of the witch." `
-`"...Is this another topic to insult Father? `
-`Simply speaking of such a thing is a betrayal against him." `
-`"*giggle*giggle* `
-`I wonder. `
-`...However, this is Father we're talking about. `
-`It could be possible, ...right?" `
-`"......I-I don't know anything..." `
-`"What's this, what's this? `
-`Why's everyone gotten so gloomy...? `
-`What are you talkin' about? `
-`...In short, the legend of the witch isn't a joke, ...but a fact? `
-`That's ridiculous!" `
+`tolong jangan salah paham. Bukan berarti kami percaya pada legenda dongeng tentang penyihir seperti itu." `
+`"...Apakah ini topik lain untuk menghina Ayah? `
+`Membicarakan hal seperti itu saja sudah merupakan pengkhianatan terhadapnya." `
+`"*cekikikan*cekikikan* `
+`Aku penasaran. `
+`...Namun, ini tentang Ayah. `
+`Mungkin saja, ...kan?" `
+`"......Aku tidak tau apa-apa..." `
+`"Apa ini, apa ini? `
+`Kenapa semua orang jadi sedih begini...? `
+`Kau bicara apa? `
+`...Intinya, legenda penyihir itu bukan lelucon, ...tapi fakta? `
+`Itu konyol!" `
 `"Hahahaha. `
-`Of course, nobody believes in some witch riding a broom and flying in the sky. `
-`...But the woman in that portrait, `
-`...{f:5:Beatrice}, might really have existed on this island." `
+`Tentu saja, tidak ada yang percaya pada seorang penyihir yang menunggangi sapu dan terbang di langit. `
+`...Tapi wanita dalam potret itu, `
+`...{f:5:Beatrice}, mungkin benar-benar pernah ada di pulau ini." `
 `"......Hideyoshi-san, `
-`it looks like we aren't talking about a witch, but something a little simpler. `
-`...So, it must be something like this." `
-`"Everyone suspects that Father had a mistress named {f:5:Beatrice} secretly living somewhere on this island. `
-`...Is that it?" `
-`"Father was always exemplary at keeping strictly to the rules! `
-`It is completely inconceivable that he would bring something so filthy onto this island...!" `
-`Natsuhi snapped at them immediately, but it looked like the four siblings, including Krauss, didn't agree. `
-`...On the contrary, they appeared to think Kinzo wouldn't even have hesitated to do something like that. `
-`From the beginning, it had been whispered that Kinzo had built a mansion on this island `
-`specifically because of the existence of an entrancing mistress... `
-`"...I'm sorry, Natsuhi-san. I know how much you respect Dad, but that rumor's been around for a long time. `
-`All the buildings on Rokkenjima were built by Dad on his own." `
-`"...People've always guessed he had some contraption or secret room set up in this mansion that only he knew about, `
-`and it's always been whispered that, hidden somewhere on this island, there's a secret mansion none of us know about." `
-`"I see. `
-`This island might look small on a map, ...but it's quite large for just the Ushiromiya family to live on. `
-`...So people have suspected that he built a secret mansion somewhere in the uncivilized forest for his mistress to live in? `
-`That would be quite a large-scale scheme." `
-`"In the beginning, people thought it might be somewhere inside this mansion. `
-`...That there might be a hidden basement, with a fabulous hidden room, where the witch in that portrait was secretly hiding. `
-`...After seeing that intricate auto-lock on Dad's study, it isn't too hard to imagine, right?" `
-`"...After all, Father did spread the rumor that a large amount of gold was hidden somewhere by some mechanism. `
-`I wouldn't be surprised if there existed some hidden room inside this very mansion that none of us knows about yet." `
-`"When Mother was alive, she would often scour the entire mansion searching for Father when he wasn't anywhere to be found. `
-`...Mother also suspected what Rudolf just said. `
-`She believed there was a hidden door or stairway somewhere, and that his blonde-haired mistress was hidden behind it." `
-`It's hard to believe, but there are some actual examples in other countries of people cheating with someone over a period of several decades by making them live in a hidden attic room. `
-`Furthermore, Kinzo had a mansion this extravagant. `
-`...It was possible to suspect the existence of a hidden room... `
-`"From what I've heard, `
-`...the legend of the Rokkenjima witch was just a fairy tale made up to scare children away from the uncivilized forest. `
-`...But it's starting to sound like there's a little more to the story." `
-`"Well, `
-`as you know, this is a lonely island without anything but the Ushiromiya mansion on it. `
-`When Rosa and I were little brats, on stormy nights, we got so scared by the sound of trees rustling in the direction of the forest. `
-`We had this crazy delusion that something weird might be looking out at us from between those trees. `
-`It's only natural for a brat to think of stuff like that." `
-`"...But when Rosa and I complained about it, some people figured it was more than a brat's imagination. `
-`...Isn't that right, Aneki?" `
-`"......Yeah. `
-`Nii-san and I thought you might've coincidentally spotted Father's mistress, living in secrecy on this island, as she went out for a walk when no one was looking. `
-`Of course, Mother felt the same." `
-`"...Even among the older servants, you often heard that ghost story about how the witch of the portrait wanders the mansion at midnight. `
-`Outwardly, I laughed it off as just a ghost story, but on the inside, I suspected very much that it hinted at the existence of a hidden mistress." `
-`"In that case, ......you're sayin' that the existence of a 19th person... `
-`might not be completely ridiculous? `
-`...That they might actually be somewhere around here...?" `
-`"......Sounds like one of those "Devil's Proofs" Rudolf's always talking about. `
-`...It might be possible to prove that there is a 19th person, but it's impossible to prove that a 19th person doesn't exist. `
-`...Should we continue this discussion under the assumption that there's a person named {f:5:Beatrice} hiding somewhere on this island...?" `
-`"That's a good plan, from the perspective of risk management. `
-`It's probably much more prudent to say she might exist, rather than saying she couldn't exist." `
-`"I-I see. `
-`Sorry, I was a bit careless... `
-`Rosa-san, sorry for laughin' just now..." `
-`"Huh, ...ah, ...it's fine, I don't mind." `
-`Hideyoshi apologized deeply for taking the worst-case scenario lightly, despite calling himself the president of a company. `
-`Silence fell again. `
-`Preparing for the existence of a 19th person... `
-`would mean, in effect, acknowledging the presence of some unknown person hidden on this island. `
-`And since this person might be planning something shady, `
-`it was only natural that the conversation would turn in an ominous direction... `
-`"...In the past, Father would sometimes suddenly disappear without telling anyone where he went. `
-`After all, he is a man who values silence. `
-`It wouldn't have been out of the ordinary for him to shut himself up in some library room after purposefully not telling anyone where he was going." `
-`"...However, when the witch theory was slowly refined into the theory about his mistress, people eventually whispered that he was secretly going back and forth to see her." `
-`"Mom was totally paranoid in her last years. `
-`She'd sometimes suddenly start making a fuss, asking the servants to start looking for Dad immediately because of some urgent situation." `
-`"...Yes, that did happen sometimes. `
-`Mother was always doing things like that in her later years, and that frightening atmosphere still hasn't gone away. `
-`...I can say it for certain now. `
-`She was a person to be pitied." `
-`"So then, ...what happened with those large-scale searches of the house? `
-`Did they find anythin'?" `
-`"No. `
-`Father wasn't caught foolishly in a hidden room even once. `
-`Always, after a long time had passed, he would suddenly show up somewhere. `
-`Then he'd say that he'd taken a nap in some library room, or that the wind had summoned him to take a walk on the beach." `
-`"...But it was always some place where the servants had already looked. `
-`...We never knew where Father had gone. `
-`Even at that time, Grandfather was famous for his occult inclinations, `
-`so some of the servants exaggerated, saying that he might have turned into butterflies and danced around the rose garden." `
-`"So in short, Father frequently disappeared, and no one knew where he went." `
-`"Yeah. `
-`Since we couldn't find him no matter how much we looked inside the mansion, we got more and more sure that Dad might've been somewhere outside. `
-`But the area outside the mansion isn't large at all. `
-`...Which leaves only the forest." `
-`"And if you tie that in with the legend of the witch, you get a theory like this: `
-`Father actually built a hidden mansion somewhere in the forest, `
-`inside of which a mistress by the name of {f:5:Beatrice} lived, and he sometimes went to see her." `
-`"...I was also young at the time. `
-`I was so eager to find where Father was having his affair that, at one time, I followed him when he went outside." `
-`"...Of course, it was a failure. `
-`Every time Father went out, he was oddly intent on avoiding places where he might be seen...and was extremely careful to prevent anyone from spotting him. `
-`And, he was extraordinarly earnest in his attempts to do so. `
-`But that actually made me sure. `
-`He must have been going out for some reason that the members of his family couldn't know about." `
-`"And that'd be going to meet his mistress. `
-`Probably tryin' to avoid being seen." `
-`After seeing Hideyoshi nod and say "yes, yes" as though this was quite obvious, Eva got a little sullen. `
-`"...Well, anyway, `
-`this island was like a sketchbook in which Father, with his Western obsession, could draw out all of his dreams. `
-`...Everything about this island was exactly how Father wanted it. `
-`It wouldn't be odd at all if there was a hidden mansion somewhere for his mistress to live in..." `
-`Eva's words spoke for what all of the siblings had come to think. `
-`For a while, the room returned to silence again, and everyone listened to the sound of the wind and rain... `
-`...Was there a hidden mansion on this island, and had Kinzo's mistress been living there in hiding for a long, long time...? `
-`Everyone thought they were being too suspicious, and they hesitated for a long time without speaking, `
-`...but everyone shared a common opinion. `
-`Kyrie, who had been listening the whole time with her eyes closed, spoke to no one in particular. `
-`"...How long has this rumor about Father's mistress been around?" `
-`"As soon as we moved to this island, about 30 years ago. `
-`After all, it probably would've been impossible for him to have a hidden mansion built while we were here. `
-`People and materials would have to be going in and out. `
-`It would've been exposed quickly." `
-`"So, if it was possible, it happened before we moved here. `
-`...It probably could've been built along with this mansion when we were still living in Odawara." `
-`"Since Father had to set up a double life with his family and his mistress, it's probably reasonable to assume that he had it all planned from the beginning. `
-`And his relationship with that mistress probably went back to the days when we lived in Odawara." `
-`"Probably. `
-`If, as Father says, she is the source of the vast amount of gold he used to gain the funds that resurrected the Ushiromiya family, `
-`we could probably conclude that they had a close relationship since Odawara. `
-`...A relationship trusting enough for her to lend him a vast quantity of gold. `
-`I can't even imagine how old that relationship must have been." `
-`"......Perhaps Father gave her some kind of valuable advice for succeeding in business. `
-`It's natural to think that, out of a sense of gratitude for that, this person gave Father the gold. `
-`If you think about it that way, it's obvious that they would have a close relationship after that. `
-`Rather than a festering relationship with a mistress, it was probably a relationship of gratitude to the person who saved the Ushiromiya family from its crisis." `
-`"...I don't know if what Natsuhi-san's saying has a ring of truth to it or not. `
-`But, even in that case, isn't building a hidden mansion and havin' her live in it going a bit too far? `
-`Doesn't that mean they felt something a bit more than gratitude?" `
-`"Well, this is all just speculation. `
-`...In the first place, no one's ever found that hidden mansion. `
-`...Aniki, you were planning on expanding this island into a resort, right? `
-`As you were doing that, you didn't manage to stumble on it by chance, did you? `
-`Maybe you even bumped into some gold there, too." `
+`sepertinya kita tidak sedang membicarakan seorang penyihir, tapi sesuatu yang sedikit lebih sederhana. `
+`...Jadi, pasti sesuatu seperti ini." `
+`"Semua orang mencurigai bahwa Ayah memiliki selir bernama {f:5:Beatrice} yang tinggal secara rahasia di suatu tempat di pulau ini. `
+`...Itukah yang dimaksud?" `
+`"Ayah selalu teliti dalam mematuhi aturan! `
+`Sangat tidak mungkin dia membawa sesuatu yang kotor seperti itu ke pulau ini...!" `
+`Natsuhi langsung membentak mereka, tapi sepertinya keempat saudara kandung, termasuk Krauss, tidak setuju. `
+`...Sebaliknya, mereka tampaknya berpikir Kinzo bahkan tidak akan ragu untuk melakukan hal seperti itu. `
+`Sejak awal, sudah beredar desas-desus bahwa Kinzo membangun mansion di pulau ini `
+`khusus karena keberadaan selir yang memikat... `
+`"...Maaf, Natsuhi-san. Aku tahu betapa kau menghormati Ayah, tapi rumor itu sudah beredar sejak lama. `
+`Semua bangunan di Rokkenjima dibangun oleh Ayah sendiri." `
+`"...Orang-orang selalu menduga dia memiliki alat rahasia atau ruangan tersembunyi di mansion ini yang hanya dia ketahui, `
+`dan selalu digosipkan kalau, tersembunyi di suatu tempat di pulau ini, ada mansion rahasia yang tidak kita ketahui." `
+`"Begitu ya. `
+`Pulau ini mungkin terlihat kecil di peta, ...tapi cukup besar untuk hanya keluarga Ushiromiya tinggal di sana. `
+`...Jadi orang-orang mencurigai dia membangun mansion rahasia di hutan liar untuk kekasihnya tinggal di sana? `
+`Itu akan menjadi rencana yang cukup besar." `
+`"Awalnya, orang-orang berpikir mungkin ada di dalam mansion ini. `
+`...Mungkin ada ruang bawah tanah tersembunyi, dengan ruangan rahasia yang fantastis, di mana penyihir dalam potret itu bersembunyi secara rahasia. `
+`...Setelah melihat kunci otomatis yang rumit di ruang kerja Ayah, tidak sulit untuk membayangkannya, kan?" `
+`"...Lagi pula, Ayah memang menyebarkan kabar kalau sejumlah besar emas disembunyikan di suatu tempat melalui mekanisme tertentu. `
+`Aku tidak akan terkejut kalau ada ruangan tersembunyi di dalam mansion ini yang belum kita ketahui." `
+`"Ketika Ibu masih hidup, dia sering mencari Ayah ke seluruh mansion ketika dia tidak ada di mana-mana. `
+`...Ibu juga mencurigai apa yang baru saja dikatakan Rudolf. `
+`Dia yakin ada pintu atau tangga tersembunyi di suatu tempat, dan kalau selir berambut pirang Ayah tersembunyi di baliknya." `
+`Sulit dipercaya, tapi ada beberapa contoh nyata di negara lain tentang orang yang berselingkuh dengan seseorang selama puluhan tahun dengan membuatnya tinggal di kamar loteng tersembunyi. `
+`Selain itu, Kinzo memiliki mansion yang begitu mewah. `
+`...Mungkin saja ada kamar tersembunyi... `
+`"Dari apa yang aku dengar, `
+`...legenda penyihir Rokkenjima hanyalah dongeng yang dibuat untuk menakuti anak-anak agar menjauhi hutan tidak berpenghuni. `
+`...Tapi sepertinya ada hal lain dari cerita itu." `
+`"Nah, `
+`seperti yang kau tau, ini adalah pulau terpencil tanpa apa-apa selain mansion Ushiromiya di atasnya. `
+`Ketika Rosa dan aku masih anak-anak nakal, pada malam-malam badai, kami sangat ketakutan oleh suara pohon-pohon berdesir ke arah hutan. `
+`Kami punya delusi gila kalau sesuatu yang aneh mungkin sedang mengintip kami dari antara pohon-pohon itu. `
+`Itu wajar bagi anak nakal untuk memikirkan hal-hal seperti itu." `
+`"...Tapi ketika Rosa dan aku mengeluh tentang hal itu, beberapa orang berpikir itu lebih dari sekadar imajinasi anak kecil. `
+`...Bukan begitu, Aneki?" `
+`"......Ya. `
+`Nii-san dan aku berpikir mungkin kau secara kebetulan melihat selir Ayah, yang tinggal secara rahasia di pulau ini, saat dia berjalan-jalan ketika tidak ada orang yang melihat. `
+`Tentu saja, Ibu juga merasa begitu. `
+`"...Bahkan di antara pelayan yang lebih tua, kau sering mendengar cerita hantu tentang bagaimana penyihir dalam lukisan itu berkeliaran di mansion pada tengah malam. `
+`Secara terbuka, aku tertawa menganggapnya hanya cerita hantu, tapi di dalam hati, aku sangat curiga kalau itu mengisyaratkan keberadaan selir yang tersembunyi." `
+`"Kalau begitu, ......maksudmu ada keberadaan orang ke-19... `
+`mungkin tidak sepenuhnya konyol? `
+`...Dan mereka mungkin sebenarnya ada di sekitar sini...?" `
+`"......Kedengarannya seperti salah satu "Devil Proof" yang selalu dibicarakan Rudolf. `
+`...Orang ke-19 mungkin bisa dibuktikan, tapi tidak mungkin membuktikan kalau orang ke-19 tidak ada. `
+`...Haruskah kita melanjutkan pembicaraan ini dengan asumsi kalau ada seseorang bernama {f:5:Beatrice} yang bersembunyi di suatu tempat di pulau ini...?" `
+`"Itu rencana yang bagus, dari perspektif manajemen risiko. `
+`Mungkin lebih bijaksana untuk mengatakan dia mungkin ada, daripada mengatakan dia tidak bisa ada." `
+`"B-Begitu ya. `
+`Maaf, aku sedikit ceroboh... `
+`Rosa-san, maaf aku tertawa tadi..." `
+`"Huh, ...ah, ...tidak apa-apa, aku tidak keberatan." `
+`Hideyoshi meminta maaf dengan tulus karena menganggap enteng skenario terburuk, meskipun ia menyebut dirinya sebagai presiden perusahaan. `
+`Keheningan kembali menyelimuti. `
+`Persiapan untuk keberadaan orang ke-19... `
+`yang berarti berarti, pada dasarnya, mengakui keberadaan seseorang yang tidak dikenal yang bersembunyi di pulau ini. `
+`Dan karena orang tersebut mungkin sedang merencanakan sesuatu yang mencurigakan, `
+`wajar saja jika percakapan berbelok ke arah yang mengerikan... `
+`"...Dulu, Ayah kadang-kadang tiba-tiba menghilang tanpa memberitau siapapun ke mana dia pergi. `
+`Lagi pula, dia adalah pria yang menghargai keheningan. `
+`Tidak aneh baginya untuk mengurung diri di ruang perpustakaan setelah sengaja tidak memberitau siapapun ke mana dia pergi." `
+`"...Namun, ketika teori tentang penyihir perlahan-lahan berkembang menjadi teori tentang selingkuhannya, orang-orang akhirnya berbisik bahwa dia secara rahasia bolak-balik menemui wanita itu." `
+`"Ibu benar-benar paranoid di tahun-tahun terakhirnya. `
+`Dia kadang-kadang tiba-tiba mulai ribut, meminta pelayan untuk segera mencari Ayah karena ada situasi darurat." `
+`"...Ya, itu memang kadang-kadang terjadi. `
+`Ibu selalu melakukan hal-hal seperti itu di tahun-tahun terakhirnya, dan suasana menakutkan itu masih belum hilang. `
+`...Bisa aku katakan dengan gamblang. `
+`Dia adalah orang yang patut dikasihani." `
+`"Jadi, ...apa yang terjadi dengan pencarian besar-besaran di rumah itu? `
+`Apakah mereka menemukan sesuatu?" `
+`"Tidak. `
+`Ayah tidak pernah tertangkap basah di ruangan tersembunyi sekalipun. `
+`Selalu saja, setelah beberapa waktu, dia tiba-tiba muncul di suatu tempat. `
+`Lalu dia akan mengatakan kalau dia tidur siang di ruangan perpustakaan, atau kalau angin memanggilnya untuk berjalan-jalan di pantai." `
+`"...Tapi selalu di tempat yang sudah diperiksa oleh pelayan. `
+`... Kami tidak pernah tau ke mana Ayah pergi. `
+`Bahkan pada saat itu, Kakek terkenal karena kecenderungannya pada hal-hal gaib, `
+`jadi beberapa pelayan mengada-ada, mengatakan kalau dia mungkin telah berubah menjadi kupu-kupu dan menari di taman mawar." `
+`"Jadi intinya, Ayah sering menghilang, dan tidak ada yang tau ke mana dia pergi." `
+`"Ya. `
+`Karena kami tidak bisa menemukannya berapa pun kali kami mencari di dalam mansion, kami semakin yakin kalau Ayah mungkin berada di luar mansion. `
+`Tapi area di luar mansion tidak terlalu luas. `
+`...Yang tersisa hanyalah hutan." `
+`"Dan jika kau mengaitkannya dengan legenda penyihir, kau akan mendapatkan teori seperti ini: `
+`Ayah sebenarnya membangun sebuah mansion tersembunyi di suatu tempat di hutan, `
+`di mana seorang selir bernama {f:5:Beatrice} tinggal, dan dia kadang-kadang pergi menemuinya." `
+`"...Saat itu aku juga masih muda. `
+`Aku sangat ingin tau di mana Ayah berselingkuh, hingga pada suatu saat, aku mengikutinya ketika dia keluar." `
+`"...Tentu saja, itu gagal. `
+`Setiap kali Ayah keluar, dia anehnya sangat berusaha menghindari tempat-tempat di mana dia mungkin terlihat... dan sangat berhati-hati untuk mencegah siapa pun melihatnya. `
+`Dan, dia sangat serius saat melakukannya. `
+`Tapi itu justru membuatku yakin. `
+`Dia pasti keluar karena suatu alasan yang tidak boleh diketahui oleh anggota keluarganya." `
+`"Dan itu pasti untuk menemui selingkuhannya. `
+`Mungkin berusaha menghindari agar tidak terlihat." `
+`Setelah melihat Hideyoshi mengangguk dan berkata "ya, ya" seolah-olah hal itu sudah jelas, Eva menjadi sedikit cemberut. `
+`"...Yah, omong-omong, `
+`pulau ini seperti buku sketsa di mana Ayah, dengan obsesinya terhadap Barat, bisa menggambar semua mimpinya. `
+`...Segala sesuatu tentang pulau ini persis seperti yang diinginkan Ayah. `
+`sama sekali tidak aneh kalau ada mansion tersembunyi di suatu tempat untuk selingkuhannya tinggal..." `
+`Kata-kata Eva mewakili apa yang dipikirkan oleh semua saudara kandungnya. `
+`Untuk sementara, ruangan kembali hening, dan semua orang mendengarkan suara angin dan hujan... `
+`...Apakah ada mansion tersembunyi di pulau ini, dan apakah selir Kinzo sudah tinggal di sana secara sembunyi-sembunyi selama bertahun-tahun...? `
+`Semua orang merasa mereka terlalu curiga, dan mereka ragu-ragu untuk waktu yang lama tanpa berbicara, `
+`...tetapi semua orang memiliki pendapat yang sama. `
+`Kyrie, yang telah mendengarkan sepanjang waktu dengan mata tertutup, tanpa bicara kepada siapa pun. `
+`"...Sudah berapa lama rumor tentang selir Ayah ini sudah beredar?" `
+`"Sejak kami pindah ke pulau ini, sekitar 30 tahun yang lalu. `
+`Lagi pula, kemungkinan besar tidak mungkin baginya untuk membangun mansion tersembunyi saat kita masih di sini. `
+`Orang dan bahan harus keluar masuk. `
+`Itu pasti akan terungkap dengan cepat." `
+`"Jadi, jika itu mungkin, itu terjadi sebelum kita pindah ke sini. `
+`...Mungkin saja dibangun bersamaan dengan mansion ini saat kita masih tinggal di Odawara." `
+`"Karena Ayah harus menjalani kehidupan ganda dengan keluarganya dan selingkuhannya, masuk akal untuk mengasumsikan kalau dia sudah merencanakannya sejak awal. `
+`Dan hubungannya dengan selingkuhannya mungkin sudah dimulai sejak kita tinggal di Odawara." `
+`"Mungkin. `
+`Jika, seperti yang dikatakan Ayah, dia adalah sumber emas yang digunakan untuk mendapatkan dana untuk menghidupkan kembali keluarga Ushiromiya, `
+`kita mungkin bisa menyimpulkan kalau mereka memiliki hubungan dekat sejak Odawara. `
+`...Hubungan yang cukup dekat baginya untuk meminjamkan sejumlah besar emas. `
+`Aku bahkan tidak bisa membayangkan seberapa lama hubungan itu sudah berlangsung." `
+`"......Mungkin Ayah memberi dia semacam nasihat berharga untuk sukses dalam bisnis. `
+`Wajar saja, sebagai ungkapan rasa terima kasih atas itu, orang ini memberi Ayah emas. `
+`Jika kau memikirkannya dari sudut pandang itu, jelas kalau mereka akan memiliki hubungan yang dekat setelah itu. `
+`Daripada hubungan tidak sehat seperti wanita simpanan, kemungkinan besar itu adalah hubungan rasa terima kasih kepada orang yang menyelamatkan keluarga Ushiromiya dari krisis mereka." `
+`"...Aku tidak tau apakah yang dikatakan Natsuhi-san memiliki kebenaran di dalamnya atau tidak. `
+`Tapi, bahkan dalam kasus itu, bukankah membangun mansion tersembunyi dan membiarkannya tinggal di sana terlalu berlebihan? `
+`Bukankah itu berarti mereka merasa sesuatu yang lebih dari sekadar rasa terima kasih?" `
+`"Yah, ini semua hanya spekulasi. `
+`...Lagipula, tidak ada yang pernah menemukan mansion tersembunyi itu. `
+`...Aniki, kau berencana memperluas pulau ini menjadi resor, kan? `
+`Saat melakukannya, kau tidak secara kebetulan menemukannya, kan? `
+`"Mungkin kau bahkan menemukan emas di sana juga." `
 `"...Hahahaha. `
-`Do you think Rokkenjima is Treasure Island or something?" `
-`"Don't play dumb. `
-`...We know that, although you say you're opening a resort, you have really been planning to investigate the entire island, right? `
-`Judging by all that trouble and confusion we were talking about earlier, you haven't been very successful, have you?" `
-`"I don't know what you're talking about, but it's a misunderstanding. `
-`Isn't it perfectly natural that investigating this island would be the first step in turning it into a resort?" `
-`Krauss tried to play dumb, but it was plainly obvious to his siblings, who knew him so well. `
-`...Krauss was definitely sure of the existence of a hidden mansion. `
-`And under the pretense of opening a resort, he had been closely investigating the island, searching for a clue as to the location of the hidden gold. `
-`They couldn't tell whether that conviction was just him overthinking things, or whether it was based on some physical proof. `
-`...Still, if Krauss, with all his guile, was sure, `
-`that was enough proof for the other siblings to be sure too... `
-`"...The story about a witch livin' in a forest is obviously a fairy tale, `
-`but the story about some blonde-haired girl livin' secretly in a mansion no one knows about in the middle of the forest...isn't much better." `
-`"That's right. `
-`That really would be just like a fairy tale. `
-`You like those, don't you, Rosa?" `
-`"...Huh, ...w-well..." `
-`"When the mansion was built on this island, Father was at the height of his prosperity. `
-`With his money, he could probably obtain anything, make any of his wild imaginings real. `
-`...A mansion in the forest where a witch quietly waits... `
-`...It sounds like the kind of situation Father would like." `
-`"...Doesn't it? `
-`Like something from the occult or a fairy tale. `
-`...It feels like Dad's kind of hobby." `
-`On this island, on which the Ushiromiya family had lived for 30 years now, `
-`a hidden mansion that no one knew about had been quietly built to house a witch, about whom nothing was known except what could be guessed from a portrait... `
-`Even this hastily thrown together theory... `
-`might not be completely delusional, considering all of Kinzo's strange habits and his vast wealth... `
-`"...It might not have been impossible for Father to build a hidden mansion to satisfy his dreams. `
-`...However, let's be realistic. `
-`Would it be possible to house his beloved woman in that hidden mansion for decades without it becoming inconvenient...?" `
-`"...Well, `
-`if there was love, it could've been doable, right?" `
-`"Think of the facilities needed to let his beloved woman live healthily. `
-`...And in a way that would satisfy Father. `
-`For example, even if it was on a small scale, it would have to be an intricate and pleasant residence." `
-`"And it would probably need to have... `
-`electricity, `
+`Memangnya kau pikir Rokkenjima adalah Pulau Harta Karun atau semacamnya?" `
+`"Jangan berpura-pura bodoh. `
+`...Kami tau, walau kau bilang akan membuka resor, kau sebenarnya berencana untuk menyelidiki seluruh pulau, kan?"
+`Mengingat semua masalah dan kebingungan yang kita bicarakan tadi, kau belum terlalu sukses, kan?" `
+`"Aku tidak tau apa yang kau bicarakan, tapi itu salah paham. `
+`Bukankah wajar jika menyelidiki pulau ini adalah langkah pertama untuk mengubahnya menjadi resor?" `
+`Krauss mencoba berpura-pura bodoh, tapi hal itu jelas terlihat oleh saudara-saudaranya yang sangat mengenalnya. `
+`...Krauss pasti yakin akan keberadaan sebuah mansion tersembunyi. `
+`Dan dengan dalih membuka resor, dia sudah menyelidiki pulau ini dengan teliti, mencari petunjuk tentang lokasi emas tersembunyi. `
+`Mereka tidak bisa memastikan apakah keyakinan itu hanya karena dia berpikir berlebihan, atau apakah didasarkan pada bukti fisik. `
+`...Namun, jika Krauss, dengan segala kecerdikannya, yakin, `
+`itu sudah cukup sebagai bukti bagi saudara-saudaranya untuk yakin juga... `
+`"...Cerita tentang seorang penyihir yang tinggal di hutan jelas hanya dongeng, `
+`tapi cerita tentang seorang gadis berambut pirang yang tinggal secara rahasia di sebuah mansion yang tidak diketahui orang di tengah hutan...tidak jauh lebih baik." `
+`"Benar. `
+`Itu benar-benar seperti dongeng. `
+`Kau suka dongeng, kan, Rosa?" `
+`"...Huh, ...y-yah..." `
+`"Ketika mansion dibangun di pulau ini, Ayah sedang berada di puncak kejayaannya. `
+`Dengan uangnya, dia mungkin bisa mendapatkan apa saja, mewujudkan semua khayalan liar yang dia miliki. `
+`...Sebuah mansion di hutan tempat seorang penyihir menunggu dengan tenang... `
+`...Kedengarannya seperti situasi yang disukai Ayah." `
+`"...Bukankah begitu? `
+`Seperti sesuatu dari dunia gaib atau dongeng. `
+`...Rasanya seperti hobi Ayah." `
+`Di pulau ini, dimana keluarga Ushiromiya sudah tinggal selama 30 tahun, `
+`sebuah mansion tersembunyi yang tidak diketahui oleh siapa pun telah dibangun secara diam-diam untuk menampung seorang penyihir, tanpa ada yang diketahui kecuali apa yang bisa ditebak dari sebuah potret... `
+`Bahkan teori yang terburu-buru ini... `
+`mungkin tidak sepenuhnya gila, mengingat semua kebiasaan aneh Kinzo dan kekayaannya yang luar biasa... `
+`"...Mungkin saja Ayah membangun mansion tersembunyi untuk memenuhi mimpinya. `
+`...Tapi, kita realistis saja. `
+`Apakah mungkin menampung wanita yang dicintainya di mansion tersembunyi itu selama puluhan tahun tanpa menjadi tidak nyaman...?" `
+`"...Yah, `
+`jika ada cinta, mungkin saja bisa dilakukan, kan?" `
+`"Bayangkan fasilitas yang dibutuhkan agar wanita yang dicintainya bisa hidup sehat. `
+`...Dan dengan cara yang memuaskan Ayah. `
+`Misalnya, meskipun dalam skala kecil, itu harus menjadi tempat tinggal yang rumit dan nyaman." `
+`"Dan kemungkinan besar juga membutuhkan... `
+`listrik, `
 `gas, `
-`and running water maintained, `
-`As well as possibly some people to help her. `
-`Even providing for her meals would be quite difficult." `
-`"She would need clothes and makeup, daily necessities. `
-`...The needs of a woman aren't simple. `
-`......Would it be possible to maintain all of that without any of the family or the servants noticing?" `
-`"......When you say it that way, it sure sounds like a weak point in our theory. `
-`...But that isn't enough to get rid of my feeling that Dad might've been able to do it anyway. `
-`After all, it's Dad we're talking about." `
-`"That's right. `
-`...It's our Father." `
-`"If Father wanted to succeed in an endeavor, he would succeed no matter what. `
-`...Saying that something would be difficult for a normal person and therefore impossible...doesn't apply when it comes to Father." `
-`"Indeed. `
-`You should never underestimate Father. `
-`...Father's madness can't be understood by normal people." `
-`I wouldn't put it past "that" Kinzo. `
-`...As long as you stick to this phrase, a considerable amount of credibility can dwell in any absurd story. `
-`However, that didn't cause the importance of what Kyrie had said to waver. `
-`This was different from stealthily raising a kitten in a cardboard box and keeping it a secret from your parents. `
-`Taking care of a person in secret over a period of 30 years would be an incalculably massive task... `
-`"...After all, Father's Legend of the Gold started before he gained possession of Rokkenjima. `
-`That'd mean his relationship with his mistress was over 30 years long... `
-`How old would that make her? `
-`In the worst case, she could be as old as us or older, right?" `
-`"...By that age, the body starts to break down. `
-`I don't care what the mansion's like, I wouldn't use the word "agreeable" to describe livin' in a place where people's eyes can't reach, almost like she was under house arrest..." `
-`"That's right. `
-`...If what Father told us about {f:5:Beatrice} is true, then that relationship has lasted for over 30 years. `
-`...She might've been a charming young woman at the time, but it probably makes sense to assume she's an old bag like us now. `
-`I can easily imagine that, given the contents of that letter." `
-`"You should talk. `
+`dan air mengalir yang terawat, `
+`mungkin juga beberapa orang untuk membantunya. `
+`Bahkan menyediakan makanannya saja sudah cukup sulit." `
+`"Dia membutuhkan pakaian dan kosmetik, kebutuhan sehari-hari. `
+`...Kebutuhan seorang wanita tidaklah sederhana. `
+`......Apakah mungkin mempertahankan semua itu tanpa keluarga atau pelayan menyadarinya?" `
+`"......Kalau kau bilang seperti itu, memang terdengar seperti kelemahan dalam teori kita. `
+`...Tapi itu tidak cukup untuk menghilangkan firasatku kalau Ayah mungkin bisa melakukannya juga. `
+`Lagi pula, kita sedang membicarakan Ayah." `
+`"Benar. `
+`...Itulah Ayah kita." `
+`"Kalau Ayah ingin berhasil dalam suatu usaha, dia pasti akan berhasil apa pun yang terjadi. `
+`...Mengatakan kalau sesuatu akan sulit bagi orang biasa dan karenanya mustahil...tidak berlaku bagi Ayah." `
+`"Benar. `
+`Jangan pernah meremehkan Ayah. `
+`...Kegilaan Ayah tidak bisa dipahami oleh orang biasa." `
+`Aku tidak akan heran jika itu Kinzo. `
+`...Selama kau berpegang pada kalimat ini, kisah yang paling konyol pun bisa cukup dipercaya. `
+`Tapi, hal itu tidak membuat apa yang dikatakan Kyrie menjadi kurang penting. `
+`Ini berbeda dengan membesarkan seekor anak kucing secara diam-diam dalam kotak kardus dan menyembunyikannya dari orang tua. `
+`Merawat seseorang secara rahasia selama 30 tahun akan menjadi tugas yang tak terukur besarnya... `
+`"...Lagi pula, Legenda Emas Ayah dimulai sebelum dia menguasai Rokkenjima. `
+`Itu berarti hubungannya dengan selingkuhannya sudah berlangsung lebih dari 30 tahun... `
+`Berapa umurnya sekarang? `
+`Kemungkinan terburuknya, dia seusia kita atau lebih tua, kan?" `
+`"...Pada usia itu, tubuh mulai rapuh. `
+`Aku tidak peduli seperti apa mansionnya, aku tidak akan menggunakan kata “nyaman” untuk menggambarkan tinggal di tempat di mana mata orang tidak bisa menjangkau, hampir seperti dia berada di bawah tahanan rumah..." `
+`"Benar. `
+`...Jika apa yang Ayah katakan tentang {f:5:Beatrice} benar, maka hubungan itu telah berlangsung lebih dari 30 tahun. `
+`...Dia mungkin pernah menjadi wanita muda yang menawan saat itu, tapi masuk akal untuk menganggap dia sekarang seperti kita, orang tua. `
+`Mengingat isi surat itu, bisa aku bayangkan." `
+`"Kau yang bicara. `
 `Heheheh." `
-`Krauss laughed as if none of this applied to him. `
-`Of course, Eva was offended, but she didn't strike back. `
-`"Quit it, Aniki. `
-`...So if everything we're thinking's true, then she should be joining in on Dad's inheritance problem with her head held high. `
-`After all, ...there's a good chance their love was mutual, unlike with Mom. `
-`Even if she knows she's his mistress, she might also be proud to be his true wife." `
-`"......That is an insult to Mother." `
-`"Yeah, sorry. `
-`...However, everyone knows that it was a political marriage decided on by the elders among his relatives. `
-`...Because of that, it definitely wouldn't be strange for Dad to have a mistress." `
-`The family sank after the Great Kanto Earthquake, and Father was set up as the Ushiromiya Family Head against his will. `
-`However, in the beginning, the elder relatives treated Kinzo like a dummy and influenced him powerfully, almost like he was a puppet. `
-`He wasn't permitted to decide anything by himself, not even his marriage partner... `
-`...Ever since he met that Golden Witch {f:5:Beatrice} in those distant days, `
-`Kinzo's Legend of the Gold was quickly embellished into something dramatic. `
-`In other words, `
-`...it could mean... `
-`that Kinzo really did find a woman he loved. `
-`If she also knew the whole story, `
-`even if they weren't marriage partners, it wouldn't have been odd for her to consider herself his true wife inside her heart. `
-`...And now, the person registered as his true wife was already dead... `
-`"...Which means she might feel confident staking her claim, not just for the rights to his assets, but regarding the battle over the Headship too." `
-`"......I see. `
-`I'm starting to see the purpose of this letter. `
-`The Headship goes to the one who solves the riddle of the epitaph... `
-`Is that what it means...?" `
-`"Even if that mistress was added into the family ranking system, she isn't a direct relative of Father, so she'd be inferior even to the children. `
-`...In other words, she'd be one step below Rosa in rank. `
-`That wouldn't be a good position to enter the battle for the Headship from." `
-`"I see, so that's it. `
-`...If someone can solve the witch's riddle, they'll get the Headship regardless of rank. `
-`In other words, it's the most advantageous condition {f:5:Beatrice} could possibly get, since she's got no chance otherwise." `
-`The revival of the Ushiromiya family was made possible by the gold {f:5:Beatrice} had bestowed. `
-`...That was quite a distinguishing service she had provided. `
-`She had built that wealth together with Kinzo, so it was natural that she would think of herself as the one who should inherit it... `
-`It would also be natural for her to despise the thought of giving it up to the children of the wife Kinzo never loved. `
-`"H-How could she be so impudent...?! `
-`Even if such a mistress actually exists, joining in on the battle for the rights to the Head's inheritance would be a reckless action far above her place! `
-`What disregard for her own position...!" `
-`Natsuhi turned red, her fist quivering. `
-`...She had also come into the Ushiromiya register due to complicated circumstances. `
-`Those who knew that understood more or less why she was so angry for the sake of Kinzo's dead wife. `
-`"...Well, thanks to that reckless action of hers, we all have an even chance now, right? `
-`Father has even given it his silent approval. `
-`...Will the person who succeeds the Ushiromiya family be his mistress {f:5:Beatrice}, or one of us, the relatives he doesn't love? `
-`Maybe he wants to make us struggle over that to see who's worthy." `
-`As Eva giggled roguishly, Krauss shrugged his shoulders and looked away. `
-`"...However, since she's the one who brought this rule to light in the first place, `
-`maybe that means it gives her a significant advantage." `
-`"Th-That's right. `
-`...In the first place, if {f:5:Beatrice} meant that letter literally, then she's Father's alchemist. `
-`In other words, she's the manager of his gold. `
-`It wouldn't be strange at all if she knew where it was hidden, would it?!" `
-`"Isn't that harsh? `
-`It's like she's giving us a riddle she knows the answer to! `
-`She'll probably show up rudely, say "Hey, here's the answer, I'll take the Headship now", `
-`and snatch everything away from us!" `
+`Krauss tertawa seolah-olah semua ini tidak berlaku baginya. `
+`Tentu saja, Eva merasa tersinggung, tapi dia tidak membalas. `
+`"Cukup, Aniki. `
+`...Jadi, kalau semua yang kita pikirkan benar, maka dia seharusnya ikut serta dalam masalah warisan Ayah dengan percaya diri. `
+`Lagi pula, ...ada kemungkinan besar cinta mereka saling timbal balik, tidak seperti dengan Ibu. `
+`Bahkan kalau dia tau dia adalah selingkuhannya, dia mungkin juga bangga menjadi istrinya yang sebenarnya." `
+`"......Itu penghinaan terhadap Ibu." `
+`"Ya, maaf. `
+`...Tapi, semua orang tau kalau itu adalah pernikahan politik yang diputuskan oleh para tetua di antara kerabatnya. `
+`...Karena itu, tentu saja tidak aneh kalau Ayah memiliki selir." `
+`Keluarga itu hancur setelah Gempa Besar Kanto, dan Ayah ditunjuk sebagai Kepala Keluarga Ushiromiya melawan kehendaknya. `
+`Meskipun, pada awalnya, kerabat tua memperlakukan Kinzo seperti boneka dan mempengaruhinya dengan kuat, hampir seperti dia adalah boneka. `
+`Dia tidak diizinkan untuk memutuskan apa pun sendiri, bahkan pasangan pernikahannya... `
+`...Sejak dia bertemu dengan Penyihir Emas {f:5:Beatrice} pada hari-hari yang jauh itu, `
+`Legenda Emas Kinzo dengan cepat dihiasi menjadi sesuatu yang dramatis. `
+`Dengan kata lain, `
+`...itu bisa berarti... `
+`kalau Kinzo benar-benar menemukan seorang wanita yang dia cintai. `
+`Kalau dia juga mengetahui seluruh cerita, `
+`meskipun mereka bukan pasangan suami istri, tidak aneh baginya untuk menganggap dirinya sebagai istri sejatinya di dalam hatinya. `
+`...Dan sekarang, orang yang terdaftar sebagai istri sejatinya sudah meninggal... `
+`"...Artinya, dia mungkin merasa yakin untuk mengklaim haknya, tidak hanya atas harta bendanya, tetapi juga dalam pertarungan untuk kepemimpinan." `
+`"......Begitu ya. `
+`Aku mulai memahami tujuan surat ini. `
+`Kepemimpinan jatuh kepada orang yang memecahkan teka-teki nisan... `
+`Itukah artinya...?" `
+`"Bahkan jika selir itu dimasukkan ke dalam sistem peringkat keluarga, dia bukan kerabat langsung Ayah, jadi dia akan berada di bawah anak-anak. `
+`...Dengan kata lain, dia akan berada satu tingkat di bawah Rosa dalam peringkat. `
+`Itu bukan posisi yang bagus untuk masuk ke pertarungan memperebutkan Kepemimpinan." `
+`"Aku mengerti, jadi begitu ya. `
+`...Kalau seseorang bisa memecahkan teka-teki penyihir, dia akan mendapatkan Kepemimpinan terlepas dari peringkatnya. `
+`Dengan kata lain, itu adalah kondisi paling menguntungkan yang bisa didapatkan {f:5:Beatrice}, karena dia tidak punya kesempatan lain." `
+`Kebangkitan keluarga Ushiromiya dimungkinkan oleh emas yang {f:5:Beatrice} berikan. `
+`...Itu adalah jasa yang sangat membedakan yang dia berikan. `
+`Dia membangun kekayaan itu bersama Kinzo, jadi wajar jika dia menganggap dirinya sebagai orang yang seharusnya mewarisinya... `
+`Juga wajar baginya untuk membenci gagasan menyerahkannya kepada anak-anak istri yang tidak pernah dicintai Kinzo. `
+`"B-Bagaimana dia bisa begitu berani...?! `
+`Bahkan jika seorang selir seperti itu benar-benar ada, ikut campur dalam pertarungan hak waris Kepala Keluarga adalah tindakan nekat yang jauh di luar batasnya! `
+`Betapa tidak menghargainya terhadap posisinya sendiri...!" `
+`Natsuhi memerah, tinjunya gemetar. `
+`...Dia juga masuk ke dalam daftar Ushiromiya karena keadaan yang rumit. `
+`Mereka yang tau itu kurang lebih mengerti mengapa dia begitu marah demi istri Kinzo yang sudah meninggal. `
+`"...Nah, berkat tindakan nekatnya itu, kita semua sekarang punya kesempatan yang sama, kan? `
+`Ayah bahkan telah memberinya persetujuan diam-diam. `
+`...Apakah orang yang akan mewarisi keluarga Ushiromiya adalah selingkuhannya {f:5:Beatrice}, atau salah satu dari kita, kerabat yang tidak dia cintai? `
+`Mungkin dia ingin membuat kita berjuang untuk itu agar melihat siapa yang layak." `
+`Saat Eva tertawa nakal, Krauss mengangkat bahu dan memalingkan muka. `
+`"...Namun, karena dialah yang pertama kali mengungkap aturan ini, `
+`mungkin itu berarti dia memiliki keunggulan yang lumayan." `
+`"Benar. `
+`...Sejak awal, jika {f:5:Beatrice} mengartikan surat itu secara harfiah, maka dia adalah alkemis Ayah. `
+`Dengan kata lain, dia adalah pengelola emasnya. `
+`Sama sekali tidak aneh kalau dia tau di mana emas itu disembunyikan, kan?!" `
+`"Bukankah itu terlalu kejam? `
+`Seolah-olah dia memberi kita teka-teki yang dia tau jawabannya! `
+`Dia mungkin akan muncul dengan kasar, berkata, “Hei, ini jawabannya, aku akan mengambil kepemimpinan sekarang," `
+`dan merebut semuanya dari kita!" `
 `"............ `
-`...That's right. `
-`The person who brings up a riddle always knows the answer. `
-`There's a good chance that this is all a trap to steal everything from us." `
-`"...If you think about it like that, don't you start to doubt whether she really had any gold in the first place? `
-`Why would she tell us about it? `
-`All she has to do is keep quiet and embezzle it." `
-`"It really is... `
-`strange." `
-`That certainly was the case. `
-`If the epitaph showed the way to the hidden gold, why would she challenge them to try and solve it? `
-`If they actually did solve it, wouldn't the gold all be stolen from her...? `
-`Could it be that this person was trying to stir the siblings up so they'd solve the epitaph, `
-`and then planned to steal it away at the last second...? `
-`It was an extremely logical possibility. `
-`"......No, `
-`if you spin the chessboard around, there might be a pretty good chance that they actually do have the gold." `
-`"Why are you so certain?" `
-`"...Wait, Aneki. `
-`...Kyrie, please keep talking. `
-`Why do you think that?" `
-`"After all, do they really think we'll let go of the Ushiromiya Family Headship... `
-`just because someone tells us the answer to the riddle in the witch's epitaph? `
-`That we'll be so impressed by their answer...that we'll just give up?" `
-`"...Well, `
-`...that's true. `
-`No way they're so naive that they assumed we'd just give up after being told the answer to a riddle, `
-`that we'd just say "Here you go" and hand it over." `
-`"Of course. `
-`The Headship of the Ushiromiya family is not something that can be handed over so easily!" `
-`"That's it exactly. `
-`No matter how {f:5:Beatrice} might one-sidedly propose a game like this, even if she were to spectacularly show us the answer, `
-`there's no way we'd obediently hand over the Headship. `
-`...In other words, unless she has a compelling force in the form of challenging us to a game with equal conditions for us all, `
-`this won't truly count as a game." `
-`"You're right. `
-`...Unless the losers have no choice but to give up on the Headship {i:because of a compelling force}, this won't really count as a game." `
-`"And what might this compelling force be? `
-`Would they bind us in chains and threaten us into handing over the Headship?" `
-`"......I see. `
-`I get it. `
-`...They'd just have to do something to make us want to give up the Headship willingly. `
-`Yes, I see. `
-`...To do that, {f:5:Beatrice} would have to own 10 tons of gold...!" `
-`"I-I see, I get it too! `
-`In other words, ...it's a trade?!" `
+`...Benar. `
+`Orang yang mengajukan teka-teki selalu tau jawabannya. `
+`Ada kemungkinan besar ini semua jebakan untuk mencuri segalanya dari kita." `
+`"...Kalau dipikir seperti itu, apakah kau tidak mulai meragukan apakah dia benar-benar punya emas sejak awal? `
+`Mengapa dia memberitahu kita tentang itu? `
+`Yang perlu dia lakukan hanyalah diam dan menggelapkan emas itu." `
+`"Ini benar-benar... `
+`aneh." `
+`Itu memang benar. `
+`Kalau nisan itu menunjukkan jalan ke emas tersembunyi, mengapa dia menantang mereka untuk mencoba memecahkannya? `
+`Kalau mereka benar-benar memecahkannya, bukankah emas itu akan dicuri darinya...? `
+`Mungkinkah orang ini mencoba menghasut saudara-saudara itu agar memecahkan nisan, `
+`dan kemudian berencana mencuri emas itu di detik-detik terakhir...? `
+`Kemungkinan itu adalah yang sangat logis. `
+`"......Tidak, `
+`kalau kau memutar papan catur, mungkin ada peluang yang cukup besar kalau mereka sebenarnya memiliki emas itu." `
+`"Kenapa kau begitu yakin?" `
+`"...Tunggu, Aneki. `
+`...Kyrie, tolong lanjutkan ucapanmu. `
+`Kenapa kau berpikir begitu?" `
+`"Lagi pula, apakah mereka benar-benar berpikir kita akan melepaskan kepemimpinan Keluarga Ushiromiya... `
+`hanya karena seseorang memberi tau kita jawaban teka-teki di nisan penyihir itu? `
+`Kalau kita akan begitu terkesan dengan jawaban mereka... sehingga kita akan menyerah begitu saja?" `
+`"...Ya, `
+`...itu benar. `
+`Tidak mungkin mereka begitu naif hingga mengira kita akan menyerah begitu saja setelah diberi tau jawaban teka-teki, `
+`kalau kita akan berkata "Silahkan" dan menyerahkannya begitu saja." `
+`"Tentu saja. `
+`Kepemimpinan keluarga Ushiromiya bukanlah sesuatu yang bisa diserahkan begitu saja!" `
+`"Itu benar. `
+`Tidak peduli seberapa sepihak {f:5:Beatrice} mengusulkan permainan seperti ini, bahkan jika dia secara mengejutkan menunjukkan jawaban kepada kita, `
+`tidak mungkin kita menyerahkan kepemimpinan begitu saja. `
+`...Dengan kata lain, kecuali dia memiliki kekuatan yang memaksa dalam bentuk tantangan permainan dengan kondisi yang sama untuk kita semua, `
+`ini tidak benar-benar dianggap sebagai permainan." `
+`"Kau benar. `
+`...Kecuali para pemenang tidak punya pilihan selain menyerah pada kepemimpinan {i:karena kekuatan yang memaksa}, ini tidak benar-benar dianggap sebagai permainan." `
+`"Dan apa kekuatan yang memaksa itu? `
+`Apakah mereka akan mengikat kita dengan rantai dan mengancam kita untuk menyerahkan Kepemimpinan?" `
+`"......Aku mengerti. `
+`Aku paham. `
+`...Mereka hanya perlu melakukan sesuatu untuk membuat kita ingin menyerahkan Kepemimpinan dengan sukarela. `
+`Ya, aku mengerti. `
+`...Untuk melakukannya, {f:5:Beatrice} harus memiliki 10 ton emas...!" `
+`"B-Begitu ya, aku mengerti! `
+`Artinya, ...ini pertukaran?!" `
 `"Huh? `
-`Wh-What do you mean...? `
-`A trade? `
-`Trade what?!" `
-`"The Ushiromiya Family Headship for the hidden gold. `
-`...{f:5:Beatrice} surely plans to tell us the location of the 10 tons of gold...and use that as a bribe to gain the Ushiromiya Family Headship." `
-`"R‐ridiculous!!" `
-`"They want to trade the Headship of the glorious Ushiromiya family for...m-money?! `
-`That's blasphemy!! `
-`Blasphemy against the Ushiromiya family!!" `
-`"...Please listen without getting mad. `
-`...About how much wealth does this glorious Ushiromiya family have right now? `
-`Are we really that affluent?" `
-`"Th-The definition of affluence is not dependent on property. `
-`It is about heart! `
-`Our financial situation has nothing to-" `
-`Krauss interrupted Natsuhi as she started to go on and on emotionally. `
-`In this situation, the more she went on like that, the worse it would actually sound. `
-`"...Me aside, I hear your current situations are...quite unfavorable." `
-`"Oh, really? `
-`I've heard that your financial situation's really bad too. `
-`Offering up more and more as collateral for new money to gamble with. `
-`Repeatedly dabbling in new gambles, unable to accept your losses. `
-`...If we count what's going on behind the scenes, you're in even bigger financial straits than the rest of us." `
-`"Just how much money have you lost, Nii-san? `
-`You have no talent!" `
-`"Wh-Who are you saying has no talent?!! `
-`And what do you mean, financial straits?!!" `
-`Natsuhi became indignant once more, but Krauss raised his hand again and interrupted her. `
-`"...It seems you are making a small mistake. `
-`Business is not something that can be judged based on current progress alone. `
-`For someone with a long-term outlook on business such as myself, `
-`it may sometimes appear at a glance that I have suffered significant short-term losses." `
+`Apa maksudmu...? `
+`Tukar menukar? `
+`Tukar apa?!" `
+`"Kepemimpinan Keluarga Ushiromiya dengan emas tersembunyi. `
+`...{f:5:Beatrice} pasti berencana memberitau kita lokasi 10 ton emas...dan menggunakan itu sebagai suap untuk mendapatkan Kepemimpinan Keluarga Ushiromiya." `
+`"K-konyol!!" `
+`"Mereka ingin menukar Kepemimpinan Keluarga Ushiromiya yang mulia dengan... uang?! `
+`Itu penghinaan!! `
+`Penghinaan terhadap Keluarga Ushiromiya!!" `
+`"...Tolong dengarkan tanpa marah. `
+`...Berapa banyak kekayaan yang dimiliki Keluarga Ushiromiya yang mulia saat ini? `
+`Apakah kita benar-benar sejahtera?" `
+`"Definisi sejahtera tidak bergantung pada harta benda. `
+`Ini tentang hati! `
+`Keadaan keuangan kita tidak ada hubungannya dengan-" `
+`Krauss memotong pembicaraan Natsuhi saat dia mulai berbicara dengan emosional. `
+`Dalam situasi ini, semakin dia berbicara seperti itu, semakin buruk kedengarannya. `
+`"...Di luar diriku, aku dengar situasi kalian saat ini...cukup tidak menguntungkan." `
+`"Oh, benarkah? `
+`Aku dengar situasi keuanganmu juga sangat buruk. `
+`Menyerahkan jaminan lebih banyak untuk uang baru yang akan dipertaruhkan. `
+`Terus-menerus mencoba perjudian baru, tidak bisa menerima kerugianmu. `
+`...Kalau kita menghitung apa yang terjadi di balik layar, kau berada dalam kesulitan keuangan yang lebih parah daripada kita semua." `
+`"Berapa banyak uang yang sudah kau hilangkan, Nii-san? `
+`Kau tidak punya bakat!" `
+`"Siapa yang kau maksud tidak punya bakat?!! `
+`Dan apa maksudmu dengan kesulitan keuangan?!!" `
+`Natsuhi menjadi marah lagi, tetapi Krauss mengangkat tangannya lagi dan memotong pembicaraannya. `
+`"...Sepertinya kau membuat kesalahan kecil. `
+`Bisnis bukanlah sesuatu yang bisa dinilai hanya berdasarkan kemajuan saat ini. `
+`Bagi seseorang dengan pandangan jangka panjang dalam bisnis seperti diriku, `
+`kadang-kadang terlihat sekilas bahwa aku telah mengalami kerugian jangka pendek yang signifikan." `
 `"Aniki, `
-`we've been collecting evidence. `
-`Your position right now isn't one to be proud of. `
-`...So this is what Kyrie's trying to say. `
-`...Every one of us has got money trouble. `
-`And {f:5:Beatrice} has 10 tons of gold." `
-`"...As the only person who knows the location of the 10 tons of gold, {f:5:Beatrice} is planning on using it to force us to sell the Headship. `
-`...About how much is 10 tons of gold worth?" `
-`"At a rough estimate, ...let's say 2 billion yen? `
-`......No, 20 billion yen. `
-`With that much piled up, we'd be ecstatic to accept her as the Successor." `
-`The scene returned to silence. `
-`In fact, the rain and wind felt even noisier now. `
-`...It was probably the sound of the windstorm racing through the insides of their minds... `
-`"......Th-This isn't funny. `
-`...To think we'd give up the Headship to some woman of doubtful origin... `
-`...just because she had a little money stored up..." `
-`"Don't be stupid...! `
-`The Headship wasn't even yours in the first place, right...?! `
-`We've got nothin' to lose and money to gain. `
-`We'll have to calculate our profit and loss, but it's somethin' worth listenin' to...!" `
-`They knew that Krauss had eaten up much of the Ushiromiya family's assets. `
-`So, it was dregs that remained of that inheritance, ...versus "the cost of being accepted as the Head" that {f:5:Beatrice} would pay. `
-`It was a shame, but honestly, the former was less enticing than the latter. `
-`"...Well, it probably wouldn't end up as four equal portions. `
-`Since Aniki would be giving up his position of Successor, his portion would have to be larger. `
-`...Makes me feel kinda jealous, you know?" `
+`kami telah mengumpulkan bukti. `
+`Posisimu saat ini bukanlah sesuatu yang patut dibanggakan. `
+`...Inilah yang ingin dikatakan Kyrie. `
+`...Setiap dari kita mengalami masalah keuangan. `
+`Dan {f:5:Beatrice} memiliki 10 ton emas." `
+`"... Sebagai satu-satunya orang yang tahu lokasi 10 ton emas, {f:5:Beatrice} berencana menggunakannya untuk memaksa kita menjual Kepemimpinan. `
+`...Berapa nilai 10 ton emas?" `
+`"Perkiraan kasar, ...katakanlah 2 miliar yen? `
+`......Tidak, 20 miliar yen. `
+`Dengan tumpukan uang sebanyak itu, kami akan sangat senang menerimanya sebagai Penerus." `
+`Suasana kembali hening. `
+`Sebenarnya, hujan dan angin terasa lebih bising sekarang. `
+`...Mungkin itu suara badai angin yang melintas di dalam pikiran mereka... `
+`"......Ini tidak lucu. `
+`...Pikirkan saja kita akan menyerahkan Kepemimpinan kepada seorang wanita yang asal-usulnya dipertanyakan... `
+`...hanya karena dia punya sedikit uang yang disimpan..." `
+`"Jangan bodoh...! `
+`Kepemimpinan itu bahkan bukan milikmu sejak awal, kan...?! `
+`Kami tidak punya apa-apa untuk hilang dan uang untuk didapat. `
+`Kami harus menghitung untung rugi, tapi ini sesuatu yang layak didengarkan...!" `
+`Mereka tau Krauss menghabiskan sebagian besar aset keluarga Ushiromiya. `
+`Jadi, yang tersisa hanyalah sisa-sisa warisan itu, ...dibandingkan "biaya untuk diterima sebagai Kepala" yang akan dibayar oleh {f:5:Beatrice}. `
+`Itu sayang, tapi jujur, yang pertama kurang menarik daripada yang kedua. `
+`"...Yah, mungkin tidak akan berakhir dibagi empat sama rata. `
+`Karena Aniki akan menyerahkan posisinya sebagai Pewaris, bagiannya harus lebih besar. `
+`...Membuatku merasa sedikit iri loh." `
 `"............" `
-`"Dear...! `
-`The amount of money isn't the problem, right?! `
-`Your cowardly younger siblings are trying to sell the glory of the Ushiromiya family for money, don't you see?! `
-`Why aren't you displaying your dignity as the oldest son?!" `
+`"Sayang...! `
+`Jumlah uangnya bukan masalah, kan?! `
+`Adik-adikmu yang pengecut mencoba menjual kemuliaan keluarga Ushiromiya demi uang, tidakkah kau lihat?! `
+`Mengapa kau tidak menunjukkan martabatmu sebagai anak sulung?!" `
 `"......Natsuhi, `
-`stay quiet for a while." `
-`"Dear?!?!" `
-`"...This is a dizzying proposal. `
-`...We were each planning on getting 250 million yen out of Aniki. `
-`If the witch treats us with ten percent of those 10 tons, `
+`diamlah sebentar." `
+`"Sayang?!?!" `
+`"...Ini adalah tawaran yang memusingkan. `
+`...Masing-masing dari kami berencana mendapatkan 250 juta yen dari Aniki. `
+`Kalau si penyihir memberi kami sepuluh persen dari 10 ton itu, `
 `...ummm-" `
-`"That's 2 billion." `
-`"...Yeah. `
-`That'd mean she's treating us with ten times our original goal. `
-`That alone would be more than enough for us. `
-`...It's not like I've got any attachment to the Ushiromiya name. `
-`I'd be happy to sell it off..." `
-`"Even if 10 tons is a slightly optimistic figure, `
-`......yes, it'd still be a fascinating prospect for us. `
-`...We were trying to form an alliance among the siblings to kick this outsider called {f:5:Beatrice} out." `
-`"...But, if this is her plan, `
-`...it'll tear apart the unity between us. `
-`...Yeah, by this point we can state it clearly. `
-`...The goal of {f:5:Beatrice}'s letter was to disturb our alliance." `
-`If the three younger siblings, who never had anything to do with the inheritance, `
-`were paid enough money to satisfy them, they would happily accept {f:5:Beatrice} as the next Head. `
-`A moat had been dug all around Krauss. `
-`In that case, the negotiations would be one-on-one between her and Krauss. `
-`He tried to look strong, but Krauss's financial and political situation was extremely weak. `
-`...He might bluff in front of his siblings, but on the inside, he was considering entering negotiations, depending on the sum of money involved. `
-`In order to bury his losses, Krauss had taken advantage of the fact that Kinzo had shut himself up in his room...and had embezzled Kinzo's personal assets. `
-`Therefore, when Kinzo died and the inheritance was distributed, Krauss's situation would probably be investigated. `
-`But if he gave up his seat as the Head to {f:5:Beatrice}, `
-`she would also receive rights to the assets, and as a result, the distribution of the inheritance to the siblings would not occur. `
-`...In other words, Krauss' embezzlement might not have to be made known to the other siblings... `
-`Of course, the siblings were frightened of Kinzo, but it was doubtful whether they still actually respected him as a father. `
-`By this time, they each had their own families, their own wealth, and their own lives. `
-`If they were paid enough money in exchange for Rokkenjima, the wreckage of Kinzo's dreams, `
-`...there was a significant likelihood that they'd relinquish the Ushiromiya family name... `
-`In other words, {f:5:Beatrice}'s victory was already guaranteed in this "game". `
-`Not as the winner of "{f:5:Beatrice}'s game", `
-`...but as the winner of "Kinzo's game". `
-`...Kinzo once ordered that the epitaph be put on display. `
-`And until today, no one had solved it. `
-`So {f:5:Beatrice} "solved" it. `
-`In other words, this is less of a game and more like {f:5:Beatrice}'s declaration of victory... `
-`However, Kyrie still thought there might be a catch. `
-`If this was a declaration of victory, {f:5:Beatrice} would only have had to display the gold openly and state her intent to buy the inheritance. `
-`And yet, she had gone to all of this trouble, telling the siblings to try and solve the epitaph. `
-`Why did she set up this "new game", where she agreed to hand over the all of the gold and the inheritance to the epitaph solver? `
-`Kyrie tried spinning the chessboard around several times. `
-`...She searched for the sort of ideal strategy {f:5:Beatrice} might be after, something that could lead to this kind of thinking. `
-`...In the end, ...she reached a single conclusion. `
-`"......Could it be... `
-`arrogance? `
-`Or maybe... `
-`she's playing...?" `
-`"...What are you talking about?" `
-`"The witch sent us a letter of challenge, forcing us to try and solve the epitaph. `
-`She might be taking us lightly, thinking we could never solve it. `
-`...However, at the very least, there ought to be an extremely small chance that we do solve it." `
-`"After all, we have here four of Father's children by blood, right? `
-`The questioner called together four blood relatives who, if they tried frantically to work together and avoid having those assets stolen from them, `
-`might come across the answer of the riddle by chance." `
-`The reason the witch had a superior position in negotiations compared to the siblings...was that only she knew the location of the hidden gold. `
-`But if that hiding place was exposed to someone other than her, the witch's advantage would crumble. `
-`"In short, {f:5:Beatrice} gains nothing but risk by writing this witch's letter of challenge. `
-`...Of course, it might have had the effect of splitting apart the siblings' alliance, `
-`but if that was her only goal, why would she take this risk, however slight it might be...? `
-`That seems reckless to me." `
-`"...But if we keep in mind a certain type of emotion, that risk becomes comprehensible." `
+`"Itu 2 miliar." `
+`"...Ya. `
+`Itu berarti dia memperlakukan kami dengan sepuluh kali lipat dari tujuan awal kami. `
+`Itu saja sudah lebih dari cukup bagi kami. `
+`...Bukan berarti aku punya ikatan dengan nama Ushiromiya. `
+`Aku akan senang menjualnya..." `
+`"Bahkan kalau 10 ton adalah angka yang sedikit optimis, `
+`......ya, itu tetap akan menjadi prospek yang menarik bagi kami. `
+`...Kami berusaha membentuk aliansi di antara saudara-saudara untuk mengusir orang luar bernama {f:5:Beatrice}." `
+`"...Tapi, kalau ini rencananya, `
+`...itu akan merusak persatuan di antara kita. `
+`...Ya, pada titik ini kita bisa katakan dengan jelas. `
+`...Tujuan surat {f:5:Beatrice} adalah untuk mengganggu aliansi kita." `
+`Kalau ketiga saudara kandung yang lebih muda, yang tidak pernah terlibat dalam warisan, `
+`diberi cukup uang untuk memuaskan mereka, mereka akan dengan senang hati menerima {f:5:Beatrice} sebagai Kepala berikutnya. `
+`Sebuah parit telah digali di sekitar Krauss. `
+`Kalau begitu, negosiasi akan dilakukan secara langsung antara dia dan Krauss. `
+`Dia berusaha terlihat kuat, tetapi situasi keuangan dan politik Krauss sangat lemah. `
+`...Dia mungkin berpura-pura di depan saudara-saudaranya, tetapi di dalam hati, dia mempertimbangkan untuk masuk ke dalam negosiasi, tergantung pada jumlah uang yang terlibat. `
+`Untuk menutupi kerugiannya, Krauss memanfaatkan fakta bahwa Kinzo mengurung diri di kamarnya...dan menggelapkan aset pribadi Kinzo. `
+`Oleh karena itu, ketika Kinzo meninggal dan warisan dibagikan, situasi Krauss kemungkinan akan diselidiki. `
+`Tetapi jika dia menyerahkan posisinya sebagai Kepala kepada {f:5:Beatrice}, `
+`dia juga akan menerima hak atas aset tersebut, dan sebagai akibatnya, pembagian warisan kepada saudara-saudaranya tidak akan terjadi. `
+`...Dengan kata lain, penggelapan Krauss mungkin tidak perlu diungkapkan kepada saudara-saudaranya... `
+`Tentu saja, saudara-saudaranya takut pada Kinzo, tetapi diragukan apakah mereka masih menghormatinya sebagai ayah. `
+`Pada saat itu, masing-masing dari mereka sudah memiliki keluarga sendiri, kekayaan sendiri, dan kehidupan sendiri. `
+`Jika mereka diberi cukup uang sebagai ganti Rokkenjima, reruntuhan impian Kinzo, `
+`...ada kemungkinan besar mereka akan melepaskan nama keluarga Ushiromiya... `
+`Dengan kata lain, kemenangan {f:5:Beatrice} sudah pasti dalam "permainan" ini. `
+`Bukan sebagai pemenang "permainan {f:5:Beatrice}", `
+`...tetapi sebagai pemenang "permainan Kinzo". `
+`...Kinzo pernah memerintahkan agar nisan itu dipajang. `
+`Dan hingga hari ini, tidak ada yang berhasil memecahkannya. `
+`Jadi {f:5:Beatrice} "memecahkannya". `
+`Dengan kata lain, ini lebih seperti deklarasi kemenangan {f:5:Beatrice} daripada sebuah permainan... `
+`Namun, Kyrie masih berpikir mungkin ada jebakan. `
+`Jika ini adalah deklarasi kemenangan, {f:5:Beatrice} hanya perlu memamerkan emas secara terbuka dan menyatakan niatnya untuk membeli warisan. `
+`Namun, dia sudah repot-repot meminta saudara-saudaranya untuk mencoba memecahkan nisan. `
+`Mengapa dia membuat "permainan baru" ini, di mana dia setuju untuk menyerahkan semua emas dan warisan kepada pemecah nisan? `
+`Kyrie mencoba memutar papan catur beberapa kali. `
+`...Dia mencari strategi ideal yang mungkin dikejar {f:5:Beatrice}, sesuatu yang bisa mengarah pada pemikiran semacam ini. `
+`...Pada akhirnya, ...dia sampai pada satu kesimpulan. `
+`"...Mungkinkah... `
+`kesombongan? `
+`Atau mungkin... `
+`dia sedang mempermainkan kita...?" `
+`"...Apa yang kau bicarakan?" `
+`"Penyihir mengirimkan kita surat tantangan, memaksa kita untuk mencoba memecahkan epitaf. `
+`Dia mungkin meremehkan kita, berpikir kita tidak akan pernah bisa memecahkannya. `
+`...Tapi, setidaknya, seharusnya ada kemungkinan sangat kecil kalau kita akan berhasil memecahkannya." `
+`"Lagipula, di sini ada empat anak kandung Ayah, kan? `
+`Penanya memanggil empat kerabat darah yang, jika mereka berusaha habis-habisan bekerja sama dan menghindari agar aset-aset itu dicuri dari mereka, `
+`mungkin secara kebetulan menemukan jawaban teka-teki itu." `
+`Alasan kenapa penyihir memiliki posisi tawar yang lebih unggul dibanding para saudara...adalah karena hanya dia yang tahu lokasi emas tersembunyi. `
+`Tetapi jika tempat persembunyian itu terbocorkan kepada orang selain dia, keuntungan penyihir akan runtuh. `
+`"Singkatnya, {f:5:Beatrice} tidak mendapatkan apa-apa selain risiko dengan menulis surat tantangan penyihir ini. `
+`...Tentu, itu mungkin punya efek memecah aliansi antara saudara-saudara, `
+`tetapi jika itu saja tujuannya, mengapa dia mengambil risiko ini, sekecil apa pun itu...? `
+`Itu tampak sembrono bagiku." `
+`"...Tapi jika kita mengingat jenis emosi tertentu, risiko itu menjadi dapat dipahami." `
 `"......... `
-`...And you're saying it's arrogance?" `
-`"Yes, that's right. `
-`...When people have an overwhelming advantage, they tend to get arrogant. `
-`And when they do, they want to show off that advantage to the losers, so they sometimes take on small risks. `
-`...A moderate amount of risk adds a little spice to the joy of victory. `
-`It'd be boring to win without any risk." `
-`"......I understand. `
-`I like that kind of thing too. `
-`...Yeah, I understand it well." `
-`"I thought of a few plausible explanations for the true motive behind {f:5:Beatrice}'s letter, `
-`...but I think this really might be the truth. `
-`...The emotion hidden behind that letter was... `
-`...arrogance." `
-`"......Arrogance." `
-`"She's trying to throw her weight around, looking down on us, as if there's no way we could figure out such a difficult epitaph. `
-`...It might even be possible, if surprising, that the epitaph wasn't written by Father, but by her." `
-`"...Sounds great. `
-`...Solve the riddle of the epitaph, she says?" `
-`If only I solved it, I would be made the Head, right...? `
-`...I'll solve it... `
-`I'll accept the witch's challenge. `
-`As if those other idiot siblings could solve it. `
-`I'll solve it by myself, and then I'll prove that I'm the one who's fit to succeed the Ushiromiya family... `
-`"I'll take that challenge. `
-`...I will... `
-`solve the riddle..." `
+`...Dan kau mengatakan itu kesombongan?" `
+`"Ya, benar. `
+`...Ketika orang memiliki keunggulan yang luar biasa, mereka cenderung menjadi sombong. `
+`Dan ketika itu terjadi, mereka ingin memamerkan keunggulan itu pada yang kalah, sehingga kadang mereka mengambil risiko kecil. `
+`...Risiko yang sedang-sedang saja menambah sedikit bumbu pada kegembiraan kemenangan. `
+`Menang tanpa risiko akan membosankan." `
+`"......Aku mengerti. `
+`Aku juga suka hal semacam itu. `
+`...Ya, aku paham betul." `
+`"Aku memikirkan beberapa penjelasan masuk akal untuk motif sebenarnya di balik surat {f:5:Beatrice}, `
+`...tetapi kurasa ini memang mungkin kebenarannya. `
+`...Emosi yang tersembunyi di balik surat itu adalah... `
+`...kesombongan." `
+`"......Kesombongan." `
+`"Dia mencoba memamerkan kekuasaannya, memandang rendah kita, seolah-olah tidak mungkin kita bisa memecahkan epitaf yang begitu sulit. `
+`...Bahkan mungkin, meski mengejutkan, bahwa epitaf itu bukan ditulis oleh Ayah, melainkan oleh dia." `
+`"...Kedengarannya hebat. `
+`...Memecahkan teka-teki epitaf, katanya?" `
+`Kalau saja aku memecahkannya, aku akan dijadikan Kepala, kan...? `
+`...Aku akan memecahkannya... `
+`Aku akan menerima tantangan penyihir itu. `
+`Seolah-olah saudara-saudara bodoh yang lain bisa memecahkannya. `
+`Aku akan memecahkannya sendiri, dan kemudian aku akan membuktikan bahwa akulah yang pantas mewarisi keluarga Ushiromiya... `
+`"Aku akan menerima tantangan itu. `
+`...Aku akan... `
+`memecahkan teka-teki..." `
