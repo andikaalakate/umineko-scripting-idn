@@ -1,871 +1,872 @@
-`"...I see... `
-`So she's not a witch, but a mistress named {f:5:Beatrice}, who lived on the island... `
-`...So there can be more than 18 people! `
-`Which means I can defeat the line of reasoning that says any crime impossible for all 18 people must involve magic. `
-`...That's a big scoop." `
-`"Pardon me. `
-`Battler-sama, would you like some black tea and cookies?" `
-`Beato's butler, who called himself Ronove, appeared out of nowhere. `
-`A plate set on a silver tray that he held was filled with delicious-looking, steaming black tea and cookies. `
-`...I really don't like this guy's smile. `
-`For some reason, it doesn't look like a smile used to warmly greet a guest. `
-`It feels like he's mocking me somehow. `
-`...I don't know if he really takes me for an idiot, `
-`or if it's just a joke or something, but it's really irritating me. `
-`"...I don't need any. `
-`I'm busy now. `
-`Leave me alone." `
-`"Oh, my. `
-`Such a shame, and the cookies were so delicious too. `
-`Cooked so wonderfully they would be wasted on a mere Human." `
-`"I'll eat some when I feel like it. `
-`Just set it down somewhere and get out of here." `
-`"Will that be acceptable? `
-`Then I shall do so. `
-`You may eat them when they get cold and stale, and then regret to the fullest that you did not eat them while they were fresh." `
-`"......You really are annoying. `
-`...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear." `
-`"Yes, yes, that is quite true. `
-`There are times when Milady's laughter becomes quite undignified. `
-`Every time I hear it, I find it painful to comprehend `
-`why such a noble demon as myself must serve such a Master. `
+`"...Begitu ya... `
+`Jadi dia bukan penyihir, tetapi seorang selir bernama {f:5:Beatrice}, yang tinggal di pulau ini... `
+`...Berarti bisa ada lebih dari 18 orang! `
+`Yang artinya aku bisa mengalahkan garis penalaran yang mengatakan kejahatan apapun yang mustahil untuk semua 18 orang pasti melibatkan sihir. `
+`...Itu informasi besar." `
+`"Permisi. `
+`Battler-sama, apakah anda ingin teh hitam dan kue?" `
+`Kepala pelayan Beato, yang menyebut dirinya Ronove, muncul tiba-tiba. `
+`Piring yang diletakkan di nampan perak yang dia pegang berisi teh hitam dan kue yang tampak lezat dan masih mengepul. `
+`...Aku sangat tidak suka senyum pria ini. `
+`Entah mengapa, itu tidak terlihat seperti senyum yang digunakan untuk menyambut tamu dengan hangat. `
+`Rasanya seperti dia sedang mengejekku. `
+`...Aku tidak tau apakah dia benar-benar menganggapku bodoh, `
+`atau ini hanya lelucon atau sesuatu, tapi itu sangat mengesalkanku. `
+`"...Aku tidak perlu. `
+`Aku sedang sibuk sekarang. `
+`Tinggalkan aku sendiri." `
+`"Oh, sayang sekali. `
+`Padahal kuenya sangat lezat. `
+`Dimasak dengan begitu sempurna sampai sayang jika hanya diberikan kepada manusia biasa." `
+`"Aku akan makan sedikit jika aku mau. `
+`Letakkan saja di suatu tempat dan pergi dari sini." `
+`"Apakah itu boleh? `
+`Kalau begitu akan saya lakukan. `
+`Anda bisa memakannya saat sudah dingin dan basi, lalu menyesali sepenuhnya karena tidak memakannya selagi masih segar." `
+`"......Kau benar-benar menyebalkan. `
+`...Yah, kau jauh lebih baik daripada Beato itu, yang terus-terusan terkekeh menyeramkan di telingaku." `
+`"Ya, ya, itu cukup benar. `
+`Ada kalanya tawa nyonya menjadi sangat tidak pantas. `
+`Setiap kali mendengarnya, saya sulit memahami `
+`mengapa iblis mulia seperti saya harus melayani majikan seperti itu. `
 `Pu ku ku ku..." `
-`"...Man, you're weird. `
-`If you don't like it, then couldn't you just not work for her?" `
-`"And yet, to continue serving is furniture's joy. `
-`If we do not serve, we would hardly be furniture." `
-`"...Setting that aside, `
-`how has the game been proceeding? `
-`Just now, you seemed to have found some useful information that quite pleased you. `
-`Well now, I wonder what your shallow wit has conjured up." `
-`As Ronove mocked me and giggled, `
-`he followed my earlier words literally and placed the black tea and cookies in a random spot nearby. `
-`"...In any case, it appears you are now more confident in the existence of a 19th person, yes? `
-`Would you be gracious enough to allow me to hear your opinion?" `
+`"...Dasar, kau aneh. `
+`Kalau tidak suka, bukankah kau bisa saja tidak bekerja untuknya?" `
+`"Namun, terus melayani adalah kebahagiaan furnitur. `
+`Jika kami tidak melayani, kami bukanlah furnitur." `
+`"...Daripada itu, `
+`bagaimana perkembangan permainannya? `
+`Baru saja, anda tampaknya menemukan beberapa informasi berguna yang cukup menyenangkan anda. `
+`Yah, aku penasaran apa yang telah dikarang oleh kecerdasan dangkal anda." `
+`Sementara Ronove mengejekku dan terkekeh, `
+`dia mengikuti kata-kataku sebelumnya secara harfiah dan menempatkan teh hitam dan kue di tempat acak di dekatnya. `
+`"...Bagaimanapun, tampaknya anda sekarang lebih percaya diri dengan keberadaan orang ke-19, ya? `
+`Apakah anda berbaik hati mengizinkan saya mendengar pendapat anda?" `
 `"......... `
-`...Yeah, sure. `
-`I'm just going to say it again in front of Beato anyway. `
-`No reason to hide it. `
-`...Basically, `
-`it looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there. `
-`So, the question that's been torturing me about whether there are 18 or 19 people...can be easily resolved." `
-`"You have driven yourself into a corner because of the dead-end that you yourself have created. `
-`Even though you deny the witch, Battler-sama, you hold a double standard, and refuse to accept that the culprit is one of the 18." `
-`"...The easiest way to deny the witch would be to suspect one of the 18. `
-`...It isn't easy to gather alibis for every one of them. `
-`You always find at least one person with a fragile alibi. `
-`...I could probably continue to deny the witch forever if I just used that person as a scapegoat." `
-`"However, I refuse to do that!! `
-`Aah, it's useless, it's all useless! `
-`Every one of those 18 people is either a parent, a relative or a cousin to me! `
-`And those reliable servants, who are sometimes serious and sometimes fun to be with. `
-`I won't let myself use any one of them as a scapegoat!!" `
-`"In the past, my resolve wavered. `
-`That's how Beato hit me where my heart was weak." `
-`"...Ah, accepting and understanding one's own weaknesses. `
-`It is not something that can often be accomplished. `
-`Battler-sama, you use this theory about a 19th person as a spear. `
-`...Or should I say, a shield?" `
-`"In any event, in contrast to how unprepared you were in the previous games, `
-`the fact that you now have a compass bearing on how to fight... ...is a dramatic leap forward, let us say. `
-`With this, you can suspect a 19th person and pursue your theory that the culprit is a human, `
-`without having to doubt any of the 18 you love and respect." `
-`"That's it exactly. `
-`Like in the first game, when Kanon-kun was killed in the boiler room, `
-`...and a bunch of other places, `
-`...there were plenty of tricks I could've mentioned without hesitation, `
-`as long as a 19th person existed." `
-`In the very first game, Kanon-kun was killed in the boiler room. `
-`One might think he was attacked by Kumasawa-san, who had gone down into the boiler room with him, `
-`or maybe that someone who had appeared to be dead earlier was actually faking and had ambushed him. `
-`Either way, it was a move that forced me to suspect one of the 18. `
-`However, by simply proposing that a 19th person existed, `
-`there was no longer any need to suspect one of the 18 for that murder in the boiler room. `
-`"In short! `
-`I can at least deny the line of reasoning saying that... `
-`if something is impossible for every one of the 18, therefore the culprit is a witch." `
-`Using this argument, it's easy to explain, for example, `
-`the problematic case that has already occurred in this game, `
-`"who gave Maria the letter?" `
-`Even if all 18 people have alibis, `
-`I could easily explain everything by saying that a 19th person must've visited her and given her the letter. `
+`...Ya, tentu. `
+`Aku akan mengatakannya lagi di depan Beato nanti. `
+`Tidak ada alasan untuk menyembunyikannya. `
+`...Pada dasarnya, `
+`sepertinya ada mansion tersembunyi di suatu tempat di pulau ini, dan Kakek punya selir di sana. `
+`Jadi, pertanyaan yang telah menyiksaku tentang apakah ada 18 atau 19 orang...dapat diselesaikan dengan mudah." `
+`"Anda telah memojokkan diri sendiri karena jalan buntu yang anda ciptakan sendiri. `
+`Meskipun anda menyangkal penyihir, Battler-sama, anda memiliki standar ganda, dan menolak menerima bahawa pelakunya adalah salah satu dari 18 orang." `
+`"...Cara termudah untuk menyangkal penyihir adalah dengan mencurigai salah satu dari 18 orang itu. `
+`...Tidak mudah untuk mengumpulkan alibi untuk setiap orang dari mereka. `
+`Anda selalu menemukan setidaknya satu orang dengan alibi yang rapuh. `
+`...Aku mungkin bisa terus menyangkal penyihir selamanya jika aku hanya menggunakan orang itu sebagai kambing hitam." `
+`"Tapi, aku menolak untuk melakukan itu!! `
+`Aah, percuma, semuanya percuma! `
+`Setiap satu dari 18 orang itu adalah orang tua, kerabat, atau sepupuku! `
+`Dan para pelayan yang dapat diandalkan itu, yang kadang serius dan kadang menyenangkan untuk diajak bersama. `
+`Aku tidak akan membiarkan diriku menggunakan salah satu dari mereka sebagai kambing hitam!!" `
+`"Dulu, tekadku goyah. `
+`Begitulah cara Beato memukulku di tempat hatiku lemah." `
+`"...Ah, menerima dan memahami kelemahan sendiri. `
+`Itu bukan sesuatu yang sering bisa dicapai. `
+`Battler-sama, anda menggunakan teori tentang orang ke-19 ini sebagai tombak. `
+`...Atau haruskah saya katakan, perisai?" `
+`"Bagaimanapun, berbeda dengan betapa tidak siapnya anda dalam permainan sebelumnya, `
+`fakta bahwa anda sekarang memiliki arah pertempuran... ...adalah lompatan dramatis, katakanlah. `
+`Dengan ini, anda bisa mencurigai orang ke-19 dan mengejar teori bahwa pelakunya adalah manusia, `
+`tanpa harus meragukan satu pun dari 18 orang yang anda cintai dan hormati." `
+`"Itu tepat sekali. `
+`Seperti dalam permainan pertama, ketika Kanon-kun dibunuh di ruang ketel, `
+`...dan sejumlah tempat lain, `
+`...ada banyak trik yang bisa kusebutkan tanpa ragu, `
+`asalkan ada orang ke-19." `
+`Dalam permainan pertama, Kanon-kun dibunuh di ruang ketel. `
+`Seseorang mungkin berpikir dia diserang oleh Kumasawa-san, yang turun ke ruang ketel bersamanya, `
+`atau mungkin seseorang yang tampaknya mati sebelumnya sebenarnya pura-pura dan menyergapnya. `
+`Bagaimanapun, itu adalah langkah yang memaksaku untuk mencurigai salah satu dari 18 orang. `
+`Tapi, dengan hanya mengusulkan ada orang ke-19, `
+`tidak perlu lagi mencurigai salah satu dari 18 orang untuk pembunuhan di ruang ketel itu. `
+`"Intinya! `
+`Setidaknya aku bisa menyangkal garis penalaran yang mengatakan kalau... `
+`jika sesuatu mustahil bagi setiap satu dari 18 orang, maka pelakunya adalah penyihir." `
+`Menggunakan argumen ini, mudah untuk menjelaskan, misalnya, `
+`kasus bermasalah yang telah terjadi dalam permainan ini, `
+`"siapa yang memberi Maria surat itu?" `
+`Bahkan kalau semua 18 orang memiliki alibi, `
+`aku bisa dengan mudah menjelaskan semuanya dengan mengatakan kalau orang ke-19 pasti mengunjunginya dan memberinya surat. `
 `"......Hmm, hmm. `
-`I'd say that's quite a good move. `
-`Now, how would I strike back against it?" `
-`"...You still have plenty of weak points, even if you are aware of them. `
-`Maybe the "18 person attack" would be an effective move. `
-`To judge the strength of your defense, it may be amusing to contest that point again." `
-`"Then how will you do it, `
-`demon butler...?!" `
-`"...I believe it would be appropriate to ambush the piece representing this 19th person that you mentioned. `
-`Battler-sama, you have never met this 19th person, yes? `
-`Would you please show some proof that this 19th person exists?" `
-`"How naive. `
-`Of course, I knew you'd probably try that move...!" `
-`"My, my. `
-`Please respond to it." `
-`"Witches and demons and the like... `
-`There's no more fitting move for you guys to use. `
-`...It's one of those... `
-`"The "Devil's Proof"!" `
-`When you try to make some claim to humans like us, we always counterattack by telling you to show some proof. `
-`Because that's a human move. `
-`But I'm fighting with a witch. `
-`I'm taking part in a battle with someone who isn't human! `
-`And some moves exist that can only be used in a game against a witch. `
-`There are cheap moves! `
-`And that's what this "Devil's Proof" is. `
-`Because it's impossible to prove! `
-`Let's assume that there's a hidden mansion on Rokkenjima, separate from the Ushiromiya family mansion, `
-`and that a woman named {f:5:Beatrice} lives there. `
-`In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it. `
-`That's called actual proof in the human world. `
-`However, if we follow the rules of the "Devil's Proof", you can't deny that she exists, even if there's no proof that she does. `
-`Because it's impossible to prove that something doesn't exist. `
-`...That's right, I'm finally able to turn the tables using this "Devil's Proof", which tormented me so much before. `
-`Those guys were always trying to force me to accept the existence of the witch with it. `
-`After all, it was physically impossible for me to show any proof `
-`that "witches don't exist" and deny Beato's claims. `
-`That's why I kept getting hit with the reckless argument that witches do exist...and was unable to counterattack. `
-`And that's why I'll spin the chessboard around right now! `
-`If I can't disprove the existence of witches, then that means... `
-`if I suggest that a 19th human exists, you can't deny that either. `
-`In other words, because this problematic and mysterious mistress is craftily hiding herself, it'd be perfectly natural if you never found her no matter how hard you looked. `
-`So, you can't say that your inability to find this 19th person proves that she doesn't exist. `
-`Therefore, it's impossible to deny the 19th person's existence. `
-`Beato used the "Devil's Proof" to make denying her own existence impossible, `
-`but this time it's become my weapon. `
-`If we can get away with this argument, then forget just a 19th person, `
-`this island could be full of people we don't know about, `
-`and even if there were 10 or 100 of them, she still couldn't deny that they existed. `
-`In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must've taken a lot of effort to set up. `
-`It's really hard to imagine a single culprit setting up all of those. `
-`However, if not just a 19th person, but 10 or 100 people were hidden somewhere, that wouldn't be any problem at all. `
-`If they all split up the work, they could handle any job in a short period of time. `
-`Of course, doubts will naturally arise as to whether a large group of people like that could sneak around the mansion without being noticed, `
-`but those are all settled by the "Devil's Proof". `
-`You can't deny that even 100 people were there just because they weren't seen or noticed. `
-`Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up! `
-`However, because it's such a dirty move, it's a perfect one to use against a witch. `
-`Well, this is just my imagination, `
-`...but what if about 100 suspicious men wearing goat masks were hiding in the shadows... `
-`Something like that's worse than laughable, almost like they're cockroaches. `
-`If you see one, it means there's 100 more hiding somewhere. `
-`"...Well, I do think it's a ridiculous argument that's horribly twisted. `
-`If my opponent were human, I'm sure they'd yell at me like I was out of my mind. `
-`...But my opponent is a witch. `
-`And after all, that's the kind of competition we're having, isn't it? `
-`I'll use any kind of reckless argument to explain it using humans and deny the witch!!" `
-`"...Anyway, with this move, I won't have to doubt any of the 18 who are close to me again. `
-`I won't suffer a defeat like last time again...!!" `
-`"...I see. `
-`You have learned from your previous defeat. `
-`That is good. `
-`It's no surprise that you've become so devious now that you're in your third game." `
-`"......You first strengthen your own defense. `
-`That is truly a solid first step. `
-`Quite a spectacular move, I would say." `
-`"Well, even if we do assume that there's a 19th person, `
-`there are still a few tricks left that I can't resolve, like the actual number of master keys, no matter how many humans I add. `
-`...Still, it isn't bad as a first step, for the time being." `
-`"Battler-sama, your trump card is the important piece called the 19th person. `
-`...You countered my move of asking where the proof was by using the "Devil's Proof". `
-`...A good skirmish. `
-`Although I must apologize for making a move by myself when Milady isn't here, `
-`......I find that I too am growing slightly interested. `
-`...I wonder if you will allow me to make yet another move on Milady's behalf?" `
-`"...Let's have it. `
-`I've got no shortage of opponents, be they witches or demons!" `
-`"This move you presented called the "Devil's Proof"... `
-`It's a specialty of us demons, but there are also various other moves available to us. `
-`...Do you know of a move called "Hempel's Raven"?" `
+`Kurasa itu langkah yang cukup bagus. `
+`Sekarang, bagaimana aku akan membalasnya?" `
+`"...Anda masih memiliki banyak titik lemah, bahkan jika anda menyadarinya. `
+`Mungkin "serangan 18 orang" akan menjadi langkah yang efektif. `
+`Untuk menilai kekuatan pertahanan anda, mungkin menyenangkan untuk memperdebatkan poin itu lagi." `
+`"Lalu bagaimana kau akan melakukannya, `
+`kepala pelayan iblis...?!" `
+`"...Menurut saya akan tepat untuk menyergap bidak yang mewakili orang ke-19 yang anda sebutkan ini. `
+`Battler-sama, anda belum pernah bertemu orang ke-19 ini, kan? `
+`Bisakah anda menunjukkan bukti bahwa orang ke-19 ini ada?" `
+`"Naif sekali. `
+`Tentu saja, aku tau kau mungkin akan mencoba langkah itu...!" `
+`"Wah, wah. `
+`Tolong tanggapannya." `
+`"Penyihir dan iblis dan sejenisnya... `
+`Tidak ada langkah yang lebih cocok untuk kalian gunakan. `
+`...Itu salah satu dari... `
+`"Devil's Proof"!" `
+`Saat kau mencoba membuat klaim pada manusia seperti kami, kami selalu membalas dengan menyuruhmu menunjukkan bukti. `
+`Karena itu langkah manusia. `
+`Tapi aku bertarung dengan penyihir. `
+`Aku ikut dalam pertempuran dengan seseorang yang bukan manusia! `
+`Dan ada beberapa langkah yang hanya bisa digunakan dalam permainan melawan penyihir. `
+`Ada langkah-langkah murahan! `
+`Dan itulah yang dimaksud dengan "Devil's Proof" ini. `
+`Karena itu mustahil untuk dibuktikan! `
+`Kita asumsikan saja ada mansion tersembunyi di Rokkenjima, terpisah dari mansion keluarga Ushiromiya, `
+`dan seorang wanita bernama {f:5:Beatrice} tinggal di sana. `
+`Untuk membuktikan ini, seseorang harus menemukan mansion ini dan benar-benar membawa {f:5:Beatrice} keluar dari sana. `
+`Itu disebut bukti nyata di dunia manusia. `
+`Tapi, kalau kita mengikuti aturan "Devil's Proof", kau tidak bisa menyangkal kalau dia ada, walaupun tidak ada bukti. `
+`Karena mustahil membuktikan sesuatu tidak ada. `
+`...Benar, aku akhirnya bisa membalikkan keadaan menggunakan "Devil's Proof" ini, yang sebelumnya begitu menyiksaku. `
+`Mereka selalu mencoba memaksaku menerima keberadaan penyihir dengannya. `
+`Bagaimanapun, secara fisik mustahil bagiku untuk menunjukkan bukti `
+`kalau "penyihir tidak ada" dan menyangkal klaim Beato. `
+`Karena itulah aku terus-terusan dihantam argumen sembrono kalau penyihir itu ada...dan tidak bisa melawan balik. `
+`Dan karena itulah kenapa aku akan memutar papan catur sekarang! `
+`Kalau aku tidak bisa menyangkal keberadaan penyihir, itu artinya... `
+`kalau aku menyarankan kalau ada manusia ke-19, kau juga tidak bisa menyangkalnya. `
+`Dengan kata lain, karena selir bermasalah dan misterius ini bersembunyi dengan licik, wajar saja kau tidak pernah menemukannya tidak peduli seberapa keras kau mencari. `
+`Jadi, kau tidak bisa mengatakan kalau ketidakmampuanmu menemukan orang ke-19 ini membuktikan dia tidak ada. `
+`Oleh karena itu, mustahil untuk menyangkal keberadaan orang ke-19. `
+`Beato menggunakan "Devil's Proof" untuk membuat penyangkalan terhadap keberadaannya sendiri mustahil, `
+`tapi kali ini itu menjadi senjataku. `
+`Kalau kita bisa lolos dengan argumen ini, maka lupakan hanya orang ke-19, `
+`pulau ini bisa dipenuhi orang yang tidak kita ketahui, `
+`dan bahkan kalau ada 10 atau 100 dari mereka, dia tetap tidak bisa menyangkal bahwa mereka ada. `
+`Dalam permainan terakhir dan sebelumnya, di antara tempat kejadian pembunuhan yang muncul, ada beberapa yang sangat rumit dan pasti membutuhkan banyak usaha untuk disiapkan. `
+`Sangat sulit membayangkan seorang pelaku tunggal menyiapkan semua itu. `
+`Tapi, kalau bukan hanya orang ke-19, tetapi 10 atau 100 orang bersembunyi di suatu tempat, itu bukan masalah sama sekali. `
+`Jika mereka semua membagi pekerjaan, mereka bisa menangani pekerjaan apapun dalam waktu singkat. `
+`Tentu saja, akan muncul keraguan tentang apakah sekelompok besar orang seperti itu bisa menyelinap di sekitar mansion tanpa diketahui, `
+`tapi semua itu diselesaikan oleh "Devil's Proof". `
+`Kau tidak bisa menyangkal bahkan 100 orang ada di sana hanya karena mereka tidak terlihat atau diperhatikan. `
+`Meskipun aku yang mengatakannya sendiri, itu argumen yang begitu bodoh sampai membuatku ingin muntah! `
+`Namun, karena itu langkah yang kotor, itu sempurna untuk digunakan melawan penyihir. `
+`Yah, ini hanya imajinasiku, `
+`...tapi bagaimana jika sekitar 100 pria mencurigakan mengenakan topeng kambing bersembunyi di bayang-bayang... `
+`Sesuatu seperti itu lebih buruk daripada menggelikan, hampir seperti kecoa. `
+`Jika kau melihat satu, itu berarti ada 100 lagi bersembunyi di suatu tempat. `
+`"...Yah, aku memang berpikir itu argumen konyol yang sangat terpelintir. `
+`Kalau lawanku adalah manusia, aku yakin mereka akan berteriak padaku seolah aku sudah gila. `
+`...Tapi lawanku adalah penyihir. `
+`Dan bagaimanapun, itu jenis kompetisi yang kita lakukan, bukan? `
+`Aku akan menggunakan argumen sembrono apapun untuk menjelaskannya menggunakan manusia dan menyangkal penyihir!!" `
+`"...Bagaimanapun, dengan langkah ini, aku tidak perlu lagi meragukan salah satu dari 18 orang yang dekat denganku. `
+`Aku tidak akan menderita kekalahan seperti terakhir kali lagi...!!" `
+`"...Saya mengerti. `
+`Anda telah belajar dari kekalahan anda sebelumnya. `
+`Itu bagus. `
+`Tidak mengherankan sekarang anda menjadi begitu licik karena sudah masuk permainan ketigamu." `
+`"......Pertama-tama anda memperkuat pertahanan sendiri. `
+`Itu benar-benar langkah pertama yang solid. `
+`Menurut saya, itu langkah yang cukup spektakuler." `
+`"Yah, bahkan kalau kita berasumsi ada orang ke-19, `
+`masih ada beberapa trik tersisa yang tidak bisa kuselesaikan, seperti jumlah sebenarnya kunci master, tidak peduli berapa banyak manusia yang kutambahkan. `
+`...Tetap saja, itu tidak buruk sebagai langkah pertama, untuk sementara waktu." `
+`"Battler-sama, kartu truf anda adalah bidak penting yang disebut orang ke-19. `
+`...Anda membalas langkah saya menanyakan di mana buktinya dengan menggunakan "Devil's Proof". `
+`...Pertempuran kecil yang bagus. `
+`Meskipun saya harus minta maaf karena membuat langkah sendiri ketika Nyonya tidak ada di sini, `
+`......Saya merasa saya juga mulai sedikit tertarik. `
+`...Saya ingin tahu apakah anda akan mengizinkan saya untuk membuat langkah lagi atas nama Nyonya?" `
+`"...Ayo mulai. `
+`Aku tidak kekurangan lawan, baik itu penyihir atau iblis!" `
+`"Langkah yang anda sajikan ini yang disebut "Devil's Proof"... `
+`Itu adalah spesialisasi kami para iblis, tetapi ada juga berbagai langkah lain yang tersedia bagi kami. `
+`...Apakah anda tau langkah yang disebut "Hempel's Raven"?" `
 `"Hempel's Raven...?? `
-`What are you talking about?" `
-`"...*cackle*cackle*. `
+`Apa yang kau bicarakan?" `
+`"...*terkekeh*terkekeh*. `
 `Ah-hahahahahahahahah-hahahahah-hah-ha...!" `
-`Just then...aah, that enraging laugh I've heard so many times started echoing. `
-`The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared. `
-`"If it isn't Milady. `
-`Good morning." `
-`"I thought you might be doing something interesting while I was away. `
-`..."Hempel's Raven", was it? `
-`Such a familiar old move I could almost laugh. `
-`To think the day has come when I get to show it off to Battler. `
-`It's a classic move to use against a "Devil's Proof"." `
-`"...Ronove, I will make this move. `
-`Do not get in the way of my fun." `
-`"So you've finally shown up, you guffawing witch. `
-`I see you're laughing like a freak just as usual. `
-`...This guy was talking behind your back just now, telling me how undignified you look when you do that. `
-`Right?" `
-`"How rude. `
-`Is that true?" `
-`"Nonsense. `
-`Why would I speak such gossip about Milady, `
-`whom I regard with such sincere respect?" `
-`"...I can't believe you'd say something so shameless. `
-`Doesn't look like we'll be getting along well together..." `
-`"*cackle*cackle*cackle* `
-`Well, that is fine. `
-`Let us return to the point at hand. `
-`"Hempel's Raven" is used to show actual proof using the contrapositive. `
-`...In other words, it is a move like this... `
-`What must you do to prove that ravens are black?" `
-`"Huh? `
-`What are you talking about?? `
-`Prove that ravens are black... `
-`...Wouldn't you just have to catch a raven and check to see if it's black?" `
-`"That's right. `
-`You must simply prove that "a raven = black". `
-`Do you see that, if you instead prove that "birds that aren't black = not ravens", you would reach the same argument? `
-`If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black, `
-`then as a result, you can claim that "therefore, black birds are ravens". `
-`This is called an argument by the contrapositive. `
-`...Is that too difficult for you?" `
-`"Yeah, no kidding. `
-`...I've got no idea what you're saying." `
+`Tepat saat itu...aaa, tawa menyebalkan yang telah kudengar berkali-kali mulai bergema. `
+`Ruangan dipenuhi kupu-kupu emas yang menyilaukan, dan di pusat pusaran itu, Penyihir Emas muncul. `
+`"Bukankah itu Nyonya. `
+`Selamat pagi." `
+`"Sepertinya kau melakukan sesuatu yang menarik selagi aku pergi. `
+`..."Hempel's Raven", ya? `
+`Langkah lama yang sangat tidak asing sampai aku hampir tertawa. `
+`Tidak kusangka hari itu tiba ketika aku bisa memamerkannya pada Battler. `
+`Itu langkah klasik untuk digunakan melawan "Devil's Proof"." `
+`"...Ronove, aku akan melakukan langkah ini. `
+`Jangan mengganggu kesenanganku." `
+`"Jadi kau akhirnya muncul, penyihir terkekeh. `
+`Kulihat kau masih tertawa seperti orang aneh seperti biasa. `
+`...Orang ini tadi membicarakanmu di belakang, mengatakan betapa tidak pantasnya penampilanmu saat kau melakukannya. `
+`Benar kan?" `
+`"Kurang ajar. `
+`Benarkah itu?" `
+`"Omong kosong. `
+`Mengapa saya harus membicarakan gosip seperti itu tentang Nyonya, `
+`yang saya hormati dengan tulus?" `
+`"...Aku tidak percaya kau mengucapkan sesuatu yang begitu tidak tau malunya. `
+`Sepertinya kita tidak akan bisa akur..." `
+`"*terkekeh*terkekeh*terkekeh* `
+`Ya, tidak apa-apa. `
+`Mari kita kembali ke pokok pembicaraan. `
+`"Hempel's Raven" digunakan untuk menunjukkan bukti nyata menggunakan kontrapositif. `
+`...Dengan kata lain, ini adalah langkah seperti ini... `
+`Apa yang harus kau lakukan untuk membuktikan bahwa burung gagak berwarna hitam?" `
+`"Hah? `
+`Apa yang kau bicarakan?? `
+`Membuktikan kalau gagak itu hitam... `
+`...Bukankah kau hanya perlu menangkap seekor gagak dan memeriksa apakah warnanya hitam?" `
+`"Itu benar. `
+`Kau hanya perlu membuktikan kalau "gagak = hitam". `
+`Tidakkah kau lihat, jika kau malah membuktikan kalau "burung yang tidak hitam = bukan gagak", kau akan mencapai argumen yang sama? `
+`kalau kau pergi ke seluruh dunia dan memeriksa semua burung yang bukan gagak, dan membuktikan tidak satupun dari mereka yang hitam, `
+`maka sebagai hasilnya, bisa dinyatakan "karenanya, burung hitam adalah gagak". `
+`Ini disebut argumen dengan kontrapositif. `
+`...Apakah itu terlalu sulit bagimu?" `
+`"Ya, sungguh. `
+`...Aku sama sekali tidak mengerti apa yang kau katakan." `
 `"Battler-sama, `
-`what about this example? `
-`Let us say that you have two boxes, and one of them is a winner, with a cookie inside. `
-`Of course, the other one is a loser and is empty." `
-`For example, here are two boxes, `
-`where one has a cookie inside and means you win...while the other is empty and means you lose. `
-`At this moment, "it has a cookie inside = you win", `
-`which implies that "you do not win = it had no cookie inside". `
-`When such a relationship exists, the latter is called the contrapositive... `
-`When "if A then B" is true, then "if not B then not A" is also true. `
-`"...Well, that's obvious. `
-`If the one you guessed was the loser, then you'd automatically know that the other one was the winner." `
-`"...In other words, if you choose the box at random, whether it's the winner or the loser, `
-`you'll be able to figure out which box has the cookie in it after your first move." `
-`"That is correct. `
-`If the cookie is in the box you open, then the "Devil's Proof" is satisfied. `
-`You can directly prove that "this box is the winner = this box has a cookie in it". `
-`However, if the box you open is empty, then the reverse, Hempel's Raven, is satisfied. `
-`In other words 'this box does not have a cookie in it = this box isn't the winner." `
-`"And as long as we accept the premise that there are no more than two boxes, `
-`the contrapositive shows that the other box is automatically the winner." `
-`"...Well, I think I'm starting to see your reasoning. `
-`Only poison can stop poison, and only twisted logic can stop twisted logic. `
-`...Then what? `
-`How does that overturn my claim that, 'because there's definitely a 19th human hidden on this island, `
-`even if all 18 people have alibis, `
-`I still won't have to accept witches'...?" `
-`"Very well. `
-`I will teach you about my move. `
-`First of all, you are stating that "the culprit is not among the 18 = the culprit is a 19th person". `
-`*cackle*cackle*! `
-`...So if you use the contrapositive, it ends up like this. `
-`In short, "the culprit is not a 19th person = the culprit is one of the 18"!" `
-`"Huuuh?! `
-`What the, what do you mean?!" `
-`"Only that I've countered your move. `
-`Let's try and keep things simple. `
-`Ronove, explain. `
-`It seems you've made things easy enough for Battler to understand with your cookie in a box analogy." `
-`"Then forgive my presumption. `
-`Allow me to explain my earlier example once more." `
-`Allow me to repeat my earlier story about two treasure boxes, `
-`one of which has a cookie in it. `
-`In this situation, you have an "18 person box" and a "19th person box". `
-`So the cookie represents the culprit. `
-`Battler-sama, let's say you open the 18 person box. `
-`Because the cookie is not there, `
-`you have paradoxically proven that "therefore, the cookie is in the 19th person box". `
-`That lets us make an even more paradoxical claim. `
-`In other words, if it was first shown that the 19th person box was empty, `
-`it would prove at the same time that "the cookie is in the 18 person box". `
-`Battler-sama played this move in order to avoid having to doubt any of the 18, `
-`but it's now been used to prepare an "18 person attack"...!" `
-`"......Huh, `
-`...what the hell...?" `
-`"*cackle*cackle*cackle*cackle*! `
-`If I go first and prove that the inside of the 19th person box is empty, `
-`you will automatically have to accept that `
-`the cookie is in the 18 person box. `
-`All I've done is say it the other way around, yes?" `
-`"So, ...that move I was so confident in...was actually a double-edged sword?" `
-`"That's right. `
-`As soon as you played that move and attempted to explain everything with a 19th person, `
-`you'd already taken on a risk that you might be forced to accept that the culprit was one of the 18." `
-`I see... `
+`bagaimana dengan contoh ini? `
+`Katakanlah anda memiliki dua kotak, dan salah satunya adalah pemenang, berisi kue di dalamnya. `
+`Tentu saja, yang lainnya adalah pecundang dan kosong." `
+`Misalnya, ada dua kotak di sini, `
+`di mana satu berisi kue di dalamnya dan berarti kau menang... sementara yang lain kosong dan berarti anda kalah. `
+`Pada saat ini, "ada kue di dalamnya = kau menang", `
+`yang menyiratkan kalau "kau tidak menang = tidak ada kue di dalamnya". `
+`Ketika hubungan seperti itu ada, yang terakhir disebut kontrapositif... `
+`Ketika "jika A maka B" adalah benar, maka "jika bukan B maka bukan A" juga benar. `
+`"...Yah, itu jelas. `
+`Jika yang kau tebak adalah pecundang, maka secara otomatis kau akan tau kalau yang satunya adalah pemenang." `
+`"...Dengan kata lain, kalau kau memilih kotak secara acak, baik itu pemenang atau pecundang, `
+`kau akan bisa mengetahui kotak mana yang berisi kue setelah langkah pertamamu." `
+`"Itu benar. `
+`Jika kue berada di kotak yang anda buka, maka "Devil's Proof" terpenuhi. `
+`Anda dapat langsung membuktikan kalau "kotak ini adalah pemenang = kotak ini berisi kue di dalamnya". `
+`Namun, jika kotak yang anda buka kosong, maka sebaliknya, Hempel's Raven terpenuhi. `
+`Dengan kata lain 'kotak ini tidak berisi kue di dalamnya = kotak ini bukan pemenang." `
+`"Dan selama kita menerima premis bahwa tidak ada lebih dari dua kotak, `
+`kontrapositif menunjukkan bahwa kotak lainnya secara otomatis adalah pemenang." `
+`"...Yah, kurasa aku mulai memahami penalaranmu. `
+`Hanya racun yang bisa menghentikan racun, dan hanya logika terpelintir yang bisa menghentikan logika terpelintir. `
+`...Lalu bagaimana? `
+`Bagaimana itu membalikkan klaimku bahwa, 'karena pasti ada manusia ke-19 yang bersembunyi di pulau ini, `
+`bahkan jika semua 18 orang memiliki alibi, `
+`aku tetap tidak harus menerima penyihir'...?" `
+`"Baiklah. `
+`Aku akan mengajarkanmu tentang langkahku. `
+`Pertama-tama, kau menyatakan bahwa "pelakunya tidak termasuk dari 18 orang = pelakunya adalah orang ke-19". `
+`*terkekeh*terkekeh*! `
+`...Jadi jika kau menggunakan kontrapositif, hasilnya akan seperti ini. `
+`Singkatnya, "pelakunya bukan orang ke-19 = pelakunya adalah salah satu dari 18 orang"!" `
+`"Haaah?! `
+`Apa, apa maksudmu?!" `
+`"Aku hanya membalas langkahmu. `
+`Mari kita coba menjaga semuanya tetap sederhana. `
+`Ronove, jelaskan. `
+`Tampaknya kau telah membuat segalanya cukup mudah untuk dipahami Battler dengan analogi kue dalam kotakmu." `
+`"Kalau begitu maafkan kelancangan saya. `
+`Izinkan saya menjelaskan contoh saya sebelumnya sekali lagi." `
+`Izinkan saya mengulang cerita saya sebelumnya tentang dua kotak harta, `
+`salah satunya berisi kue di dalamnya. `
+`Dalam situasi ini, anda memiliki "kotak 18 orang" dan "kotak orang ke-19". `
+`Jadi kuenya mewakili sang pelaku. `
+`Battler-sama, katakanlah anda membuka kotak 18 orang. `
+`Karena kuenya tidak ada di sana, `
+`anda secara paradoks telah membuktikan bahwa "karenanya, kue berada di kotak orang ke-19". `
+`Itu memungkinkan kita untuk membuat klaim yang lebih paradoks lagi. `
+`Dengan kata lain, jika pertama kali ditunjukkan bahwa kotak orang ke-19 kosong, `
+`itu akan membuktikan pada saat yang sama bahwa "kuenya ada di kotak 18 orang". `
+`Battler-sama memainkan langkah ini untuk menghindari harus meragukan siapa pun dari 18 orang itu, `
+`tapi sekarang ini telah digunakan untuk menyiapkan "serangan 18 orang"...!" `
+`"......Hah, `
+`...apa-apaan...?" `
+`"*terkekeh*terkekeh*terkekeh*terkekeh*! `
+`Jika aku yang lebih dulu membuktikan bahwa isi kotak orang ke-19 kosong, `
+`secara otomatis kau harus menerima bahwa `
+`kuenya ada di kotak 18 orang. `
+`Yang kulakukan hanyalah mengatakannya dengan cara sebaliknya, ya?" `
+`"Jadi, ...langkah yang sangat kuyakini itu...sebenarnya adalah pedang bermata dua?" `
+`"Itu benar. `
+`Begitu kau memainkan langkah itu dan mencoba menjelaskan segalanya dengan orang ke-19, `
+`kau sudah mengambil risiko bahwa kau mungkin dipaksa untuk menerima bahwa pelakunya adalah salah satu dari 18 orang." `
+`Begitu ya... `
 `"Hempel's Raven". `
-`...So this is a countering technique?! `
-`...Wait, if I really think about it, this counter is really disadvantageous for me. `
-`This isn't a cookie we're talking about. `
-`If I imagine that the "loser" treasure chest actually has a bomb in it, it gets even clearer. `
-`And there aren't just two treasure chests, `
-`but 18 plus 1 more for the 19th person. `
-`If you think of it as a total of 19 boxes, it gets even easier to picture. `
-`First off, one of the premises of the human culprit theory is that the bomb will definitely be in one of these boxes. `
-`I didn't want to place the bomb in the boxes for any of the 18, so I used the "Devil's Proof"... `
-`and created the 19th person box so I could throw the bomb in there. `
-`...That much was fine. `
-`But then, Beato struck back. `
-`Now, if the contents of the 19th person box are empty, `
-`that'll automatically mean that the bomb's in one of the other 18 boxes. `
-`If I could examine what's inside all 18 of those boxes, `
-`then as long as I can show that the bomb isn't in any of them, `
-`I'll be able to safely show that the 18 are innocent. `
-`If that were possible, I'd have nothing to fear! `
-`However, in reality, that'll be almost absolutely impossible. `
-`The police wouldn't come here in this typhoon. `
-`We don't have access to scientific investigations or experts or anything. `
-`In short, we can't prove anything decisively! `
-`It'll be impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give. `
-`That means I personally have to prove their innocence, and I have to do it perfectly. `
-`Like by staying with them the whole time, never letting them out of my sight for a second. `
-`By doing that, I could probably be sure of that person's innocence, `
-`sure that the bomb isn't in their box. `
-`...However, in practical terms, that'll be impossible! `
-`In other words, I'd have to expend an incredible effort just to check the contents of one box. `
-`And there are 18 of them! `
-`In other words, unless I bound all 18 of them in chains and watch over them, `
-`it'll be impossible to prove that all of them have empty boxes. `
-`However, Beato only has to open one box, the 19th person box, `
-`and show that it's empty to prove that the bomb's in one of the other 18 boxes. `
-`(Furthermore, there's no need for her to show "which" of the 18 boxes has the bomb!) `
-`I've got 18 times more work to do to explain my pet theory than {f:5:Beatrice} does for hers... `
-`"When a "Devil's Proof" exists in the world, `
-`it takes a vast amount of effort to argue against it, and there are many cases in which it is impossible to do because of the situation. `
-`However, "Hempel's Raven" turns that problem around...and makes it possible to prove things easily!" `
-`"By using "Hempel's Raven", various reckless arguments become possible to prove true or false. `
-`...For example, let us say I make the proposition "All humans except me = foolish". `
-`Normally, I would have to examine all of humanity except myself and show that they are all foolish. `
-`...However, in reality, it would be impossible to investigate billions of people. `
-`It's just the same sort of effort you'd need to open all 18 boxes." `
-`"*cackle*cackle*! `
-`However, by using "Hempel's Raven", the contrapositive of that proposition would change it into this. `
-`If you, to use your phrase, spin the chessboard around on the claim that "All humans except me = foolish", `
-`you would have to do nothing more than prove that "not foolish = me". `
-`...And what do you think that means?" `
-`"*cackle*cackle*! `
-`As soon as I know the fact that "I am wise", `
-`I will be able to show in an instant that every one of the billions of people in the human race is foolish. `
-`In less than a second, I could finish proving that the entire human race is more foolish than me!!" `
-`"It truly is the strongest and fastest QED in the world, `
-`this `
-`"Hempel's Raven"!" `
-`"Wha......What a ridiculous argument......!!!" `
-`"It is a very, very convenient move. `
-`Not only demons, but gods also use it. `
-`When they propose that "the blessed = the servants of a god", `
-`the contrapositive is "a human is not a servant of a god = he must not be blessed"." `
-`"So in order to prove that servants of gods are blessed with divine protection, `
-`they only have to bring ill fortune down upon those people who don't receive such protection." `
-`"......So, by bringing misfortune down upon those who don't believe in them, `
-`they prove their blessedness." `
-`"An enormous cost is required to give humans happiness. `
-`...However, it takes a lot less to bring humans misfortune. `
-`*cackle*cackle*cackle*cackle*cackle* `
-`So by using "Hempel's Raven", gods are actually giving believers the joy of divine protection for cheap." `
-`"...Y-You demon. `
-`It's a demon's argument... `
-`...That's crazy...!!!" `
-`"It seems we've gone off-topic. `
-`Let us get back to the point." `
-`"The move for my counterattack is complete. `
-`...And now, in response to your claim of "the 19th person is the culprit, therefore, the 18 are innocent and the witch doesn't exist," `
-`I say 'therefore, if I can prove that the culprit is not some 19th person, `
-`we can be sure that the culprit is either one of the 18 or a witch, `
-`right?'" `
-`For a while, I just stood there, shocked, completely forgetting to close my mouth... `
-`Just when I'd thought I'd countered one of their strong points, `
-`their counterattack had been this reckless argument that I couldn't possibly have anticipated...! `
-`Is this...gonna be impossible after all...?! `
-`To continue denying the witch on an island with no more than 18 people... `
-`and still believe in the innocence of those 18 people... `
-`...Is that just a delusion?! `
-`Am I just trying to escape reality?! `
-`Not yet... `
-`...Don't give up this desperate struggle yet. `
-`Who cares about "Whoever's Raven"? `
-`They're just trying to confuse me by bringing up weird bits of trivia... `
-`I used the "Devil's Proof". `
-`Don't feel uncertain about something you've used once. `
-`Believe in the spear you've drawn. `
-`And then, forcefully...gouge it in...! `
-`"...We're still in the opening part of the game. `
-`Do you plan to keep thinking on this level?" `
+`...Jadi ini adalah teknik melawan?! `
+`...Tunggu, jika aku benar-benar memikirkannya, serangan balik ini sangat merugikanku. `
+`Ini bukan soal kue. `
+`Jika kubayangkan bahwa kotak harta "pecundang" itu sebenarnya berisi bom, itu menjadi semakin jelas. `
+`Dan tidak hanya ada dua kotak harta, `
+`tapi 18 ditambah 1 lagi untuk orang ke-19. `
+`Jika kau menganggapnya sebagai total 19 kotak, itu menjadi lebih mudah untuk dibayangkan. `
+`Pertama-tama, salah satu premis dari teori pelaku manusia adalah bahwa bomnya pasti akan berada di salah satu kotak ini. `
+`Aku tidak ingin menempatkan bom di kotak untuk siapa pun dari 18 orang itu, jadi aku menggunakan "Devil's Proof"... `
+`dan menciptakan kotak orang ke-19 agar aku bisa melemparkan bom ke sana. `
+`...Sejauh itu baik-baik saja. `
+`Tapi kemudian, Beato membalas. `
+`Sekarang, jika isi kotak orang ke-19 kosong, `
+`itu secara otomatis berarti bomnya ada di salah satu dari 18 kotak lainnya. `
+`Jika aku bisa memeriksa isi semua 18 kotak itu, `
+`maka selama aku bisa menunjukkan bahwa bom tidak ada di salah satunya, `
+`aku akan bisa menunjukkan dengan aman bahwa ke-18 orang itu tidak bersalah. `
+`Jika itu mungkin, aku tidak punya alasan untuk takut! `
+`Namun, dalam kenyataannya, itu hampir mustahil. `
+`Polisi tidak akan datang dengan topan ini. `
+`Kita tidak memiliki akses ke penyelidikan ilmiah atau ahli atau apa pun. `
+`Singkatnya, kita tidak bisa membuktikan apa pun secara meyakinkan! `
+`Mustahil untukku untuk menemukan bukti selain sekadar menelan mentah-mentah alibi apa pun yang diberikan masing-masing dari 18 orang itu. `
+`Itu berarti aku secara pribadi harus membuktikan ketidakbersalahan mereka, dan aku harus melakukannya dengan sempurna. `
+`Misalnya dengan tetap bersama mereka sepanjang waktu, tidak pernah membiarkan mereka lepas dari pandanganku sedetik pun. `
+`Dengan melakukan itu, aku mungkin bisa memastikan ketidakbersalahan orang itu, `
+`yakin bom tidak ada di kotak mereka. `
+`...Tapi, secara praktis, itu mustahil! `
+`Dengan kata lain, aku harus mengeluarkan usaha yang luar biasa hanya untuk memeriksa isi satu kotak. `
+`Dan ada 18 dari mereka! `
+`Dengan kata lain, kecuali aku mengikat semua 18 orang itu dengan rantai dan mengawasi mereka, `
+`mustahil untuk membuktikan kalau semua dari mereka memiliki kotak yang kosong. `
+`Namun, Beato hanya perlu membuka satu kotak, kotak orang ke-19, `
+`dan menunjukkan kalau itu kosong untuk membuktikan bomnya ada di salah satu dari 18 kotak lainnya. `
+`(Selain itu, tidak perlu baginya untuk menunjukkan "yang mana" dari 18 kotak itu yang berisi bom!) `
+`Aku memiliki 18 kali lebih banyak pekerjaan untuk menjelaskan teoriku dibanding yang {f:5:Beatrice} butuhkan untuk teorinya... `
+`"Ketika "Devil's Proof" ada, `
+`dibutuhkan usaha yang sangat besar untuk membantahnya, dan ada banyak kasus di mana hal itu tidak mungkin dilakukan karena situasinya. `
+`Namun, "Hempel's Raven" membalikkan masalah itu...dan membuatnya mungkin untuk membuktikan hal-hal dengan mudah!" `
+`"Dengan menggunakan "Hempel's Raven", berbagai argumen sembrono menjadi mungkin untuk dibuktikan benar atau salah. `
+`...Misalnya, katakanlah aku membuat proposisi "Semua manusia kecuali aku = bodoh". `
+`Biasanya, aku harus memeriksa semua umat manusia kecuali diriku sendiri dan menunjukkan bahwa mereka semua bodoh. `
+`...Tapi, kenyataannya, mustahil untuk menyelidiki miliaran orang. `
+`Itu sama saja usahanya dengan yang kau butuhkan untuk membuka semua 18 kotak." `
+`"*terkekeh*terkekeh*! `
+`Tapi, dengan menggunakan "Hempel's Raven", kontrapositif dari proposisi itu akan mengubahnya menjadi ini. `
+`Jika kau, untuk menggunakan frasamu, memutar papan catur pada klaim bahwa "Semua manusia kecuali aku = bodoh", `
+`kau tidak perlu melakukan apa pun selain membuktikan bahwa "tidak bodoh = aku". `
+`...Dan menurutmu apa artinya itu?" `
+`"*terkekeh*terkekeh*! `
+`Begitu aku mengetahui fakta bahwa "aku bijaksana", `
+`aku akan bisa menunjukkan dalam sekejap bahwa setiap satu dari miliaran orang dalam ras manusia adalah bodoh. `
+`Dalam kurang dari satu detik, aku bisa menyelesaikan pembuktian bahwa seluruh umat manusia lebih bodoh dariku!!" `
+`"Itu benar-benar QED terkuat dan tercepat di dunia, `
+`"Hempel's Raven"` 
+`ini!" `
+`"Ar-......Argumen yang konyol......!!!" `
+`"Itu adalah langkah yang sangat, sangat mudah. `
+`Bukan hanya iblis, tetapi para dewa juga menggunakannya. `
+`Ketika mereka mengusulkan bahwa "yang diberkati = para pelayan dewa", `
+`kontrapositifnya adalah "seorang manusia bukanlah pelayan dewa = dia pasti tidak diberkati"." `
+`"Jadi untuk membuktikan bahwa para pelayan dewa diberkati dengan perlindungan ilahi, `
+`mereka hanya perlu mendatangkan kemalangan pada orang-orang yang tidak menerima perlindungan seperti itu." `
+`"......Jadi, dengan mendatangkan kemalangan pada mereka yang tidak percaya pada mereka, `
+`mereka membuktikan keberkahan mereka." `
+`"Biaya yang sangat besar diperlukan untuk memberi manusia kebahagiaan. `
+`...Namun, dibutuhkan jauh lebih sedikit untuk mendatangkan kemalangan pada manusia. `
+`*terkekeh*terkekeh*terkekeh*terkekeh*terkekeh* `
+`Jadi dengan menggunakan "Hempel's Raven", para dewa sebenarnya memberi para penganut sukacita perlindungan ilahi dengan murah." `
+`"...K-Kau iblis. `
+`Itu argumen iblis... `
+`...Itu gila...!!!" `
+`"Sepertinya kita telah melenceng dari topik. `
+`Mari kita kembali ke intinya." `
+`"Langkah untuk serangan balasku sudah lengkap. `
+`...Dan sekarang, sebagai tanggapan atas klaimmu "orang ke-19 adalah pelakunya, oleh karena itu, ke-18 orang itu tidak bersalah dan penyihir tidak ada," `
+`aku berkata 'oleh karena itu, jika aku bisa membuktikan bahwa pelakunya bukan orang ke-19, `
+`kita bisa yakin bahwa pelakunya adalah salah satu dari 18 orang atau seorang penyihir, `
+`benar?'" `
+`Untuk sementara, aku hanya berdiri di sana, terkejut, sepenuhnya lupa untuk menutup mulutku... `
+`Tepat ketika aku pikir aku telah membalas salah satu poin kuat mereka, `
+`serangan balik mereka adalah argumen sembrono yang tidak mungkin bisa kuantisipasi...! `
+`Apakah ini...akan mustahil setelah semuanya...?! `
+`Terus menyangkal penyihir di pulau dengan tidak lebih dari 18 orang... `
+`dan masih percaya pada ketidakbersalahan 18 orang itu... `
+`...Apakah itu hanya khayalan?! `
+`Apakah aku hanya mencoba melarikan diri dari kenyataan?! `
+`Belum... `
+`...Jangan menyerah dalam perjuangan putus asa ini dulu. `
+`Siapa peduli dengan "Hempel's Raven"? `
+`Mereka hanya mencoba membingungkanku dengan mengemukakan hal-hal sepele yang aneh... `
+`Aku menggunakan "Devil's Proof". `
+`Jangan merasa tidak pasti tentang sesuatu yang pernah kau gunakan. `
+`Percayalah pada tombak yang telah kau hunus. `
+`Dan kemudian, dengan paksa...tancapkanlah...! `
+`"...Kita masih di bagian pembukaan permainan. `
+`Apakah kau berencana terus berpikir pada tingkatan ini?" `
 `"......... `
 `Ah, `
-`...wait a sec, `
-`I want to be sure. `
-`I'll admit I talked about a 19th person to keep it simple, `
-`but if we're gonna use the "Devil's Proof" to raise the number of people above 18, `
-`then we'd have no way of knowing if there were 10 people, 100 people, or an indeterminate number of people. `
-`{i:There's always one more than you assume}. `
-`...Get it?" `
-`They countered my twisted logic with something even more twisted. `
-`So the only thing that could counter that...would be even crazier twisted logic...! `
-`"Hmm, I see. `
-`......Even if I somehow prove an alibi for the 19th person, `
-`as soon as I do, you will think up a 20th person and claim that they are the culprit. `
-`By repeating this endlessly, you would make it so I kept searching for their alibis for all eternity. `
-`...I see, I see, *cackle*cackle*! `
-`Just like a demon king summoning a plague of locusts. `
-`I wouldn't expect anything less from Kinzo's grandchild. `
-`It looks like you have been gifted with a talent in summoning." `
-`"...In short! `
-`It's impossible to always prove an alibi for each person X outside of the first 18! `
-`...How do you like that, Beato...?! `
-`Now that I know we're having a battle with twisted logic, I won't lose!" `
-`"*cackle*cackle*cackle*cackle*cackle*cackle*!! `
-`How foolish... `
-`Who do you think I am? `
-`I am the Endless Witch! `
-`The thought that you could challenge me endlessly is just absurd. `
-`Endless control means that I am able to kill endlessly." `
-`"...When your 19th person folds, you will summon a 20th, `
-`and when your 20th person folds, you will summon a 21st, `
-`and when your 21 person folds and your 22nd person folds, `
-`you will summon a 23rd person, a 34th person, a 64358223579673204th person! `
-`Did you think you'd have me at your mercy for all eternity?!" `
-`"I laugh at "infinite regress"! `
-`The "infinite" doesn't work against me!!" `
-`"Well then, how will you kill my "endless"? Just try and show me!!" `
+`...tunggu sebentar, `
+`aku ingin memastikan. `
+`Aku akui aku berbicara tentang orang ke-19 untuk mempermudah, `
+`tapi jika kita akan menggunakan "Devil's Proof" untuk menaikkan jumlah orang di atas 18, `
+`maka kita tidak akan bisa tahu apakah ada 10 orang, 100 orang, atau jumlah orang yang tidak tentu. `
+`{i:Selalu ada satu lebih banyak dari yang kau asumsikan}. `
+`...Mengerti?" `
+`Mereka membalas logika terpelintirku dengan sesuatu yang bahkan lebih terpelintir. `
+`Jadi satu-satunya hal yang bisa membalas itu...akan menjadi logika terpelintir yang bahkan lebih gila...! `
+"Hmm, aku mengerti. `
+`......Bahkan kalau aku entah bagaimana berhasil membuktikan alibi untuk orang ke-19, `
+`begitu itu kulakukan, kau akan memikirkan orang ke-20 dan mengklaim bahwa dialah pelakunya. `
+`Dengan mengulanginya tanpa henti, kau akan membuatku terus mencari alibi mereka untuk selama-lamanya. `
+`...Aku mengerti, aku mengerti, *terkekeh*terkekeh*! `
+`Persis seperti raja iblis yang memanggil wabah belalang. `
+`Tak kusangka cucu Kinzo punya bakat seperti ini. `
+`Sepertinya kau memang dianugerahi bakat untuk memanggil." `
+`"...Singkatnya! `
+`Mustahil untuk selalu membuktikan alibi bagi setiap orang X di luar 18 orang awal! `
+`...Bagaimana menurutmu, Beato...?! `
+`Sekarang aku tau kita sedang bertarung dengan logika terpelintir, aku tidak akan kalah!" `
+`"*terkekeh*terkekeh*terkekeh*terkekeh*terkekeh*terkekeh*!! `
+`Betapa bodohnya... `
+`Kau pikir aku ini siapa? `
+`Aku adalah Penyihir Tak Terbatas! `
+`Pikiran bahwa kau bisa menantangku tanpa akhir hanyalah omong kosong. `
+`Kendali tanpa batas berarti aku mampu membunuh tanpa batas pula." `
+`"...Saat orang ke-19mu menyerah, kau akan memanggil orang ke-20, `
+`dan saat orang ke-20mu menyerah, kau akan memanggil orang ke-21, `
+`dan saat orang ke-21mu menyerah dan orang ke-22mu menyerah, `
+`kau akan memanggil orang ke-23, orang ke-34, orang ke-64358223579673204! `
+`Kau pikir bisa mempermainkanku sesukamu untuk selamanya?!" `
+`"Aku menertawakan "regresi tak terbatas"! `
+`Yang "tak terbatas" tidak berlaku bagiku!!" `
+`"Kalau begitu, bagaimana kau akan membunuh "tanpa batas"-ku? Coba tunjukkan padaku!!" `
 `" `
-`{p:1:I have the power to speak the truth in red}!!!" `
+`{p:1:Aku punya kekuatan untuk mengucapkan kebenaran dalam merah}!!!" `
 `".........!! `
-`......Here it comes......" `
-`"When I speak in red, it will contain absolutely no illusions. `
-`If I say once in red that there are no more than 100 people on this island, `
-`you will no longer be permitted to create a 101st person. `
-`*cackle*cackle*! `
-`See, Battleeer? `
-`What truth shall I tell in red this time? `
-`Where shall I strike for the kill and force you into hopelessness? `
-`*cackle*cackle*cackle*! `
-`Come, show me your usual frightened face..." `
+`......Ini dia......" `
+`"Saat aku berbicara dalam merah, itu sama sekali tidak akan mengandung ilusi. `
+`Jika aku sekali saja mengatakan dalam merah bahwa jumlah manusia di pulau ini tidak lebih dari 100 orang, `
+`kau tidak akan lagi diizinkan menciptakan orang ke-101. `
+`*terkekeh*terkekeh*! `
+`Lihat, Battler? `
+`Kebenaran apa yang akan kuucapkan dalam merah kali ini? `
+`Di mana aku akan menyerang untuk membunuh dan memaksamu masuk ke dalam keputusasaan? `
+`*terkekeh*terkekeh*terkekeh*! `
+`Ayo, tunjukkan wajah ketakutanmu yang biasa..." `
 `"........." `
-`".........What?" `
+`".........Apa?" `
 `"...Ihihihihi." `
-`"...Why...are you laughing...?" `
-`I wonder what kind of creepy look I had on my face as I laughed right then. `
-`That red sure is scary. `
-`...Every time it jumps out, I'm driven into the depths of hopelessness. `
-`But...I've already realized something. `
-`...There's no need to be overly afraid of the red. `
-`"......You've brought out your trump card again. `
-`So...? `
-`How and for what will {f:5:Beatrice}-sama use the red this time?" `
+`"...Kenapa...kau tertawa...?" `
+`Aku penasaran seperti apa wajah menyeramkan yang kutampilkan saat aku tertawa saat itu. `
+`Merah itu memang menakutkan. `
+`...Setiap kali ia muncul, aku terdorong ke jurang keputusasaan. `
+`Tapi...aku sudah menyadari sesuatu. `
+`...Tidak perlu terlalu takut pada merah. `
+`"......Kau mengeluarkan kartu andalanmu lagi. `
+`Jadi...? `
+`Bagaimana dan untuk apa {f:5:Beatrice}-sama akan menggunakan merah kali ini?" `
 `"...Hoh. `
-`What do you mean by that? `
-`Suddenly looking so relaxed..." `
-`"Sorry, but I was waiting for you to take out that blood-red treasured sword of yours. `
-`...Let's see, what'll you proclaim in red this time? `
-`You aren't going to say "the culprit was one of those 18 people", are you? `
-`Be careful, since that'd mean self-destruction for you, right? `
-`That'd be the same as throwing away your own witch theory yourself. `
-`A complete resignation." `
-`That's right, `
-`the red wasn't always a weapon that worked in Beato's favor alone. `
-`It was the other way around. `
-`If she used it the wrong way, it was dangerous enough that she could bring about her own death. `
-`If she used it carelessly and said something that ended up denying herself, that'd be exactly the same as self-destructing. `
-`"Of course, it'd be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit. `
-`...No matter who the culprit actually was, I'd definitely have to deal with some tough emotions..." `
-`"But before that, it would mean your defeat! `
-`Saying in red that the culprit is a human is equivalent to your proclamation of resignation!! `
-`If you want to strike me a blow so badly you're prepared to die at the same time, I think that's a pretty interesting move. `
-`However, this battle will end in my victory!!" `
-`{f:5:Beatrice}'s red was her true trump card. `
-`When that person speaks in red, it's definitely the truth, and no amount of proof or counterarguments can change that. `
-`Until now, she's used that to severely wound me, and each time, the tiny foundations supporting my heart get split in half. `
-`However, if she uses it carelessly, then I can also gleam a little information about the truth. `
-`...In the last game, I used that to my advantage, especially during the chapel's closed room trick, `
-`and almost completely got her boxed in at one point. `
-`But she was pretty sly herself. `
-`She learned from experience, and since then, she's started using discretion in the timing of her red... `
-`This feeling of tension was almost literally like a battle with real swords. `
-`...This is a high-level intellectual battle. `
-`...No, not an intellectual battle. `
-`This really is twisted logic. `
-`This was the world's craziest and worst battle of twisted logic...!! `
-`"Okay, now it's time to hear your plan. `
-`...That's right. `
-`To use your "Hempel's Raven", `
-`first, you'll have to confirm in red how many humans there are other than the 18. `
-`And after that, if you proclaim in red that none of the people in this group are the culprit... `
-`that's right, that might be a fatal wound to me." `
-`"......I'm surprised that you no longer have even an atom of fear for the red, which once terrified you so much... `
-`You're quite resilient." `
-`"Try taking it out. `
-`That treasured sword, that trump card of yours. `
-`This time, you might be able to make me surrender with a single stroke, right...?" `
-`"...*cackle*cackle*cackle* `
-`...Interesting. `
-`I wouldn't have it any other way..." `
-`Agitate her. `
-`Challenge her. `
-`Drive her into a corner to make her speak in red... `
-`Of course her red's always wiping out my only rays of hope. `
-`But...don't be afraid of that. `
-`On this island overcome with falsehoods and illusions, the only thing I can trust is... `
-`the information she speaks in red. `
-`It's my only way across the chasm of hell. `
-`Just a single tightrope. `
-`Her merciless blood-red blade is the only way I can survive. `
-`...This isn't just walking on a tightrope, it's like literally walking on the edge of a blade... `
-`Of course I'm afraid. `
-`Because my victory condition is the denial of witches, then, to use her contrapositive logic, the culprit must be human. `
-`But I didn't want to search for a culprit amid the 18. `
-`...That's what made me stick to a weak position, since I had to claim both that it couldn't be a witch and that it couldn't be one of the 18. `
-`Last time, I was unable to understand that, so that's where she hit me, leaving me tattered and defeated. `
-`...But that's okay. `
-`Let her hit me. `
-`Let her attack. `
-`No problem... `
-`Someone said it once in an old sword-fighting movie. `
-`That "A good fortress has one, and only one, intentionally weak point". `
-`The enemy would gather there. `
-`They would be lured there. `
-`And that would be where the actual battle took place. `
-`...As long as I understood my weak points, `
-`and as long as she wanted to attack those weak points, `
-`...it was as if I were luring her into launching an attack there... `
-`Gauge the distance between us with care, ...retreating step by step. `
-`Make them move forward. `
-`The more she recklessly flourished that red, the more chances I would get to strike back. `
-`Don't be afraid of the red. `
-`Keep her cornered, so that she'll have no choice but to refute me with the red...! `
-`No matter how oppressively she speaks in red, `
-`...that's right, that red itself is the same as fresh blood leaking from her wounds. `
-`"So, `
-`...what's wrong? `
-`...First of all, why don't you tell me how many people are on this island total? `
-`If you don't, your raven can't cut me up...!" `
+`Apa maksudmu dengan itu? `
+`Tiba-tiba terlihat begitu santai..." `
+`"Maaf, tapi aku memang menunggumu mengeluarkan pedang pusaka merah darahmu itu. `
+`...Mari kita lihat, apa yang akan kau nyatakan dalam merah kali ini? `
+`Kau tidak akan mengatakan "pelakunya adalah salah satu dari 18 orang itu", kan? `
+`Hati-hati, karena itu berarti kehancuran diri bagimu, kan? `
+`Itu sama saja dengan membuang teori penyihirmu sendiri. `
+`Pengunduran diri total." `
+`Ya. `
+`Merah tidak selalu menjadi senjata yang hanya menguntungkan Beato. `
+`Justru sebaliknya. `
+`Jika ia menggunakannya dengan cara yang salah, itu cukup berbahaya hingga bisa mendatangkan kematiannya sendiri. `
+`Jika ia memakainya sembarangan dan mengucapkan sesuatu yang akhirnya menyangkal dirinya sendiri, itu sama persis dengan menghancurkan diri sendiri. `
+`"Tentu saja, akan menyedihkan dan sulit bagiku untuk menerima jika kau mengatakan padaku dalam merah kalau salah satu dari 18 orang itu adalah pelakunya. `
+`...Siapa pun pelakunya sebenarnya, aku pasti harus menghadapi perasaan yang berat..." `
+`"Tapi sebelum itu, itu berarti kekalahanmu! `
+`Mengatakan dalam merah bahwa pelakunya adalah manusia setara dengan pernyataan pengunduran dirimu!! `
+`Jika kau begitu ingin menghajarku sampai siap mati bersamaan, menurutku itu langkah yang cukup menarik. `
+`Namun, pertempuran ini akan berakhir dengan kemenanganku!!" `
+`Merah milik {f:5:Beatrice} adalah kartu truf sejatinya. `
+`Saat ia berbicara dalam merah, itu pasti kebenaran, dan tidak ada bukti maupun bantahan yang bisa mengubahnya. `
+`Selama ini, dia menggunakan itu untuk melukaiku dengan parah, dan setiap kali, fondasi kecil yang menopang hatiku terbelah dua. `
+`Namun, jika dia memakainya dengan ceroboh, aku juga bisa mencuri sedikit informasi tentang kebenaran. `
+`...Dalam permainan terakhir, aku memanfaatkannya, terutama saat trik ruang tertutup di kapel, `
+`dan pada satu titik hampir sepenuhnya menjebaknya. `
+`Tapi dia sendiri lumayan licik. `
+`Dia belajar dari pengalaman, dan sejak itu mulai menggunakan pertimbangan dalam menentukan waktu penggunaan merah... `
+`Rasa tegang ini nyaris benar-benar seperti pertarungan dengan pedang sungguhan. `
+`...Ini adalah pertempuran intelektual tingkat tinggi. `
+`...Tidak, bukan pertempuran intelektual. `
+`Ini benar-benar logika terpelintir. `
+`Ini adalah pertempuran logika terpelintir paling gila dan terburuk di dunia...!! `
+`"Baiklah, sekarang saatnya mendengar rencanamu. `
+`...Benar. `
+`Untuk menggunakan "Hempel's Raven"-mu, `
+`pertama-tama, kau harus mengonfirmasi dalam merah berapa banyak manusia selain 18 orang itu. `
+`Dan setelah itu, jika kau menyatakan dalam merah bahwa tidak satu pun dari orang-orang dalam kelompok ini adalah pelakunya... `
+`ya, itu bisa menjadi luka fatal bagiku." `
+`"......Aku terkejut kau sudah tidak memiliki sedikit pun rasa takut pada merah, yang dulu begitu menakutkan bagimu... `
+`Kau cukup tangguh." `
+`"Coba keluarkan. `
+`Pedang pusaka itu, kartu andalanmu itu. `
+`Kali ini, mungkin kau bisa membuatku menyerah hanya dengan satu tebasan, bukan...?" `
+`"...*terkekeh*terkekeh*terkekeh* `
+`...Menarik. `
+`Harusnya begini dari dulu..." `
+`Menggoyahkannya. `
+`Menantangnya. `
+`Desak dia ke sudut sampai dia terpaksa berbicara dalam merah... `
+`Tentu saja, merah miliknya selalu menghapus satu-satunya secercah harapanku. `
+`Tapi...jangan takut akan itu. `
+`Di pulau yang dipenuhi kepalsuan dan ilusi ini, satu-satunya hal yang bisa kupercayai adalah... `
+`informasi yang ia ucapkan dalam merah. `
+`Itulah satu-satunya jalan bagiku menyeberangi jurang neraka. `
+`Hanya seutas tali. `
+`Pedang merah darahnya yang tanpa ampun adalah satu-satunya cara agar aku bisa bertahan hidup. `
+`...Ini bukan sekadar berjalan di atas tali, ini benar-benar seperti berjalan di tepi mata pedang... `
+`Tentu saja aku takut. `
+`Karena syarat kemenanganku adalah menyangkal keberadaan penyihir, maka dengan logika kontrapositifnya, pelaku haruslah manusia. `
+`Namun aku tidak ingin mencari pelaku di antara 18 orang itu. `
+`...Itulah yang membuatku terjebak di posisi lemah, karena aku harus bersikeras bahwa itu bukan penyihir dan juga bukan salah satu dari 18. `
+`Terakhir kali, aku tidak mampu memahami hal itu, dan di situlah dia menghantamku, meninggalkanku compang-camping dan kalah. `
+`...Tapi tidak apa-apa. `
+`Biarkan dia menghantamku. `
+`Biarkan dia menyerang. `
+`Tidak masalah... `
+`Seseorang pernah mengatakan ini dalam film lama tentang duel pedang. `
+`Bahwa "benteng yang baik memiliki satu, dan hanya satu, titik lemah yang disengaja". `
+`Musuh akan berkumpul di sana. `
+`Mereka akan terpancing ke sana. `
+`Dan di sanalah pertempuran sesungguhnya terjadi. `
+`...Selama aku memahami titik-titik lemahku, `
+`dan selama dia ingin menyerang titik-titik lemah itu, `
+`...rasanya seperti aku sedang memancingnya untuk melancarkan serangan ke sana... `
+`Mengukur jarak di antara kami dengan hati-hati, ...mundur selangkah demi selangkah. `
+`Buat dia terus maju. `
+`Semakin ceroboh dia mengayunkan merah itu, semakin banyak kesempatan bagiku untuk membalas. `
+`Jangan takut pada merah. `
+`Terus desak dia ke sudut, sampai dia tak punya pilihan selain membantahku dengan merah...! `
+`Tak peduli seberapa menindas dia berbicara dalam merah, `
+`...benar, merah itu sendiri sama saja seperti darah segar yang mengalir dari lukanya. `
+`"Jadi, `
+`...ada apa? `
+`...Sebagai permulaan, kenapa kau tidak memberitahuku berapa total orang yang ada di pulau ini? `
+`Kalau tidak, gagakmu tidak akan bisa mencabik-cabikku...!" `
 `".........Hmph. `
-`...How surprising that you can be this desperate and yet this difficult. `
-`...One cannot make light of someone putting their life on the line, no matter what the era. `
-`...It's no surprise you're Kinzo's grandchild. `
-`The more cornered you are, `
-`......the bolder you become!" `
+`...Sungguh mengejutkan kau bisa seputus asa ini namun juga begitu sulit dihadapi. `
+`...Seseorang yang mempertaruhkan nyawanya tidak boleh diremehkan, di era mana pun. `
+`...Tidak heran kau cucu Kinzo. `
+`Semakin terpojok dirimu, `
+`......semakin berani kau jadinya!" `
 `"...Ihihihi..." `
-`Ronove cleared his throat. `
-`"It appears to be a stalemate. `
-`That black tea I worked so hard to make is getting cold, `
-`Milady." `
+`Ronove berdeham. `
+`"Kelihatannya ini jalan buntu. `
+`Teh hitam yang susah payah saya buat sudah mulai dingin, `
+`Nyonya." `
 `"......Nng." `
-`Ronove, who was supposed to be her ally, roguishly rushed her into making her next move. `
-`Beato probably thought she'd managed to smile back and appear confident, ...but she couldn't hide the sweat building up on her forehead. `
-`By now, she had completely lost the confident feeling that had allowed her to turn her nose up at her worthless opponent. `
-`Of course, she probably wouldn't be cornered by something like this. `
-`...She's just being cautious. `
-`Until now, I've been inexperienced. `
-`I didn't know how to fight, and I wasn't strong enough to be her opponent. `
-`However, now that we've reached the third game, she's realized that I'm starting to become more skilled, `
-`and she's grown more cautious, thinking every move over carefully... `
-`Sure, that's just fine, {f:5:Beatrice}. `
-`Sorry to keep you waiting. `
-`Are you happy now...? `
-`"...Now it's starting to get interesting, huh...? `
+`Ronove, yang seharusnya menjadi sekutunya, dengan licik justru mendesaknya agar segera mengambil langkah berikutnya. `
+`Beato mungkin mengira dirinya berhasil tersenyum balik dan tampak percaya diri, ...namun dia tak bisa menyembunyikan keringat yang mulai muncul di dahinya. `
+`Saat ini, dia benar-benar telah kehilangan rasa percaya diri yang sebelumnya membuatnya bisa memandang rendah lawan tak berharga di hadapannya. `
+`Tentu saja, dia mungkin tidak akan benar-benar terpojok hanya karena ini. `
+`...Dia hanya sedang berhati-hati. `
+`Sampai sekarang, akulah yang belum berpengalaman. `
+`Aku tidak tau cara bertarung, dan aku belum cukup kuat untuk menjadi lawannya. `
+`Namun kini kami telah mencapai permainan ketiga, dia menyadari bahwa aku mulai semakin terampil, `
+`dan dia pun menjadi lebih waspada, memikirkan setiap langkah dengan saksama... `
+`Baiklah, itu tidak masalah, {f:5:Beatrice}. `
+`Maaf membuatmu menunggu. `
+`Apa sekarang kau puas...? `
+`"...Sekarang mulai menarik, ya...? `
 `Hihihihi!" `
-`"*cackle*cackle*cackle*! `
+`"*terkekeh*terkekeh*terkekeh*! `
 `...Battleeeeeeeeer..." `
-`"This isn't getting us anywhere... `
-`Then, should we get to the heart of the matter and go with the usual?" `
+`"Ini tidak akan membawa kita ke mana-mana... `
+`Kalau begitu, bagaimana kalau kita langsung ke inti dan memakai cara yang biasa?" `
 `"...Hoh. `
-`The usual, you say? `
-`...Then, by all means. `
-`If I don't hear you say that, I guess I just won't feel like starting..." `
-`The first move was mine... `
-`"Here I go, Beato. `
-`Repeat it. `
-`..."On this island, there are only 18 people"." `
+`Yang biasa, katamu? `
+`...Kalau begitu, silakan saja. `
+`Kalau aku tidak mendengarmu mengatakannya, kurasa aku memang tidak akan bersemangat untuk memulai..." `
+`Langkah pertama ada padaku... `
+`"Aku mulai, Beato. `
+`Ulangi. `
+`..."Di pulau ini, hanya ada 18 orang"." `
 `"............" `
-`"...If I hear you say this in red, I'll have no choice but to suspect one of the 18. `
-`...I won't be able to say a 19th person did it, so all doors will be closed to me. `
-`......However, I believe the culprit definitely isn't one of the 18! `
-`There's no way any of those 18 could commit such brutal murders...!!" `
+`"...Jika aku mendengarmu mengatakan ini dalam merah, aku tak punya pilihan selain mencurigai salah satu dari 18 orang itu. `
+`...Aku tidak akan bisa mengatakan ada orang ke-19 yang melakukannya, jadi semua jalan akan tertutup bagiku. `
+`......Namun aku yakin pelakunya jelas bukan salah satu dari 18! `
+`Tidak mungkin satu pun dari 18 orang itu melakukan pembunuhan sekejam itu...!!" `
 `"........." `
-`"I'll say it again. `
-`Repeat it! `
-`"On this island, there are only 18 people"." `
+`"Aku ulangi sekali lagi. `
+`Ulangi! `
+`"Di pulau ini, hanya ada 18 orang"." `
 `"............ `
-`......I refuse. `
-`I won't say why." `
-`Whew...! `
-`I'd avoided what would've been the worst red for me. `
-`If she'd repeated that, `
-`I'd be faced with those two worst choices of accepting the witch or suspecting one of the 18, `
-`like last time all over again... `
-`But Beato hadn't proclaimed my ultimate and greatest weakness in red. `
-`She refused to repeat it, even though there was no reason for her not to strike, even though it was a weakness she should've been drooling at. `
-`She hadn't sliced me up with red by using that move, which should've been as good as forking a rook and the king...! `
-`...This was a big sign of my advantage. `
-`That's right. `
-`The culprit isn't one of the 18. `
-`I won't suspect anyone...! `
-`And since the culprit isn't a witch either, `
-`......it means a 19th person exists on this island. `
-`And that's you. `
-`A person who, as Grandfather's mistress of 30 years, `
-`has been secretly living in a hidden mansion in the forest for a long, long time. `
-`The "human" {f:5:Beatrice}......!! `
-`"That's right. `
-`You aren't a witch or anything like it. `
-`...You're just a human...who's been living on this island in hiding for several decades...!" `
-`"......*cackle*cackle* `
-`*cackle*cackle*cackle... `
-`...Did you just call me, the Endless Witch who has lived for over one thousand years, a human? `
-`...*cackle*cackle*cackle*cackle*cackle*cackle*!" `
-`For a while, {f:5:Beatrice} continued to laugh unpleasantly and gloatingly...or maybe spitefully. `
-`"...Are you ready? I'll keep going. `
-`...Again, repeat it. `
-`"There are 19 people or more on this island"!" `
+`......Aku menolak. `
+`Aku tidak akan mengatakan alasannya." `
+`Hah...! `
+`Aku berhasil menghindari merah terburuk yang mungkin menimpaku. `
+`Jika dia mengulanginya, `
+`aku akan dihadapkan lagi pada dua pilihan terburuk itu—menerima penyihir atau mencurigai salah satu dari 18— `
+`sama seperti terakhir kali... `
+`Namun Beato tidak menyatakan kelemahan terbesar dan pamungkasku itu dalam merah. `
+`Dia menolak mengulanginya, meskipun tak ada alasan baginya untuk tidak menyerang, meskipun itu adalah kelemahan yang seharusnya membuatnya tergiur. `
+`Dia tidak mengiris habis diriku dengan merah menggunakan langkah itu, yang seharusnya setara dengan menjepit benteng dan raja sekaligus...! `
+`...Ini adalah tanda besar bahwa keuntunganku sedang meningkat. `
+`Benar. `
+`Pelakunya bukan salah satu dari 18 orang. `
+`Aku tidak akan mencurigai siapa pun...! `
+`Dan karena pelakunya juga bukan penyihir, `
+`......itu berarti ada orang ke-19 di pulau ini. `
+`Dan itu adalah dirimu. `
+`Seseorang yang, sebagai selir Kakek selama 30 tahun, `
+`telah diam-diam tinggal di sebuah rumah besar tersembunyi di dalam hutan untuk waktu yang sangat, sangat lama. `
+`"manusia" bernama {f:5:Beatrice}......!! `
+`"Benar. `
+`Kau bukan penyihir atau semacamnya. `
+`...Kau hanyalah manusia...yang telah hidup bersembunyi di pulau ini selama beberapa dekade...!" `
+`"......*terkekeh*terkekeh* `
+`*terkekeh*terkekeh*terkekeh... `
+`...Apa kau baru saja menyebutku, Penyihir Tak Terbatas yang telah hidup lebih dari seribu tahun, sebagai manusia? `
+`...*terkekeh*terkekeh*terkekeh*terkekeh*terkekeh*terkekeh*!" `
+`Untuk beberapa saat, {f:5:Beatrice} terus tertawa dengan tidak sedap dan penuh ejekan...atau mungkin dengan rasa dengki. `
+`"...Sudah siap? Aku akan lanjut. `
+`...Sekali lagi, ulangi. `
+`"Di pulau ini ada 19 orang atau lebih"!" `
 `"............" `
-`{f:5:Beatrice} fell silent once again. `
-`She'd probably remain extremely cautious `
-`as long as confirming the number of humans on this `
-`island might give her some large disadvantage, `
-`depending on the situation. `
-`The red has already become a foothold for my counterattacks. `
-`Now that we know this, it makes the red very risky for the witch. `
-`But if she couldn't repeat this, her "Hempel's Raven" wouldn't be effective. `
-`To break my "Devil's Proof", `
-`she would need to settle the existence and number of people outside the 18 in red. `
-`That's right. `
-`She couldn't break the existence of a 19th person unless she used red. `
-`I've {i:closed Beato in}, giving her no choice but to speak in red...! `
-`There really was... `
-`...a way to fight... `
-`in this witch's game! `
-`"It's okay to refuse. `
-`...If you can't say it in red, that means there's a total of 18+X people on this island." `
-`"...That X is a pretty massive piece to lose on your first move, right? `
-`After all, from now on, all of the tricks that were impossible for the 18... `
-`can be explained with a human X who isn't in that group. `
-`...This huge piece can break open all the rooms you said were closed because everyone had an alibi...!" `
-`It was just like `
-`how a chess bishop can cut a thin line through enemy forces as long as there's a slight gap. `
-`It could only be effectively used on squares of the same color, but it was very good at controlling territory on the board. `
+`{f:5:Beatrice} kembali terdiam. `
+`Dia mungkin akan tetap sangat berhati-hati `
+`selama memastikan jumlah manusia di pulau ini `
+`bisa memberinya kerugian besar, `
+`tergantung situasinya. `
+`Merah kini telah menjadi pijakan bagi serangan balasku. `
+`Setelah menyadari hal itu, merah menjadi sangat berisiko bagi sang penyihir. `
+`Namun jika dia tidak bisa mengulanginya, "Hempel's Raven"-nya tidak akan efektif. `
+`Untuk mematahkan "Devil's Proof"-ku, `
+`dia harus menetapkan keberadaan dan jumlah orang di luar 18 dengan merah. `
+`Benar. `
+`Dia tidak bisa meniadakan keberadaan orang ke-19 tanpa menggunakan merah. `
+`Aku telah {i:menutup Beato}, memaksanya tak punya pilihan selain berbicara dalam merah...! `
+`Ternyata memang ada... `
+`...cara untuk bertarung... `
+`dalam permainan penyihir ini! `
+`"Tidak apa-apa jika kau menolak. `
+`...Jika kau tak bisa mengatakannya dalam merah, itu berarti total orang di pulau ini adalah 18+X." `
+`"...X itu adalah bidak yang sangat besar untuk kau lepaskan di langkah pertama, bukan? `
+`Lagipula, mulai sekarang, semua trik yang mustahil dilakukan oleh 18 orang itu... `
+`bisa dijelaskan dengan manusia X yang tidak termasuk dalam kelompok tersebut. `
+`...Bidak raksasa ini bisa membongkar semua ruangan yang kau sebut tertutup karena semua orang punya alibi...!" `
+`Itu persis seperti `
+`bagaimana gajah dalam catur bisa memotong garis tipis di antara pasukan musuh selama ada sedikit celah. `
+`Ia hanya efektif di petak dengan warna yang sama, tetapi sangat unggul dalam menguasai wilayah papan. `
 `"............ `
 `......Nng." `
-`It looked like Beato also noticed her current plight. `
-`She couldn't just let such an important piece go, especially this close to the beginning of the game... `
-`If she pulled out her red treasured sword, it wouldn't be that difficult to save herself from this. `
-`...But Beato was completely aware that I was expecting it. `
-`She was afraid that a careless red truth might end up strangling her own neck...! `
-`Because...in the first place, a witch is something that ought to be denied in red. `
-`Believe. `
-`Don't doubt! `
-`Witches don't exist! `
-`Something like that couldn't exist in this world. `
-`They can only exist in the valleys between truths. `
-`...They have a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth, `
-`and they can only barely exist like a mirage by surviving on falsehoods and illusions. `
-`In other words, the red, which only witches can use, is the reality that might easily deny their very being. `
-`...The more they brandish their red words, `
-`...the more they begin to lose bit by bit that crack in truth inside which they can endure. `
-`That's why they don't want to use red words and carelessly lose that crack in truth, which is based on fuzzy information... `
-`or illusions, in other words. `
-`That's because they understand that they're gradually being cornered. `
-`Of course, that bastard will never admit it. `
-`Because, if she did, `
-`it'd be the same as admitting that she's something that can't exist in this world, like an imaginary number. `
-`Don't be afraid. `
-`Stay strong...! `
-`I know that she's the one who's really been pierced to the bone. `
-`After all, her red treasured sword can't be used without a lot of preparation...! `
-`"...What's wrong? `
-`I'll say it again. `
-`...Repeat it! `
-`"‘There are at least 19 people on this island’!" `
+`Tampaknya Beato juga menyadari kesulitannya saat ini. `
+`Dia tidak bisa begitu saja membiarkan bidak sepenting itu hilang, apalagi di awal permainan seperti ini... `
+`Jika dia mengeluarkan pedang pusaka merahnya, menyelamatkan diri dari situasi ini sebenarnya tidaklah sulit. `
+`...Namun Beato sepenuhnya sadar bahwa aku sudah menantikannya. `
+`Dia takut kebenaran merah yang ceroboh justru akan mencekik lehernya sendiri...! `
+`Karena...pada dasarnya, penyihir adalah sesuatu yang seharusnya disangkal dengan merah. `
+`Percaya. `
+`Jangan ragu! `
+`Penyihir tidak ada! `
+`Hal seperti itu tidak mungkin ada di dunia ini. `
+`Mereka hanya bisa ada di celah-celah di antara kebenaran. `
+`...Mereka memiliki keberadaan yang rapuh, meringkuk di dalam retakan-retakan itu, mati-matian melindungi diri dari angin kebenaran yang kejam, `
+`dan hanya bisa bertahan seperti fatamorgana dengan bergantung pada kepalsuan dan ilusi. `
+`Dengan kata lain, merah—yang hanya bisa digunakan oleh penyihir—adalah realitas yang bisa dengan mudah menyangkal keberadaan mereka sendiri. `
+`...Semakin mereka mengibarkan kata-kata merah itu, `
+`...semakin sedikit demi sedikit mereka kehilangan celah kebenaran tempat mereka bertahan. `
+`Itulah sebabnya mereka enggan menggunakan kata-kata merah dan ceroboh kehilangan celah kebenaran itu, yang berlandaskan informasi kabur... `
+`atau ilusi, dengan kata lain. `
+`Karena mereka paham bahwa diri mereka sedang perlahan terpojok. `
+`Tentu saja, bajingan itu tidak akan pernah mengakuinya. `
+`Karena jika dia melakukannya, `
+`itu sama saja dengan mengakui bahwa dirinya adalah sesuatu yang tak bisa ada di dunia ini, seperti bilangan imajiner. `
+`Jangan takut. `
+`Tetap kuat...! `
+`Aku tahu dialah yang sebenarnya sudah tertusuk sampai ke tulang. `
+`Lagipula, pedang pusaka merahnya tidak bisa digunakan tanpa persiapan matang...! `
+`"...Ada apa? `
+`Aku akan mengatakannya lagi. `
+`...Ulangi! `
+`"‘Di pulau ini setidaknya ada 19 orang’!" `
 `"......... `
 `...Hmph. `
-`...I refuse." `
-`At the end of Beato's worrying, `
-`...she took a single deep breath and quietly announced her refusal. `
-`...I thought she'd use it. `
-`But Beato refused to speak in red, even though it would cost her victory in the opening part of the game. `
-`"You refused...? `
-`Which means that, from now on, `
-`I can create as many fictional character Xs outside of the 18 as I want...?" `
-`"Do as you wish. `
-`...I have refused to repeat what you have told me. `
-`Isn't that enough for now? `
-`...The reason for my refusal is... `
+`...Aku menolak." `
+`Di akhir kebimbangan Beato, `
+`...dia menarik satu napas dalam-dalam dan dengan tenang menyatakan penolakannya. `
+`...Aku sempat mengira dia akan menggunakannya. `
+`Namun Beato menolak berbicara dalam merah, meskipun itu berarti mengorbankan kemenangannya di fase pembuka permainan. `
+`"Kau menolak...? `
+`Artinya, mulai sekarang, `
+`aku bebas menciptakan sebanyak mungkin karakter fiktif X di luar 18 orang itu...?" `
+`"Lakukan sesukamu. `
+`...Aku telah menolak mengulangi apa yang kau minta. `
+`Bukankah itu sudah cukup untuk saat ini? `
+`...Alasan penolakanku adalah... `
 `... `
-`...no, I won't tell you yet. `
-`Anyway, you'll know soon enough." `
+`...tidak, aku belum akan memberitahumu. `
+`Bagaimanapun juga, kau akan segera mengetahuinya." `
 `"...Ihihi. `
-`Still acting tough, I see..." `
-`"...Choosing not to use the red is another way of using it. `
-`You called it my red treasured sword. `
-`A pleasant metaphor. `
-`I will use it too. `
-`...A treasured sword is at its best when it is sheathed. `
-`In fact, there are times it can instill even more fear because it is sheathed." `
-`"That's right. `
-`...As I fight, I always have to keep in mind whether you might spin everything around with those red words. `
-`It's some pretty serious pressure." `
-`"...And there are also times when you make things pretty tough by refusing to repeat after me. `
-`...Those times, I can't tell if you can't repeat because my guess was right, `
-`or if you're just misleading me and letting me flounder about. `
-`If you think of it that way, yeah. `
-`It's a sheathed treasured sword." `
-`"......So what? `
-`If I'm going to push you off a cliff anyway, best to let you climb a bit higher first. `
-`...We have still barely begun. `
-`Much is left to come..." `
-`"I'll resign from this challenge. `
-`...Go and get drunk on your faint victory for now. `
-`...But only for now." `
-`Practically speaking, the early part of the game ended with her being a sore loser. `
-`Even so, I couldn't relax my guard at all. `
-`...That tension didn't fade one bit...until I was greeted by the sound of Ronove's applause... `
-`"...Spectacular, Battler-sama. `
-`Perhaps you have started this game with an advantageous development." `
-`"Who knows... `
-`I still don't know whether I've taken a piece by my move, `
-`or whether she guided me into taking it. `
-`...After all, knowing you... `
-`You probably know I'm being led into a trap, and that clapping is just you mocking me openly, right...?" `
-`"How could you think that? `
-`I am innocently celebrating your ability, which has enabled you to take one shot at Milady, even though it is only the first round. `
-`...In any event, Milady is a person who is quick to become arrogant. `
-`I believe that a little encouragement such as this can be good medicine every once in a while." `
-`"...This butler of yours sure has a vicious tongue..." `
-`"He does, doesn't he? `
-`Sometimes he ticks me off as well." `
-`"My, my, how incredibly rude of me. `
-`Well then, Milady, Battler-sama. `
-`How would you like some more black tea? `
-`The game has still barely begun. `
-`Please allow me to prepare all the tea and snacks needed to adorn this game. `
-`I ask that you continue your game without any reservations." `
-`"I will. `
-`Let's move forward. `
-`Now is when it really starts." `
+`Masih berpura-pura kuat rupanya..." `
+`"...Memilih untuk tidak menggunakan merah juga merupakan cara lain untuk menggunakannya. `
+`Kau menyebutnya pedang pusaka merahku. `
+`Sebuah metafora yang menyenangkan. `
+`Aku juga akan menggunakannya. `
+`...Pedang pusaka paling sempurna justru saat masih tersarung. `
+`Bahkan, ada kalanya ia menimbulkan rasa takut yang lebih besar justru karena tetap tersarung." `
+`"Benar. `
+`...Saat bertarung, aku selalu harus mengingat kemungkinan bahwa kau akan membalikkan segalanya dengan kata-kata merah itu. `
+`Tekanannya luar biasa berat." `
+`"...Dan ada juga saat-saat ketika kau membuat segalanya jadi sangat sulit dengan menolak mengulang ucapanku. `
+`...Pada saat-saat seperti itu, aku tidak bisa tau apakah kau tak bisa mengulanginya karena tebakanku benar, `
+`atau karena kau sengaja menyesatkanku dan membiarkanku terombang-ambing. `
+`Kalau dipikir-pikir begitu, ya. `
+`Itu memang pedang pusaka yang masih tersarung." `
+`"......Lalu kenapa? `
+`Kalau memang aku akan mendorongmu jatuh dari tebing, lebih baik kubiarkan kau memanjat sedikit lebih tinggi dulu. `
+`...Kita bahkan baru saja mulai. `
+`Masih banyak yang akan terjadi..." `
+`"Aku mengundurkan diri dari tantangan ini. `
+`...Silakan mabuk oleh kemenangan kecilmu untuk saat ini. `
+`...Tapi hanya untuk saat ini." `
+`Secara praktis, bagian awal permainan berakhir dengan dirinya menjadi pecundang yang kesal. `
+`Meski begitu, aku sama sekali tidak bisa menurunkan kewaspadaanku. `
+`...Ketegangan itu tidak berkurang sedikit pun...sampai aku disambut oleh suara tepuk tangan Ronove... `
+`"...Luar biasa, Battler-sama. `
+`Mungkin anda telah memulai permainan ini dengan perkembangan yang menguntungkan." `
+`"Entahlah... `
+`Aku masih belum tau apakah aku telah merebut sebuah bidak dengan langkahku, `
+`atau justru dia yang menuntunku untuk mengambilnya. `
+`...Lagipula, melihat dirimu... `
+`Kau mungkin tau kalau aku sedang digiring ke dalam jebakan, dan tepuk tangan itu hanyalah caramu mengejekku secara terbuka, bukan...?" `
+`"Bagaimana bisa anda berpikir begitu? `
+`Saya sungguh-sungguh merayakan kemampuan anda, yang telah memungkinkan anda melancarkan satu serangan pada Nyonya, meskipun ini baru ronde pertama. `
+`...Bagaimanapun juga, Nyonya adalah seseorang yang mudah menjadi angkuh. `
+`Menurut saya, sedikit dorongan seperti ini bisa menjadi obat yang baik sesekali." `
+`"...Pelayanmu ini lidahnya tajam sekali..." `
+`"Ya, kan? `
+`Kadang-kadang dia juga membuatku jengkel." `
+`"Aduh, aduh, sungguh tidak sopan diri saya ini. `
+`Kalau begitu, Nyonya, Battler-sama. `
+`Bagaimana kalau menambah teh hitam? `
+`Permainan ini bahkan belum benar-benar dimulai. `
+`Izinkan saya menyiapkan semua teh dan kudapan yang diperlukan untuk menghiasi permainan ini. `
+`Silakan kalian melanjutkan permainan tanpa ragu sedikit pun." `
+`"Aku akan melakukannya. `
+`Mari kita lanjutkan. `
+`Sekaranglah saatnya benar-benar dimulai." `
 `"......Hmph. `
-`Very well. `
-`Let us advance the clock. `
-`Ronove, black tea please." `
-`"Certainly. `
-`How about a cookie?" `
-`"I don't need one. `
-`Give it to Beelzebub to keep her happy. `
-`......Remain silent for now." `
-`While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell silent. `
-`...For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes. `
-`"Very well. `
-`......Why don't I inform you now as to why I refused to speak in red during that first move?" `
-`"...What...? `
-`Bring it on. `
-`Show me what you've got." `
-`"*cackle*cackle*... `
-`Yes, that piece really was big enough that I'd hate to lose it. `
-`...It may be hasty, but allow me to make my move. `
-`I won't use the red, but from here on, Rosa will explain on my behalf. `
-`Listen." `
-`"Of course, I think the same way. `
-`Rosa does too, right? `
+`Baiklah. `
+`Mari kita majukan jamnya. `
+`Ronove, teh hitam." `
+`"Tentu. `
+`Bagaimana dengan biskuit?" `
+`"Aku tidak perlu. `
+`Berikan saja pada Beelzebub agar dia senang. `
+`......Untuk saat ini, tetap diam." `
+`Sambil mendengarkan suara pelayan iblis menuangkan teh, sang penyihir memejamkan mata sedikit dan terdiam. `
+`...Untuk beberapa waktu, dia tenggelam dalam pikirannya, namun akhirnya kilatan licik muncul di matanya. `
+`"Baiklah. `
+`......Bagaimana kalau sekarang aku beri tau alasan mengapa aku menolak berbicara dalam merah pada langkah pertama tadi?" `
+`"...Apa...? `
+`Ayo saja. `
+`Tunjukkan apa yang kau punya." `
+`"*terkekeh*terkekeh*... `
+`Ya, bidak itu memang cukup besar sampai aku enggan kehilangannya. `
+`...Mungkin terburu-buru, tapi izinkan aku melangkah. `
+`Aku tidak akan menggunakan merah, namun mulai sekarang, Rosa akan menjelaskan atas namaku. `
+`Dengarkan." `
+`"Tentu saja, aku berpikir dengan cara yang sama. `
+`Rosa juga, kan? `
 `......Rosa?" `
-`"Huh? Ah, sorry... `
-`M-Me too. `
-`I think that too." `
-`"......What's wrong, Rosa-san? `
-`...You've been really quiet for a while now. `
-`Are you feelin' sick...?" `
-`From the beginning, Rosa had never been one to cut in on the siblings' fights. `
-`...But even so, she seemed unmotivated... `
-`and had said almost nothing during this night's conference. `
-`The whole time, she had hung her head...and appeared to be thinking of something else... `
-`"You've been in a daze for a while now. `
-`Do you think you can protect the inheritance like that? `
-`You're also the mother of your child, so get a stronger hold on yourself." `
-`"I-I'm sorry..." `
-`"Did you wake up really early in the morning? `
-`If you feel sick, you shouldn't overdo it." `
-`"...The beds in our guest rooms have been prepared. `
-`How about taking a rest? `
-`I will guide you." `
-`"No, ...I'm fine. `
-`Thank you." `
-`"...What is it? `
-`Is there something you're worrying about?" `
-`"......No, not really......" `
-`"Is that so...? `
-`It feels like your mind has been elsewhere this whole time. `
-`...I wonder if that has anything to do with what we've been talking about...?" `
-`At those words, everyone stared at Rosa together. `
-`As if in response, Rosa's shoulders quivered. `
-`Apparently, Kyrie's guess hadn't been wrong. `
-`...Rosa couldn't deny it either... `
-`".........No, umm... `
+`"Hah? Ah, maaf... `
+`A-Aku juga. `
+`Aku juga berpikir begitu." `
+`"......Ada apa, Rosa-san? `
+`...Kau sudah cukup lama diam. `
+`Apa kau merasa tidak enak badan...?" `
+`Sejak awal, Rosa memang bukan tipe yang ikut memotong pertengkaran antar saudara. `
+`...Namun meski begitu, dia terlihat tidak bersemangat... `
+`dan hampir tidak mengatakan apa pun sepanjang konferensi malam ini. `
+`Sepanjang waktu, dia menundukkan kepala...dan tampak memikirkan hal lain... `
+`"Kau sudah melamun cukup lama. `
+`Apa dengan kondisi seperti itu kau pikir bisa melindungi warisan? `
+`Kau juga seorang ibu, jadi kuatkan dirimu." `
+`"A-Aku minta maaf..." `
+`"Apa kau bangun terlalu pagi tadi pagi? `
+`Kalau merasa tidak enak badan, sebaiknya jangan memaksakan diri." `
+`"...Tempat tidur di kamar tamu sudah kami siapkan. `
+`Bagaimana kalau kau beristirahat sejenak? `
+`Aku akan mengantarmu." `
+`"Tidak, ...aku tidak apa-apa. `
+`Terima kasih." `
+`"...Ada apa? `
+`Apa ada sesuatu yang kau khawatirkan?" `
+`"......Tidak, tidak juga......" `
+`"Begitu ya...? `
+`Rasanya sejak tadi pikiranmu melayang ke tempat lain. `
+`...Aku bertanya-tanya, apa itu ada hubungannya dengan apa yang sedang kita bicarakan...?" `
+`Mendengar kata-kata itu, semua orang menatap Rosa bersamaan. `
+`Seolah menanggapi, bahu Rosa bergetar. `
+`Tampaknya dugaan Kyrie tidak meleset. `
+`...Rosa pun tidak bisa menyangkalnya... `
+`".........Tidak, umm... `
 `............" `
-`She swallowed whatever it was she had been trying to say and went silent again. `
-`Of course, the other siblings also began to realize that something about her appearance was different from usual... `
-`"What is it? `
-`...You've been weird for a while. `
-`Did you think of something...?" `
-`"We all just swore to remain united, didn't we? `
-`Don't hold back, worryin' by yourself. `
-`We said we'd talk." `
+`Dia menelan kata-kata yang hendak diucapkannya dan kembali terdiam. `
+`Tentu saja, saudara-saudara yang lain juga mulai menyadari bahwa ada sesuatu yang berbeda dari dirinya kali ini... `
+`"Ada apa? `
+`...Kau terlihat aneh sejak tadi. `
+`Apa kau memikirkan sesuatu...?" `
+`"Kita semua baru saja bersumpah untuk tetap bersatu, bukan? `
+`Jangan memendamnya sendirian dan khawatir sendiri. `
+`Kita bilang akan membicarakannya." `
 `"...Rosa, `
-`tell us." `
-`The men pressed her one after the other, and Rosa confessed resignedly and nervously... `
-`The atmosphere made it seem as though she was `
-`confessing to some modest prank, `
-`which had inadvertently brought about a serious situation. `
-`"No, umm... `
-`...Th-This mistress of Father's, this {f:5:Beatrice}... `
-`...I was wondering if she's still... `
-`alive..." `
-`"Huh? `
-`Isn't it obvious that she's alive? `
-`After all, she was able to send that letter to us." `
-`"Whether she's in good health or not is a different story though. `
-`The woman in that portrait must be getting up there in age by now." `
-`"I'd say she's healthy. `
-`People who are crafty when it comes to money stay healthy no matter how old they get! `
-`Her evil plan might even be the best rejuvenating agent. `
+`ceritakan pada kami." `
+`Para pria menekannya satu demi satu, dan akhirnya Rosa mengaku dengan pasrah dan gugup... `
+`Suasananya membuatnya tampak seolah-olah `
+`dia sedang mengaku tentang sebuah keisengan kecil, `
+`yang tanpa disengaja justru memicu situasi serius. `
+`"Tidak, umm... `
+`...P-Perseliran Ayah ini, si {f:5:Beatrice}... `
+`...Aku bertanya-tanya apakah dia masih... `
+`hidup..." `
+`"Hah? `
+`Bukankah sudah jelas kalau dia hidup? `
+`Bagaimanapun juga, dia bisa mengirim surat itu kepada kita." `
+`"Soal apakah kesehatannya masih baik atau tidak itu cerita lain. `
+`Wanita di lukisan itu pasti sudah cukup tua sekarang." `
+`"Menurutku dia sehat-sehat saja. `
+`Orang yang licik soal uang tetap sehat berapa pun usianya! `
+`Rencana jahatnya bahkan mungkin jadi obat awet muda terbaik. `
 `Wahahaha." `
-`"...She shouldn't be... `
-`alive." `
-`"Huh? `
-`...What did you just say?" `
-`"{f:5:Beatrice} is... `
-`...dead... `
-`......I- `
-`I killed her...!" `
-`"Wh-What did you say...?!" `
-`"...Wh-What do you mean, Rosa...?!" `
-`"B-But it wasn't really me who killed her... `
-`...Th-Though I did bring her to a place like that! `
-`...No, I did kill her after all... `
-`I tried to make myself believe it was a dream!! `
-`...But...it wasn't really a dream, was it?! `
-`Which makes this...a letter from {f:5:Beatrice}'s ghost!! `
+`"...Dia seharusnya... `
+`tidak hidup." `
+`"Hah? `
+`...Apa yang barusan kau katakan?" `
+`"{f:5:Beatrice} itu... `
+`...sudah mati... `
+`......A- `
+`Akulah yang membunuhnya...!" `
+`"A-Apa yang kau katakan...?!" `
+`"...A-Apa maksudmu, Rosa...?!" `
+`"T-Tapi bukan aku yang benar-benar membunuhnya... `
+`...M-Meskipun aku memang membawanya ke tempat seperti itu! `
+`...Tidak, tetap saja aku membunuhnya... `
+`Aku berusaha meyakinkan diriku bahwa itu cuma mimpi!! `
+`...Tapi...itu bukan mimpi, kan?! `
+`Yang berarti ini...surat dari arwah {f:5:Beatrice}!! `
 `Uwaaaaaaaaaaaaaaa!!" `
-`It was so sudden that everyone was lost for words. `
-`Rosa kept on talking, unable to stop, holding her head as her hair flew all about... `
-`"Calm yourself...! `
+`Semuanya terjadi terlalu mendadak hingga semua orang kehilangan kata-kata. `
+`Rosa terus bicara tanpa bisa berhenti, memegangi kepalanya sementara rambutnya berantakan ke segala arah... `
+`"Tenangkan dirimu...! `
 `Rosa-san...!" `
-`"I-I have absolutely no clue what's goin' on...! `
-`Already dead? `
-`What do ya mean...?!" `
-`"...I think it means two things. `
-`First, ...its literal meaning. `
-`...And second, it backs up our earlier guess." `
-`"Which means... `
-`......Rosa...has met with {f:5:Beatrice}, right?" `
-`"I-I've never heard Rosa mention anything like this. `
-`...Rosa, when was it? `
-`When could you possibly have met {f:5:Beatrice}?!" `
-`"Long ago! `
-`Long, long, long ago!! `
-`We'd just moved over to the island and I was still young!! `
-`It wasn't my fault, it's not like I killed her...!! `
+`"A-Aku sama sekali tidak mengerti apa yang sedang terjadi...! `
+`Sudah mati? `
+`Apa maksudmu...?!" `
+`"...Kurasa ada dua kemungkinan. `
+`Pertama, ...makna harfiahnya. `
+`...Dan kedua, ini mendukung dugaan kita sebelumnya." `
+`"Yang berarti... `
+`......Rosa...pernah bertemu dengan {f:5:Beatrice}, kan?" `
+`"A-Aku belum pernah mendengar Rosa menyebutkan hal seperti ini. `
+`...Rosa, kapan itu? `
+`Kapan mungkin sekali kau bertemu dengan {f:5:Beatrice}?!" `
+`"Dulu sekali! `
+`Dulu, dulu, sangat lama sekali!! `
+`Saat kita baru saja pindah ke pulau ini dan aku masih kecil!! `
+`Itu bukan salahku, aku tidak membunuhnya...!! `
 `Whaaaaaaaaaaaaa!!" `
-`"...Calm down! `
-`Nobody's blaming you for anything, right? `
-`First, drink some water. `
-`Okay? `
-`Natsuhi-san, the pitcher please." `
-`"Y-Yes. `
-`......Here you go, Rosa-san. `
-`Please, calm yourself..." `
+`"...Tenanglah! `
+`Tidak ada yang menyalahkanmu, kan? `
+`Pertama-tama, minumlah air. `
+`Baik? `
+`Natsuhi-san, tolong teko airnya." `
+`"Y-Ya. `
+`......Ini, Rosa-san. `
+`Tolong, tenangkan dirimu..." `
 `"............" `
-`Until Rosa was able to calm her ragged breathing, ...no one was able to speak a word... `
+`Sampai Rosa berhasil menenangkan napasnya yang terengah-engah, ...tak seorang pun bisa mengucapkan sepatah kata pun... `
+

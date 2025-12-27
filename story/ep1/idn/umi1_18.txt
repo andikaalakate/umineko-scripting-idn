@@ -1,659 +1,659 @@
-`"Hey, everyone, good job finishing "Umineko no Naku Koro ni"! `
-`Man, I still didn't have a clue what was going on when the story ended!" `
-`"So just what happened? `
-`Was that basically the "bad ending", where time runs out before the culprit gets exposed?" `
+`"Hei, semuanya, selamat karena telah menyelesaikan "Umineko no Naku Koro ni"! `
+`Kawan, aku masih tidak menyangka apa yang terjadi setelah cerita berakhir!" `
+`"Lalu apa yang terjadi? `
+`Bukankah itu temasuk "bad ending", dimana Waktu berakhir sebelum pelaku berhasil terungkap?" `
 `"Uu-. `
-`Definitely a bad ending. `
+`Itu bukan bad ending. `
 `Uu-." `
-`"That's right. `
-`{f:5:Beatrice}'s letter, which Maria-chan read on the first day, did tell us in advance to solve the riddle of the epitaph. `
-`We were all so busy trying to protect ourselves and look for the culprit that we didn't even take a shot at it." `
-`"...That's right. `
-`If we had actually tried to solve the riddle, maybe things would have ended differently." `
-`"I wonder about that. `
-`Shannon-chan, you did a good job too! `
-`You don't have to be our waitress and serve tea. `
-`After all, this is a wrap party. `
-`As a group of people who met a horrible fate, let's all get along and lick each other's wounds! `
-`Licklicklick!!" `
-`"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she? `
-`She was such a beautiful character, so I thought she'd definitely survive until the very end, `
-`but she was killed right in the beginning, and on top of that...what was it? `
-`Half of her face was smashed, right? `
-`That's the worst!" `
-`"...That was my role, so, umm, ...there was no way around it..." `
-`"...Nee-san, it's nothing for you to worry about. `
-`Judging by the last epilogue, even Milady and the rest of them met an extremely tragic end." `
-`"Ahahaha, ...it seems so. `
-`I think I remember seeing this horrible picture, kind of like my entire body had been eaten apart and dismembered." `
-`"Speaking of which, don't you think Kanon's last moments were the coolest? `
-`Even though he had the tables turned on him, it was a showdown with the culprit, right? `
-`It's a whole bunch better than our confusing last moments, right?" `
-`"...Though, in the end, I was unable to get a solid hit in." `
-`"Still, ...I think Kanon-kun's death was a big hint. `
-`After all, because of that, the existence of the 19th person was made clear." `
-`"That's right. `
-`At that time, everyone's location was obvious. `
-`So it was impossible for anyone other than some unknown 19th person to kill Kanon." `
+`"Itu benar. `
+`Surat {f:5:Beatrice}, yang dibaca oleh Maria-chan di hari pertama, memberikan kita petunjuk untuk menyelesaikan teka-teki ari epitaf. `
+`Kita terlalu sibuk melindungi diri sendiri dan mencari pelaku yang bahkan kita tidak mencoba melakukannya." `
+`"...Itu benar. `
+`Jika kita benar-benar mencoba menyelesaikan teka-teki, mungkin akan berakhir berbeda." `
+`"Aku penasaran akan hal itu. `
+`Shannon-chan, kamu juga telah bekerja keras! `
+`Kamu tidak perlu menjadi pelayan dan menyajikan teh untuk kami. `
+`Lagipula, ini adalah pesta perpisahan. `
+`Sebagai sekelompok orang yang mengalami nasib tragis, mari kita semua bersatu dan saling menghibur satu sama lain.! `
+`Jilatjilatjilatjilat!!" `
+`"Berbicara tentang nasib yang buruk, Shannon mengalahkan kita semua dengan telak, bukankah begitu? `
+`Dia adalah karakter yang begitu cantik, jadi aku pikir dia pasti akan bertahan sampai akhir, `
+`tetapi dia dibunuh dari awal, dan juga... apa itu? `
+`Setengah wajahnya hancur, kan? `
+`Itu yang terburuk!" `
+`"...Itu peran saya, jadi, umm, ..Tidak ada cara lain untuk menghindarinya...." `
+`"...Nee-san, kamu tidak perlu mengkhawatirkannya. `
+`Menilai dari epilog terakhir, bahkan Nona dan yang lain berakhir tragis." `
+`"Ahahaha, ...kellihatannya begitu. `
+`Aku merasa telah melihat sesuatu yang menyeramkan, seperti seluruh tubuhku telah dipotong-potong dan dimakan setiap bagiannya." `
+`"Ngomong-ngomong, tidakkah kamu berpikir bahwa momen Kanon diakhir merupakan adegan paling keren? `
+`Meskipun dia berada dalam posisi terdesak, itu adalah pertarungan langsung dengan pelaku, kan? `
+`Itu jauh lebih baik daripada momen-momen terakhir kita yang membingungkan, bukan?" `
+`"...Meskipun begitu, pada akhirnya, saya tidak bisa memberikan pukulan yang tepat.” `
+`"Tetap saja, ...aku pikir kematian Kanon-kun adalah petunjuk besar. `
+`Lagipula, karena itu, keberadaan orang ke-19 menjadi jelas." `
+``"Itu benar. `
+`Pada saat itu, lokasi setiap orang telah diketahui. `
+`Jadi akan mustahil untuk siapapun selain orang ke 19 dapat membunuh Kanon." `
 `"Uu-! `
-`I said it was {f:5:Beatrice} from the beginning, over and over. `
+`Aku sudah katakana bahwa itu {f:5:Beatrice}, berkali-kali. `
 `Uu-!" `
-`"...I don't wanna believe it, but that does prove the culprit was a witch calling herself {f:5:Beatrice}." `
-`"That's right... `
-`There were many strange things that happened...that a human couldn't do..." `
-`"Uu-. Only a witch could do things like murdering Aunt Eva in that closed room. `
-`A human couldn't do it! `
+`"...Aku tidak ingin mempercayainya, tapi tu memuktikan bahwa pelaku merupakan seorang penyihir bernama {f:5:Beatrice}." `
+`"Itu benar... `
+`Ada banyak hal aneh yang terjadi...yang tidak bisa dilakukan oleh manusia..." `
+`"Uu-. Hanya penyihir yang bisa membunuh BIbi Eva di ruang tertutup. `
+`Manusia tidak mungkin bisa melakukannya! `
 `Uu-!" `
-`"...Not only is the existence of a 19th person clear, but it's also obvious that this person holds a power that humans can't even imagine." `
-`"In that case, I don't think there's anything wrong with calling this person {f:5:Beatrice}." `
-`"...We probably met at the very end. `
-`...Met with the Golden Witch." `
-`"Like I kept saying, {f:5:Beatrice} exists. `
-`It all went bad because no one ever believed. `
+`"...Bukan hanya keberadan orang ke-19 yang jelas adanya, tetapi juga sangat jelas bahwa orang itu memiliki kekuatan yang tidak bisa dibayangkan oleh manusia." `
+`"JIka demikian , aku rasa tidak ada salahnya memanggil orang tersebut {f:5:Beatrice}." `
+`"...Kita mungkin bertemu dengannya di akhir. `
+`...Bertemu dengan Penyihir Emas." `
+`"Sudah ku bilang, {f:5:Beatrice} itu ada. `
+`Semua jadi berantakan karena tidak ada yang mempercayainya. `
 `Uu-! `
-`Even one of her witch friends says that miracles won't occur if you don't believe. `
+`Bahkan salah satu teman penyihirnya mengatakan bahwa keajaiban tidak akan terjadi jika kamu tidak mempercayainya. `
 `Uu-!" `
-`"That's right. `
-`{f:5:Beatrice}-sama is generous to those who respect her." `
-`"...It seems to me that Maria-sama was never a target of {f:5:Beatrice}-sama's wrath up to the very end, despite the horrible crimes that occurred one after another." `
-`"Well, Maria believed in {f:5:Beatrice} from the very beginning. `
-`...But if that's the case, how do you explain why you and the rest were all killed? You guys believed in {f:5:Beatrice} just as much, right?" `
-`"...{f:5:Beatrice}-sama probably had her reasons." `
-`"If the song of the epitaph represented {f:5:Beatrice}-sama's resurrection ceremony, many sacrifices were needed. `
-`...He must simply have been designated to be one of those." `
-`"...Shannon-chan, you met a horrible end... `
-`At the very least, I wish your death could've been more peaceful and pretty." `
-`"...Umm, well, ...it's not like it hurt... `
-`Anyway, `
-`right now, I'm perfectly fine, so don't worry." `
-`After seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling. `
-`"Well, it feels a bit weird saying this, ...but I was sure this story would fit into the standard mystery genre. `
-`I'm a bit surprised to find out that it's a fantasy. `
-`After all, a Western mansion shut away from the outside world on an isolated island, with an inheritance problem on everyone's minds... It sounds just like a typical mystery novel to me." `
+`"Itu benar. `
+`{f:5:Beatrice}-sama sangat ramah kepadamereka yang menghormatinya." `
+`"...Kelihatannya Maria-sama tidak pernah dijadikan target oleh {f:5:Beatrice}-sama sampai akhir, meskipun kejahatan yang mengerikan terjadi satu per satu." `
+`"Ya, dari awal Maria percaya bahwa {f:5:Beatrice} itu ada. `
+`...Namun jika begitu, bagaimana caramu menjelaskan alasan bahwa kau dan yang lainnya dibunuh? Kalian sangat mempercayai {f:5:Beatrice}, kan?" `
+`"...{f:5:Beatrice}-sama mungkin memiliki suatu alasan." `
+`Jika lagu epitaf melambangkan upacara kebangkitan {f:5:Beatrice}-sama, banyak pengorbanan yang diperlukan. `
+`...Dia pasti telah ditunjuk sebagai salah satu dari mereka." `
+`"...Shannon-chan, kamu berakhir mengerikan... `
+`Setidaknya, aku berharap kematianmu bisa lebih layak dan anggun." `
+`"...Umm, ya, ...bukan berarti itu menyakitkan... `
+`Ngomong-ngomong, `
+`saat ini, saya baik-baik saja, jadi jangan khawatir." `
+`Setelah melihatnya mengusap pipi Shannon, yang telah hancur selama cerita, semua orang tertawa terbahak-bahak, tersenyum. `
+`"Ya, rasanya agak aneh mengatakan ini, ...tapi aku yakin cerita ini akan cocok dengan genre misteri standar. `
+`Aku agak terkejut mengetahui bahwa ini adalah fantasi. `
+`Lagipula, sebuah mansion Barat yang terisolasi di pulau terpencil, dengan masalah warisan yang mengganggu pikiran semua orang... Bagi saya, ini terdengar seperti novel misteri." `
 `"...Uu-. `
-`It's not fantasy! `
-`{f:5:Beatrice} "exists"! `
+`bukan fantasi! `
+`{f:5:Beatrice} itu "ada"! `
 `Uu-." `
-`"...Yes, we understand. `
-`{f:5:Beatrice}-sama does "exist"." `
-`"That's right. `
-`...{f:5:Beatrice}-sama does "exist"." `
-`"...I hate to admit it, but I've got no choice. `
-`Because it's obvious that a 19th person, a witch, was involved...!" `
-`"Many things happened that'd be impossible for humans. `
-`During the story, we tried to deny that in all sorts of ways. `
-`...But now, I can say it for sure. `
-`Each crime, every single one, would've been impossible for a human. `
-`...They'd be impossible to carry out unless it was the witch {f:5:Beatrice} using all of the power magic could provide." `
-`"The culprit was a witch. `
-`That point's perfectly clear. `
-`Heh, long live {f:5:Beatrice}. `
+`"...Ya, kami paham. `
+`{f:5:Beatrice}-sama memang "ada"." `
+`"Itu benar. `
+`...{f:5:Beatrice}-sama itu "ada"." `
+`"...Aku benci mengakuinya, tapi tidak ada pilihan lain. `
+`Karena sudah sangat jelas adanya orang ke-19, dan sang penyihir yang terlibat...!" `
+`"Ada banyak hal yang terjadi yang mustahil dilakukan manusia. `
+`Selama berjalannya cerita, Kami berusaha membantahnya dengan berbagai cara. `
+`...Namun sekarang, aku bisa mengatakannya dengan jelas. `
+`Setiap kejahatan, satu persatu, akan mustahil bagi manusia.. `
+`...Hal itu mustahil dilakukan kecuali jika penyihir {f:5:Beatrice} menggunakan seluruh kekuatan sihir yang tersedia." `
+`"Pelakunya adalah sang penyihir. `
+`Hal itu sangat jelas. `
+`Heh, panjang umur {f:5:Beatrice}. `
 `Hahahahahaha." `
 `"Uu-. `
-`Everyone believed. `
-`I'm so glad. `
+`Semua orang mempercayainya. `
+`Aku senang. `
 `Uu-!" `
-`"...Gods and witches might seem terrifying to people who are frightened of them, `
-`but I think they must be affectionate to those who believe in and respect them." `
-`"...I think you're right." `
-`"So, this murder case game is finally over. `
-`Now's the time to pull ourselves together and try hard to solve the riddle of the epitaph, just like {f:5:Beatrice} said, right?" `
+`"...Dewa dan penyihir mungkin terlihat menakutkan bagi orang-orang yang takut pada mereka, `
+`Tetapi menurut saya, mereka pasti akan bersikap penuh kasih sayang terhadap orang-orang yang percaya dan menghormati mereka.." `
+`"...Aku rasa kau benar." `
+`"Jadi, permainan kasus pembunuhan ini akhirnya berakhir.. `
+`Sekarang saatnya kta untuk besatu dan bekerja sama untuk menyelesaikan teka-teki dari epitaf, seperti yang {f:5:Beatrice} katakan, bukan?" `
 `"Uu-! `
-`I agree! `
-`{f:5:Beatrice} will definitely be happy." `
+`Aku setuju! `
+`{f:5:Beatrice} akan sangat senang!." `
 `"Hahahahaha... `
-`Everyone ignored that letter during the story." `
-`"...Even though it was thrust right in front of us, we almost completely ignored it. `
-`I kind of feel sorry for {f:5:Beatrice}-sama." `
-`"I've got the epitaph written down right here! `
-`Let's all solve it, let's all solve it...!" `
-`"This story probably went wrong ever since that time." `
-`"...That may be so. `
-`Maybe we should've tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice} said." `
-`"Well, it's a little late now. `
-`Even so, let's try solving it now and see if the witch forgives us. `
-`Let's go, let's try to solve the riddle of the epitaph. `
-`...It was something like, "Behold the sweetfish river running through my beloved hometown."..." `
-`Maria put her notebook on the table and opened to the page where the epitaph was written. `
-`Everyone stared at it, getting really into it as they started guessing this and that about the riddle. `
-`Surrounded by the smell of black tea and freshly baked vanilla cookies, they spent the time comfortably and happily... `
-`"......Hold on a second, you guys." `
-`But Battler spoke in a way that cut through the conversation. `
-`His expression looked a little unhappy. `
-`What could he not like about all of this fun? `
-`"...I've been listening to you guys for a while, but... why did you all stop thinking? `
-`Why are you so sure that the witch was behind all this? `
-`...Don't you realize something like that can't exist?" `
-`With just those words, ...the happy atmosphere surrounding the tea party evaporated in an instant. `
-`George and Jessica. `
-`And Shannon and Kanon. `
-`And Maria. `
-`...All of them stared blankly, wondering what in the world Battler was talking about. `
-`Even the foolish, arrogant Battler realized that he hadn't chosen his words well. `
-`"...B-Because, `
-`isn't it clear that these crimes were impossible for a human?" `
-`"Th-That's right, that's right. `
-`...None of the cases would've been possible for a human." `
-`"That's true... `
-`After all, wasn't it full of things that humans couldn't explain...?" `
-`"...I don't understand what you're saying, Battler-sama." `
-`"I-I'm the one who doesn't have a clue what you guys are talking about! `
-`Isn't it obvious that humans committed these crimes? `
-`There's no way something like a witch exists, right...?" `
-`"Th-Then, `
-`...what about when I was killed in the storehouse, and something horrible was done to half of my face? `
-`...If the culprit was human, how could they have accomplished it...?" `
-`"...That's... `
-`...well, `
-`it's hard to imagine how they did something that awful. `
-`But that was the rose garden storehouse, right? `
-`I'm sure there were plenty of weird tools in there. `
-`Let's say they used some electrical tools like a grinder or an electric saw." `
-`"......Th- `
-`That's... `
+`Semua orang mengabaikan surat tersebut selama cerita berlangsung." `
+`"...Padahal sangat jelas bahwa itu ditunjukkan kepada kita, kita hampir mengabaikannya. `
+`Saya merasa bersalah pada {f:5:Beatrice}-sama." `
+`"Aku sudah menulisnya di memo! `
+`Mari kita selesaikan, mari kita selesaikan...!" `
+`"Cerita ini mungkin sudah salah sejak awal." `
+`"...Mungkin saja. `
+`Mungkin dari awal kita harus menyelesaikan teka-teki epitaf, seperti yang {f:5:Beatrice} katakan." `
+`"Ya, itu sudah sangat terlambat. `
+`Meski begitu, mari kita coba menyelesaikannya sekarang dan melihat apakah sang penyihir akan memaafkan kita. `
+`Ayo, mari kita coba selesaikan tka-teki epitaf. `
+`...Itu sesuatu seperti, "Lihatlah sungai ikan manis yang mengalir melalui kota kelahiran tercinta saya."..." `
+`Maria menaruh memo di atas meja dan membuka halaman dimana teka-teki tertulis. `
+`Semua orang melihatnya, mereka mulai terlibat dalam hal itu dan mulai menebak-nebak isi dari teka-teki tersebut.. `
+`Dikelilingi oleh aroma teh hitam dan kue vanilla, mereka menghabiskan waktu dengan senang dan nyaman... `
+`"......Tunggu sebentar, semuanya." `
+`Namun Battler memotong pembicaraan. `
+`Ekspresi dia tidak terlihat senang. `
+`Apa yang membuatnya tidak senang? `
+`"...Aku telah memperhatikan kalian selama ini, tapi... mengapa kalian semua berhenti berpikir? `
+`Mengapa kalian yakin bahwa penyihir menyebabkan semua ini? `
+`...Tidakkah kalian menhyadari bahwa hal seperti itu tidak ada?" `
+`Hanya dengan perkataan itu, ...suasana menyenangkan yang sebelumnya ada lenyap seketika. `
+`George dan Jessica. `
+`Shannon dan Kanon. `
+`Dan Maria. `
+`...Mereka semua menatap kosong, memikirkan apa yang sebenarnya Battler katakan. `
+`Meskipun bodoh, Battler yang arogan menyadari bahwa dia tidak memperhatikan perkataannya dengan baik. `
+`"...K-karena, `
+`bukankah sudah jelas tindakan kriminal tersebut mustahil dilakukan manusia?" `
+`"I-itu benar, itu benar. `
+`...Tidak ada satupun kasus yang mungkin dilakukan manusia." `
+`"Itu benar... `
+`Lagipula, bukankah sudah jelas semua hal tersebut tidak bisa dijelaskan oleh manusia...?" `
+`"...Saya tidak paham apa maksud perkataanmu, Battler-sama." `
+`"J-justru aku yang tidak mengerti dengan semua perkataan kalian! `
+`Bukankah sudah jelas manusia yang melakukan tindak criminal tersebut? `
+`Tidak mungkin sesuatu seperti penyihir itu ada, bukan...?" `
+`"K-kalua begitu, `
+`...bagaimana dengan saat saya terbunuh di gudang, dan sesuatu yang menyeramkan terjadi pada wajah saya? `
+`...Jika pelakunya manusia, bagaimana cara mereka melakukannya...?" `
+`"...Itu... `
+`...ya, `
+sulit membayangkan bagaimana cara mereka melakukan hal sekejam itu. `
+`Namun itu kan gudang dari kebun mawar, bukan? `
+`Aku yakin ada banyak alat yang aneh disana. `
+`Sebut saja mereka menggunakan semacam alat elektrik seperti penggiling dan gergaji listrik." `
+`"......It- `
+`Itu... `
 `umm..." `
-`"Then, Battler, `
-`...how do you explain Grandfather's disappearance from the study when it was a closed room...? `
-`Even though the door was sealed, Grandfather just suddenly disappeared, right...?" `
-`"We talked about that during the story, too. `
-`It's not impossible that Grandfather used some trick to fool the receipt. `
-`It's also possible that he went out the window, fell down, and Aunt Natsuhi locked the window from the inside. `
-`I could think of a bunch of tricks you could use without relying on magic..." `
-`"...Th- `
-`That makes sense, but..." `
-`"In that case, Battler-kun, `
-`how do you explain the way my parents were killed in the guest room? `
-`The door was sealed by the lock and the chain. `
-`Naturally, the window was sealed too. `
-`How do you think a human could've killed my parents?" `
-`"...Well, `
-`...we did have to leave that trick alone during the story. `
-`Anyway, there's at least a good chance the culprit had a key. `
-`And it was possible to look in through the crack of the door that the chain allowed. `
-`...I know this is a stretch, but it's possible some device was used through that crack. `
-`...Like maybe they stuck something through it...?" `
-`"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room... `
-`...Still, there's probably some closed room trick they could've used. `
-`If you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly. `
-`...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough." `
-`"Isn't that argument horribly irrational...? `
-`It's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how..." `
-`"...Why is that ridiculous? `
-`Why did all of you stop thinking? `
-`Even something that looks impossible has to be doable. `
-`Doesn't it always work like that?" `
-`"Battler, you're the one being ridiculous. `
-`...If you think a human could've done it, try explaining how. `
-`You can't, can you?" `
-`"And you're okay with saying the culprit is a witch just because I can't explain it? `
-`With that argument, all the unsolved crimes in the world could be resolved by saying a witch is the culprit!" `
-`"...Battler, you're sidestepping the issue, and you aren't explaining anything. `
-`...We're saying 'A human couldn't have done it. `
-`Therefore the culprit is something that isn't human. `
-`And that something is a witch.' `
-`And yet you keep arbitrarily deciding that witches are impossible, even though you can't explain anything." `
-`"...Kihihihihihihihihihihihi, it's almost like humanity was during the dark ages. `
-`Like those fools who claimed the heavens spun around the earth... `
-`those who said that the earth couldn't be spinning, even though they couldn't explain why." `
-`"......Th-That kind of argument kinda pisses me off. `
-`So this is basically what you're trying to say. `
-`...If I can't explain how a human could do it, `
-`then I must accept that the culprit is a witch?" `
-`"...It's not like we're forcing you to go that far. `
-`We were just wondering on what basis you can say such nonsense." `
-`"N-Nonsense `
+`"Kalau begitu, Battler, `
+`...bagaimana caramu menjelaskan saat Kakek menghilang dari ruang belajar yang tertutup...? `
+`Meskipun pintunya terkunci, Kakek secara tiba-tiba menghilang, bukan...?" `
+`"Kita telah membicarakan topik tersebut selama cerita berjalan. `
+`Tidak mustahil jika Kakek menggunakan semacam trik untuk mengecoh kita. `
+`Dan masih memungkinkan jika dia keluar lewat jendela, jatuh, lalu bibi Natsuhi mengunci pintu dari dalam. `
+`Aku bisa memikirkan banyak trik yang bisa dilakukan tanpa bergantung dengan sihir..." `
+`"...It- `
+`Itu masuk akal, tapi..." `
+`"Kalau begitu, Battler-kun, `
+`bagaimana caramu menjelaskan saat orang tuaku dibunuh di ruang tamu? `
+`Pintu tersebut dikunci dan digembok oleh rantai. `
+`Normalnya, jendela juga ikut terkunci. `
+`Apa kau berpikir manusia dapat membunuh orang tuaku?" `
+`"...Ya, `
+`...memang benar kita mengabaikan trik tersebut selama cerita bejalan. `
+`Bagaimanapun, ada kemungkinan besar pelaku memiliki kunci. `
+`Dan mungkin saja dia melihat ke dalam melalui celah pintu dari rantai. `
+`...Aku tahu ini sedikit berlebihan, tetapi mungkin ada perangkat yang bisa digunakan melalui celah tersebut. `
+`...Mungkin mereka menancapkan sesuatu ke dalamnya...?" `
+`"...Hmmmm, ya, meskipun pintunya dirantai, Ini merupakan faktor penting dalam membuat ruangan tertutup... `
+`...Namun, mungkin saja ada trik ruangan tertutup yang dapat mereka gunakan. `
+`Jika kau melihat beberapa trik ruang tertutup di novel misteri yang ada di perpustakaan, kau mungkin bisa menemukan trik yang sesuai. `
+`...Ngomong-ngomong, saat ini aku tidak bisa memikirkan salah satunya, ...tetapi pernyataanku membuktikan bahwa manusia dapat melakukannya jika dia berusaha keras." `
+`"Bukankah argumenmu terdengar tidak rasional...? `
+`Sedikit konyol untuk menyatakan bahwa itu dapat dilakukkan oleh manusia, meskipun kamu tidak bisa menjelaskan bagaimana caranya..." `
+`"...Mengapa itu konyol? `
+`Mengapa kalian semua berhenti berpikir? `
+`Bahkan sesuatu yang terlihat mustahil pun harus bisa dilakukan. `
+`Bukankah seharusnya seperti itu?" `
+`"Battler, justru kau yang bersikap konyol. `
+`...Jika kau berpikir manusia apat melakukannya, maka jelaskan. `
+`Kau tidak bisa, kan?" `
+`"Dan kau tidak masalah mengatakan bahwa pelakunya adalah penyihir hanya karena aku tidak bisa menjelaskannya? `
+`Dengan argument tersebut, seluruh kasus di dunia ini akan selesai hanya dengan mengatakan bahwa penyihir yang melakukannya!" `
+`"...Battler, kau menghindari topik, dan kau tidak menjelaskan apapun. `
+`...Kami mengatakan bahwa manusia tidak dapat melakukannya. `
+`Maka pelakunya adalah sesuatu yang bukan manusia. `
+`Dan itu adalah penyihir.' `
+`Dan kau terus mengatakan bahwa penyihir itu hal yang mustahil, padahal kau tidak menjelaskan apapun." `
+`"...Kihihihihihihihihihihihi, rasanya seperti manusia dalam zaman kegelapan `
+`Seperti orang bodoh yang menyatakan bahwa surga mengelilingi bumi... `
+`Mereka yang mengatakan bahwa bumi tidak berputar, meskipun mereka tidak bisa menjelaskannya." `
+`"......A-Argumen sperti itu membuatku kesal. `
+`Jadi ini maksudmu. `
+`...Jika aku tidak bisa menjelaskan bahwa manusia dapat melakukannya, `
+`maka aku harus menerima bahwa pelakunya adalah penyihir?" `
+`"...Bukan berarti kami memaksamu sejauh itu. `
+`Kami hanya penasaran atas dasar apa kamu mengatakan hal yang tidak masuk akal." `
+`"T-Tidak masuk akal `
 `......? `
-`...H-Hey, have I really been saying something that weird just now?! `
-`Am I the one who's crazy?! `
-`You guys are really starting to freak me out!" `
+`...H-Hei, memangnya dari awal aku mengatakan hal yang aneh?! `
+`Apakah aku yang selama ini gila?! `
+`Kalian semua mulai membuatku jengkel!" `
 `"...Battler-sama, `
-`when I died in the boiler room, I was killed by a 19th person who shouldn't exist. `
-`...Can you explain how a human could have done that? `
-`At that time, the locations of the 18 were well known. `
-`Even so, I was killed." `
-`"We talked about that in the story as well, right...?! `
-`Kumasawa baa-chan, for example. `
-`She said she followed right after you and headed down to the boiler room, but we can't know for sure whether that was a lie or not. `
-`For all we know, she might've entered the boiler room with you and caught you by surprise! `
-`Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might've been set up to hit you with one of those icepicks." `
-`"After all, the stink of Grandfather's body was coming from the incinerator. `
-`Someone was bound to go and check, so if the culprit just set up a trap beforehand, they could easily have stayed away from that place and used the time of Kanon-kun's death to create an alibi...!" `
-`"...You talk about a trap in the boiler room, ...but what kind of trap could that be?" `
-`"That's right. `
-`Following his death, everyone immediately ran over to the boiler room. `
-`But we didn't find any kind of weird device, did we?!" `
-`"...That is correct. `
-`Battler-sama, what kind of trap could I have been killed with...?" `
-`"Well, `
-`...I don't know that. `
-`...But anyway, they must've used some kind of clever trap, or maybe someone's lying, `
-`...or what about this?! `
-`Kanon-kun, what if the whole thing was just you playacting?! `
-`Th-That's it, you were playacting!! `
-`Aunt Eva and Uncle Hideyoshi were also playacting. `
-`They made the closed room themselves, and were only pretending to be dead!" `
+`saat saya mati di ruang pemanggang, sya dibunuh oleh orang ke-19 yang seharusnya tidak ada. `
+`...Bisakah kamu menjelaskan bagaimana cara manusia melakukannya? `
+`Pada saat itu, lokasi dari 18 orang telah diketahui. `
+`Meski bgitu, saya dibunuh." `
+`"Kita telah membahas itu sebelumnya, bukan...?! `
+`Sbagai contoh Kumasawa baa-chan. `
+`Dia mengatakan bahwa dia mengikuti tepat di belakangmu dan menuju ke ruang pembakaran, tetapi kita tidak tahu apakah dia berbohong atau tidak. `
+`Dari apa yang kita tahu, dia mungkin masuk ke ruang pembakaran bersamamu lalu mengejutkanmu! `
+`Atau mungkin, saat kau memasuki ruang pembakaran, kau mengaktifkan sejenis jebakan, yang mungkin telah disiapkan untuk menyerangmu dengan salah satu dari pisau es tersebut." `
+`"Lagipula, bau busuk dari tubuh Kakek berasal dari pembakaran. `
+`Pasti akan ada orang yang memeriksa, jadi jika pelaku sudah menyiapkan jebakan sebelumnya, mereka bisa dengan mudah menjauhi tempat itu dan memanfaatkan waktu kematian Kanon-kun untuk membuat alibi...!" `
+`"...Kau mengatakan soal jebakan, ...namun jebakan seperti apa yang dimaksud?" `
+`"Itu benar. `
+`Setelah kematiannya, semua orang langsung berlari ke ruang pembakaran. `
+`Namun kita tidak menemukan perangkat aneh apa pun, kan?!" `
+`"...Itu benar. `
+`Battler-sama, jebakan seperti apa yang membuatku terbunuh...?" `
+`"Ya, `
+`...Aku tidak tahu. `
+`...Tapi bagaimanapun, mereka pasti menggunakan jebakan yang cerdik, atau mungkin ada yang berbohong, `
+`...atau bagaimana dengan ini?! `
+`Kanon-kun, Bagaimana jika semuanya hanyalah aktingmu??! `
+`I-Itu dia, kau hanya berakting!! `
+`Bibi Eva dan paman Hideyoshi juga berakting. `
+`Mereka membuat ruang tertutup mereka sendiri, dan berpura-pura mati!" `
 `".........Battler. `
-`.........Has your... head been... `
+`.........Apa... kau... `
 `umm, `
-`...feeling okay...?" `
-`"...Umm, ...should I bring some cold drinks...?" `
-`"D-Don't look at me with those pitying eyes... I'm not saying something that crazy, right? `
-`I'm just pointing out some possibilities you might find if you think of it all as a trick. `
-`Look, isn't it a pretty classic trick in mystery stories to have one of the victims just be playing dead?!" `
-`"A classic trick...?" `
-`"I-In other words, `
-`when Kanon-kun was killed, we knew for sure where all the rest of us were. `
-`And let's assume that Kumasawa baa-chan wasn't lying. `
-`But that's only counting the survivors. `
-`...What if the culprit pretended to be dead and joined a group of real victims so we'd lose track of them, and then acted on their own later? Everything would be explained!" `
-`"......Huh...? `
-`So, are you trying to say that Aunt Eva or one of the others was the culprit...? `
-`But didn't Doctor Nanjo confirm all of their deaths, as a doctor?" `
-`"...That's right. `
-`Doctor Nanjo checked all of the victims. `
-`...Battler-sama, for your theory to work, wouldn't Doctor Nanjo have to be one of the culprits too?" `
-`"Uh, yeah, that's right!! `
-`Once you consider that Doctor Nanjo might've been one of the culprits and faked the proclamation of death, the whole story changes...! `
-`See, that's also a classic trick in mystery novels, isn't it?!!" `
-`"...But Doctor Nanjo was also killed, right...?" `
-`"Umm, ...about that... `
-`...That's right, Doctor Nanjo faked his death! `
-`After all, there wasn't anyone except Doctor Nanjo who could examine corpses properly, and everyone was really confused then anyway. `
-`We didn't have any spare time to check and see if he still had a pulse! `
-`With this theory, any one of the dead people could've been walking around!" `
-`"...I think it would've been hard for the six of us who died in the beginning to do that... `
-`...After all, the shutter was closed, ...and there was a padlock that couldn't have been opened from the inside..." `
-`"That's right. `
-`Mom was holding onto that key. `
-`So was Mom one of the culprits too?" `
-`"...Aaaaaaah, wait a sec... `
-`Maybe it was impossible for the first six, but in the case of Aniki's parents, the door was only locked on the outside. `
-`So they could've opened it from the inside... `
-`...That's right, after we left the room, maybe they jumped out the window and got to the boiler room first! `
-`...I-Is that too much of a stretch...?! `
-`Or maybe Doctor Nanjo made a mistake when examining the corpses?!" `
-`"Look, he said it himself, right? `
-`He said there's a very high probability of making a mistake when examining corpses! `
-`If you disguised it well enough or prepared a substitute body, you could fake your own death!! `
-`Let's leave the method or trick they used for later...and you see, it's not that hard to deny a 19th person existed, right?! `
-`Much less a witch, right? `
-`At least that much is completely impossible!!" `
-`"...I don't know why you've been trying so stubbornly to say that one of us is the culprit. `
-`Kihihihihihihihihihi. In other words, you want to suspect one of your relatives...?" `
-`"That's not it... `
-`It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human. `
-`I'll only accept that it's a witch in desperation, at the very end, after everything else has been disproved." `
-`"There's no way witches exist, right?! `
-`Why has everyone been casually accepting that the culprit was a witch? `
-`I think it's great how your family love makes you hate the thought that someone close to you is a murderer. `
-`But is it okay to let that fool you?! `
-`Don't you want to find the detestable culprit who killed so many people?!" `
-`"Aniki, don't you want to avenge your parents?! `
-`Jessica, don't you want to avenge Kanon-kun, and Kanon-kun, don't you want to avenge Shannon-chan?! `
-`Shannon-chan, you should at least want to know who it was that killed you. `
-`Why has everyone totally surrendered and decided that the culprit was a witch?! `
-`What's wrong with all of you?!" `
-`The foolish and short-tempered Battler tried to force his ignorance on the others and yelled at them. `
-`...However, everyone just looked at him pityingly, silently watching over him. `
-`At that time, the wise Maria laughed and pointed out Battler's mistake. `
+`...baik-baik saja...?" `
+`"...Umm, ...apakah saya perlu membawa minuman dingin...?" `
+`"J-Jangan lihat aku dengan mata yang menyedihkan... Aku tidak mengatakan suatu hal yang gila, kan? `
+`Aku hanya menyempitkan kemungkinan yang bisa ditemukan jika memikirkan sebuah trik. `
+`Lihat, bukankah itu trik klasik dalam cerita misteri untuk membuat salah satu korban berpura-pura mati?!" `
+`"Trik klasik...?" `
+`"D-Dengan kata lain, `
+`saat Kanon-kun dibunuh, kita semua tahu dimana keberadaan orang lain. `
+`Dan asumsikan jika Kumasawa baa-chan berbohong. `
+`Tetapi itu hanya menghitung orang yang bertahan hidup. `
+`...Bagaimana jika pelaku berpura-pura mati lalu menyamar diantara korban agar kita kehilangan jejaknya, kemudian dia berakting? Ini menjelaskan semuanya!" `
+`"......Hah...? `
+`Jadi, kau ingin mengatakan bahwa bibi Eva atau salah satu dari korban adalah pelakunya...? `
+`Namun bukankah Dokter Nanjo mengonfirmasi seluruh kematiannya?" `
+`"...Itu benar. `
+`Dokter Nanjo memeriksa seluruh korban. `
+`...Battler-sama, jika teorimu benar, bukankah Dokter Nanjo akan menjadi salah satu pelaku juga?" `
+`"Oh, ya, itu benar!! `
+`Setelah mempertimbangkan bahwa Dokter Nanjo mungkin merupakan salah satu pelaku dan memalsukan kematiannya, seluruh cerita akan berbeda....! `
+`Kau lihat? itu juga merupakan trik klasik yang ada di novel misteri, kan?!!" `
+`"...Tapi Dokter Nanjo juga dibunuh, kan...?" `
+`"Emm, ...tentang itu... `
+`...Itu dia, Dokter Nanjo memalsukan kematiannya! `
+`Lagipula, Tidak ada orang lain selain Dokter Nanjo yang bisa memeriksa mayat dengan benar, dan saat itu semua orang benar-benar bingung. `
+`Kita tidak punya waktu untuk memeriksa apakah dia masih berdetak atau tidak! `
+`Dengan teori ini, salah satu dari orang-orang yang sudah mati bisa saja berkeliaran!" `
+`"...Saya pikir akan sulit bagi keenam dari kami yang mati di awal untuk melakukan itu... `
+`...Lagi pula, tirainya tertutup, ...dan ada gembok yang tidak bisa dibuka dari dalam..." `
+`"Itu benar. `
+`Saat itu ibu yang memegang kunci. `
+`Jadi ibu juga salah satu dari pelaku?" `
+`"...Aaaaaaah, tunggu sebentar... `
+`Mungkin mustahil untuk keenam korban di awal, tapi di kasus orang tua Aniki, pintu hanya dikunci dari luar. `
+`Jadi mereka bisa membukanya dari dalam... `
+`...Itu dia, setelah kita keluar ruangan,mungkin pertama mereka melompat dari jendela menuju ruang pembakaran! `
+`...A-Apakah itu terlalu berlebihan...?! `
+`Atau mungkin Dokter Nnjo melakukan kesalahan aat memeriksa mayat?!" `
+`"Lihat, dia mengatakannya sendiri, bukan? `
+`Dia mengatakan bahwa ada kemungkinan dia salah dalam memeriksa mayat! `
+`Jika kau menyamarkannya dengan baik atau menyiapkan tubuh pengganti, kau bisa memalsukan kematianmu sendiri!! `
+`Mari kita kesampungkan metode atau trik yang mereka gunakan... dan lihatlah, tidak sulit untuk menyangkal bahwa orang ke-19 itu ada, bukan?! `
+`Bukan penyihir, kan? `
+`Setidaknya hanya itu yang mustahil!!" `
+`"...Aku tidak tahu mengapa kamu begitu kers kepala mengatakan bahwa salah satu diantara kita adalah pelakunhya. `
+`Kihihihihihihihihihi. Dengan kata lain, kau ingin mencurigai salah satu saudaramu...?" `
+`"Bukan itu maksudku... `
+`Hanya saja, uh, aku tidak bisa menerima adanya orang ke-19...dan meskipun salah satunya melakukan hal tersebut, Saku rasa kita harus menyusun argumen dari sudut pandang bahwa pelakunya adalah manusia. `
+`Aku hanya akan menerima bahwa itu adalah penyihir jika sudah putus asa, pada saat terakhir, setelah semua hal lain telah dibantah." `
+`"Tidak mungkin penyihir itu ada, kan?! `
+`Kenapa kalian dengan enteng menerima bahwa pelakunya adalah penyihir? `
+`Aku rasa itu hal yang baik untuk membenci pemikiran bahwa salah satu dari orang terdekat kalian adalah pembunuh. `
+`Tapi apakah tidak masalah kalian dibodohi?! `
+`Tidakkah kalian ingin menemukan pelaku keji yang telah membunuh begitu banyak orang?!" `
+`"Aniki, tidakkah kamu ingin membalas dendam orang tuamu?! `
+`Jessica, tidakkah kamu ingin membalas dendam Kanon-kun, dan Kanon-kun, tidakkah kamu ingin membalaskan dendam Shannon-chan?! `
+`Shannon-chan, stidknya kamu harus tahu siapa yang membunuhmu. `
+`Kenapa semua orang langsung menyerah dan memutuskan bahwa pelakunya adalah penyihir?! `
+`Apa yang slah dengan kalian semua?!" `
+`Battler yang bodoh dan pemarah mencoba memaksakan ketidaktahuannya pada orang lain dan berteriak pada mereka. `
+`...Namun, semua orang hanya menatapnya dengan iba, diam-diam mengasihaninya. `
+`Pada saat itu, Maria tertawa dan menunjuk kesalahan Battler. `
 `"...Kihihihihihihihihi. `
-`...I'm shocked. `
-`...All I see is you repeating this nonsense, thinking you've figured something out, Battler. `
-`...So? `
-`What's next? `
-`How would a human do it? `
-`In practical terms, I mean? `
-`I imagine you'll say "I just can't think of anything now" or "with some kind of device." ...Using abstract words to run away and evade the topic." `
-`"...What I really want to know, Battler, is this. `
-`Why don't you believe in {f:5:Beatrice}? `
-`She exists, so why don't you believe?" `
-`"Because she doesn't "exist"! `
-`Witches don't "exist"!! `
-`There's no way!!" `
-`...It was almost like a spoiled child who just doesn't want to accept something. `
-`The pitying gazes quietly closed in around Battler, but they didn't reach his stubborn heart. `
-`"...You realize that you're acting just like a spoiled brat throwing a tantrum, right?" `
+`...Aku terkejut. `
+`...Semua yang ku dengar hanyalah omong kosong, seakan-akan kamu telah menemukan sesuatu, Battler. `
+`...Jadi? `
+`Apa selanjutnya? `
+`Bagaimana manusia dapat melakukannya? `
+`Maksudku, secara praktik? `
+`Aku tebak kamu akan mengatakan "aku tidak bisa memikirkannya ekarang" atau "dengan semacam alat". ...Menggunakan kata-kata abstrak untuk menghindari topik." `
+`"...Yang sangat ingin tah, Battler. `
+`Mengapa kamu tidak percaya pada {f:5:Beatrice}? `
+`Dia itu ada, jadi mengapa kamu tidak percaya?" `
+`"Karena dia tidak "ada"! `
+`Penyihir itu tidak "ada"!! `
+`Itu mustahil!!" `
+`...Itu hampir SAMA seperti anak manja yang tidak mau menerima sesuatu. `
+`Pandangan iba perlahan-lahan mengelilingi Battler, tapi tidak sampai ke hatinya yang keras kepala. `
+`"...Kamu sadar bahwa kamu bertingkah seperti anak manja yang sedang merajuk, kan?” `
 `"...Battler-sama, `
-`I understand your feelings, but..." `
-`"...{f:5:Beatrice} does "exist"." `
-`"Battler-kun, ...why don't you believe? `
-`Even though there's so much proof." `
-`"I don't accept the argument that the witch must've been behind everything just because I can't explain it. `
-`Does this mean that if you don't know how a light bulb shines, then magic is the cause? `
-`That's wrong, isn't it?! `
-`There's nothing that can't be explained without magic!! `
-`All of this about witches and magic is just abdication of thought! `
-`You just surrendered and gave up because you don't understand what happened! `
-`Isn't that right?!" `
+`Saya mengerti perasaanmu, tetapi..." `
+`"...{f:5:Beatrice} memang "ada"." `
+`"Battler-kun, ...menapa kamu tidak mempercayainya? `
+`Padahal sudah banyak bukti yang ada." `
+`"Aku tidak menerima rgumen ang mengatakan bahwa penyihir dalah dalang dibalik emua ini hanya arena aku tidak bisa menjelaskannya. `
+`Apakah berarti jika kamu tidak bisa menjelaskan mengapa lampu pijar bisa bersinar, maka itu ulah dari sihir? `
+`Itu tidak benar, bukan?! `
+`Tidak ada yang tidak bisa dijelaskan tanpa sihir!! `
+`Semua hal tentang sihir dan penyihir hanyalah cara berpikir yang putus asa! `
+`Kalian hanya menyerah karena kalian tidak tahu apa yang sebenarnya terjadi! `
+`Bukankah begitu?!" `
 `"......Ki, hihihihihihihihihihihi. `
-`Well, `
-`...unsurprisingly, it looks like you alone won't believe no matter what, Battler. `
-`...If even a single person doesn't believe, the "miracle" won't occur. `
-`...So, if you don't rethink your ignorant theories, the miracle...the magic won't be completed." `
+`Ya, `
+`...Tidak mengherankan, sepertinya kamu tidk akan percaya apapun yang terjadi, Battler. `
+`...Bahkan jika satu orang tidak mempercayainya, "Keajaiban" tidak akan terjadi.. `
+`...Jadi, jika kau tidak berpikir kembali tentang teorimu, keajaiban...sihir tidak akan berhasil." `
 `"Hehe... `
-`Now I see. `
-`...I finally figured it out. `
-`...So, in other words, you guys are trying to force me to say the witch exists, right? `
-`A lie that everyone accepts becomes "the truth". `
-`...Is that what this is all about?! `
-`...I'm so sorry. `
-`I'm so sorry I keep going on about this, but what you're doing is all useless. I refuse. `
-`{i:You guys are all pressing me, and that's why it's all useless}. `
-`"......Why?" `
-`"Sorry, but why don't you let me spin the chessboard around one last time...? `
-`If you want to force me to accept that there's a witch, there's a really easy way. `
-`...And it's not the indirect way of saying "it must be a witch because humans couldn't have done it"! `
-`All you have to do is show me a witch doing it with magic." `
-`"Furthermore, what Maria said earlier is what'll really dig her grave. `
-`...You said that if even one person doesn't believe, a "miracle" won't occur." `
-`"But real miracles happen whether people believe in them or not! `
-`Even if I alone don't believe!! `
-`So any miracles or magic or witches that exist only because I believe in them are downright lies!!" `
+`Sekarang aku paham. `
+`...Akhirnya aku mengerti. `
+`...Dengan kata lain, kalian mencoba memaksaku menyatakan bahwa penyihir itu ada, bukan? `
+`Kebohongan yang diterima banyak orang akan menjadi "kenyataan". `
+`...Itu maksudnya kan?! `
+`...Maafkan aku. `
+`Maafkan aku jika aku terus seperti ini, tapi semua yang kalian lakukan itu sia-sia. aku menolaknya. `
+`{i:Kalian semua terus mendesakku, dan itulah sebabnya semuanya jadi sia-sia}. `
+`"......Mengapa?" `
+`"Maaf, tapi mengapa kita tidak memutar papan permainan sekali lagi...? `
+`Jika kamu ingin memaksaku menerima adanya penyihir, ada cara yang mudah. `
+`...Dan itu bukan seperti "itu pasti perbuatan penyihir karena manusia mustahil dapat melakukannya"! `
+`Hal yang perlu kalian tunjukkan ialah saat penyihir melakukannya dengan sihir." `
+`"selain itu, apa yang Maria katakan sebelumnya malah membuatnya menggali kuburan sendiri. `
+`...Kau mengatakan bahwa jika satu orang tidak mempercayainya, "keajaiban" tidaak kan terjadi." `
+`"Tetapi keajaiban yang sesungguhnya terjadi, terlepas dari apakah orang percaya atau tidak! `
+`Bahkan jika aku sendiri tidak percaya!! `
+`Jadi, segala keajaiban, sihir, atau penyihir yang ada hanya karena aku mempercayainya adalah kebohongan belaka!!" `
 `"........." `
-`The uneasy mood following Battler's ignorant rant...... `
-`was blown away by a very soft and light laugh. `
-`Whose laugh...? `
-`Battler was surprised. He had never heard that voice before. `
-`When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed that they had suddenly gone respectfully silent. `
+`Suasana yang tegang setelah ocehan bodoh dari Battler...... `
+`dihilangkan oleh tawa yang sangat lembut dan ringan. `
+`Siapa yang tertawa...? `
+`Battler terkejut. Dia belum pernah mendengar tawa tersebut sebelumnya. `
+`Saat dia melihat ke George dan Jessica, Shannon dan Kanon dan Maria, dia menyadari bahwa mereka semua tiba-tiba terdiam. `
 `"......{f:5:Beatrice}." `
-`"...How amusing. `
-`...I haven't met such a charming human for quite some time." `
-`"Wh‐ `
-`Who... `
-`...are you...?" `
-`"......So you don't even know the host of the tea party to which you were invited. `
-`...How amusing indeed. `
-`*cackle*cackle*...!" `
-`"...This is {f:5:Beatrice}-sama, the Golden Witch who has lived for a thousand years." `
-`"It is an honor to be graced with your presence, {f:5:Beatrice}-sama..." `
-`"...Please forgive Battler-kun's ranting." `
-`"Th-This guy's just stubborn, and, umm, he still doesn't understand the situation he's in...!" `
-`"*cackle*cackle*cackle*... `
-`What a treat this is. `
-`...Most witches get tired of living after the first thousand years. `
-`How nice it is to meet a man with backbone such as yourself every once in a while." `
-`"...It is quite an honor to be present when {f:5:Beatrice} shows herself, Battler." `
+`"...Betapa lucunya. `
+`...Sudah lama aku tidak bertemu dengan manusia yang menarik." `
+`"Si‐ `
+`Siapa... `
+`...kamu...?" `
+`"......Jadi kamu bahkan tidak tahu siapa tuan rumah dar pesta teh yang kamu kunjungi. `
+`...Sungguh konyol. `
+`*terkekeh-kekeh*...!" `
+`"...Beliau adalah {f:5:Beatrice}-sama, Penyihir Emas yang telah hidup selama ribuan tahun." `
+`"Sebuah kehormata bisa bertemu dengan sosokmu, {f:5:Beatrice}-sama..." `
+`"...Tolong maafkan sikap Battler-kun yang tidak sopan." `
+`"O-Orang ini hanya keras kepala, dan, umm, dia tidak terlalu mengerti dengan situasi saat ini...!" `
+`"*terkekeh-kekeh*... `
+`Betapa menyenangkannya ini. `
+`...Kebanyakan para penyihir bosan untuk hidup setelah seribu tahun lamanya. `
+`Betapa menyenangkannya bisa bertemu dengan pria yang berprinsip sepertimu." `
+`"...Sungguh suatu kehormatan dapat hadir saat {f:5:Beatrice} menampakkan diri, Battler.” `
 `"...Heh, `
 `...heheheheh!! `
-`How... `
-`...astonishing. `
-`...Are you really that desperate to make me believe that a witch... `
-`that a 19th person is the culprit...? `
-`This is starting to get interesting...! `
-`And it's all useless...!! `
-`You must be the illusion that Maria and the others call the witch, {f:5:Beatrice}." `
-`"...And, you'll only be allowed to exist if everyone believes it. `
-`...You have that kind of a half-existence, right? `
-`That's why you want to make me believe too. `
-`{i:You can't exist because I alone don't believe in you~}. `
-`...Isn't that right?!" `
-`"...Your powers of comprehension aren't bad for a mere commoner who knows nothing of magic. `
-`...Yes, it seems you were born with a strong magic-resisting power. `
-`...You're a natural enemy of us witches. `
-`...No matter how much we turn your world upside down, `
-`{i:you never believe in us.} `
-`{i:Therefore, the magic won't succeed}. `
-`...I accept that attitude of yours. `
-`*cackle*cackle*...!" `
-`"I've got no clue what you're saying, ihihi! `
-`It's very kind of you to go to all of the trouble of showing yourself to us, `
-`but I don't believe you exist in the slightest." `
-`"It's true that many strange things happened during those two days. `
-`Like Maria said earlier, even though I think all the tricks could be explained, I still can't lay out the practical details of each one. `
-`However, that doesn't mean I'll surrender." `
-`"I'm different from the rest of them, got it? `
-`I'll never accept that it was the work of a witch just because I can't explain it." `
-`"...This keeps getting more amusing. `
-`Making you surrender will be worth my while... `
-`...You're just the kind of man I'd like to force into praising my name...... `
-`I'd love to try making a man like you kiss my toes. `
-`...*cackle*cackle*cackle*!" `
-`"If you want to talk nonsense, talk all you want...! `
-`I deny you exist. `
-`All of the events can be explained with "human tricks"...!! `
-`There's no room for even a speck of magic or witches!!" `
-`"Wonderful! `
-`...What a perfect way to divert oneself from a thousand years of boredom. `
-`Then let me ask you. `
-`A short while ago, you said that using the crack in the door would be sufficient to kill Eva and Hideyoshi, right...? `
-`Explain how they could have been killed using some human trick." `
+`Betapa... `
+`...mengejutkan. `
+`...Apakah kamu benar-benar sebegitu putus asanya ingin membuatku percaya bahwa seorang penyihir... `
+`bahwa orang ke-19 adalah pelakunya...? `
+`Ini mulai menarik...! `
+`Dan semuanya sia-sia...!! `
+`Kau pasti ilusi yang Maria dan yang lain sebut sebagai penyihir, {f:5:Beatrice}." `
+`"...Dan, kau hanya akan muncul jika semua orang mempercayainya. `
+`...Kau memiliki jenis keberadaan yang setengah-setengah, bukan? `
+`Itulah mengapa kau ingin membuatku mempercayainya. `
+`{i:Kau tidak bisa hadir karena aku sendiri tidak mempercayainya~}. `
+`...Bukankah begitu?!" `
+`"...Kemampuan pemahamanmu tidak buruk untuk seorang rakyat biasa yang tidak tahu apa-apa tentang sihir. `
+`...Ya, sepertinya kamu dilahirkan dengan kekuatan menyangkal sihir yang kuat. `
+`...Kau adalah musuh alami bagi kami para penyihir. `
+`...Tidak peduli seberapa keras kami mengacaukan duniamu, `
+`{i:kau tidak akan pernah mempercayai kami.} `
+`{i:selain itu, Sihir itu tidak akan berhasil}. `
+`...Aku menerima prilaku eperti itu `
+`*terkekeh-kekeh*...!" `
+`"Aku tidak memngerti apa yang kau katakan, ihihi! `
+`Sungguh baik sekali kau bersusah payah menampakkan diri kepada kami, `
+`tetapi saku sama sekali tidak percaya kehadiranmu." `
+`"Memang benar banyak hal aneh terjadi selama dua hari itu. `
+`Seperti yang Maria katakan tadi, meskipun saku pikir semua trik itu bisa dijelaskan, aku tetap tidak bisa menjelaskan detailnya. `
+`Namun, bukan berarti aku akan menyerah." `
+`"Aku berbeda dari yang lain, paham? `
+`Aku tidak akan pernah menerima bahwa semua tu dilakukan oleh penyihir hanya karena aku tidak isa menjelaskannya." `
+`"...Ini menjadi lebih menarik. `
+`Membuatmu menyerah akan membuatku sangat puas... `
+`...Kamu seperti pria yang ingin aku paksa untuk memuji namaku...... `
+`Aku ingin mencoba membuat pria sepertimu mencium jari-jari kakiku. `
+`...*terkekeh-kekeh*!" `
+`"Jika kau ingin berbicara omong kosong, bicaralah sesukamu...! `
+`Aku menolak keberadaanmu. `
+`Selruh peristiwa dapat dijelaskan oleh "trik manusia"...!! `
+`Tidak ada tempat bagi sihir ataupun penyihir yang melakukannya!!" `
+`"Luar biasa! `
+`...Betapa cocoknya hal ini untuk menghilangkan kebosananku selama seribu tahun. `
+`Kalau begitu izinkan aku bertanya. `
+`Beberapa saat lalu, kau bilang bahwa menggunakan celah di pintu sudah cukup untuk membunuh Eva dan Hideyoshi, kan...? `
+`Jelaskan bagaimana mereka bisa dibunuh oleh trik manusia." `
 `"...Heh. `
-`Suddenly jumping right into the toughest part, are you? `
-`...Does that mean this is the trick you're proudest of? `
-`Miss {i:Real Culprit? `
-`With a shake of her golden pipe, `
-`gentle, multi-colored smoke trailed out of the end. `
-`The smoke quickly obscured their surroundings, `
-`...and they were suddenly in the hallway of the mansion. `
-`The door in front of them, slightly opened but secured by the chain, was... `
-`That's right, it's the door to the room where Eva and Hideyoshi were killed. `
-`"...N-Nice trick..." `
-`"Very well. `
-`Show me what you would do through this small crack, Battler." `
+`Tiba-tiba langsung ke poin utama, ya? `
+`...Apakah itu berarti trik yang kau gunakan sangat kau banggakan? `
+`Nyonya {i:pelaku sesungguhnya? `
+`Dengan goyangan pipa emasnya, `
+`asap lembut berwarna-warni keluar dari ujungnya. `
+`Asap itu dengan cepat menyelimuti sekitar mereka, `
+`...dan mereka tiba-tiba berada di lorong mansion. `
+`Pintu di depan mereka, sedikit terbuka tapi terkunci dengan rantai, itu karena... `
+`Itu benar, itu adalah  pintu menuju ruangan dimana Eva dan Hideyoshi dibunuh. `
+`"...T-trik yang cemerlang..." `
+`"Baiklah. `
+`Tunjukkan padaku apa yang bisa kamu lakukan melalui celah kecil ini, Battler." `
 `"Erk, ... `
-`...th-they probably had some device to shoot those "icepicks". `
-`If they used that..." `
-`"How would they reach Eva over on the bed when you can't see that far through this crack? `
-`...And how would they reach Hideyoshi, in the bathroom with the door shut...?" `
-`"......Damn... `
-`...There's a crack... `
-`There should be some way..." `
-`"*cackle*cackle* `
-`If you can't think of one, allow me." `
+`...m-mereka mjungkin memiliki semacam alat yang dapat menembakkan "paku es". `
+`Jika mereka menggunakan itu..." `
+`"Bagaimana mereka dapat membidikh Eva yang berada di atas kasur sdangkan kamu tidak bisa melihatnya melalui celah? `
+`...Dan bagaimana mereka membidik Hideyoshi, yang berada di kamar mandi dengan pintu tertutup...?" `
+`"......Sial... `
+`...Ada semacam retakan... `
+`Pasti ada jalannya..." `
+`"*terkekeh-kekeh* `
+`Jika kau tidak bisa menemukannya, izinkan aku." `
 `"...Oh? `
-`How would a witch do it...? `
-`C'mon, let's see your little trick..." `
-`"...Battler, you're being rude to {f:5:Beatrice}..." `
-`"How nice, how nice. `
-`What a charming man. `
-`...That will make it even more fun to force him into submission." `
+`Bagaimana penyihir apat melakukannya...? `
+`Ayo, tunjukkan trik murahanmu..." `
+`"...Battler, kau bersikap tidak sopan terhadap {f:5:Beatrice}..." `
+`"Bagus, bagus. `
+`Sungguh pria yang menarik. `
+`...Itu akan membuatnya semakin menyenangkan untuk memaksanya tunduk." `
 `"...Heh! `
-`You really wanna make me kiss your toes that much...?! `
-`Only if I surrender! `
-`But watch... I'll definitely expose this trick, and then I'll make you kiss my ass instead!" `
-`"...*cackle* `
-`What a delightful man. `
-`I'll remember that promise. `
-`...Weak witches kiss the behinds of demons to gain power. `
-`Because there's no more humiliating oath. `
-`Just being told that makes me want to force you into surrender. `
-`...*cackle*cackle*...!" `
-`Paying no mind to Battler's worthless ranting, {f:5:Beatrice} once again shook the golden pipe. `
-`...That's right, that golden pipe was her precious magic cane. `
-`"Come, arise, children. `
-`I am the guide of Purgatory. `
-`Forgive the deadly sins and hold the Seven Stakes." `
-`Guided by those magic words, which sounded like a command, seven stakes gathered. `
-`...They were the stakes of the seven demons symbolizing the deadly sins of sinful people. `
-`"Beelzebub and Asmodeus. `
-`Come, forgive the sins. `
-`Release the spirits of the sinners...!" `
-`"Wha...?!" `
-`The picks of Beelzebub and Asmodeus responded to {f:5:Beatrice}'s call. `
-`The two stakes of the demons were sucked in through the crack of the door, like billiard balls struck by a cue stick. `
-`Then, several scattered noises refracted through the wall, making a sound like a woodpecker. `
-`And at the end, a pleasant sound could be heard. `
-`...It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood. `
-`It was the sound of the two picks burying themselves deep into Eva's and Hideyoshi's foreheads. `
-`"...Right down the middle. `
-`Want to see...?" `
-`They'd definitely heard two sounds like a pair of foreheads being split open. `
-`Battler wasn't permitted to see it, since he was on the other side of the door, `
-`but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before. `
-`"...Y-You moron... `
-`...Th-That's insane...! `
-`Y-You think you can just kill them like that?!!!" `
-`"I can kill them. `
-`...I can kill them just like this...! `
-`*cackle*cackle*cackle*!" `
-`Suddenly, they were no longer in the hall, but seated at the tea party they had started from. `
-`...Everyone but Battler was sitting meekly, ...but Kanon was moaning, fresh blood dangling from his mouth. `
-`What a rude thing to do at a tea party. `
-`Satan's stake was buried deep into Kanon's chest. `
+`Kau sangat ingin membuatku mencium jari kakimu ya...?! `
+`Itu hanya akan berlaku jika aku menyerah! `
+`Tapi lihatlah... aku akan membongkar triknya, dan membuatmu mencium pantatku sebagai gantinya!" `
+`"...*terkekeh* `
+`Sungguh pria yang bersemangat. `
+`Aku akan mengingat janji itu. `
+`...Penyihir yang lemah mencium bokong iblis demi mendapatkan kekuatan. `
+`Karena tidak ada sumpah yang lebih memalukan. `
+`Hanya dengan mendengarnya saja, aku semaki ingin memaksamu menyerah. `
+`...*terkekeh-kekeh*...!" `
+`Tanpa menghiraukan ocehan tak berguna Battler, {f:5:Beatrice} sekali lagi mengguncang pipa emas itu. `
+`...Benar, pipa emas itu adalah tongkat sihir kesayangannya. `
+`"Ayo, bangunlah, anak-anak. `
+`Saya adalah pemandu Api Penyucian. `
+`Ampuni dosa-dosa mematikan dan peganglah Tujuh Tombak." `
+`Dipandu oleh kata-kata ajaib itu, yang terdengar seperti perintah, tujuh tombak berkumpul. `
+`...Mereka adalah pilar-pilar dari tujuh iblis yang melambangkan dosa-dosa mematikan dari orang-orang berdosa. `
+`"Beelzebub dan Asmodeus. `
+`Datanglah, ampuni dosa-dosa. `
+`Bebaskan roh-roh orang berdosa...!" `
+`"Apa...?!" `
+`Beelzebub dan Asmodeus menanggapi panggilan {f:5:Beatrice}. `
+`Kedua tombak iblis itu tersedot melalui celah pintu, seperti bola biliar yang dipukul oleh tongkat biliar. `
+`Kemudian, beberapa suara yang tersebar memantul melalui dinding, menghasilkan suara seperti burung pelatuk. `
+`Dan pada akhirnya, terdengar suara yang menyenangkan. `
+`...Itu adalah suara kecil yang memuaskan, seperti suara yang terdengar saat seseorang memotong kayu bakar dan kapak yang jatuh dengan rapi dan mudah menembus kayu. `
+`Itu adalah suara dua paku yang menancap ke dalam dahi Eva dan Hideyoshi. `
+`"...Tepat di tengah. `
+`Ingin melihatnya...?" `
+`Mereka pasti mendengar dua suara seperti dua dahi yang terbelah. `
+`Battler tidak diperbolehkan melihatnya, karena dia berada di sisi lain pintu, `
+`tetapi kedua orang itu telah mati lagi, dan kali ini, mereka terbaring tidak lebih dari satu inci dari tempat mereka terbaring sebelumnya, dengan semburan darah yang persis sama seperti sebelumnya. `
+`"...K-Kau bodoh... `
+`...I-Itu gila...! `
+`K-kau pikir kau bisa membunuh mereka begitu saja?!!!" `
+`"Aku bisa membunuh mereka. `
+`...Aku bsa membunuh mereka seperti ini...! `
+`*terkekeh-kekeh*!" `
+`Tiba-tiba, mereka tidak lagi berada di lorong, tetapi duduk di pesta teh yang mereka mulai. `
+`...Semua orang kecuali Battler duduk dengan patuh, ...tetapi Kanon mengerang, darah segar menggantung dari mulutnya. `
+`Betapa kasarnya perbuatan itu di sebuah pesta teh. `
+`Tongkat Satan tertancap di dalam dada Kanon. `
 `"..................u... `
 `...gah `
 `..." `
 `"K-Kanon-kun, `
 `...Kanon-kun!! `
-`...D-Damn iiiiiiiiiit!!" `
-`Battler was the only one getting agitated. `
-`George, Jessica, Shannon...everyone else was meekly hanging their heads like students being yelled at by their teacher. `
-`"...Kanon was captivated by a trifling anger and tried to disturb my banquet. `
-`...Being easily captivated by anger is your deadly sin. `
-`Cleanse yourself, repent, and do it over." `
+`...S-sialaaaaaaaaaaaaan!!" `
+`Battler satu-satunya orang yang gelisah. `
+`George, Jessica, Shannon...Semua orang dengan patuh menundukkan kepala mereka seperti siswa yang dimarahi oleh gurunya. `
+`"...Kanon terpesona oleh amarah yang sepele dan mencoba mengganggu pestaku. `
+`...Mudah terpesona oleh amarah adalah dosa mematikanmu. `
+`Bersihkan dirimu, bertobatlah, dan ulangi kembali." `
 `"......{f:5:at} `
 `...{f:5:rice}... `
 `...sa...ma..." `
 `"B-{f:5:Beatrice}-sama, `
-`...please, forgive him... `
-`I think Kanon-kun has repented enough...!" `
-`"Wonderful. `
-`I am generous to those who respect me. `
-`...*cackle*cackle*...!" `
-`"Don't screw with me!!! `
-`Do you think I'll accept your existence because of this cheap act?! `
-`Like hell you're a thousand-year-old witch! `
-`Your tricks aren't a thousand years old, they're just the sum of a century of classic tricks from the mystery genre! `
-`There's no such thing as magic!! `
-`Definitely not!! `
-`All of the crimes can be explained with "human tricks"!!" `
-`"*cackle*cackle*! `
-`You would explain my thousand years with a hundred years of humans...? `
-`Good, good, that's why I like you...!" `
-`"...Foolish Battler... `
+`...tolong, ampuni dia... `
+`Saya rasa Kanon-kun sudah cukup menerima dosanya...!" `
+`"Baiklah. `
+`AKu berbaik hati kepada mereka yang menghormatiku. `
+`...*terkekeh-kekeh*...!" `
+`"Jangan mempermainkanku!!! `
+`Kau pikir aku akan menerima keberadaanmu hanya dngan akting murahan ini?! `
+`Persetan dengan penyihir ribuan tahun! `
+`Trik buatanmu tidak berumur ribuan tahun, itu hanyalah kumpulan trik klasik dari genre misteri selama satu abad! `
+`Tidak ada yang namanya sihir!! `
+`Sungguh tidak ada!! `
+`Seluruh kejahatan dapat dijelaskan oleh "trik manusia"!!" `
+`"*terkekeh-kekeh*! `
+`Apakah kau akan menjelaskan seribu tahunku dengan seratus tahun manusia...? `
+`Bagus, bagus, itulah mengapa aku menyukaimu...!" `
+`"...Battler yang bodoh... `
 `Kihhihihihihihihihihihihihihihihihi...!" `
-`"...Cut it out, Battler-kun... `
-`You can't... `
-`go...against the witch..." `
+`"...Cukup, Battler-kun... `
+`Kau tidak bisa... `
+`terus...menyangkal penyihir..." `
 `"............nn... `
 `......u... `
 `............u..." `
-`Shannon started moaning, holding her cheek. `
-`...Maybe she had a toothache. `
-`But apparently, it wasn't a toothache after all. `
-`...A slight redness spread across the cheek Shannon was holding. `
-`It looked like that redness was causing Shannon unbearable pain... `
-`Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body... `
+`Shannon mulai mengerang, memegang pipinya. `
+`...Mungkin dia memiliki sakit gigi. `
+`Namun rupanya, itu bukanlah sakit gigi. `
+`...Sebuah merah samar menyebar di pipi yang dipegang Shannon. `
+`Sepertinya kemerahan itu menyebabkan Shannon merasakan sakit yang tak tertahankan... `
+`Jari-jarinya menekan pipinya, dan tetesan keringat muncul di seluruh tubuhnya... `
 `"...Shannon, `
 `...Shannon...!! `
-`Hang in there...hang in there!" `
-`"What's going on?! `
-`Damn it, what the hell is that red stuff...?!" `
-`It expanded rapidly, covering half of Shannon's face... `
-`...Then, the stupid dunce Battler finally realized... `
-`"Ple‐please, Battler‐kun...! `
-`Please believe in {f:5:Beatrice}‐sama...! `
-`I beg you...!! `
-`Aaaaaaah, because you won't believe, `
-`because you won't believe, aaaaaaaaaah, `
-`...the magic is `
-`...the magic is dissolviiiiiiiing!!" `
-`For the first time in his life, ...Battler heard that sound, like a pomegranate splitting. `
-`The red spray even landed on Battler's face... `
-`Poor Shannon's face had been split in half, ...and her last horrible moments in that storehouse were repeated once again. `
+`Tolong tahan...tahan sebentar!" `
+`"Apa yang terjadi?! `
+`Sial, apa-paan benda berwarna merah ini...?!" `
+`Itu berkembang dengan cepat, menutupi setengah wajah Shannon... `
+`...Lalu, si bodoh Battler akhirnya menyadari... `
+`"To-tolong, Battler‐kun...! `
+`Tolong percaya pada {f:5:Beatrice}‐sama...! `
+`Aku mohon...!! `
+`Aaaaaaah, gara-gara kau tidak percaya, `
+`semua karena kau tidak mempercayainya, aaaaaaaaaah, `
+`...sihirnya `
+`...sihirnya mencaiiiiiiiir!!" `
+`Unuk pertama kali dalam hidupnya, ...Battler mendengar suara, seperti pemecahan buah delima. `
+`Semprotan merah bahkan mengenai wajah Battler... `
+`Wajah Shannon yang malang terbelah dua, ...dan momen-momen mengerikan terakhirnya di gudang itu terulang kembali. `
 `"U-Uwaaaaaaaaaaaaaaaaaaaaaaaaahh, Shannon, Shannon!! `
 `Uwaaaaaaaaaaaaaaaaaaahh!!!" `
-`"Ngg...nnnnnggg, damn it, damn iiiiiiiiiiit! `
-`Stop it, stop it, stop it!! `
-`Don't humiliate the dead, don't humiliate the deeeeeaaaaad!!" `
+`"Ngg...nnnnnggg, sialan, sialaaaaaaaaan! `
+`Hentikan, hentikan, hentikan!! `
+`Tolong, jangan mempermainkan orang matiiiiiii!!" `
 `"Uuuu, ...gah, ...eeeggh!!" `
-`This time, the redness spread across George's entire body... `
-`It was like the beautiful cloud drawn by milk when it's poured into black tea. `
-`It spread out and extended across his entire body. `
-`...As it did, it seemed to give George increasingly greater pain. `
-`Looking at this bizarre spectacle, ...Battler was petrified as he frantically thought with his pitifully clumsy imagination... `
-`about the nature of this strange death George and the rest were experiencing... `
-`Eventually, ...that redness reached the nearby Jessica as well... `
+`Kali ini, Kemerahan itu menyebar ke seluruh tubuh George... `
+`Seperti awan indah yang terbentuk dari susu saat dituangkan ke dalam teh hitam. `
+`Ia menyebar dan meluas ke seluruh tubuhnya. `
+`...Saat itu terjadi, sepertinya rasa sakit yang dialami George semakin hebat. `
+`Melihat pemandangan aneh ini, ...Battler terdiam kaku sambil berpikir dengan imajinasinya yang canggung dan menyedihkan... `
+`tentang sifat kematian aneh yang dialami George dan yang lainnya... `
+`Akhirnya, ...kemerahan itu juga mencapai Jessica yang berada di dekatnya... `
 `"Gah, `
 `...eeh, `
 `...ack, `
 `......hh!!" `
-`"S-Stop it, stop it, stop it!!! `
-`What did Aniki do, `
-`what did Jessica do, `
-`just STOP IIIIIIIIIIIIIIIIIT!!!" `
+`"H-hentikan, hentikan, hentikan!!! `
+`Apa yang Aniki lakukan, `
+`apa yang Jessica lakukan, `
+`tolong HENTIKAAAAAAAAAN!!!" `
 `"Ba‐ `
 `Battler, `
-`...d- `
-`don't let the witch `
-`...break your spirit...! `
-`...Deny her, `
-`erase her... `
-`...A-As long as at least one person denies her, `
-`she's an illusion that can't exist...! `
+`...j- `
+`jangan biarkan penyihir `
+`...menghancurkan semangatmu...! `
+`...Bantah dia, `
+`hapus dia... `
+`...Selama ada satu orang yang menyangkalnya, `
+`dia hanyalah sebuah ilusi yang tidak ada...! `
 `Aaaaahhhh, gghhh!!" `
-`"A-Are you okay, Jessica?!! `
-`Whaa, A-Aniki?!?!" `
-`George was no longer recognizable as a human. `
-`...He looked like the pile of leftover meat after the good, delicious meat has been scraped off to be cooked. `
-`...The only thing that even resembled a human was the shape of his lower jaw and rib cage. `
-`And it was clear that Jessica, who was covered with a steadily strengthening redness, was approaching the same fate. `
+`"A-apa kau baik-baik saja Jessica?!! `
+`Apa, A-Aniki?!?!" `
+`George tidak lagi berbentuk manusia. `
+`...Dia terlihat seperti tumpukan daging sisa dari daging yang enak dan lezat yang telah dikerok untuk dimasak. `
+`...Satu-satunya hal yang masih mirip manusia adalah bentuk rahang bawah dan tulang rusuknya. `
+`Dan jelas bahwa Jessica, yang tubuhnya semakin memerah, sedang menuju nasib yang sama. `
 `"............Uu. `
 `...Battler. `
-`......Quick, believe in {f:5:Beatrice}... `
-`...If you don't, `
-`...everyone's magic... `
-`...will dissolve..." `
-`"M-Maria, it's all over your body, too...!!!" `
-`"I revive all the dead with my magic. `
-`...But as long as you don't believe, that magic will hold no true power. `
-`*cackle*cackle*cackle*! `
-`But I'm sure that a man like yourself won't surrender to something like this, right...?" `
+`......Cepat, percayalah da {f:5:Beatrice}... `
+`...Jika tidak, `
+`...seluruh ihir... `
+`...akan mencair..." `
+`"M-Maria, Itu juga ada di seluruh tubuhmu....!!!" `
+`"AKu membangkitkan seluruh kematian dengan sihir. `
+`...NAmun selama kau tidak mempercayainya, sihir itu tidak akan memiliki kekuatan sejatinya. `
+`*terkekeh-kekeh*! `
+`Namun aku yakin orang sepertimu tidak akan menyerah dengan hal seperti ini, bukan...?" `
 `"Ba‐ `
 `Battler...! `
-`We... `
-`...didn't want to doubt our friends... `
-`We refused to face reality... `
-`and gave in to the witch...! `
-`But... `
-`Battler, you won't... `
-`...won't... `
-`give in to the witch...! `
+`kami... `
+`...tidak ingin mengkhianati teman... `
+`kami berpaling dari kenyataan... `
+`dan menyerah pada penyihir...! `
+`Tapi... `
+`Battler, kau tidak... `
+`...akan... `
+`menyerah pada penyihir...! `
 `Geh, `
 `ggghh, `
 `...gggggghhkkkkkkk!!!" `
 `"Jessica, Jessicaaaaaaa, gaaaaaaaaaaaaaaaaaaaaahhhhh!!" `
-`Poor Jessica met the same end. `
-`...Just like George, she ended up like a butcher's leftovers. `
-`George and Jessica were now so destroyed, melted and mixed up, it was impossible to tell them apart. `
+`Jessica yang malang menemui akhirnya. `
+`...Sama seperti George, dia berakhir menjadi sisa-sisa daging dari tukang daging. `
+`George dan Jessica telah hancur, meleleh da bercampur, sudah mustahil untuk membedakan mereka. `
 `"...Battler, `
-`don't cry. `
-`...{f:5:Beatrice} will restore the dead over and over. `
-`So there's nothing to be sad about... `
-`......So, `
-`......even if we die, we're still... `
-`...just... `
-`fine..." `
-`The redness began eating into the whole of Maria's body... `
-`The foolish Battler watched and screamed. `
-`"I won't forgive you, I'll never forgive you!! `
-`A witch?! Magic?! `
-`I'll risk my body and soul to deny you...!! `
-`No matter what happens, I can't accept you!! `
-`Now that you've gone so far to piss me off, I'll never forgive you!!" `
-`"I won't forgive, I won't forgive, I definitely won't forgive you!! `
-`You'll regret making me, Ushiromiya Battler, your enemy!! `
-`I'll deny you no matter what!! `
-`No matter how baffling things get, it can all be explained by "humans"!!! `
-`I'll erase every cell of you from this world!!!" `
-`"Well said! Battler, was it...? `
-`That's just the thing to divert me from my thousand years of boredom! `
-`Come, explain. `
-`Try explaining it all with "human tricks"! `
-`And learn how lowly humans are!! `
-`Let's see if what humanity has built up in a hundred years can oppose my thousand years!! `
-`That's what will make forcing you to submit so pleasant...!!" `
-`"So tell me, you who call yourself Battler! `
-`What about Maria's letter? `
-`How the six were killed? `
-`The shutter? `
-`The receipt's seal? `
-`The closed room with the chain? `
-`Kanon in the boiler room? `
-`Genji and the others in the lounge?! `
-`Natsuhi's suicide?! `
-`The riddle of the epitaph?! `
-`The location of the hidden gold?!" `
-`"Yes, Battler, why don't you show me the power of "humans"?! `
+`jangan menangis. `
+`...{f:5:Beatrice} akan membangkitkan mereka kembali. `
+`Jadi idak ada yang perlu ditangisi... `
+`......Jadi, `
+`......meskipun kita mati, kita akan... `
+`...tetap... `
+`baik-baik saja..." `
+`Kemerahan itu mulai menyebar ke seluruh tubuh Maria... `
+`Battler yang bodoh menyaksikan dan berteriak. `
+`"Aku tidak akan memaafkanmu, tidak akan pernah!! `
+`Penyihiur?! Sihir?! `
+`Aku akan engorbankan iwa dan raga untu menolakmu...!! `
+`Tidak peduli apa yang terjadi, aku tidak akan menerimamu!! `
+`Sekarang kmu sudah sejauh ini membuatku kesal, Iaku tidak akan pernah memaafkanmu!!" `
+`"Aku tidak akan, tidak akane, tidak akan pernah memaafkanmu!! `
+`Kau akan menyesal telah membuatku, Ushiromiya Battler, sebagai musuhmu!! `
+`Aku akan menolakmu apun yang trjadi!! `
+`Tidak peduli betapa membingungkannya, semuanya bisa dijelaskan oleh "manusia"!!! `
+`Aku akan menghapus seluruh keberadaanmu di dunia ini!!!" `
+`"Bagus sekali! Battler, benar kan...? `
+`Itu tindakan yang tepat untuk mengalihkan perhatianku dari kebosanan selama seribu tahun! `
+`Kemarilah, jelaskan. `
+`Cobalah jelaskan semuanya dengan "trik manusia"! `
+`Dan pelajari betapa rendahnya manusia!! `
+`Mari kita lihat apakah kemampuan manusia selama ratusan tahun dapan mengalahkan seribu tahunku!! `
+`Itulah yang membuat memaksamu menyerah menjadi begitu menyenangkan...!!" `
+`"Jadi beritahu aku, kau yang bernama Battler! `
+`Bagaimana engan surat dari Maria? `
+`Bagaimana keenam orang bisa terbunuh? `
+`Bagaimana dengan tirai? `
+`stempel tanda terima? `
+`Ruang tertutup dengan rantai? `
+`Kanon di ruang pembakaran? `
+`Genji dan yang lainnya di ruang tunggu?! `
+`Natsuhi yang bunuh diri?! `
+`Teka-teki dari epitaf?! `
+`Lokasi rahasia dari emas?!" `
+`"Baiklah, Battler, mengapa kau tidak menunjukkan padaku kekuatan dari "manusia"?! `
 `Fuhahahahahahahahahahahahahahahahahaha!!!" `
 `"Aaaaaaaaaaaaaaaaaahhhhhhhhhhhhh!!!" `
