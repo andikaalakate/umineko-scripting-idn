@@ -1,1420 +1,1421 @@
 `"...{f:5:Beatrice}, `
-`I have been calling to you for some time now. `
-`Did you not hear me...?" `
+`Aku memanggilmu daritadi. `
+`Apakah kau tidak mendengarku...?" `
 `"...Mu. `
-`Were you? `
-`My apologies. `
-`I was lost in thought. `
-`Forgive me." `
-`"The weather is pleasant. `
-`...Yes, I can understand how the weather has stolen your heart. `
-`Will you have your black tea here...?" `
-`"......Who...am I?" `
+`Benarkah? `
+`Maaf. `
+`Aku tenggelam dalam pikiran. `
+`Maafkan aku." `
+`"Cuacanya cerah ya. `
+`...Begitu ya, aku bisa mengerti bagaimana cuaca telah mencuri hatimu. `
+`Mau minum teh hitam di sini...?" `
+`"......Siapa...aku ini?" `
 `"............ `
-`...I will bring some tea now. `
-`Wait here for a while." `
-`"Forget about the tea. `
-`Talk with me." `
-`"...Very well." `
-`Kinzo had used the excuse of getting black tea to try and interrupt the conversation for the time being. `
-`...But his attempt had been very transparent. `
-`I sat in a garden chair and beckoned Kinzo to do the same. `
-`Kinzo sat down heavily, exaggerating his age. `
-`For a while, we sat and appreciated the silence... `
-`"...Who am I? `
-`Until today, no one has answered this question. `
-`...For some reason, everyone averts their gaze and evades me." `
+`...Aku akan mengambil teh sekarang. `
+`Tunggu sebentar di sini." `
+`"Lupakan tehnya. `
+`Bicaralah denganku." `
+`"...Baiklah." `
+`Kinzo menggunakan alasan mengambil teh hitam untuk mencoba menghentikan percakapan untuk sementara waktu. `
+`...Tapi upayanya sangat terlihat jelas. `
+`Aku duduk di kursi taman dan memberi isyarat pada Kinzo untuk melakukan hal yang sama. `
+`Kinzo duduk dengan berat, seolah-olah usianya lebih tua dari yang sebenarnya. `
+`Untuk sementara, kami duduk dan menikmati keheningan... `
+`"...Siapa aku ini? `
+`Sampai hari ini, tidak ada yang menjawab pertanyaan ini. `
+`...Entah mengapa, semua orang memalingkan pandangan dan menghindariku." `
 `"........." `
-`"...I have known you for a long time. `
-`I think of you as my best friend, even as a father. `
-`...That is why I want so much for you to tell me. `
-`You should know. `
-`...Who I am..." `
+`"...Aku sudah mengenalmu sejak lama. `
+`Aku menganggapmu sebagai sahabat terbaikku, bahkan seperti seorang ayah. `
+`...Itulah mengapa aku sangat ingin kau memberitauku. `
+`Kau pasti tau. `
+`...Siapa aku ini..." `
 `"......... `
-`......Why are you worried about something like that? `
-`You are {f:5:Beatrice}. `
-`The Master of this mansion, is that not so? `
-`...What more could you want to know?" `
-`"......I do not know." `
-`"What's this? `
-`...Don't you even understand what it is you want to know? `
-`How mysterious. `
-`In one's youth, there are times one wants to play in the maze of thought that has no exit. `
-`Perhaps that's what your worries are..." `
-`Kinzo laughed as though it was a trivial matter. `
-`...However, I couldn't help but feel that this behavior was another attempt to force me to stop any further questioning. `
+`......Kenapa kau mengkhawatirkan hal seperti itu? `
+`Kau adalah {f:5:Beatrice}. `
+`Tuan rumah ini, bukan begitu? `
+`...Apa lagi yang ingin kau ketahui?" `
+`"......Aku tidak tau." `
+`"Apa ini? `
+`...Apakah kau bahkan tidak mengerti apa yang ingin kau ketahui? `
+`Sungguh misterius. `
+`Di masa muda, ada saat-saat seseorang ingin bermain dalam labirin pikiran yang tidak ada jalan keluarnya. `
+`Mungkin itulah kekhawatiranmu..." `
+`Kinzo tertawa seolah itu hal sepele. `
+`...Namun, aku tidak bisa tidak merasa bahwa perilaku ini adalah upaya lain untuk memaksaku menghentikan pertanyaan lebih lanjut. `
 `"............ `
 `...Hmph. `
-`...So you won't tell me...after all." `
-`"There is nothing to tell. `
-`You are {f:5:Beatrice}. `
-`Isn't that more than enough?" `
-`"...No, that's not it. `
-`......What I wish to know is not my name. `
-`It is... `
-`who... `
-`I am. `
-`...Who am I? What am I? `
-`...How long have I been here, ...and how long will I have to continue my days here?" `
+`...Pada akhirnya...kau tidak akan memberitahuku." `
+`"Tidak ada yang perlu diceritakan. `
+`Kau adalah {f:5:Beatrice}. `
+`Bukankah itu sudah cukup?" `
+`"...Tidak, bukan itu. `
+`...Yang ingin kuketahui bukanlah namaku. `
+`Itu adalah... `
+`siapa... `
+`aku ini. `
+`...Siapa aku? Apa aku ini? `
+`...Sudah berapa lama aku di sini, ...dan berapa lama lagi aku harus melanjutkan hari-hariku di sini?" `
 `"......... `
-`...I really should bring some black tea. `
-`Don't you think it a waste of all this fine weather?" `
+`...Aku benar-benar harus minum teh hitam. `
+`Tidakkah kau berpikir ini membuang-buang cuaca yang begitu baik?" `
 `"............" `
-`"......What's this all about...? `
-`It looks like it's probably the story of your past, right?" `
-`"Something like that. `
-`...To think I would go this far back..." `
-`"Looks like you had some pretty deep worries even then, `
-`...wondering who you were." `
-`"...That is to be expected. `
-`At the time, I was unable to understand who I was, `
-`or why I was alive." `
-`"Well, in puberty, `
-`everyone's captured by those philosophical worries at least once, wondering what meaning there is in their life. `
-`Doesn't this just prove you had a charming period like that at one point?" `
+`"......Apa yang terjadi...? `
+`Sepertinya ini mungkin cerita tentang masa lalumu, kan?" `
+`"Sesuatu seperti itu. `
+`...Aku tidak menyangka aku akan mundur sejauh ini..." `
+`"Sepertinya kau punya kekhawatiran yang cukup dalam bahkan saat itu, `
+`...bertanya-tanya siapa dirimu." `
+`"...Seperti katamu. `
+`Saat itu, aku tidak mampu memahami siapa diriku, `
+`atau mengapa aku hidup." `
+`"Yah, pada masa pubertas, `
+`semua orang pernah terjebak dalam kekhawatiran filosofis itu setidaknya sekali, bertanya-tanya apa arti hidup mereka. `
+`Bukankah ini hanya membuktikan kau pernah mengalami masa menawan seperti itu?" `
 `"......... `
-`...I'd been in that mansion since the time of my birth. `
-`And I lived only inside the mansion. `
-`Of course, I went out into the garden, but the area around the mansion was surrounded by a very tall fence. I was unable to leave through it, `
-`and I was told severely that I mustn't leave." `
-`"...I could walk freely throughout the mansion and the garden, `
-`but outside of that, not once was my desire to take just one step outside of my own accord granted." `
-`"......What do you mean by that? `
-`...Are you trying to say that, as far back as you can remember, you were always a bird in a cage?" `
-`"...That's what I thought at the time. `
-`After all, as soon as I became aware, I was living like that. `
-`I didn't even think to question it." `
-`"Who in the world......are you?" `
-`"That's it. `
-`That is what I also hoped to know." `
+`...Aku sudah berada di rumah itu sejak aku lahir. `
+`Dan aku hanya hidup di dalam rumah itu. `
+`Tentu saja, aku pergi ke taman, tapi area sekitar rumah dikelilingi pagar yang sangat tinggi. Aku tidak bisa keluar melaluinya, `
+`dan aku diberitau dengan tegas kalau aku tidak boleh pergi." `
+`"...Aku bisa berjalan dengan bebas di seluruh rumah dan taman, `
+`tapi di luar itu, tidak sekali pun keinginanku untuk melangkah keluar atas kemauanku sendiri dikabulkan." `
+`"......Apa maksudmu? `
+`...Jadi maksudmu, sejauh yang kau ingat, kau selalu menjadi burung dalam sangkar?" `
+`"...Itulah yang kupikirkan saat itu. `
+`Bagaimanapun, begitu aku sadar, aku sudah hidup seperti itu. `
+`Aku bahkan tidak berpikir untuk mempertanyakannya." `
+`"Siapa sebenarnya......dirimu?" `
+`"Itulah. `
+`Itu juga yang ingin aku ketahui." `
 `"......Heh. `
-`I'm sure you'll say something like "I wasn't a human, I was a witch," right?" `
-`"No, that's not true. `
-`That isn't true {i:yet}. `
-`...Or should I say that {i:was once} the case. `
-`...I was constructed by Kinzo, a human built by a human. `
-`...No, perhaps I should call it a cage made of flesh." `
-`"What the hell...? `
-`...This is getting weird." `
-`"...You probably won't believe it anyway, `
-`but listen first. `
-`......I was a mighty witch, who had lived for one thousand years. `
-`But at one point, I was summoned by Kinzo, `
-`...and by that hidden art, I was bound as his prisoner for eternity." `
-`"......Never heard that before. `
-`From what we hear in the Ushiromiya family, you were summoned by Grandfather, `
-`made something like a devil's contract with him, and gave him the gold." `
-`"Indeed. `
-`That is correct. `
-`...Then, I was supposed to vanish until the contract was complete. `
-`But......well, popular women have it rough. `
-`......By some turn of events, Kinzo fell in love with me." `
-`"...Grandfather's nearsightedness must've gotten pretty bad. `
-`With astigmatism too, ihihi. `
-`To fall in love with you, of all things." `
+`Aku yakin kau akan mengatakan sesuatu seperti "Aku bukan manusia, aku adalah penyihir", kan?" `
+`"Tidak, itu tidak benar. `
+`Itu belum benar {i:saat itu}. `
+`...Atau sebaiknya aku katakan kalau {i:pernah} demikian. `
+`...Aku diciptakan oleh Kinzo, seorang manusia yang diciptakan oleh manusia. `
+`...Tidak, mungkin sebaiknya aku sebut ini sebagai kandang yang terbuat dari daging." `
+`"Apa-apaan...? `
+`...Ini mulai jadi aneh." `
+`"...Kau mungkin tidak akan percaya juga, `
+`tapi dengarkan dulu. `
+`......Aku adalah penyihir perkasa yang telah hidup selama seribu tahun. `
+`Tapi pada suatu saat, aku dipanggil oleh Kinzo, `
+`...dan dengan seni tersembunyi itu, aku terikat sebagai tahanannya untuk selamanya." `
+`"......Belum pernah mendengar itu sebelumnya. `
+`Dari yang kami dengar di keluarga Ushiromiya, kau dipanggil oleh Kakek, `
+`membuat sesuatu seperti kontrak iblis dengannya, dan memberinya emas." `
+`"Benar. `
+`Itu benar. `
+`...Kemudian, aku seharusnya menghilang sampai kontrak selesai. `
+`Tapi......yah, wanita populer memang berat. `
+`...Karena beberapa kejadian, Kinzo jatuh cinta padaku." `
+`"...Rabun dekat Kakek pasti sudah cukup parah. `
+`Ditambah lagi dengan astigmatisme, ihihi. `
+`Untuk jatuh cinta padamu, dari banyak hal." `
 `"......Hmph. `
-`Well, to me, there could be nothing more bothersome. `
-`...However, the power of Humans is a frightening thing. `
-`He displayed that fearsome power and rooted me to this place. `
-`...He said I wouldn't be freed until I nodded my head in agreement. `
-`...Such an overbearing man." `
-`"Isn't that awesome. `
-`Everyone knew Grandfather was obsessed with the occult, `
-`...but who would've guessed he had the power to root down the Great Witch {f:5:Beatrice}... `
-`...Heh, ridiculous. `
-`Who'd believe such a weird story?" `
-`"...As I thought, you don't believe." `
-`"All I believe is the fact that you lived in this hidden mansion in the middle of the forest. `
-`You are the 19th person on Rokkenjima, right?!" `
-`"...Indeed. `
-`Just as you imagine, this is deep within the forest of Rokkenjima. `
-`A hidden mansion not to be found from the outside world. `
-`Its name is Kuwadorian (Nine Birds' Retreat)." `
-`"...Come to think of it, I heard the guesthouse's real name was Toraian (Visitor's Retreat). `
-`...I see, the naming sense is similar. `
-`...So, you were Grandfather's mistress, who lived here in secret. `
-`Isn't that right?!" `
-`"Mistress isn't the right way to say it. `
-`...You should probably call it Kinzo's unrequited love. `
-`I spoke of it just now, correct? `
-`He fell in love with me of his own accord. `
-`He then courted me, but I rejected him." `
-`"...Then, I was shut up in this hidden mansion. `
-`......No, that's not quite right. `
-`...It would be more correct to say that I was shut up in this body." `
-`"......I've got no idea what you said at the end there." `
-`"You will just make fun of it and refuse to listen, right? `
-`After all, you say you don't believe in witches or magic. `
-`If you have no ears to hear what I tell you, `
-`saying it would be the pinnacle of foolishness." `
+`Yah, bagiku, tidak ada yang lebih menyebalkan. `
+`...Namun, kekuatan Manusia adalah hal yang menakutkan. `
+`Dia menunjukkan kekuatan menakutkan itu dan mengekangku ke tempat ini. `
+`...Dia bilang aku tidak akan dibebaskan sampai aku menganggukkan kepala setuju. `
+`...Pria yang terlalu memaksa." `
+`"Bukankah itu luar biasa. `
+`Semua orang tau Kakek terobsesi dengan okultisme, `
+`...tapi siapa sangka dia memiliki kekuatan untuk mengekang Penyihir Agung {f:5:Beatrice}... `
+`...Heh, konyol. `
+`Siapa yang akan percaya cerita aneh seperti itu?" `
+`"...Seperti yang aku duga, kau tidak percaya." `
+`"Yang aku percaya hanyalah fakta kau tinggal di rumah tersembunyi ini di tengah hutan. `
+`Kau adalah orang ke-19 di Rokkenjima, kan?!" `
+`"...Benar. `
+`Seperti yang kau bayangkan, ini jauh di dalam hutan Rokkenjima. `
+`Sebuah rumah tersembunyi yang tidak dapat ditemukan dari dunia luar. `
+`Namanya adalah Kuwadorian (Pondok Sembilan Burung)." `
+`"...Kalau dipikir-pikir, aku dengar nama asli guesthouse adalah Toraian (Pondok Tamu). `
+`...Aku mengerti, selera penamaannya mirip. `
+`...Jadi, kau adalah selir Kakek, yang tinggal di sini secara rahasia. `
+`Bukankah begitu?!" `
+`"Selir bukanlah kata yang tepat. `
+`...Mungkin kau harus menyebutnya cinta sepihak Kinzo. `
+`Aku baru saja membicarakannya, kan? `
+`Dia jatuh cinta padaku atas kemauannya sendiri. `
+`Dia kemudian melamarku, tapi aku menolaknya." `
+`"...Kemudian, aku dikurung di rumah tersembunyi ini. `
+`......Tidak, itu tidak cukup tepat. `
+`...Akan lebih tepat jika mengatakan bahwa aku dikurung dalam tubuh ini." `
+`"......Aku tidak mengerti apa yang kau katakan di akhir sana." `
+`"Kau hanya akan mengejeknya dan menolak mendengarkan, kan? `
+`Bagaimanapun, kau bilang kau tidak percaya pada penyihir atau sihir. `
+`Jika kau tidak memiliki telinga untuk mendengarkan apa yang aku katakan, `
+`mengatakannya akan menjadi puncak kebodohan." `
 `"............ `
-`...I'll decide whether I believe or not. `
-`...After all, if I don't ask, the story won't continue. `
-`Tell me. `
-`...Let's hear this story from your past." `
-`"Very well. `
-`......I refused Kinzo when he courted me, but he was not a man to lose heart at something like that. `
-`He wanted to make me nod my head in agreement no matter what. `
-`He shut me up in this mansion and spent an eternity trying to win my heart." `
-`"...Talk about overbearing. `
-`Guess no one likes obstinate men, huh?" `
-`"......*cackle*cackle* `
-`Regardless of whether I responded to his courting or not, `
-`having a man so desperate for me was...well, as a woman, it wasn't so unpleasant." `
-`"...However, I never accepted his proposal. `
-`I tried to find some way to break through his guard, `
-`but that barrier was firm, and I couldn't crack it." `
-`"...And then?" `
-`"After trying to resist in various ways, `
-`I eventually reached the conclusion that, to escape from Kinzo's barrier, I would have to throw away this body of flesh. `
-`...The physical body is a vessel with many restrictions for a magic user." `
-`"Throw away your body of flesh...? `
-`What does that mean? `
-`Something like an out-of-body experience?" `
-`"Well, if you want to think of it that way. `
-`However, I am no spirit. `
-`Even though I am a witch, in the beginning, I was born with a human's body of flesh. `
-`So for me, throwing away that physical body, `
-`while it didn't mean the same thing as death, it did require a similar level of resolve." `
-`"So in other words, `
-`...you decided that you couldn't be released except by suicide, is that it?" `
-`"It wasn't suicide. `
-`It was nothing more than throwing away my body of flesh. `
-`...Of course, becoming nothing more than soul is a precarious situation. `
-`When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun. `
-`It was not easy for me to maintain myself and avoid being scattered by them." `
-`"It was a final measure that I wanted to avoid if I could. `
-`However, there was no other way to break through Kinzo's barrier. `
-`...*cackle* Anyway, I am an unfettered person. `
-`I couldn't stand being kept in a cage until Kinzo's life was over." `
-`I couldn't see this stuff Beato kept going on about, about throwing away her body of flesh, `
-`as anything more than suicide. `
-`Grandfather persistently courted her, and to escape from that, `
-`...she chose her own death...? `
-`"......So you're saying you committed suicide? `
-`What are you talking about? `
-`Isn't that you, sitting carefree there in the garden chair?" `
-`"...That's right. `
-`That is the new cage I was given by Kinzo." `
-`"......Cage? `
-`You mean this mansion?" `
-`"No. `
-`I mean my body, relaxing in the garden chair over there. `
-`......Even though I was so desperate to escape that I became naught but a soul, `
-`Kinzo still had no intention of letting me go." `
-`"...Oh, he was a fearsome person. `
-`Normally, when the object of one's unrequited love shows that she is willing to die, it should be enough to bring that person to their senses, even if their love has lasted a hundred years. `
-`...Perhaps that's why even he managed to become a sorceror of sorts. `
-`...*cackle*." `
-`"Don't try to confuse me with that incomprehensible witch-girl talk. `
-`...What exactly are you trying to say?" `
-`"That Kinzo didn't let me escape even after I became a soul. `
-`...Human emotions are terrifying. `
-`To think he would be able to exhibit such power... `
-`Tying down a dead soul... `
-`is not something that can be accomplished easily, not even for a magician who specializes in such matters. `
-`Because I knew this, Kinzo's fearful magical power shocked me for the first time." `
-`"......Then, Kinzo seized my soul and brought me back. `
-`However, a cage to hold a seized soul cannot be made from iron or lead. `
-`...Only one thing remained." `
-`"......What? `
-`You aren't gonna say it was a magical cage or something, are you?" `
-`"Wrong. `
-`It's that body of flesh over there, just like yours or mine. `
-`...Only a cage made of flesh and blood can tie a soul down to this world. `
-`...Kinzo shut my soul up in a cage of flesh built to be exactly like me." `
+`...Aku yang akan memutuskan percaya atau tidak. `
+`...Bagaimanapun, jika aku tidak bertanya, ceritanya tidak akan berlanjut. `
+`Ceritakan padaku. `
+`...Mari kita dengar cerita masa lalumu ini." `
+`"Baiklah. `
+`......Aku menolak Kinzo ketika dia melamarku, tapi dia bukan pria yang mudah putus asa karena hal seperti itu. `
+`Dia ingin membuatku mengangguk setuju tidak peduli apa pun. `
+`Dia mengurungku di rumah ini dan menghabiskan waktu selamanya untuk mencoba memenangkan hatiku." `
+`"...Benar-benar memaksa. `
+`Sepertinya tidak ada yang suka pria keras kepala, ya?" `
+`"......*terkekeh*terkekeh* `
+`Terlepas dari apakah aku menanggapi lamarannya atau tidak, `
+`memiliki pria yang begitu nekat untukku adalah...yah, sebagai seorang wanita, itu tidak terlalu tidak menyenangkan." `
+`"...Tapi, aku tidak pernah menerima lamarannya. `
+`Aku mencoba mencari cara untuk menembus pertahanannya, `
+`tapi penghalang itu kuat, dan aku tidak bisa memecahkannya." `
+`"...Lalu?" `
+`"Setelah mencoba melawan dengan berbagai cara, `
+`aku akhirnya sampai pada kesimpulan bahwa, untuk melarikan diri dari penghalang Kinzo, aku harus membuang tubuh daging ini. `
+`...Tubuh fisik adalah wadah dengan banyak batasan bagi pengguna sihir." `
+`"Membuang tubuh dagingmu...? `
+`Apa maksudnya? `
+`Sesuatu seperti pengalaman keluar dari tubuh?" `
+`"Ya, bisa dibilang begitu. `
+`Tapi, aku bukan roh. `
+`Meskipun aku adalah penyihir, pada awalnya, aku dilahirkan dengan tubuh daging manusia. `
+`Jadi bagiku, melepaskan tubuh fisik itu, `
+`meskipun tidak berarti hal yang sama dengan kematian, itu membutuhkan tingkat tekad yang serupa." `
+`"Jadi dengan kata lain, `
+`...kau memutuskan kalau kau tidak bisa dibebaskan kecuali dengan bunuh diri, begitu?" `
+`"Itu bukan bunuh diri. `
+`Itu tidak lebih dari membuang tubuh dagingku. `
+`...Tentu saja, menjadi tidak lebih dari jiwa adalah situasi yang berbahaya. `
+`Ketika jiwa meninggalkan tubuh dagingnya, ia terus-menerus terkena angin kuat matahari. `
+`Tidak mudah bagiku untuk mempertahankan diriku dan menghindari tersebar oleh mereka." `
+`"Itu adalah langkah terakhir yang ingin kuhindari kalau bisa. `
+`Tapi, tidak ada cara lain untuk menembus penghalang Kinzo. `
+`...*terkekeh* Bagaimanapun, aku adalah orang yang bebas. `
+`Aku tidak tahan dikurung dalam sangkar sampai hidup Kinzo berakhir." `
+`Aku tidak bisa melihat hal-hal yang terus-menerus dibicarakan Beato ini, tentang membuang tubuh dagingnya, `
+`sebagai sesuatu yang lebih dari bunuh diri. `
+`Kakek dengan gigih melamarnya, dan untuk melarikan diri dari itu, `
+`...dia memilih kematiannya sendiri...? `
+`"......Jadi kau mengatakan bunuh diri? `
+`Apa yang kau bicarakan? `
+`Bukankah itu kau, duduk santai di sana di kursi taman?" `
+`"...Itu benar. `
+`Itu adalah sangkar baru yang diberikan Kinzo padaku." `
+`"......Kandang? `
+`Maksudmu rumah ini?" `
+`"Bukan. `
+`Maksudku tubuhku, yang sedang bersantai di kursi taman di sana. `
+`......Meskipun aku begitu nekat untuk melarikan diri hingga menjadi tidak lebih dari jiwa, `
+`Kinzo tetap tidak berniat membiarkanku pergi." `
+`"...Oh, dia adalah orang yang menakutkan. `
+`Biasanya, ketika objek cinta yang ditolak menunjukkan kesediaannya untuk mati, itu seharusnya cukup untuk menyadarkan orang itu, bahkan jika cintanya telah berlangsung seratus tahun. `
+`...Mungkin itulah mengapa bahkan dia berhasil menjadi semacam penyihir. `
+`...*tertawa kecil*." `
+`"Jangan coba membingungkan aku dengan omongan gadis penyihir yang tidak bisa dipahami itu. `
+`...Apa sebenarnya yang ingin kau katakan?" `
+`"Bahwa Kinzo tidak membiarkanku melarikan diri bahkan setelah aku menjadi jiwa. `
+`...Emosi manusia itu menakutkan. `
+`Tidak menyangka dia bisa menunjukkan kekuatan seperti itu... `
+`Mengikat jiwa mati... `
+`bukanlah sesuatu yang dapat dilakukan dengan mudah, bahkan bagi pesulap yang khusus menangani hal semacam itu. `
+`Karena aku mengetahui ini, kekuatan sihir Kinzo yang menakutkan mengejutkanku untuk pertama kalinya." `
+`"......Kemudian, Kinzo menangkap jiwaku dan membawaku kembali. `
+`Namun, sangkar untuk menahan jiwa yang ditangkap tidak bisa dibuat dari besi atau timah. `
+`...Hanya satu hal yang tersisa." `
+`"......Apa? `
+`Kau tidak akan mengatakan itu adalah sangkar ajaib atau sesuatu, kan?" `
+`"Salah. `
+`Itu adalah tubuh daging di sana, persis seperti milikmu atau milikku. `
+`...Hanya sangkar yang terbuat dari daging dan darah yang bisa mengikat jiwa ke dunia ini. `
+`...Kinzo mengurung jiwaku dalam sangkar daging yang dibangun persis seperti diriku." `
 `"......... `
-`...So to sum up, it's like this? `
-`Grandfather obstinately courted you, you started to hate it, and you committed suicide, `
-`but you weren't clever enough to finish the job? `
-`...Damn, you really took a roundabout way to say something like that." `
-`"No, that's wrong. `
-`My soul was shut up in the seed of a homunculus, `
-`and I was born out of a test tube." `
-`"Huh?! `
-`But that's crazy...! `
-`That isn't even possible, right?!" `
-`"Kinzo accomplished even the miracle of creating life. `
-`And simply to shut my soul up in that cage. `
-`...That he would show such magical power simply because of his own love... `
-`A thoroughly terrifying person." `
-`"Aah, it's already gotten pretty ridiculous! `
-`Say whatever you want. `
-`I won't believe anything. `
-`Just do what you like." `
+`...Jadi kesimpulannya, beginikah? `
+`Kakek dengan keras kepala melamarmu, kau mulai membencinya, dan kau bunuh diri, `
+`tapi kau tidak cukup pintar untuk menyelesaikan pekerjaan itu? `
+`...Sial, kau benar-benar mengambil jalan memutar untuk mengatakan sesuatu seperti itu." `
+`"Tidak, itu salah. `
+`Jiwaku dikurung dalam benih homunculus, `
+`dan aku dilahirkan dari tabung reaksi." `
+`"Hah?! `
+`Tapi itu gila...! `
+`Itu bahkan tidak mungkin, kan?!" `
+`"Kinzo bahkan mampu menciptakan keajaiban kehidupan. `
+`Dan hanya untuk mengurung jiwaku dalam sangkar itu. `
+`...Bahwa dia akan menunjukkan kekuatan sihir seperti itu hanya karena cintanya sendiri... `
+`Orang yang sangat menakutkan." `
+`"Aah, ini sudah menjadi cukup konyol! `
+`Katakan apa pun yang kau mau. `
+`Aku tidak akan percaya apa pun. `
+`Lakukan saja sesukamu." `
 `"......Mu. `
-`...What's with this unpleasant attitude?" `
+`...Ada apa dengan sikap tidak menyenangkan ini?" `
 `"Heh, `
-`in the beginning, I showed a little interest, thinking that there might be some huge hint hidden here, `
-`but the more I ask, the weirder this story starts to get. `
-`I get the feeling that even though this is supposed to be a game about denying witches, `
-`I'm suddenly being forced to just swallow this story about witches." `
-`"Sorry, but I don't feel like listening to this any more. `
-`Just keep rambling on to yourself as much as you want. `
-`I'll be over here, picking at my earwax or something." `
+`pada awalnya, aku menunjukkan sedikit minat, berpikir bahwa mungkin ada petunjuk besar yang tersembunyi di sini, `
+`tapi semakin aku bertanya, cerita ini semakin aneh. `
+`Aku merasa bahwa meskipun ini seharusnya permainan tentang menyangkal penyihir, `
+`tiba-tiba aku dipaksa untuk menelan cerita tentang penyihir ini." `
+`"Maaf, tapi aku tidak ingin mendengarkan ini lagi. `
+`Bicaralah sendiri sebanyak yang kau mau. `
+`Aku akan di sini, mengorek kotoran telinga atau semacamnya." `
 `"......... `
 `...Hmph." `
-`When I started acting cold, Beato seemed unusually discouraged. `
-`Of course, her expression was still shameless, `
-`but in that really easy-to-understand expression of hers, `
-`I had the feeling I was able to catch a glimpse of loneliness at my failure to find the story of her past interesting. `
-`...For some reason, that subtle reaction made her seem pitiful, `
-`so even though I kept my careless attitude, I decided to cover for her slightly. `
-`Damn it, even though she's an irritating witch, I'm still weak against her because her chromosomes are XX... `
-`"...Well, I've got absolutely no desire to believe you, but... `
-`...keep going. `
-`Let's have a bit of a story instead of a tea snack." `
-`"So you treat the story of my past like little more than a snack... `
-`...Do you expect me to just casually tell you when you insult me like that...?" `
-`After I made fun of her, Beato reacted a little sensitively. `
-`It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by others. `
-`Just then, my black tea cup suddenly made a sound, surprising me. `
-`"...Milady's soul was seized and breathed into a cage of new life. `
-`In other words, Milady received life as a human once more." `
-`Before I realized it, the demon butler had taken my cup and was adding more black tea to it. `
+`Ketika aku mulai bersikap dingin, Beato tampaknya tidak mudah patah semangat. `
+Tentu saja, ekspresinya masih tidak tau malu, `
+`tapi dalam ekspresinya yang sangat mudah dipahami itu, `
+`aku merasa bisa menangkap sekilas kesepian atas kegagalanku menemukan cerita masa lalunya menarik. `
+`...Entah mengapa, reaksi halus itu membuatnya tampak menyedihkan, `
+`jadi meskipun aku mempertahankan sikap cerobohku, aku memutuskan untuk sedikit menutupinya. `
+`Sial, meskipun dia penyihir yang menyebalkan, aku masih lemah terhadapnya karena kromosomnya XX... `
+`"...Yah, aku benar-benar tidak ingin percaya padamu, tapi... `
+`...lanjutkan. `
+`Mari kita sedikit bercerita daripada camilan teh." `
+`"Jadi kau memperlakukan cerita masa laluku seperti sedikit lebih dari camilan... `
+`...Apakah kau berharap aku dengan santai menceritakannya padamu ketika kau menghinaku seperti itu...?" `
+`Setelah aku mengejeknya, Beato bereaksi sedikit sensitif. `
+`Sepertinya, meskipun mengolok-olok orang adalah keahliannya, dia sangat buruk ketika diolok-olok oleh orang lain. `
+`Tepat saat itu, cangkir teh hitamku tiba-tiba berbunyi, mengejutkanku. `
+`"...Jiwa Nyonya ditangkap dan ditiupkan ke dalam sangkar kehidupan baru. `
+`Dengan kata lain, Nyonya menerima kehidupan sebagai manusia sekali lagi." `
+`Sebelum aku menyadarinya, kepala pelayan iblis itu telah mengambil cangkirku dan menambahkan lebih banyak teh hitam ke dalamnya. `
 `"Ronove, `
-`enough of that. `
-`This person just said it was too ridiculous to be worth listening to. `
-`Well, he's too ridiculous to be worth talking to." `
-`"I'm baking some new cookies right now. `
-`Until they're ready, I thought you might find the story of Milady's past to be a perfect substitute for a snack. `
+`cukup sudah. `
+`Orang ini baru saja mengatakan itu terlalu konyol untuk didengarkan. `
+`Yah, dia terlalu konyol untuk diajak bicara." `
+`"Saya sedang memanggang kue baru sekarang. `
+`Sampai siap, saya pikir anda mungkin menemukan cerita masa lalu Nyonya sebagai pengganti camilan yang sempurna. `
 `Pu ku ku...!" `
-`"...D-Didn't I say that's enough talking about me?! `
-`Such unpleasant people, the lot of you. `
-`I'm leaving! `
-`Ronove, serve our food and then go. `
-`No pointless chitchat with Battler." `
-`"Certainly. `
-`I will make an effort." `
-`Beato's short temper peculiar to women, which I didn't really understand, took hold of her, and she turned her body into gold butterflies, scattered, and disappeared. `
-`After that, only Ronove and the scent of the black tea were left... `
-`"...I feel kind of bad, like I pissed her off or something." `
-`"As long as you're aware of it yourself, I need say nothing more." `
-`"Wait a sec. `
-`Weren't you the one who struck the finishing blow?" `
+`"...B-Bukankah sudah kubilang cukup membicarakanku?! `
+`Orang-orang yang tidak menyenangkan, kalian semua. `
+`Aku pergi! `
+`Ronove, sajikan makanan kami dan kemudian pergi. `
+`Tidak ada omong kosong dengan Battler." `
+`"Tentu saja. `
+`Akan saya usahakan." `
+`Emosi pendek Beato yang khas wanita, yang tidak terlalu aku pahami menguasainya, dan dia mengubah tubuhnya menjadi kupu-kupu emas, tersebar, dan menghilang. `
+`Setelah itu, hanya Ronove dan aroma teh hitam yang tersisa... `
+`"...Aku merasa sedikit bersalah, seolah-olah aku membuatnya marah atau sesuatu." `
+`"Selama anda menyadarinya sendiri, saya tidak perlu mengatakan apa-apa lagi." `
+`"Tunggu sebentar. `
+`Bukankah kau yang memberikan pukulan terakhir?" `
 `"Pu ku ku ku. `
-`My, what could you mean by that? `
-`How would you like some sugar and milk?" `
-`"...Just milk will be fine. `
-`......And some tea snacks would be nice too." `
-`"...Well, it will be a bit longer before the cookies are ready." `
-`"Didn't you say we've already got something to use in place of a snack?" `
-`"...Certainly. `
-`If you will listen quietly, I will continue the story." `
-`"She said something about a homunculus. `
-`...I know a bit about that. `
-`It's that thing, right? `
-`A manufactured human created with alchemy or something?" `
-`"Yes. `
-`Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby. `
-`...However, because she was a baby, `
-`any professions of love on Kinzo's part would have been quite useless." `
+`Astaga, apa maksud anda dengan itu? `
+`Bagaimana dengan sedikit gula dan susu?" `
+`"...Susu saja sudah cukup. `
+`......Dan beberapa camilan teh juga boleh." `
+`"...Yah, masih akan sedikit lebih lama sebelum kuenya siap." `
+`"Bukankah kau bilang kita sudah punya sesuatu untuk digunakan sebagai pengganti camilan?" `
+`"...Tentu saja. `
+`Jika anda mau mendengarkan dengan tenang, saya akan melanjutkan ceritanya." `
+`"Dia bilang sesuatu tentang homunculus. `
+`...Aku tau sedikit tentang itu. `
+`Itu, kan?, `
+`Manusia buatan yang diciptakan dengan alkimia atau semacamnya?" `
+`"Tepat. `
+`Jiwa Nyonya dikurung dalam homunculus, dan beliau dihidupkan kembali ke dunia ini, menerima kehidupan lagi sebagai bayi. `
+`...Namun, karena dia adalah bayi, `
+`pernyataan cinta dari Kinzo akan menjadi sia-sia." `
 `"......... `
-`......You aren't saying... `
-`...that Grandfather shut that baby up in this hidden mansion... `
-`until it grew to reach the same age she'd been?!" `
-`"Correct. `
-`That is what I am saying. `
-`However, while her soul was the same, a human spirit is strongly influenced by its container. `
-`Milady lost all her memories of the past and grew up as a very normal human girl." `
-`"And you're saying...that's the Beato sitting in the garden chair?" `
-`"Yes. `
-`That is correct. `
-`It grew to be completely identical. `
-`However, it did not possess her power as a witch. `
-`...Milady was completely human." `
+`......Kau tidak bermaksud mengatakan... `
+`...kalau Kakek mengurung bayi itu di rumah tersembunyi ini... `
+`sampai tumbuh mencapai usia yang sama seperti sebelumnya?!" `
+`"Benar. `
+`Itulah yang saya katakan. `
+`Namun, meskipun jiwanya sama, roh manusia sangat dipengaruhi oleh wadahnya. `
+`Nyonya kehilangan semua ingatan masa lalunya dan tumbuh sebagai gadis manusia yang sangat normal." `
+`"Dan kau mengatakan... itu adalah Beato yang duduk di kursi taman?" `
+`"Ya. `
+`Itu benar. `
+`Itu tumbuh menjadi identik sepenuhnya. `
+`Namun, dia tidak memiliki kekuatannya sebagai penyihir. `
+`...Nyonya sepenuhnya manusia." `
 `"............" `
-`Beato, who was sitting in the garden chair, looking up at the sky, voiced that same question again. `
-`She asked who she was. `
-`...The meaning of those words was finally starting to click. `
-`She couldn't understand why she was living here, all locked up. `
-`Grandfather had seized {f:5:Beatrice}'s soul, shut it up in a body of flesh, `
-`and then shut that up in a hidden mansion. `
-`However, since she had lived here since the time of her birth, she couldn't even understand who she was, `
-`or why she lived shut up in there... `
-`...W-Wait, wait. `
-`Who would take such a stupid story seriously? `
-`Why don't I change my interpretation? `
-`...In other words, couldn't it be something like this? `
-`Grandfather met {f:5:Beatrice}. `
-`He then fell in love with her and courted her, but she didn't accept him. `
-`Then, he flew into a rage and shut her up inside this hidden mansion. `
-`{f:5:Beatrice} tried to escape, but no matter what she did, she couldn't succeed, `
-`...so she finally chose her own death. `
-`...And then, ......no. `
-`...Maybe there was a girl who looked just like {f:5:Beatrice}...no, a baby. `
-`Grandfather raised this child with care. `
-`But maybe he didn't view this child as his daughter. `
-`"The soul was once again shut up in a cage of flesh." `
-`Those words probably meant that he didn't view this kid as her child, `
-`...but as her reincarnation. `
-`Maybe that's what it meant. `
-`If you interpret it that way, even a story this weird might make a little sense... `
-`...No, no, no. `
-`This might be some bullshit Beato cooked up to confuse me. `
-`As if I could accept any of this...! `
-`In the first place...Kuwadorian, was it? `
-`There's no proof whatsoever that a hidden mansion actually existed. `
-`Couldn't this be something she just fabricated on the spot? `
+`Beato, yang duduk di kursi taman, menatap langit, mengulang pertanyaan yang sama lagi. `
+`Dia bertanya siapa dirinya. `
+`...Arti kata-kata itu akhirnya mulai terasa. `
+`Dia tidak bisa mengerti mengapa dia tinggal di sini, terkunci. `
+`Kinzo menangkap jiwa {f:5:Beatrice}, mengurungnya dalam tubuh daging, `
+`dan kemudian mengurungnya di rumah tersembunyi. `
+`Namun, karena dia telah tinggal di sini sejak kelahirannya, dia bahkan tidak bisa memahami siapa dirinya, `
+`atau mengapa dia hidup terkunci di sana... `
+`...T-Tunggu, tunggu. `
+`Siapa yang akan menganggap serius cerita bodoh seperti itu? `
+`Mengapa aku tidak mengubah interpretasiku? `
+`...Dengan kata lain, bukankah bisa seperti ini? `
+`Kinzo bertemu {f:5:Beatrice}. `
+`Dia kemudian jatuh cinta padanya dan melamarnya, tapi dia tidak menerimanya. `
+`Kemudian, dia marah dan mengurungnya di dalam rumah tersembunyi ini. `
+`{f:5:Beatrice} mencoba melarikan diri, tapi tidak peduli apa yang dia lakukan, dia selalu gagal, `
+`...jadi dia akhirnya memilih kematiannya sendiri. `
+`...Dan kemudian, ......tidak. `
+`...Mungkin ada seorang gadis yang terlihat persis seperti {f:5:Beatrice}...tidak, seorang bayi. `
+`Kinzo membesarkan anak ini dengan penuh perhatian. `
+`Tapi mungkin dia tidak melihat anak ini sebagai putrinya. `
+`"Jiwa itu sekali lagi dikurung dalam sangkar daging." `
+`Kata-kata itu mungkin berarti dia tidak melihat anak ini sebagai anaknya, `
+`...tetapi sebagai reinkarnasinya. `
+`Mungkin itulah artinya. `
+`Jika kau menafsirkannya seperti itu, bahkan cerita seaneh ini mungkin masuk akal... `
+`...Tidak, tidak, tidak. `
+`Ini mungkin omong kosong yang dibuat Beato untuk membingungkanku. `
+`Mana mungkin aku menerima semua ini...! `
+`Pertama-tama... Kuwadorian, ya? `
+`Tidak ada bukti sama sekali bahwa rumah tersembunyi itu benar-benar ada. `
+`Tidakkah ini bisa jadi sesuatu yang dia karang begitu saja? `
 `" `
-`{p:1:A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima}. `
-`That is the place we were just talking about." `
-`"......Huh? `
-`R-Red?!" `
-`Ronove used the red to say that Kuwadorian actually existed. `
-`...Did that mean the same thing as the red Beato used? `
-`"I may not look it, but I am a demon. `
-`...Please keep this a secret from Milady, yes?" `
-`"...S-Sure!" `
-`Beato, who knew I would try to trip her up, had grown extremely cautious when using red. `
-`To think that Ronove could also use the red... `
-`However, it was the red of a crafty man. `
-`I didn't know how far I could accept it, `
-`but anyway, I might be able to get some kind of hint out of it... `
-`"So that Beato relaxing in the garden of Kuwadorian...and that conversation she had with Grandfather...were the truth?" `
-`"Yes. `
-`It is the truth. `
-`In the past, `
-`{p:1:the pair actually had a conversation like that in this place}." `
-`"Th‐thanks a lot. `
-`I'll ask for some more red. `
-`You said she was born from a homunculus, `
-`but does that kind of unscientific, magical thing actually exist?!" `
-`"I am unable to answer that question. `
-`After all, doing so would cause a stalemate." `
-`"...A stalemate?? `
-`What does that mean?" `
-`"It's a chess term referring to a state in which, similar to a "perpetual check", `
-`any further progress in a game becomes impossible. `
-`This would be the opposite of an endless repetition of moves, `
-`because all moves would disappear, and it would bring about a kind of deadlock. `
-`In chess, this would lead to a draw, just as a perpetual check would. `
-`...However, there can be no draws in the game between you and Milady. `
-`Therefore, I am unable to answer a question that would bring about a stalemate." `
-`"......You obviously want to confuse me by saying incomprehensible stuff, `
-`but simply put, you're trying to dodge the question, because you can't use the red to say that something magical like a homunculus exists, right?" `
-`"If I were to say in red that "a witch exists", what would you do, Battler-sama?" `
+`{p:1:Rumah tersembunyi bernama Kuwadorian memang ada di hutan Rokkenjima}. `
+`Itulah tempat yang baru saja kita bicarakan." `
+`"......Hah? `
+`M-Merah?!" `
+`Ronove menggunakan merah untuk menunjukkan bahwa Kuwadorian benar-benar ada. `
+`...Apakah itu artinya sama dengan merah yang digunakan Beato? `
+`"Saya mungkin tidak terlihat seperti itu, tapi saya adalah iblis. `
+`...Tolong jaga rahasia ini dari Nyonya, ya?" `
+`"...T-Tentu!" `
+`Beato, yang tau aku akan mencoba menjeratnya, telah menjadi sangat berhati-hati saat menggunakan merah. `
+`Tidak disangka Ronove juga bisa menggunakan merah... `
+`Tapi, itu adalah merah dari pria yang licik. `
+`Aku tidak tahu sejauh mana aku bisa menerimanya, `
+`tapi bagaimanapun, aku mungkin bisa mendapatkan semacam petunjuk darinya... `
+`"Jadi Beato yang bersantai di taman Kuwadorian itu...dan percakapannya dengan Kakek...adalah kebenaran?" `
+`"Ya. `
+`Itu adalah kebenaran. `
+`Di masa lalu, `
+`{p:1:pasangan itu memang pernah melakukan percakapan seperti itu di tempat ini}." `
+`"T-terima kasih banyak. `
+`Aku akan minta sedikit merah lagi. `
+`Kau bilang dia lahir dari homunculus, `
+`tapi apakah hal ajaib dan tidak ilmiah seperti itu benar-benar ada?!" `
+`"Saya tidak dapat menjawab pertanyaan itu. `
+`Bagaimanapun, melakukannya akan menyebabkan pat." `
+`"...Pat?? `
+`Apa maksudnya?" `
+`"Ini istilah catur yang mengacu pada keadaan di mana, mirip dengan "sekak abadi", `
+`kemajuan lebih lanjut dalam permainan menjadi mustahil. `
+`Ini akan menjadi kebalikan dari pengulangan langkah tanpa akhir, `
+`karena semua langkah akan hilang, dan itu akan menyebabkan semacam kebuntuan. `
+`Dalam catur, ini akan berakhir seri, seperti halnya sekak abadi. `
+`...Namun, tidak boleh ada seri dalam permainan antara anda dan Nyonya. `
+`Oleh karena itu, saya tidak dapat menjawab pertanyaan yang akan menyebabkan kebuntuan." `
+`"......Kau jelas ingin membingungkanku dengan mengatakan hal-hal yang tidak bisa dipahami, `
+`tapi intinya, kau mencoba mengelak dari pertanyaan, karena kau tidak bisa menggunakan merah untuk mengatakan sesuatu yang ajaib seperti homunculus ada, benar?" `
+`"Jika saya mengatakan dalam merah bahwa 'penyihir itu ada', apa yang akan anda lakukan, Battler-sama?" `
 `"......Mu. `
-`...Whether or not I believe that is what our whole fight's about, right? `
-`If I was told that point blank, `
-`it'd be game over." `
-`"If I said "a witch exists" in red, you would have no room for argument. `
-`However, since the reason would never have been made clear to you, Battler-sama, you probably wouldn't accept it. `
-`However, after being told that in red, you would have no room for argument and would not have been shown any proof." `
-`"In this situation, `
-`even though you wouldn't be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock. `
-`Even though checkmate would not have been reached, there would be no existing moves left." `
-`"Since you would not be able to play your next hand, it would never become Milady's turn, `
-`and the game would stop there for all eternity. `
-`As a result, Milady would be unable to force you to submit. `
-`...That would be a deadlock situation. `
-`In order to avoid that, `
-`I am unable to answer questions of this nature in red." `
-`"...So, to say it quickly, you're saying point-blank questions are prohibited? `
-`Well, that's true, I guess. `
-`If I were told "a witch exists", I'd have to give up from the start." `
-`"I am pleased that you understand. `
-`I believe we might be able to work together if you ask your questions in a different form." `
-`"...Can you help me with that line {f:5:Beatrice} dodged when I told her to repeat it? `
-`About the number of people on this island?" `
-`"If Milady held back on repeating it, then of course I cannot respond. `
-`As Milady's furniture, I am unable to be too forward." `
-`Ronove made an exaggerated gesture, trying to act like a loyal retainer. `
-`This guy's so shameless. `
+`...Percaya atau tidaknya itu adalah inti pertarungan kita, kan? `
+`Jika aku diberitahu begitu langsung, `
+`permainan akan berakhir." `
+`"Jika saya mengatakan 'penyihir itu ada' dalam warna merah, anda tidak akan punya ruang untuk berdebat. `
+`Namun, karena alasan itu tidak pernah dijelaskan kepada anda, Battler-sama, anda mungkin tidak akan menerimanya. `
+`Namun, setelah diberitahu begitu dalam warna merah, anda tidak akan punya ruang untuk berdebat dan tidak akan diperlihatkan bukti apa pun." `
+`"Dalam situasi ini, `
+`meskipun anda tidak dapat mengakui kekalahan, anda tidak akan memiliki cara untuk membuat argumen balasan, dan hal itu akan menjadi kebuntuan. `
+`Meskipun skakmat tidak akan tercapai, tidak akan ada langkah yang tersisa." `
+`"Karena anda tidak akan bisa memainkan langkah berikutnya, giliran Nyonya tidak akan pernah tiba, `
+`dan permainan akan berhenti di sana selamanya. `
+`Akibatnya, Nyonya tidak akan bisa memaksa anda untuk menyerah. `
+`...Itu akan menjadi situasi buntu. `
+`Untuk menghindari hal itu, `
+`saya tidak dapat menjawab pertanyaan semacam ini dengan warna merah." `
+`"...Jadi, dengan kata lain, bisa dikatakan pertanyaan langsung dilarang? `
+`Ya, itu benar, kurasa. `
+`Kalau aku diberitau "seorang penyihir ada", aku harus menyerah dari awal." `
+`"Saya senang anda mengerti. `
+`Saya percaya kita mungkin bisa bekerja sama jika anda mengajukan pertanyaan dalam bentuk yang berbeda." `
+`"...Bisakah kau membantuku dengan kalimat {f:5:Beatrice} yang dia hindari saat aku menyuruhnya mengulanginya? `
+`Tentang jumlah orang di pulau ini?" `
+`"Jika Nyonya menahan diri untuk mengulanginya, tentu saja saya tidak bisa menanggapi. `
+`Sebagai furnitur Nyonya, saya tidak bisa terlalu berani." `
+`Ronove membuat gestur berlebihan, berusaha berpura-pura seperti seorang pengikut setia. `
+`Orang ini benar-benar tidak tau malu. `
 `"Heh. `
-`Just when I thought you might actually be useful. `
-`...I'll give up on that and search for a different question. `
-`...That's right. `
-`I was forgetting to check something important. `
-`......This is a story about Beato's memories, right? `
-`When did it happen? `
-`It couldn't be happening right now, right?" `
-`"Correct. `
-`{p:1:This is the world of 1967}. `
-`The world of 19 years previous." `
+`Tepat saat aku berpikir kau mungkin benar-benar berguna. `
+`...Aku akan menyerah dan mencari pertanyaan lain. `
+`...Benar. `
+`Aku lupa memeriksa sesuatu yang penting. `
+`......Ini cerita tentang kenangan Beato, kan? `
+`Kapan itu terjadi? `
+`Tidak mungkin terjadi sekarang, kan?" `
+`"Benar. `
+`{p:1:Ini adalah dunia tahun 1967}. `
+`Dunia 19 tahun yang lalu." `
 `"......Hmmmmm..." `
-`Let's try rearranging this story again. `
-`I wonder if it couldn't be something like this... `
-`Grandfather fell in unrequited love with a person called {f:5:Beatrice}. `
-`Then, he confined her in this hidden mansion and continued to court her. `
-`But she was stubborn and didn't give in. `
-`Eventually, she grew pessimistic about being able to escape from here... `
-`and probably...committed suicide. `
-`......And then, `
-`...her soul was put in a homunculus and... `
-`No, no, if I accept that, it's the same as accepting the witch. `
-`I can interpret that part like this. `
-`She probably...had a posthumous daughter. `
-`Grandfather must've believed that her soul had been placed in a new physical body... `
-`and might have thought that the child was the reincarnation of {f:5:Beatrice}... `
-`...That means, at least 19 years ago, Beato existed on this island as the 19th person, `
+`Mari kita coba susun ulang cerita ini lagi. `
+`Saya penasaran apakah tidak bisa seperti ini... `
+`Kakek jatuh cinta tak terbalas pada seseorang bernama {f:5:Beatrice}. `
+`Kemudian, dia menahan Beatrice di mansion tersembunyi ini dan terus mengejar cintanya. `
+`Tapi dia keras kepala dan tidak menyerah. `
+`Akhirnya, dia menjadi pesimistis tentang kemungkinan bisa melarikan diri dari sini... `
+`dan mungkin... bunuh diri. `
+`......Dan kemudian, `
+`...jiwanya dimasukkan ke dalam homunculus dan... `
+`Tidak, tidak, jika aku menerima itu, itu sama saja dengan menerima penyihir. `
+`Aku bisa menafsirkan bagian itu seperti ini. `
+`Dia mungkin... memiliki anak perempuan setelah kematiannya. `
+`Kakek pasti percaya bahwa jiwanya telah ditempatkan dalam tubuh fisik baru... `
+`dan mungkin berpikir bahwa anak itu adalah reinkarnasi dari {f:5:Beatrice}... `
+`...Artinya, setidaknya 19 tahun yang lalu, Beato ada di pulau ini sebagai orang ke-19, `
 `...umm... `
-`"...I'm starting to get confused. `
-`...Either way, we can't do more than speculate. `
-`The only thing we can say for sure in red... `
-`is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human. `
-`That's all." `
-`"That is correct. `
-`{p:1:In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}." `
-`"Oh, thank you. `
-`That really helps." `
-`"Congratulations. `
-`With this, you have made clear the existence of the piece known as the 19th person. `
-`A 19th human for you to blame, just as you longed for." `
-`"...A sacrificial sheep upon which you can shift the blame of any crime. `
-`How amusing that it happens to be Milady. `
+`"...Aku mulai bingung. `
+`...Bagaimanapun, kita tidak bisa melakukan lebih dari sekadar berspekulasi. `
+`Satu-satunya hal yang bisa kita pastikan dengan pasti adalah... `
+`bahwa pada tahun 1967, di sebuah mansion tersembunyi di Rokkenjima, {f:5:Beatrice} pernah ada sebagai manusia. `
+`Itu saja." `
+`"Itu benar. `
+`{p:1:Pada tahun 1967, di sebuah mansion tersembunyi di Rokkenjima, {f:5:Beatrice}‐sama pernah hidup sebagai manusia}." `
+`"Oh, terima kasih. `
+`Itu benar-benar membantu." `
+`"Selamat. `
+`Dengan ini, anda telah membuktikan keberadaan potongan yang dikenal sebagai orang ke-19. `
+`Seorang manusia ke-19 yang dapat anda salahkan, persis seperti yang anda inginkan." `
+`"...Seekor domba kurban di mana anda dapat mengalihkan kesalahan atas kejahatan apa pun. `
+`Betapa lucunya bahwa ternyata itu adalah Nyonya. `
 `Pu ku ku ku." `
-`Ronove laughed indiscreetly. `
-`Somehow, I didn't like how he put that, so I didn't feel like laughing along with him. `
-`"...That's right. `
-`There's that thing Aunt Rosa said. `
-`...{f:5:Beatrice} is dead? `
-`"I killed her"? `
-`What did that mean...?" `
-`"As for that, it may be faster to see the actual circumstances rather than listen to me tell you. `
-`Let us advance the clock a little more." `
-`Ronove pulled a stylish pocket watch from his pocket and touched the watch stem. `
-`As soon as he did, I saw gold butterflies gather behind his back and take the form of a person. `
-`...Was it Beato?! `
-`I quickly realized that it was someone else. `
-`It was her. `
-`That oldest sister of the Seven Stakes, who loved tormenting me more than her three meals a day. `
-`...If I don't consider myself lucky to see that sexy ass, I won't be able to keep up with their torture game... `
+`Ronove tertawa tanpa rasa malu. `
+`Entah mengapa, aku tidak suka cara dia mengatakannya, jadi aku tidak merasa ingin tertawa bersamanya. `
+`"...Benar. `
+`Ada hal yang dikatakan Bibi Rosa. `
+`...{f:5:Beatrice} sudah mati? `
+`"Aku membunuhnya"? `
+`Apa maksudnya...?" `
+`"Soal itu, mungkin lebih cepat melihat keadaan sebenarnya daripada mendengarkan ceritaku. `
+`Mari kita maju sedikit lebih jauh." `
+`Ronove mengeluarkan jam saku bergaya dari sakunya dan menyentuh batang jam. `
+`Begitu dia melakukannya, aku melihat kupu-kupu emas berkumpul di belakang punggungnya dan membentuk sosok manusia. `
+`...Apakah itu Beato?! `
+`Aku segera menyadari bahwa itu orang lain. `
+`Itu dia. `
+`Sang kakak tertua dari Tujuh Pasak, yang lebih suka menyiksaku daripada makan tiga kali sehari. `
+`...Jika aku tidak menganggap diriku beruntung melihat pantat seksi itu, aku tidak akan bisa mengikuti permainan penyiksaan mereka... `
 `"Ronove-sama. `
-`So, you're still here. `
-`This is an urgent call from {f:5:Beatrice}-sama." `
-`"My, my, `
-`what kind of urgent business could it be? `
-`...It's seems my chat with Battler-sama has run a tad long." `
-`"Well then, Battler-sama, if you will excuse me. `
-`Please continue to enjoy your game with Milady." `
-`"Yeah, yeah. `
-`I'll enjoy it as best I can. `
-`...'Cause my conversations go a lot more smoothly when they're with you, as opposed to her. `
-`And you're more gracious with the red too. `
-`Come and talk again any time you like." `
+`Jadi, anda masih di sini. `
+`Ini panggilan darurat dari {f:5:Beatrice}-sama." `
+`"Astaga, astaga, `
+`ada urusan mendesar apa kira-kira? `
+`...Sepertinya percakapanku dengan Battler-sama sudah agak lama." `
+`"Baiklah, Battler-sama, jika anda berkenan. `
+`Silakan lanjutkan permainan anda dengan Nyonya." `
+`"Ya, ya. `
+`Aku akan menikmatinya sebaik mungkin. `
+`...Karena obrolanku jauh lebih lancar saat bersamamu, daripada dengannya. `
+`Dan kau juga lebih ramah dengan warna merah. `
+`Datang dan bicara lagi kapan saja kau mau." `
 `"......Battler-sama, `
-`despite how I look, I am Milady's furniture. `
-`...I can do nothing that Milady does not desire. `
-`What I said in red was something that normally should have come from Milady's mouth. `
-`...I did nothing more than announce the red truth in Milady's place as she sulked." `
-`"So she really was sulking then? `
+`meskipun penampilan saya seperti ini, saya adalah furnitur Nyonya. `
+`...Saya tidak bisa melakukan apa pun yang tidak diinginkan oleh Nyonya. `
+`Apa yang saya katakan dalam warna merah seharusnya keluar dari mulut Nyonya. `
+`...Saya hanya mengumumkan kebenaran merah itu atas nama Nyonya saat dia sedang cemberut." `
+`"Jadi dia benar-benar sedang cemberut ya? `
 `Ihihihi!" `
 `"Pu ku ku ku." `
-`Seeing me and Ronove incomprehensibly hitting it off, that Stake nee-chan cocked her head curiously. `
+`Melihatku dan Ronove tiba-tiba akur, Pasak nee-chan mengangkat alisnya dengan penasaran. `
 `"Ronove-sama, `
-`we are keeping {f:5:Beatrice}-sama waiting. `
-`Let us hurry." `
-`"Yes, I shall go immediately. `
-`Well, Battler-sama, I will see you later. `
-`...It appears that we have finally started getting along. `
-`As I thought, I have the feeling we'll manage to become good friends." `
-`"Sure, if you mean partners at gossiping behind Beato's back." `
+`kita membuat {f:5:Beatrice}-sama menunggu. `
+`Mari kita bergegas." `
+`"Ya, aku akan pergi segera. `
+`Baiklah, Battler-sama, sampai jumpa nanti. `
+`...Sepertinya kita akhirnya mulai bisa akur. `
+`Seperti yang kuduga, aku merasa kita akan bisa menjadi teman baik." `
+`"Tentu saja, jika yang kau maksud adalah teman gosip di belakang punggung Beato." `
 `"Ronove-sama!" `
-`"Yes, yes. `
-`If you will excuse me." `
-`Maybe she didn't like seeing him act so friendly with me, or maybe she really had been told to hurry. `
-`When the Stake nee-chan let out a thunderous cry, Ronove laughed frivolously and disappeared, as if running away... `
+`"Ya, ya. `
+`Saya permisi." `
+`Mungkin dia tidak suka melihatnya bertindak begitu ramah padaku, atau mungkin dia benar-benar disuruh bergegas. `
+`Ketika Pasak nee-chan mengeluarkan teriakan yang menggelegar, Ronove tertawa dengan ceroboh dan menghilang, seolah-olah melarikan diri... `
 `"...Hmph. `
-`Why am I, the oldest sister of the Seven Stakes of Purgatory, being summoned for menial tasks like this?! `
-`...Even though {f:5:Beatrice}-sama could've told one of the younger sisters, who look like they've got nothing better to do. Sheesh...!" `
-`"Why so grumpy, nee-chan. `
-`If you're hungry, eat a cookie or something. `
-`Why don't I give you the last one? `
+`Mengapa aku, kakak tertua dari Tujuh Pasak Penyucian, dipanggil untuk tugas sepele seperti ini?! `
+`...Padahal {f:5:Beatrice}-sama bisa saja menyuruh salah satu adik perempuan yang terlihat tidak ada pekerjaan lain. Aduh...!" `
+`"Kenapa begitu cemberut, nee-chan. `
+`Kalau lapar, makan kue atau sesuatu. `
+`Mau aku beri yang terakhir? `
 `Ihihi!" `
 `"...Hmmmm? `
-`How thoughtful. `
-`Then, shall I take one?" `
-`I casually pushed the snack plate with the last remaining cookie over to her. `
-`"Thank you." `
-`As though coming as a period at the end of the sentence, a sharp sound pierced the table... `
-`The nails on three of her fingers extended, grew sharp... `
-`and pierced the space between my fingers on the hand that was pushing the plate, missing them by a hair's breadth. `
-`...It had happened in an instant, ...so for a while, I didn't even realize that her fingernails had grown. `
-`The tips of those sharp nails were like blades with a red manicure. `
-`...The spaces between the bases of my fingers hurt sharply. `
-`...Those razor-like blades had been plunged into the table a hair's breadth away from the back of my hand and my fingers... `
-`Because of those three blades, I was unable to even let my careless right hand tremble, and by now, all I could do was let a bead of cold sweat drip down. `
+`Bagaimana baiknya. `
+`Lalu, bolehkah aku mengambil satu?" `
+`Aku dengan santai mendorong piring camilan yang berisi kue terakhir ke arahnya. `
+`"Terima kasih." `
+`Seolah-olah menjadi titik di akhir kalimat, suara tajam menusuk meja... `
+`Kuku di tiga jarinya memanjang, menjadi tajam... `
+`dan menembus ruang di antara jari-jariku yang sedang mendorong piring, hanya selisih seutas rambut. `
+`...Itu terjadi dalam sekejap, ...sehingga untuk sementara waktu, aku bahkan tidak menyadari bahwa kuku jarinya telah tumbuh. `
+`Ujung kuku tajam itu seperti pisau dengan cat kuku merah. `
+`...Ruang di antara pangkal jari-jariku terasa sakit tajam. `
+`...Pisau-pisau tajam itu telah ditancapkan ke meja hanya sejauh rambut dari punggung tanganku dan jariku... `
+`Karena ketiga pisau itu, aku tidak bisa bahkan membiarkan tangan kananku yang ceroboh bergetar, dan sekarang, yang bisa kulakukan hanyalah membiarkan tetesan keringat dingin menetes. `
 `"......Whoa. `
-`...Nee-chan, isn't it about time you cut your nails?" `
-`"It's Lucifer. `
-`...That is my glorious name. `
-`The honored furniture who serves {f:5:Beatrice}-sama, and the oldest sister of the Seven Stakes of Purgatory." `
-`"......I'm not like my disgraceful younger sisters. `
-`If you don't show proper respect, you will regret it." `
-`"...And why would I regret it, exactly? `
-`Can't really think of a reason." `
+`...Nee-chan, bukankah sudah waktunya kau memotong kuku?" `
+`"Lucifer. `
+`...Itu adalah nama muliaku. `
+`furnitur terhormat yang melayani {f:5:Beatrice}-sama, dan kakak tertua dari Tujuh Pasak Penyucian." `
+`"......Aku tidak seperti adik-adik perempuanku yang memalukan. `
+`Kalau kau tidak menunjukkan penghormatan yang pantas, kau akan menyesalinya." `
+`"...Dan mengapa aku harus menyesalinya, tepatnya? `
+`Aku tidak bisa memikirkan alasan apa pun." `
 `"......Heheheheheh. `
-`Stupid kid. `
-`...Do you really wanna play with me that much? `
-`Was it that unforgettable? `
-`I'll thrust my stake deep, deep into you and let you enjoy being gouged to the fullest, okay...? `
+`Anak bodoh. `
+`...Apakah kau benar-benar sangat ingin bermain denganku? `
+`Apakah itu begitu tak terlupakan? `
+`Aku akan menusuk tongkatku dalam-dalam ke dalam dirimu dan membiarkanmu menikmati rasa sakitnya sepenuhnya, oke...? `
 `Heheheheheheheheehehehhh...!" `
-`"...Dammit. `
-`Some day I'll have you down on the floor and say the same thing." `
-`"Oh, really? `
-`Wow, I can't wait. `
+`"...Sialan. `
+`Suatu hari aku akan membuatmu berbaring di lantai dan mengatakan hal yang sama." `
+`"Oh, benarkah? `
+`Wow, aku tidak sabar. `
 `Hehheheheheheheh... `
 `...Ahahahahahahahahahahahahahahahahaha...!!!" `
-`Rosa eventually regained her calm. `
-`The men wanted to hurry her into talking faster, but Kyrie intervened. `
-`...If something like that really had happened, ...then it would have been a terrible experience that Rosa wouldn't want to remember. `
-`After taking several deep breaths with her hand over her chest, it seemed that she had more or less resolved herself to talk... `
-`"...How old was I then, I wonder... `
-`...Middle school probably, ...though I don't remember well. `
-`Anyway, I think I was about that age..." `
-`"Which means...maybe about 20 years ago?" `
-`"Back then, my grades weren't very good, and Mother was always angry at me. `
-`...I tried to do my best in my own way, `
-`but I couldn't match up to Mother's expectations at all..." `
-`"...Mother was always very strict with Rosa. `
-`I sympathized with her at the time." `
+`Rosa akhirnya kembali tenang. `
+`Para pria ingin memaksanya berbicara lebih cepat, tetapi Kyrie campur tangan. `
+`...Jika hal seperti itu benar-benar terjadi, ...maka itu akan menjadi pengalaman yang mengerikan yang tidak ingin Rosa ingat. `
+`Setelah mengambil beberapa napas dalam-dalam dengan tangannya di dada, sepertinya dia sudah lebih kurang memutuskan untuk berbicara... `
+`"...Berapa umurku saat itu, ya... `
+`...Mungkin saat SMP, ...meski aku tidak ingat dengan jelas. `
+`Bagaimanapun, aku pikir aku sekitar usia itu..." `
+`"Artinya... mungkin sekitar 20 tahun yang lalu?" `
+`"Saat itu, nilai-nilaiku tidak terlalu bagus, dan Ibu selalu memarahiku. `
+`...Aku berusaha sebaik mungkin dengan caraku sendiri, `
+`tapi aku sama sekali tidak bisa memenuhi harapan Ibu..." `
+`"...Ibu selalu sangat ketat dengan Rosa. `
+`Aku merasa kasihan padanya saat itu." `
 `"Hmph. `
-`You say that, even though you were always talking behind her back." `
-`"Would you give it a rest, Eva? `
-`And then? `
-`Where did you meet {f:5:Beatrice}, Rosa-san?!" `
-`"Hideyoshi-san, you mustn't rush her now. `
-`...It's okay, Rosa-san. `
-`Tell us at your own pace." `
-`"......Thank you. `
-`...It was a day I'd been harshly scolded by Mother." `
-`Even though my tutor had promised to keep it a secret, `
-`...apparently, they told Mother all about how I had complained. `
-`Mother scolded me brutally, saying my name was a disgrace to the Ushiromiya family. `
-`...Of course, I was doing the best I could. `
-`But I had none of Krauss nii-san's dignity, `
-`I couldn't get excellent grades like Eva nee-san, `
-`and I had no leadership abilities like Rudolf nii-san. `
-`...I never stood out, didn't particularly excel at anything, `
-`and I found myself asking why I'd even been born into the Ushiromiya family. `
-`I began to question more and more why I'd even been born at all. `
-`...This is what happened on the day I experienced my mind going blank for the first time... `
-`For the first time in my life, `
-`...I realized that in addition to facing or surrendering to my problems, `
-`I had the third choice of running away. `
-`Though I say "run away", there was no way I could've left Rokkenjima and gone somewhere else. `
-`But, anyway, I wanted to run away from the mansion and my own self at that time. `
-`...In a way, it was like a kid running away from home, or maybe a passive sort of suicide... `
-`"...I wanted to disappear. `
-`Or maybe it was that child-like form of resistance where I tried to make my parents worry by disappearing... `
-`......I childishly thought that if I went into the center of the forest, escaped from the Ushiromiya house, `
-`and maybe became lost, then I'd make them worry and teach them a lesson." `
-`"And then, ...you went into the forest that you were told never to enter?" `
-`"...Yes. `
-`After reaching the beach, I followed alongside the ocean. `
-`...I didn't have any particular reason, `
-`...but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about, `
-`which might become a hidden house just for me." `
-`"If you go around by the beach, that'd be impossible. `
-`It becomes a cliff partway, right? `
-`There's no way you could pass that way." `
-`"...Of course. `
-`So, I kept going wherever I could, which kept taking me deeper and deeper inland. `
-`...It's a horrible forest without any paths, but that was comforting to me then. `
-`...If I could make it through such a dangerous forest, `
-`then I'd be that much further away from the Ushiromiya family." `
-`"......How shameful. `
-`If you were scolded because of your grades, all you had to do was work harder." `
-`"You mustn't say that. `
-`Doesn't Rosa have her talent as a designer instead?" `
-`Literally speaking, he was covering for Rosa, `
-`but everyone knew that Rosa's company hadn't been profitable. `
-`"Quit it. `
-`This is no time for sarcasm. `
-`...So, you managed to end up there by coincidence...? `
-`At {f:5:Beatrice}'s... `
-`hidden mansion." `
-`Rosa nodded weakly... `
-`"About how far did you walk? `
-`Could you show it to us on a map...? `
-`Natsuhi-san, do you have a map of this island?" `
-`"No, there isn't one here now..." `
-`"It wouldn't help. `
-`I was just walking randomly. `
-`Even if you gave me a map, I wouldn't know. `
-`...And 20 years have passed since then. `
-`I probably couldn't reach it again even if I went into the forest..." `
+`kau bilang begitu, padahal kau selalu membicarakannya di belakang punggungnya." `
+`"Bisakah kau berhenti, Eva? `
+`Lalu apa? `
+`Di mana kau bertemu {f:5:Beatrice}, Rosa-san?!" `
+`"Hideyoshi-san, kau tidak boleh terburu-buru sekarang. `
+`...Tidak apa-apa, Rosa-san. `
+`Ceritakan pada kami dengan tempo kau sendiri." `
+`"......Terima kasih. `
+`...Itu adalah hari ketika aku dimarahi dengan keras oleh Ibu." `
+`Meskipun guru lesku telah berjanji untuk menjaga rahasia, `
+`...ternyata, mereka memberitahu Ibu tentang bagaimana aku mengeluh. `
+`Ibu memarahiku dengan kejam, mengatakan namaku adalah aib bagi keluarga Ushiromiya. `
+`...Tentu saja, aku sudah berusaha sebaik mungkin. `
+`Tapi aku tidak memiliki kewibawaan Krauss nii-san, `
+`aku tidak bisa mendapatkan nilai yang bagus seperti Eva nee-san, `
+`dan aku tidak memiliki kemampuan kepemimpinan seperti Rudolf nii-san. `
+`...Aku tidak pernah menonjol, tidak unggul dalam hal apa pun, `
+`dan aku mulai bertanya-tanya mengapa aku bahkan dilahirkan dalam keluarga Ushiromiya. `
+`Aku mulai mempertanyakan semakin dalam mengapa aku bahkan dilahirkan sama sekali. `
+`...Inilah yang terjadi pada hari pertama kali aku mengalami pikiran kosong... `
+`Untuk pertama kalinya dalam hidupku, `
+`...aku sadar kalau selain menghadapi atau menyerah pada masalahku, `
+`aku punya pilihan ketiga untuk melarikan diri. `
+`Walau aku mengatakan "melarikan diri", tidak ada cara bagiku untuk meninggalkan Rokkenjima dan pergi ke tempat lain. `
+`Tapi, bagaimanapun, saat itu aku ingin melarikan diri dari mansion dan dari diriku sendiri. `
+`...Dalam arti tertentu, itu seperti seorang anak yang melarikan diri dari rumah, atau mungkin semacam bunuh diri pasif... `
+`"...aku ingin menghilang. `
+`Atau mungkin itu adalah bentuk perlawanan anak-anak di mana aku mencoba membuat orang tuaku khawatir dengan menghilang... `
+`......Aku berpikir secara kekanak-kanakan jika aku masuk ke tengah hutan, melarikan diri dari rumah Ushiromiya, `
+`dan mungkin tersesat, maka aku akan membuat mereka khawatir dan memberi mereka pelajaran." `
+`"Dan kemudian, ...kau masuk ke hutan yang dilarang untuk dimasuki?" `
+`"...Ya. `
+`Setelah sampai di pantai, aku mengikuti tepi laut. `
+`...Aku tidak punya alasan khusus, `
+`...tapi aku merasa, kalau aku pergi ke sisi lain pulau, mungkin ada tempat di sana yang tidak diketahui oleh siapa pun, `
+`yang mungkin menjadi rumah tersembunyi hanya untukku." `
+`"Jika kau pergi mengelilingi pantai, itu tidak mungkin. `
+`Itu menjadi tebing di tengah jalan, kan? `
+`Tidak mungkin kau bisa melewati sana." `
+`"...Tentu saja. `
+`Jadi, aku terus berjalan ke mana pun aku bisa, yang terus membawaku semakin dalam ke pedalaman. `
+`...Itu adalah hutan yang mengerikan tanpa jalan setapak, tapi saat itu hal itu justru membuatku merasa tenang. `
+`...Jika aku bisa melewati hutan berbahaya seperti itu, `
+`maka aku akan semakin jauh dari keluarga Ushiromiya." `
+`"......Betapa memalukan. `
+`Jika kau dimarahi karena nilai-nilaimu, yang harus kau lakukan hanyalah bekerja lebih keras." `
+`"kau tidak boleh mengatakan itu. `
+`Bukankah Rosa memiliki bakatnya sebagai desainer?" `
+`Secara harfiah, dia sedang melindungi Rosa, `
+`tapi semua orang tau kalau perusahaan Rosa tidak menguntungkan. `
+`"Sudah cukup. `
+`Ini bukan waktu untuk sarkasme. `
+`...Jadi, kau bisa berakhir di sana secara kebetulan...? `
+`Di mansion tersembunyi `
+`{f:5:Beatrice}'...." `
+`Rosa mengangguk lemah... `
+`"Seberapa jauh kau berjalan? `
+`Bisakah kau tunjukkan di peta...? `
+`Natsuhi-san, apakah kau punya peta pulau ini?" `
+`"Tidak, tidak ada di sini sekarang..." `
+`"Itu tidak akan membantu. `
+`aku hanya berjalan acak. `
+`Bahkan kalau kau memberiku peta, aku tidak akan tau. `
+`...Dan sudah 20 tahun berlalu sejak saat itu. `
+`Mungkin aku tidak bisa mencapainya lagi bahkan jika aku masuk ke hutan..." `
 `"......Hmmmmmm..." `
-`Several people let out dejected sighs. `
-`It was vividly clear that in their haste, they'd thought some hint related to the witch's epitaph... `
-`or maybe even the gold itself might be resting there. `
-`"On Rokkenjima, only the land around the mansion is ready to be developed on. `
-`...The rest is completely uncultivated, and it'd probably take a lot of work to survey the entire island." `
-`"But just knowing that it actually exists is helpful. `
-`It would take some money, but if we enlisted an aerial photography company to investigate, `
-`or asked the businessman who constructed this mansion about what happened at the time, `
-`we could probably find some way to search for it." `
-`"That's right. `
-`...At least we have more options now, as opposed to when we weren't sure it existed." `
-`"...Indeed. `
-`It may be worth investigating right away." `
-`"The siblings will do that investigation together. `
-`We won't leave you on your own, Nii-san." `
-`It wasn't yet certain that the gold was hidden in that secret mansion, `
-`but the sparks seemed to have started flying between Krauss and Eva already. `
-`"Give it a rest for now, you two. `
-`Rosa, please continue." `
-`"......Yes." `
-`Blindly, randomly, I kept running, on and on. `
-`Suddenly, I came across something I thought was an animal trail. `
-`I was very tired and had no idea how far I'd walked, `
-`so at that time, I naturally took the easiest path. `
-`As I did, ......suddenly, right before my eyes, a very, very tall fence appeared. `
-`It was a fence wonderfully adorned in a gothic style. `
-`For an instant, I thought I'd gotten turned around and returned to the original mansion. `
-`Of course, there were fences around the mansion to stop us from entering the forest. `
-`But this fence was decorated differently, ...and moreover, it was very tall. `
-`It probably reached a full two stories up. `
-`It was covered with ivy and created a mysterious, solemn atmosphere... `
-`At the time, ...I believed in the legend of the witch of the forest, {f:5:Beatrice}. `
-`I had been told that she was frightening, `
-`but some of the servants told me that she'd sometimes help you if you respected her. `
-`...Since I had little confidence in those days, `
-`I believed the only way I could be saved was by receiving her help. `
-`That's why I thought what I did. `
-`...I believed that this was the fence of the mansion belonging to {f:5:Beatrice}, the witch of the forest. `
-`I thought that if I could meet with {f:5:Beatrice}, she'd definitely save me. `
-`So I decided to try going in. `
-`But the fence was very, very tall, and it didn't look like I'd be able go over it. `
-`So I chose to walk around it. `
-`I thought that if I did, I'd eventually reach a gate. `
-`But it wasn't that easy. `
-`The fence had an incredible length to match its incredible height, and no matter how far I went, I didn't reach a corner. `
-`It might have encircled a massive area, `
-`...or maybe I just had that impression because my child's legs made it difficult to walk in the forest. `
-`Anyway, I couldn't find a gate for a while, `
-`and I started to feel sad, as though the witch had rejected me... `
-`As I did, I eventually came upon a large tree, whose twisted root had bent the fence. `
-`It might get my clothes dirty, but if I crawled, it looked like I'd be able to sneak in... `
-`"......And there you found the hidden mansion?" `
-`"I don't know if it was the hidden mansion we've been talking about... `
-`Still, at the very least, it wasn't a place that we know of." `
-`It wasn't as though I came out into a garden as soon as I passed the fence. `
-`I had to continue through a lot more uncultivated forest after that. `
-`As I did, ...the forest suddenly opened up. `
-`And what appeared there... `
-`...was an unbelievably fantastical scene. `
-`To think that, on Rokkenjima, where I thought only we lived, `
-`...there could be such a wonderful mansion hidden away... `
-`A beautiful flower garden spanned the front of the mansion. `
-`It was a flower garden of a completely different design from the rose garden we know so well, and it was very lovely. `
-`Of course, the mansion was also wonderful. `
-`...It was a couple sizes smaller than ours, `
-`but it was still elegant and adorable at the same time. `
-`Then, ......I saw her figure. `
-`I saw her sitting in a garden chair positioned to give a view of the flower garden, wearing an elegant dress. `
-`It was that black dress embroidered in gold that we would later know from that portrait. `
-`...I hadn't seen an elegant dress like that except in fairy tales and on the stage of musicals. `
-`...For a person to be wearing it as her normal clothes... That in itself seemed quite fantastical. `
-`That mysterious scene was enough to make me lose my sense of reality. `
-`If someone had told me then that it was a dream, `
-`I might have nodded obediently and waited to wake up in my bed... `
-`I had forgotten to hide myself in my shock, so she eventually spotted me. `
-`At first, her expression was quite listless, `
-`but when she noticed me, her eyes opened very wide. `
-`...It was only natural, considering that a guest she didn't know had suddenly appeared. `
-`I lowered my head automatically, planning to greet her and apologize for entering without permission... `
-`"......Who are you? `
-`The new gardener?" `
-`Those were the first words she said to me. `
-`...I grew slightly calmer. `
-`Because I realized that we could talk to each other. `
-`Because I hadn't been turned into a frog just by meeting her eyes, like a terrifying witch in a fairy tale. `
-`"...I- `
-`I'm sorry. `
-`...I shouldn't have entered the garden without permission..." `
+`Beberapa orang menghela napas kecewa. `
+`Jelas sekali dalam ketergesaan mereka, mereka berpikir ada petunjuk terkait epitaf penyihir... `
+`atau mungkin emas itu sendiri mungkin berada di sana. `
+`"Di Rokkenjima, hanya tanah di sekitar mansion yang siap untuk dikembangkan. `
+`...Sisanya sama sekali belum diolah, dan mungkin akan membutuhkan banyak usaha untuk mensurvei seluruh pulau." `
+`"Tapi hanya mengetahui bahwa itu benar-benar ada sudah membantu. `
+`Akan membutuhkan uang, tetapi jika kita menyewa perusahaan fotografi udara untuk menyelidiki, `
+`atau menanyakan kepada pengusaha yang membangun mansion ini tentang apa yang terjadi saat itu, `
+`kita mungkin bisa menemukan cara untuk mencarinya." `
+`"Benar. `
+`...Setidaknya sekarang kita punya lebih banyak pilihan, dibandingkan saat kita tidak yakin keberadaannya." `
+`"...Benar. `
+`Mungkin sebaiknya kita selidiki segera." `
+`"Saudara-saudara akan melakukan penyelidikan itu bersama-sama. `
+`Kita tidak akan membiarkanmu sendirian, Nii-san." `
+`Belum pasti apakah emas itu disembunyikan di mansion rahasia itu, `
+`tetapi percikan api sepertinya sudah mulai muncul antara Krauss dan Eva. `
+`"Berhentilah sejenak, kalian berdua. `
+`Rosa, tolong lanjutkan." `
+`"......Ya." `
+`Tanpa arah, secara acak, aku terus berlari, terus menerus. `
+`Tiba-tiba, aku menemukan sesuatu yang kupikir adalah jejak hewan. `
+`Aku sangat lelah dan tidak tau seberapa jauh aku sudah berjalan, `
+`jadi pada saat itu, aku secara alami mengambil jalan yang paling mudah. `
+`Saat aku melakukannya, ......tiba-tiba, tepat di depan mataku, pagar yang sangat, sangat tinggi muncul. `
+`Itu adalah pagar yang dihiasi dengan gaya gotik yang indah. `
+`Untuk sesaat, aku berpikir aku tersesat dan kembali ke mansion asli. `
+`Tentu saja, ada pagar di sekitar mansion untuk mencegah kita masuk ke hutan. `
+`Tapi pagar ini dihiasi dengan cara yang berbeda, ...dan selain itu, sangat tinggi. `
+`Mungkin tingginya mencapai dua lantai penuh. `
+`Pagar itu ditutupi dengan tanaman merambat dan menciptakan suasana misterius dan tenang... `
+`Saat itu, ...aku percaya pada legenda penyihir hutan, {f:5:Beatrice}. `
+`Aku pernah diberitahu kalau dia menakutkan, `
+`tetapi beberapa pelayan memberitahuku kalaudia terkadang akan membantu kalau kau menghormatinya. `
+`...Karena aku tidak terlalu percaya diri saat itu, `
+`aku percaya satu-satunya cara aku bisa diselamatkan adalah dengan menerima bantuannya. `
+`Itulah mengapa aku berpikir seperti itu. `
+`...aku yakin ini adalah pagar mansion milik {f:5:Beatrice}, penyihir hutan. `
+`aku berpikir jika aku bisa bertemu dengan {f:5:Beatrice}, dia pasti akan menyelamatkanku. `
+`Jadi aku memutuskan untuk mencoba masuk. `
+`Tapi pagar itu sangat, sangat tinggi, dan sepertinya aku tidak bisa melompati pagar itu. `
+`Jadi aku memilih untuk berjalan mengelilinginya. `
+`aku pikir jika aku melakukannya, aku akhirnya akan sampai ke gerbang. `
+`Tapi ternyata tidak semudah itu. `
+`Pagar itu memiliki panjang yang luar biasa untuk menandingi ketinggiannya yang luar biasa, dan tidak peduli seberapa jauh aku berjalan, aku tidak sampai ke sudut. `
+`Mungkin pagar itu mengelilingi area yang sangat luas, `
+`...atau mungkin aku hanya merasa begitu karena kaki anak-anak membuat sulit berjalan di hutan. `
+`Bagaimanapun, aku tidak bisa menemukan gerbang sama sekali, `
+`dan aku mulai merasa sedih, seolah-olah penyihir itu telah menolaku... `
+`Saat itu, aku akhirnya menemukan pohon besar, akar yang melengkung telah membengkokkan pagar. `
+`Mungkin pakaianku akan kotor, tapi kalau aku merangkak, sepertinya aku bisa menyelinap masuk... `
+`"......Dan di situlah kau menemukan mansion tersembunyi?" `
+`"Aku tidak tau apakah itu mansion tersembunyi yang kita bicarakan... `
+`Tetapi setidaknya, itu bukan tempat yang kita ketahui." `
+`Bukan berarti aku langsung keluar ke taman begitu melewati pagar. `
+`Aku harus terus melewati hutan liar yang luas setelah itu. `
+`Saat aku melakukannya, ...hutan tiba-tiba terbuka. `
+`Dan apa yang muncul di sana... `
+`...adalah pemandangan yang luar biasa fantastis. `
+`Bayangkan saja, di Rokkenjima, tempat yang aku kira hanya kami yang tinggal, `
+`...ada sebuah mansion yang begitu indah tersembunyi... `
+`Sebuah taman bunga yang indah membentang di depan mansion. `
+`Itu adalah taman bunga dengan desain yang sama sekali berbeda dari taman mawar yang kita kenal, dan sangat indah. `
+`Tentu saja, mansion itu juga luar biasa. `
+`...Ukurannya sedikit lebih kecil dari milik kita, `
+`tetapi tetap elegan dan mempesona pada saat yang sama. `
+`Lalu, ......aku melihat sosoknya. `
+`Aku melihatnya duduk di kursi taman yang posisinya menghadap ke kebun bunga, mengenakan gaun elegan. `
+`Itu adalah gaun hitam yang dihiasi emas yang nantinya kita kenal dari potret itu. `
+`...aku belum pernah melihat gaun elegan seperti itu kecuali dalam dongeng dan di panggung musikal. `
+`...Bagi seseorang untuk mengenakannya sebagai pakaian sehari-hari... Itu sendiri terasa sangat fantastis. `
+`Adegan misterius itu cukup membuatku kehilangan kesadaran akan kenyataan. `
+`Jika seseorang memberitahu aku saat itu bahwa itu hanyalah mimpi, `
+`mungkin aku akan mengangguk patuh dan menunggu bangun di tempat tidurku... `
+`aku lupa menyembunyikan diri dalam keterkejutan aku, jadi dia akhirnya melihatku. `
+`Awalnya, ekspresinya tampak lesu, `
+`tetapi ketika dia menyadari keberadaanku, matanya melebar dengan sangat lebar. `
+`...Itu wajar saja, mengingat seorang tamu yang tidak dia kenal tiba-tiba muncul. `
+`Aku menundukkan kepala secara otomatis, berencana untuk menyapanya dan meminta maaf karena masuk tanpa izin... `
+`"......Siapa kau? `
+`Tukang kebun baru?" `
+`Itulah kata-kata pertama yang dia ucapkan padaku. `
+`...Aku sedikit lebih tenang. `
+`Karena aku menyadari bahwa kita bisa berbicara satu sama lain. `
+`Karena aku tidak berubah menjadi katak hanya dengan menatap matanya, seperti penyihir menakutkan dalam dongeng. `
+`"...Aku- `
+`Maaf. `
+`...Aku tidak seharusnya masuk ke taman tanpa izin..." `
 `"......... `
-`...Who are you? `
-`Name yourself." `
-`"I-I am Ushiromiya Rosa." `
+`...Siapa kau? `
+`Sebutkan namamu." `
+`"Aku... aku adalah Ushiromiya Rosa." `
 `"...Ushiromiya... `
 `.........Hoh. `
-`...One of Kinzo's family?" `
-`"Huh? `
-`Ah, yes! `
-`I'm Kinzo's daughter. `
-`G-Good afternoon...!" `
-`I was a little surprised. `
-`...After all, Father was a great man, feared by everyone. `
-`And yet, she had spoken of him without using honorifics. `
-`So, I was immediately terrified of her. `
-`...After all, `
-`if she could refer to my fearsome father that way, she must be a witch with incredible power. `
-`After staring at me curiously, she beckoned me to come over. `
-`Frightened as I was, I obeyed. `
-`...After all, I thought she might really turn me into a frog. `
-`...The closer I got, the stronger that fear became. `
-`After all, ...as I keep saying over and over, `
-`......that woman and her dress and the flower garden and the mansion... `
-`that whole picture was so fantastical and beautiful that it seemed separate from reality. `
-`It probably wouldn't have surprised me at all to learn that she really was a witch... `
-`And I really was lucky. `
-`She hadn't turned me into a frog. `
-`As I awkwardly stood there, stock still, she motioned to an open chair and urged me to sit down. `
-`"Have a seat. `
-`Welcoming and speaking to those who visit this garden for the first time is my sole pleasure. `
-`......Of course, I have no pleasures other than that." `
-`As she said this, she let an unhappy smile show for just an instant. `
-`Because I was full of a strange mix of tension and excitement, I rudely asked her a question all of a sudden. `
+`...Salah satu anggota keluarga Kinzo?" `
+`"Hah? `
+`Ah, ya! `
+`aku putri Kinzo. `
+`S-Selamat siang...!" `
+`aku sedikit terkejut. `
+`...Lagi pula, Ayah adalah pria hebat yang ditakuti oleh semua orang. `
+`Dan juga, dia berbicara tentangnya tanpa menggunakan gelar kehormatan. `
+`Jadi, aku langsung merasa takut padanya. `
+`...Lagi pula, `
+`jika dia bisa menyebut ayahku yang menakutkan seperti itu, dia pasti seorang penyihir dengan kekuatan yang luar biasa. `
+`Setelah menatapku dengan penasaran, dia melambai-lambai memintaku untuk mendekat. `
+`Meskipun takut, aku menuruti permintaannya. `
+`...Lagi pula, aku pikir dia mungkin benar-benar akan mengubahku menjadi katak. `
+`...Semakin dekat aku, semakin kuat rasa takut itu. `
+`Lagi pula, ...seperti yang aku terus katakan, `
+`......wanita itu, gaunnya, taman bunga, dan mansion... `
+`seluruh pemandangan itu begitu fantastis dan indah sehingga terasa terpisah dari kenyataan. `
+`Mungkin aku sama sekali tidak akan terkejut jika ternyata dia benar-benar seorang penyihir... `
+`Dan aku benar-benar beruntung. `
+`Dia tidak mengubahku menjadi katak. `
+`Saat aku berdiri di sana dengan canggung, diam tak bergerak, dia memberi isyarat ke kursi yang kosong dan mendesakku untuk duduk. `
+`"Silakan duduk. `
+`Menyambut dan berbicara dengan mereka yang mengunjungi taman ini untuk pertama kalinya adalah kesenanganku tersendiri. `
+`......Tentu saja, aku tidak memiliki kesenangan lain selain itu." `
+`Saat dia mengatakan itu, dia memperlihatkan senyuman sedih sejenak. `
+`Karena aku dipenuhi campuran aneh antara ketegangan dan kegembiraan, aku tiba-tiba bertanya padanya dengan kasar. `
 `"...Umm, `
-`...are you the witch of the forest, `
+`...apakah anda penyihir hutan, `
 `...{f:5:Beatrice}?" `
-`"Indeed. `
-`I am {f:5:Beatrice}." `
-`"As I thought. `
-`{f:5:Beatrice} actually existed..." `
-`"...Did she really look like the portrait?" `
-`"...Yes. `
-`Really, just like the portrait." `
-`"So, `
-`...she wasn't just a witch from Father's imagination..." `
-`"Well, what did you talk with her about?" `
-`"...As she prepared some tea, she asked me all kinds of things about myself. `
-`...First, she was surprised that I had come through the forest. `
-`It seems she believed that many dangerous wolves lived outside the fence." `
-`"...So when I told her I'd come through the forest to reach this place, she was shocked. `
-`She asked how I had managed to escape from the wolves. `
-`Did I give them a biscuit and they let me go? `
-`Or did I cover myself in a magic cloak? ...That kind of thing." `
+`"Benar. `
+`aku adalah {f:5:Beatrice}." `
+`"Seperti yang kuduga. `
+`{f:5:Beatrice} benar-benar ada..." `
+`"...Apakah dia benar-benar mirip dengan potretnya?" `
+`"...Ya. `
+`Benar-benar, persis seperti potretnya." `
+`"Jadi, `
+`...dia bukan hanya penyihir dari imajinasi Ayah..." `
+`"Nah, apa yang kau bicarakan dengannya?" `
+`"...Saat dia menyiapkan teh, dia menanyakan berbagai hal tentang diriku. `
+`...Pertama, dia terkejut kalau aku datang melalui hutan. `
+`Sepertinya dia percaya banyak serigala berbahaya tinggal di luar pagar." `
+`"...Jadi ketika aku memberitahunya kalau aku melewati hutan untuk sampai ke tempat ini, dia terkejut. `
+`Dia bertanya bagaimana aku berhasil melarikan diri dari serigala-serigala itu. `
+`Apakah aku memberi mereka biskuit dan mereka membiarkanku pergi? `
+`Atau apakah aku menutupi diriku dengan jubah sihir? ...Hal-hal seperti itu." `
 `"Wahahaha. `
-`...That sure sounds like a witch. `
-`What an interesting person." `
-`"Quiet, dear. `
-`......This goes way back, `
-`but didn't Father threaten us, saying we should never get near the forest because of the wolves that lived there?" `
-`"Yes, he did say something of the sort. `
-`Ridiculous. `
-`Even though Japanese wolves went extinct long ago. `
-`Truly a trick to fool children." `
-`"I don't remember though. `
-`Did Dad really tell us something like that...? `
-`It was the witch of the forest, right? `
-`I don't think I've ever heard about wolves." `
-`"This was when you were still in elementary school. `
-`Don't you remember? `
-`Back then, you actually said you thought it'd be cool to try petting the wolves. `
-`Father immediately gave up the wolf story and changed it to the story about the witch. `
-`Seriously, what transparent lies they were, ahahahahaha." `
+`...Itu pasti terdengar seperti penyihir. `
+`Orang yang menarik." `
+`"Diamlah, sayang. `
+`......Ini sudah lama sekali, `
+`tapi bukankah Ayah pernah mengancam kita, mengatakan kita tidak boleh mendekati hutan karena serigala yang tinggal di sana?" `
+`"Ya, dia memang pernah mengatakan hal seperti itu. `
+`Bodoh sekali. `
+`Padahal serigala Jepang sudah punah sejak lama. `
+`Benar-benar trik untuk menipu anak-anak." `
+`"Aku tidak ingat sih. `
+`Apakah Ayah benar-benar mengatakan hal seperti itu kepada kita...? `
+`Itu adalah penyihir hutan, kan? `
+`Aku tidak pernah mendengar tentang serigala." `
+`"Ini saat kau masih di sekolah dasar. `
+`kau tidak ingat? `
+`Dulu, kau sebenarnya bilang kau pikir akan keren mencoba mengelus serigala. `
+`Ayah langsung menyerah dengan cerita serigala dan menggantinya dengan cerita tentang penyihir. `
+`Benar-benar kebohongan yang terlihat jelas, ahahahahaha." `
 `"Hahahahah. `
-`At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves. `
-`I remember it well. `
-`Don't you remember those nights when you clung to my back?" `
-`"...*giggle* `
-`I see, so even Rudolf-san used to be that cute." `
-`"Shut up. `
-`I was just a kid." `
-`"...Well, at any rate, `
-`if Father's the one who shut {f:5:Beatrice} up in there, it makes sense that he'd use the same story about wolves. `
-`To him, the vast forest of Rokkenjima was a wall that shouldn't be crossed, dividing his two incompatible worlds: `
-`the Ushiromiya family and his mistress's mansion." `
-`"Considering the height of that fence, it does sound as though Father turned that whole area, garden and all, into a giant jail cell. `
-`...Just like a border dividing his two separate worlds." `
-`"...Wolves aside, could there have been some breed of stray dogs there at the time? `
-`Perhaps the fence was there to protect against those." `
-`"There aren't any wolves or stray dogs on Rokkenjima. `
-`That fence was probably... `
-`a border between us and {f:5:Beatrice}." `
-`"But if she innocently believed that story about wolves, that's pretty...naive. `
-`That's nothin' like what I'd expect a witch to do." `
-`"...You're right. `
-`I sensed that too. `
-`...She was very pompous, just like my image of a witch, `
-`...but she was somehow very childish. `
-`She was...how should I put it...too straightforward. `
-`...She gave me the impression that she didn't know anything about the world." `
-`"It was as though...she'd come from some fairy-tale land. `
-`...She really was a strange person." `
-`"...What happened after that? `
-`...Did you end up talking about Dad at all?" `
-`"Yes. `
-`Once every few days, usually on an arranged day but sometimes suddenly, `
-`Father would casually appear and they'd drink together, or else take a walk together or something. `
-`She said she just happened to be alone on the day I visited." `
-`"I see. `
-`An obvious mistress, you might say. `
-`...My, my. `
-`I don't know how much younger she was, but good for Father." `
-`"...We can be sure this was no indecent relationship." `
-`"Idiot, there's no way a lover's meeting between a man and a woman wouldn't have some sensuality. `
-`What happened next? `
-`What did you talk about after that?" `
-`"......I'd already introduced myself, so I asked about her. `
-`...When I did, the atmosphere quickly grew depressing. `
-`...How should I put it... She seemed to grow listless and lonely. `
-`...It was that same expression I saw on her face in the beginning." `
-`"Well, she was his hidden mistress, after all. `
-`If she just walked around wherever she liked, Mom might've found her. `
-`...I'll bet she was practically under house arrest." `
-`"Even though she had beautiful clothes, a beautiful mansion, and a garden, she must've felt pretty cramped. `
-`I'll bet she had it rough. `
-`......And then?" `
-`"She was definitely worried about something. `
-`...I remember feeling really sad myself, `
-`when I realized it wasn't something I could do anything about by talking to her." `
-`"......She seemed to forget I was even there. `
-`...She gazed vaguely off into the distance...and was silent for a long, long time. `
-`...I thought I must've said something wrong, `
-`...but it didn't seem to be the type of atmosphere where I could apologize, `
-`...so I remained silent too for a long, long time, until she remembered I was there..." `
-`And then, ...she muttered unexpectedly. `
-`"......Are there really no wolves beyond the fence?" `
-`"...Huh? `
-`Y-Yes, that's right. `
-`I've never seen wolves, not even in a zoo." `
-`"What is a zoo?" `
-`"Ah, ...it's a place where they keep all kinds of animals. `
-`They're full of rare animals like elephants and giraffes and pandas." `
+`Saat itu, cerita tentang penyihir memiliki dampak yang jauh lebih langsung padamu, Rudolf, daripada cerita tentang serigala. `
+`Aku ingat dengan jelas. `
+`kau tidak ingat malam-malam ketika kau memeluk punggungku?" `
+`"...*cekikikan* `
+`Begitu ya, jadi bahkan Rudolf-san dulu juga pernah seimut itu." `
+`"Diam. `
+`Aku kan masih anak-anak." `
+`"...Yah, bagaimanapun juga, `
+`jika Ayah yang mengurung {f:5:Beatrice} di sana, masuk akal kalau dia menggunakan cerita yang sama tentang serigala. `
+`Baginya, hutan luas Rokkenjima adalah dinding yang tidak boleh dilintasi, memisahkan dua dunianya yang terpisah: `
+`keluarga Ushiromiya dan mansion selingkuhannya." `
+`"Mengingat tinggi pagar itu, sepertinya Ayah mengubah seluruh area itu, termasuk taman, menjadi sel penjara raksasa. `
+`...Seperti batas yang memisahkan dua dunia terpisahnya." `
+`"...Selain serigala, apakah mungkin ada sejenis anjing liar di sana pada saat itu? `
+`Mungkin pagar itu ada untuk melindungi dari mereka." `
+`"Tidak ada serigala atau anjing liar di Rokkenjima. `
+`Pagar itu kemungkinan... `
+`batas antara kita dan {f:5:Beatrice}." `
+`"Tapi jika dia dengan polosnya percaya cerita tentang serigala itu, itu cukup... naif. `
+`Itu sama sekali bukan hal yang aku harapkan dari seorang penyihir." `
+`"...kau benar. `
+`Aku juga merasakannya. `
+`...Dia sangat sombong, persis seperti gambaranku tentang seorang penyihir, `
+`...tapi dia entah bagaimana sangat kekanak-kanakan. `
+`Dia... bagaimana ya... terlalu jujur. `
+`...Dia memberi kesan seolah-olah dia tidak tau apa-apa tentang dunia." `
+`"Seolah-olah... dia datang dari negeri dongeng. `
+`...Dia benar-benar orang yang aneh." `
+`"...Apa yang terjadi setelah itu? `
+`...Apakah kau akhirnya membicarakan Ayah?" `
+`"Ya. `
+`Sekali setiap beberapa hari, biasanya pada hari yang sudah dijadwalkan tapi kadang-kadang tiba-tiba, `
+`Ayah akan muncul secara santai dan mereka akan minum bersama, atau berjalan-jalan bersama, atau sesuatu seperti itu. `
+`Dia mengatakan dia kebetulan sendirian pada hari aku berkunjung." `
+`"Ternyata begitu. `
+`Seorang selingkuhan yang jelas, mungkin begitu. `
+`...Astaga, astaga. `
+`Aku tidak tau seberapa muda dia, tapi bagus untuk Ayah." `
+`"...Kita bisa yakin ini bukan hubungan yang tidak pantas." `
+`"Bodoh, tidak mungkin pertemuan antara pria dan wanita tidak memiliki unsur sensualitas. `
+`Apa yang terjadi selanjutnya? `
+`Apa yang kalian bicarakan setelah itu?" `
+`"......aku sudah memperkenalkan diri, jadi aku bertanya tentang dirinya. `
+`...Ketika aku melakukannya, suasana menjadi suram dengan cepat. `
+`...Bagaimana ya... Dia tampak lesu dan kesepian. `
+`...Itu adalah ekspresi yang sama yang aku lihat di wajahnya sejak awal." `
+`"Yah, dia kan selingkuhannya yang tersembunyi. `
+`Jika dia bebas berkeliaran sesuka hati, Ibu mungkin akan menemukannya. `
+`...Aku yakin dia hampir seperti ditahan di rumah." `
+`"Meskipun dia punya pakaian indah, mansion mewah, dan taman, dia pasti merasa sangat terkekang. `
+`Aku yakin hidupnya sulit. `
+`......Lalu?" `
+`"Dia pasti khawatir tentang sesuatu. `
+`...Aku ingat merasa sangat sedih sendiri, `
+`ketika aku menyadari itu bukan sesuatu yang bisa aku lakukan dengan berbicara padanya." `
+`"......Dia sepertinya lupa bahwa aku ada di sana. `
+`...Dia menatap ke kejauhan dengan pandangan kosong...dan diam dalam waktu yang sangat lama. `
+`...Aku pikir mungkin aku telah mengatakan sesuatu yang salah, `
+`...tapi sepertinya bukan suasana yang tepat untuk meminta maaf, `
+`...jadi aku pun diam untuk waktu yang sangat lama, hingga dia ingat bahwa aku ada di sana..." `
+`Dan kemudian, ...dia bergumam tiba-tiba. `
+`"......Benarkah tidak ada serigala di luar pagar?" `
+`"...Hah? `
+`Y-Ya, benar. `
+`Aku belum pernah melihat serigala, bahkan di kebun binatang." `
+`"Apa itu kebun binatang?" `
+`"Ah, ...itu tempat di mana mereka memelihara berbagai macam hewan. `
+`Di sana banyak hewan langka seperti gajah, jerapah, dan panda." `
 `"......... `
-`...So, ...there aren't any wolves in a zoo? `
-`Then, umm, ...it might not be so scary." `
-`"Even if there were wolves, all of the animals are put in cages, so it's safe. `
-`That's why you can safely look at them and learn about them." `
-`The mighty witch of the forest was apparently terrified of wolves. `
-`I remember it looked pretty funny to me, at the time. `
+`...Jadi, ...tidak ada serigala di kebun binatang? `
+`Kalau begitu, umm, ...mungkin tidak terlalu menakutkan." `
+`"Bahkan jika ada serigala, semua hewan ditempatkan dalam kandang, jadi aman. `
+`Itulah mengapa kau bisa melihat dan mempelajari mereka dengan aman." `
+`Penyihir hebat dari hutan ternyata sangat takut pada serigala. `
+`Aku ingat saat itu terlihat cukup lucu bagiku. `
 `"...... `
-`...How am I any different?" `
-`"......Huh?" `
-`She didn't know about zoos. `
-`I explained how fun zoos could be, `
-`but it was very difficult for a person like her, who had never visited one, to understand... `
-`On the contrary, as I explained it to her, her expression grew increasingly dismal. `
-`...She couldn't see the difference. `
-`Apparently, even though she lived in an elegant mansion that was surrounded by a high fence and seemed to lack for nothing, `
-`she couldn't see how she was any different from animals shut up in cages... `
-`"Who am I? `
-`...Everyone calls me {f:5:Beatrice}. `
-`...And that does indeed seem to be the name of a great witch, as you say." `
-`"...But that isn't me. `
-`I cannot use any magic. `
-`...I simply have the soul of that witch sealed inside my body." `
+`...Bagaimana aku berbeda?" `
+`"...... Hah?" `
+`Dia tidak tau tentang kebun binatang. `
+`aku menjelaskan betapa serunya kebun binatang, `
+`tetapi sangat sulit bagi seseorang seperti dia, yang belum pernah mengunjungi kebun binatang, untuk memahaminya... `
+`Sebaliknya, saat aku menjelaskannya padanya, ekspresinya semakin muram. `
+`...Dia tidak bisa melihat perbedaannya. `
+`Ternyata, meskipun dia tinggal di sebuah mansion mewah yang dikelilingi pagar tinggi dan sepertinya tidak kekurangan apa pun, `
+`dia tidak bisa melihat bagaimana dia berbeda dari hewan-hewan yang dikurung dalam kandang... `
+`"Siapa aku? `
+`...Semua orang memanggilku {f:5:Beatrice}. `
+`...Dan itu memang sepertinya nama seorang penyihir besar, seperti yang kau katakan." `
+`"...Tapi itu bukan aku. `
+`Aku tidak bisa menggunakan sihir apa pun. `
+`...Aku hanya memiliki jiwa penyihir itu yang terkurung di dalam tubuhku." `
 `"......?" `
-`There was definitely something odd about her. `
-`Beyond just being cut off from the world, `
-`it seemed she truly believed that magic exists. `
-`I think she talked about lots of weird things, but I don't remember the details. `
-`All I thought was that... `
-`this might be a person to be pitied. `
-`She was unable to leave this mansion of her own free will, a prisoner without even realizing it. `
-`...And she didn't know anything about the outside world, didn't even understand who she was. `
-`...She probably vaguely realized that she was to be pitied. `
-`But since she didn't know anything, she seemed incapable of recognizing her own unhappiness. `
-`Long ago, when I told Nee-san that I felt sorry for a bird in a cage, she said this: `
-`"A bird that only knows about the inside of the cage doesn't long for the outside". `
-`But this wasn't a bird. `
-`She really was a person. `
-`Even if she'd never been outside the cage, she understood that there was more to the world. `
-`So, `
-`......I invited her. `
-`"Do you want to try... `
-`...going outside the fence?" `
-`"......Th-There really aren't any wolves?" `
-`"There aren't. `
-`You'll definitely be safe." `
+`Ada sesuatu yang aneh tentang dirinya. `
+`Bukan hanya terputus dari dunia, `
+`sepertinya dia benar-benar percaya kalau sihir itu ada. `
+`Aku pikir dia banyak bicara tentang hal-hal aneh, tapi aku tidak ingat detailnya. `
+`Yang aku pikirkan hanyalah... `
+`ini mungkin orang yang patut dikasihani. `
+`Dia tidak bisa meninggalkan mansion ini dengan kemauannya sendiri, seorang tawanan tanpa menyadarinya. `
+`...Dan dia tidak tau apa-apa tentang dunia luar, bahkan tidak memahami siapa dirinya. `
+`...Dia mungkin samar-samar menyadari bahwa dia layak dikasihani. `
+`Tapi karena dia tidak tau apa-apa, dia sepertinya tidak mampu mengenali ketidakbahagiaannya sendiri. `
+`Dulu, ketika aku mengatakan pada Nee-san kalau aku merasa kasihan pada seekor burung dalam sangkar, dia berkata begini: `
+`"Burung yang hanya tau tentang bagian dalam sangkar tidak merindukan dunia luar". `
+`Tapi ini bukan burung. `
+`Dia benar-benar seorang manusia. `
+`Bahkan jika dia belum pernah keluar dari sangkar, dia mengerti kalau dunia ini lebih luas dari itu. `
+`Jadi, `
+`......aku mengundangnya. `
+`"Apakah kau ingin mencoba... `
+`...keluar dari pagar?" `
+`"......A-Apakah benar-benar tidak ada serigala?" `
+`"Tidak ada. `
+`kau pasti aman." `
 `"............ `
-`...I want to leave. `
-`But the gate is always closed." `
-`"There's the place I came in through. `
-`It's got a crack you can slip through." `
-`"...If we go through there, will there be a world outside?" `
-`"Yes." `
-`".........There really aren't any wolves?" `
-`"*giggle* `
-`Right, there aren't any." `
+`...Aku ingin pergi. `
+`Tapi gerbang selalu tertutup." `
+`"Disana tempatku masuk. `
+`Ada celah yang bisa kau lewati." `
+`"...Jika kita melewati itu, apakah ada dunia di luar sana?" `
+`"Ya." `
+`".........Benarkah tidak ada serigala?" `
+`"*cekikikan* `
+`Benar, tidak ada." `
 `"............" `
-`I'd only planned on inviting her to go on a short walk, `
-`...but she kept looking over her shoulder at the mansion, as though she was seriously worrying over the decision. `
-`Then, I learned what she was preparing herself for. `
-`"......I...have had enough of this place. `
-`...I want to go...outside. `
-`And I want to know...who I am, what's happening in this world, `
-`...and why I was born." `
-`I didn't know what her life had been like before then. `
-`It was probably something she couldn't express easily. `
-`If it was harsh, she just had to say she wanted to escape. `
-`If it was sweet, she just had to say she'd stay. `
-`For example, `
-`maybe it was like how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache... `
-`Even though you know you shouldn't keep things the way they are, you still need courage to open the window and be tormented by the cold wind... `
-`She was starting to realize that she couldn't stay there forever. `
-`She was starting to realize that she had to go outside someday. `
-`But, since she didn't know about the outside world, `
-`she must have needed courage to take that unspeakable first step outside... `
-`And despite that, she had made her decision. `
-`She'd voiced her decision to go outside, a decision she was probably making for the first time in her life. `
-`...I hesitated for a moment. `
-`Father had decided that she should live here. `
-`She was like Father's beloved bird in a cage. `
-`If I just let her escape, `
-`...Father might scold me harshly... `
-`"I want to see." `
+`aku hanya berencana mengajaknya berjalan-jalan sebentar, `
+`...tetapi dia terus melirik ke belakang ke arah mansion, seolah-olah dia benar-benar khawatir tentang keputusan itu. `
+`Kemudian, aku tau apa yang dia persiapkan. `
+`"......Aku...sudah bosan dengan tempat ini. `
+`...Aku ingin pergi...keluar. `
+`Dan aku ingin tau...siapa aku, apa yang terjadi di dunia ini, `
+`...dan mengapa aku dilahirkan." `
+`Aku tidak tau seperti apa hidupnya sebelum itu. `
+`Mungkin itu sesuatu yang sulit baginya untuk diungkapkan. `
+`Jika itu keras, dia hanya perlu mengatakan dia ingin melarikan diri. `
+`Jika itu manis, dia hanya perlu mengatakan dia akan tinggal. `
+`Misalnya, `
+`mungkin seperti bagaimana perapian yang panas di hari musim dingin membuat udara semakin tebal dan menebal, hingga membuat kepalamu pusing... `
+`Walau kau tau kau tidak boleh membiarkan keadaan tetap seperti itu, kau masih membutuhkan keberanian untuk membuka jendela dan ditimpa angin dingin... `
+`Dia mulai menyadari kalau dia tidak bisa tinggal di sana selamanya. `
+`Dia mulai menyadari kalau suatu hari dia harus keluar. `
+`Tapi, karena dia tidak tau tentang dunia luar, `
+`dia pasti membutuhkan keberanian untuk mengambil langkah pertama yang tak terkatakan ke luar... `
+`Dan meskipun begitu, dia sudah membuat keputusannya. `
+`Dia telah mengutarakan keputusannya untuk pergi ke luar, keputusan yang mungkin dia buat untuk pertama kalinya dalam hidupnya. `
+`...Aku ragu sejenak. `
+`Ayah telah memutuskan kalau dia harus tinggal di sini. `
+`Dia seperti burung kesayangan Ayah dalam sangkar. `
+`Jika aku membiarkannya kabur, `
+`...Ayah mungkin akan memarahiku dengan keras... `
+`"Aku ingin melihat." `
 `"......Hmm? `
-`See what?" `
-`"I want to see...a zoo." `
+`Lihat apa?" `
+`"Aku ingin melihat... kebun binatang." `
 `".........Ah." `
-`I was just a little surprised when she finally gave me a gentle smile. `
-`Could that have been... `
-`a farsightedness brought about by her decision to venture out from her cage? `
-`It was a smile so gentle, I couldn't imagine that it had come from that once dark face... `
-`"...When I speak with you, I keep hearing about things I don't know. `
-`...I don't even know about this thing called school, nor do I know about zoos. `
-`I don't know about movie theaters. `
-`I don't know about amusement parks. `
-`......And I feel, from the bottom of my heart, that I want to know about those things. `
-`...Will you take me to see them?" `
-`"Huh? ...Y-Yes." `
-`...I was nervous about how I could keep it a secret from Father, `
-`...but her face looked so happy, so I went along with her and nodded. `
-`But she seemed not to notice the meaning behind my vague smile. `
-`She seemed to believe that I'd really take her to all those places. `
-`She was pure and genuine. `
-`...She'd probably never been tricked by anyone. `
-`No, ...maybe it's better to say that she'd never learned how to doubt. `
-`Her smile was somehow radiant...and yet pathetic. `
-`...I wanted to find a way to grant her modest wish. `
-`"I...have had enough of {f:5:Beatrice}. `
-`I want to know who I am. `
-`I want to start out as a new human, not {f:5:Beatrice}. `
-`So, I want you to take me away from here. `
-`......I don't need tea anymore. `
-`I don't need this dress. `
-`I won't meet with Kinzo again. `
-`...Please, take me from here, `
+`Aku sedikit terkejut ketika akhirnya dia memberi aku senyuman lembut. `
+`Mungkinkah itu... `
+`penglihatan jauhnya yang muncul karena keputusannya untuk keluar dari kandangnya? `
+`Itu adalah senyuman yang begitu lembut, aku tidak bisa membayangkan itu berasal dari wajah yang dulu gelap... `
+`"...Ketika aku berbicara denganmu, aku terus mendengar tentang hal-hal yang tidak aku ketahui. `
+`...Aku bahkan tidak tau tentang hal yang disebut sekolah, juga tidak tau tentang kebun binatang. `
+`Aku tidak tau tentang bioskop. `
+`Aku tidak tau tentang taman hiburan. `
+`......Dan aku merasa, dari lubuk hatiku, bahwa aku ingin tau tentang hal-hal itu. `
+`...Akankah kau membawaku untuk melihatnya?" `
+`"Hah? ...Y-Ya." `
+`...aku khawatir bagaimana cara menyembunyikannya dari Ayah, `
+`...tapi wajahnya terlihat begitu bahagia, jadi aku ikut dengannya dan mengangguk. `
+`Tapi dia sepertinya tidak menyadari makna di balik senyum samarku. `
+`Dia sepertinya percaya kalau aku benar-benar akan membawanya ke semua tempat itu. `
+`Dia murni dan tulus. `
+`...Dia mungkin belum pernah ditipu oleh siapa pun. `
+`Tidak, ...mungkin lebih baik dikatakan kalau dia belum pernah belajar untuk meragukan. `
+`Senyumnya entah bagaimana bersinar...dan juga menyedihkan. `
+`...Aku ingin menemukan cara untuk mengabulkan keinginannya yang sederhana. `
+`"Aku... sudah bosan dengan {f:5:Beatrice}. `
+`Aku ingin tau siapa diriku. `
+`Aku ingin memulai sebagai manusia baru, bukan {f:5:Beatrice}. `
+`Jadi, aku ingin kau membawaku pergi dari sini. `
+`......aku tidak butuh teh lagi. `
+`Aku tidak butuh gaun ini. `
+`aku tidak akan bertemu Kinzo lagi. `
+`...Tolong, bawa aku pergi dari sini, `
 `Rosa." `
-`However, that responsibility was one that a child like me couldn't hope to fully bear. `
-`Still, when I saw her serious gaze, `
-`along with that brilliant smile that made it look as though a possessing spirit had left her, `
-`...I could feel a little courage start to rise up inside me. `
-`This was definitely something that would get me into a lot of trouble. `
-`...And yet, it was definitely the right thing to do. `
-`......I'll take her out. `
-`...but I'll take her away from here. `
-`Of course, I won't be able to talk to Father, and not Mother either. `
-`......Should I talk to Onii-sama or Onee-sama? `
-`No, what about that reliable Genji-san... `
-`or, that's right, what about Kumasawa-san, to whom I can always talk when I'm in trouble. `
-`I'm sure they'll be able to do something. `
-`Anyway, for now, I'll take her out of here. `
-`This was already a place she didn't want to be. `
-`...So, I took her to the crack in the fence and led her outside. `
-`She was all nervous, checking to make sure there were no wolves around, `
-`but once that fear disappeared, `
-`even just walking around this dense forest seemed to be fun somehow. `
-`Every time she found something, she'd ask me about it. `
-`And they were all really trivial things. `
-`...What's that flower? `
-`What's that leaf? `
-`And that sound? `
-`And that smell? `
-`It really was like the inside of that fence had been her entire world. `
-`So, now that she'd traveled beyond the limits of her world...... `
-`...It's strange. `
-`When I first saw her, I really thought she was the witch herself, relaxing inside the witch's mansion. `
-`But now, it was different. `
-`Or actually, the complete opposite. `
-`...She'd left a world she'd believed to be finite...and was overjoyed at the realization that the world was endless, something she'd never thought of before. `
-`So everything she saw was new. `
-`...It was almost as though she was the one who had been thrown into a fairy tale. `
-`If she was Alice, then I felt almost like a rabbit holding a watch... `
-`To her, it was probably a really fun walk, filled to the brim with excitement. `
-`...But I was actually at a loss at what to do. `
-`...After all, I walked randomly to get there. `
-`Of course I didn't know the way back to our mansion. `
-`There were no lights in the forest, and I hadn't brought a flashlight. `
-`I realized it would be terrible if it got dark while we were still like this...and grew impatient. `
-`She was too innocent, `
-`and apparently, she couldn't understand at all how frightening it would be to face the night inside the forest. `
-`But I was the one who brought her outside. `
-`...I had to take responsiblity somehow and resolve this situation. `
-`So, I had a thought. `
-`...Let's go out to the ocean for now. `
-`If we then follow the beach around, we should eventually make it back to the mansion. `
-`However, that was much more of a problem than I'd imagined. `
-`...I didn't have a map or a compass. `
-`There was no way I could walk in a straight line through an uncultivated forest, and I immediately lost my sense of direction. `
-`I already had no clue which trail I had come by...and was completely lost... `
-`At this rate, night would definitely fall before I had a clue where to walk. `
-`But this was no time to cry. `
-`After all, that woman following behind me was so innocent and having so much fun. `
-`...So, I definitely had to lead the way through this forest, `
-`for the sake of her smile as well. `
-`Gritting my teeth so that she didn't see me looking troubled, `
-`I pushed my way through the woods, advancing down a path that wasn't a path. `
-`Then, after going through various troubles, I fortunately managed reach the ocean... `
-`At that time, I still didn't even have a clue where I was on the island, `
-`but for the time being, I was just a little reassured, realizing that if I just went around this way, I would surely be able to return to the mansion. `
-`However, though I had reached the ocean, we were at the top of a rock cliff. `
-`The beach was far below us. `
-`I was tired from walking around the forest for so long, `
-`so I figured that an open area, even a rocky beach, would probably be much easier to walk in. `
-`So, I suggested that we go down that rocky cliff somehow. `
-`...It looked pretty dangerous, but I figured there was no other way. `
-`However, {f:5:Beatrice} agreed to my plan without any doubts. `
-`...Even though she was probably older than me, `
-`...she meekly obeyed, almost as though she were some kind of chick who thought I was her mother. `
-`I searched to see if there was some part of the cliff I'd be able to get down. `
-`...Then, I found a place where the cliff had fallen over and made a slope. `
-`...It looked a little dangerous, `
-`but if I went down using both hands and both legs, like I was crawling, I thought it'd probably be okay. `
-`"...Let's go down here. `
-`It'll be dangerous if we aren't careful, `
-`but if we go down to the beach and walk along it, I don't think we'll have to worry about being lost anymore." `
-`"Indeed. `
-`If that's what you're doing, I'll go too. `
-`Even getting lost is fun for me. `
-`Quite amusing." `
-`......She really had no sense of danger. `
-`There was probably no doubt that she'd lived a life without discomfort. `
-`Even though she knew it would get dark when night fell, `
-`she couldn't imagine how dangerous the inside of a forest could be without a light. `
-`Furthermore, it seemed that she couldn't grasp at all how dangerous it might be if she fell from the cliff. `
-`I warned her repeatedly to be careful. `
-`I cautiously examined our potential route down. `
-`...It seemed to be...quite a long drop. `
-`I think it might've been about 10 meters down. `
-`If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion. `
-`But looking from the top, it felt almost like staring down from the observation room on Tokyo Tower. `
-`But {f:5:Beatrice} still appeared to be completely without fear. `
-`...It felt as though she had never even been taught that high places were dangerous. `
-`...No, maybe she believed that she was a witch... `
-`and that she could fly, so there wasn't any need to worry. `
-`"Please be careful. `
-`...We're...pretty high up." `
-`"Indeed. `
-`I shall be careful. `
-`It looks like we can get to the ocean if we go down. `
-`Is there an aquarium there?" `
-`"No, there aren't any aquariums on this island. `
-`But there should be lots of fish in the sea." `
-`"I see. `
-`So there are fish. `
-`Are there...umm, whales and dolphins and penguins, like you talked about?" `
-`"No, you'd have to go to an aquarium for those. `
-`...And you'd have to leave this island to find an aquarium." `
-`"Is that so? `
-`...Well, I'm looking forward to it. `
-`What kind of fish are whales?" `
-`"Umm, ...they're really big fish...huh, aren't they mammals? `
-`And they spit seawater into the air." `
+`Namun, tanggung jawab itu adalah sesuatu yang tidak bisa aku tanggung sepenuhnya sebagai seorang anak. `
+`Tetap saja, ketika aku melihat tatapan seriusnya, `
+`bersama senyum cerahnya yang seolah-olah roh yang menguasainya telah meninggalkan dirinya, `
+`...aku bisa merasakan sedikit keberanian mulai bangkit di dalam diriku. `
+`Ini pasti sesuatu yang akan membuatku mendapat banyak masalah. `
+`...Dan yet, ini pasti hal yang benar untuk dilakukan. `
+`......Aku akan membawanya pergi. `
+`...tapi aku akan membawanya pergi dari sini. `
+`Tentu saja, aku tidak bisa berbicara dengan Ayah, dan juga tidak dengan Ibu. `
+`......Haruskah aku bicara dengan Onii-sama atau Onee-sama? `
+`Tidak, bagaimana dengan Genji-san yang dapat diandalkan... `
+`atau, ya, bagaimana dengan Kumasawa-san, orang yang selalu bisa aku ajak bicara saat aku dalam kesulitan. `
+`Aku yakin mereka bisa melakukan sesuatu. `
+`Bagaimanapun, untuk saat ini, aku akan membawanya keluar dari sini. `
+`Tempat ini sudah bukan tempat yang dia inginkan. `
+`...Jadi, aku membawanya ke celah di pagar dan membawanya keluar. `
+`Dia sangat gugup, memeriksa apakah ada serigala di sekitar, `
+`tetapi begitu rasa takut itu hilang, `
+`bahkan hanya berjalan-jalan di hutan yang lebat ini terasa menyenangkan entah bagaimana. `
+`Setiap kali dia menemukan sesuatu, dia akan bertanya padaku tentang itu. `
+`Dan semuanya hal-hal yang sangat sepele. `
+`...Apa itu bunga? `
+`Apa daun itu? `
+`Dan suara itu? `
+`Dan bau apa itu? `
+`Sungguh, seolah-olah bagian dalam pagar itu adalah seluruh dunianya. `
+`Jadi, sekarang setelah dia telah melampaui batas dunia nya...... `
+`...Aneh sekali. `
+`Ketika pertama kali melihatnya, aku benar-benar berpikir dia adalah penyihir itu sendiri, bersantai di dalam mansion penyihir. `
+`Tapi sekarang, situasinya berbeda. `
+`Atau sebenarnya, kebalikannya. `
+`...Dia telah meninggalkan dunia yang dia yakini terbatas...dan merasa sangat bahagia menyadari bahwa dunia itu tak berujung, sesuatu yang belum pernah dia pikirkan sebelumnya. `
+`Jadi, segala sesuatu yang dia lihat adalah hal baru. `
+`...Seolah dialah yang dilemparkan ke dalam dongeng. `
+`Jika dia adalah Alice, maka aku merasa hampir seperti kelinci yang memegang jam... `
+`Baginya, mungkin itu adalah jalan-jalan yang sangat menyenangkan, dipenuhi dengan kegembiraan. `
+`...Tapi aku sebenarnya bingung harus berbuat apa. `
+`...Lagi pula, aku berjalan secara acak untuk sampai ke sana. `
+`Tentu saja aku tidak tau jalan pulang ke mansion kita. `
+`Tidak ada lampu di hutan, dan aku tidak membawa senter. `
+`Aku menyadari akan sangat buruk jika gelap tiba-tiba sementara kita masih dalam keadaan seperti ini... dan mulai tidak sabar. `
+`Dia terlalu polos, `
+`dan tampaknya, dia sama sekali tidak mengerti betapa menakutkannya menghadapi malam di dalam hutan. `
+`Tapi aku yang membawanya keluar. `
+`...aku harus bertanggung jawab dengan cara apa pun dan menyelesaikan situasi ini. `
+`Jadi, aku punya ide. `
+`...Mari kita pergi ke laut untuk saat ini. `
+`Jika kita mengikuti pantai, kita seharusnya bisa kembali ke mansion. `
+`Namun, itu ternyata jauh lebih rumit dari yang kubayangkan. `
+`...aku tidak punya peta atau kompas. `
+`Tidak mungkin aku bisa berjalan lurus melalui hutan yang belum terjamah, dan aku segera kehilangan arah. `
+`aku sudah tidak tau jalan mana yang aku lewati... dan benar-benar tersesat... `
+`Dengan kecepatan ini, malam pasti akan tiba sebelum aku tau harus berjalan ke mana. `
+`Tapi ini bukan saatnya untuk menangis. `
+`Lagi pula, wanita yang mengikuti di belakang aku begitu polos dan sedang bersenang-senang. `
+`...Jadi, aku pasti harus memimpin jalan melalui hutan ini, `
+`untuk senyumnya juga. `
+`Menggigit bibir agar dia tidak melihat aku terlihat cemas, `
+`aku menerobos hutan, melaju di jalur yang bukan jalur. `
+`Kemudian, setelah melewati berbagai kesulitan, aku beruntung berhasil mencapai laut... `
+`Saat itu, aku bahkan tidak tau di mana posisiku di pulau ini, `
+`tetapi untuk saat ini, aku sedikit lega, menyadari kalau aku terus berjalan seperti ini, aku pasti bisa kembali ke mansion. `
+`Tapi, meskipun sudah sampai di laut, kami berada di puncak tebing batu. `
+`Pantai berada jauh di bawah kami. `
+`aku lelah setelah berjalan-jalan di hutan begitu lama, `
+`jadi aku berpikir area terbuka, bahkan pantai berbatu, mungkin akan jauh lebih mudah untuk dilalui. `
+`Jadi, aku mengusulkan agar kita turun dari tebing berbatu itu dengan cara apa pun. `
+`...Terlihat cukup berbahaya, tapi aku pikir tidak ada cara lain. `
+`Namun, {f:5:Beatrice} setuju dengan rencanaku tanpa ragu-ragu. `
+`...Meskipun dia mungkin lebih tua dariku, `
+`...dia patuh dengan lembut, seolah-olah dia adalah anak ayam yang menganggap aku sebagai ibunya. `
+`aku mencari bagian tebing yang bisa aku lewati. `
+`...Lalu, aku menemukan tempat di mana tebing itu runtuh dan membentuk lereng. `
+`...Terlihat sedikit berbahaya, `
+`tapi jika aku turun menggunakan kedua tangan dan kedua kaki, seperti merangkak, aku pikir mungkin akan aman. `
+`"...Ayo turun di sini. `
+`Akan berbahaya jika kita tidak hati-hati, `
+`tapi jika kita turun ke pantai dan berjalan di sepanjang pantai, aku rasa kita tidak perlu khawatir tersesat lagi." `
+`"Benar. `
+`Jika itu yang kau lakukan, aku juga akan ikut. `
+`Bahkan tersesat pun menyenangkan bagiku. `
+`Cukup menghibur." `
+`......Dia benar-benar tidak punya rasa bahaya. `
+`Mungkin tidak ada keraguan bahwa dia telah hidup tanpa ketidaknyamanan. `
+`Meskipun dia tahu akan gelap saat malam tiba, `
+`dia tidak bisa membayangkan betapa berbahayanya hutan tanpa cahaya. `
+`Selain itu, sepertinya dia sama sekali tidak memahami betapa berbahayanya jika dia jatuh dari tebing. `
+`aku berulang kali memperingatkannya untuk berhati-hati. `
+`aku memeriksa rute turun kami dengan hati-hati. `
+`...Sepertinya...jatuhnya cukup jauh. `
+`Aku pikir mungkin sekitar 10 meter ke bawah. `
+`Jika dilihat dari bawah ke atas, mungkin terlihat lebih pendek dari atap mansion. `
+`Tapi jika dilihat dari atas, rasanya hampir seperti melihat ke bawah dari ruang observasi Tokyo Tower. `
+`Tapi {f:5:Beatrice} masih tampak sama sekali tidak takut. `
+`...Rasanya seolah-olah dia bahkan tidak pernah diajari kalau tempat tinggi itu berbahaya. `
+`...Tidak, mungkin dia percaya kalau dia adalah seorang penyihir... `
+`dan kalau dia bisa terbang, jadi tidak perlu khawatir. `
+`"Tolong berhati-hati. `
+`...Kita...cukup tinggi di sini." `
+`"Benar. `
+`Aku akan berhati-hati. `
+`Sepertinya kita bisa sampai ke laut jika kita turun. `
+`Apakah ada akuarium di sana?" `
+`"Tidak, tidak ada akuarium di pulau ini. `
+`Tapi seharusnya banyak ikan di laut." `
+"Begitu ya. `
+`Jadi ada ikan. `
+`Ada...umm, paus dan lumba-lumba dan penguin, seperti yang kau bicarakan?" `
+`"Tidak, kau harus pergi ke akuarium untuk melihat yang itu. `
+`...Dan kau harus meninggalkan pulau ini untuk menemukan akuarium." `
+`"Benarkah? `
+`...Yah, aku menantikannya. `
+`Apa jenis ikan paus?" `
+`"Hmm, ...mereka ikan yang sangat besar... eh, bukankah mereka mamalia? `
+`Dan mereka menyemprotkan air laut ke udara." `
 `"Hoh. `
-`And dolphins?" `
-`"Umm, they're really smart fish, and...oh, weren't they also mammals? `
-`They're really smart and can be taught tricks and stuff." `
+`Dan lumba-lumba?" `
+`"Umm, mereka ikan yang sangat cerdas, dan... oh, bukankah mereka juga mamalia? `
+`Mereka sangat pintar dan bisa diajari trik-trik dan sebagainya." `
 `"Hohhoh. `
-`Then what about penguins?" `
-`"Umm, ...uh, weren't they birds...?" `
-`"What's going on? `
-`We're talking about aquariums, but none of these things seem to be fish..." `
+`Lalu bagaimana dengan penguin?" `
+`"Umm, ...uh, bukankah mereka burung...?" `
+`"Ada apa ini? `
+`Kita sedang membicarakan akuarium, tapi sepertinya tidak ada yang ikan..." `
 `"Ummm, uhhh... `
-`Well, um, there aren't just fish. It's full of all kinds of things that live in the ocean." `
+`Yah, um, tidak hanya ikan. Akuarium ini penuh dengan berbagai makhluk yang hidup di laut." `
 `"Hohhoh. `
-`I really am looking forward to that... `
+`Aku benar-benar menantikannya... `
 `......nn-" `
 `{a:c: `
 `Wa, hyaa.} `
-`She let out what might've been a funny, `
-`...rushed and short cry... `
-`no, it was probably a scream. `
-`It came right out of the blue. `
-`...Her body separated from the cliff...and silently fell. `
-`I immediately wanted to say something to her. `
-`I wanted to say "Didn't I tell you to be more careful?!" `
-`...It was the thought of a child. `
-`It was how a child immediately gets mad when something bad happens, trying to find an excuse to show it wasn't their fault. `
-`Of course, I said it out loud. `
-`Are you okay? `
-`Didn't I warn you over and over...? `
-`".........So, `
-`...she fell from the cliff, `
-`...and then what?" `
+`Dia mengeluarkan suara yang mungkin lucu, `
+`...teriakan yang terburu-buru dan pendek... `
+`tidak, itu mungkin teriakan. `
+`Itu datang tiba-tiba. `
+`...Tubuhnya terlepas dari tebing...dan jatuh dalam sunyi. `
+`Aku langsung ingin mengatakan sesuatu padanya. `
+`Aku ingin berkata, "Bukankah aku sudah bilang padamu untuk lebih berhati-hati?!" `
+`...Itu adalah pikiran seorang anak. `
+`Itu adalah cara seorang anak langsung marah ketika sesuatu yang buruk terjadi, mencoba mencari alasan untuk menunjukkan kalau itu bukan salahnya. `
+`Tentu saja, aku mengatakannya dengan keras. `
+`Apakah kau baik-baik saja? `
+`Bukankah aku sudah memperingatkanmu berulang kali...? `
+`".........Jadi, `
+`...dia jatuh dari tebing, `
+`...lalu apa yang terjadi?" `
 `"........." `
-`"...What happened to her, `
+`"...Apa yang terjadi padanya, `
 `...Rosa?" `
-`Rosa fell silent. `
-`...Her gaze dropped to her feet, ...as though she were seeing through the floor into some disgusting memory... `
-`"She...died, didn't she...?" `
-`Eva's brutal words were the ones Rosa had most wanted to avoid. `
-`And when she was hit with them, ...she screamed in resignation. `
-`"Yes, she died!! `
-`It was a rocky beach, with lots of sharp, dangerous rocks exposed!! `
-`Her eyes were still open, and an incredible amount of blood kept pouring out, ...quickly spreading out until it looked like a red carpet...! `
-`I spoke to her, shook her!! `
-`But she refused to respond, not even a blink...no, she wouldn't even close her eyelids!! `
-`It was my fault! `
-`She was wearing a dress, remember?! `
-`Even though I knew her outfit was difficult to move in, I said we should go down the cliff!! `
-`She was incredibly innocent, so she obeyed what I said without any doubts...!!" `
-`"...How long do you plan on remaining dead? `
-`Open your eyes already. `
-`Darn you, turning into a lump of meat all by yourself while I'm gone." `
-`"I was just flirting with your ass nee-chan friends. `
-`...More importantly, what the heck's going on here?" `
-`"Well, `
-`as you can see, `
-`...I missed my footing, fell down, `
-`{i:and died}." `
-`"What the hell...? `
-`......Even though you showed up as the 19th person, `
-`...you were already dead...?" `
-`"Don't mess with me, that's impossible...! `
-`Aunt Rosa was a kid, and she was panicked. `
-`And it's not like a doctor was there. `
-`She probably just mistakenly thought you were dead, and you were probably...umm...alive and pretending to be dead or something. `
-`Isn't that right?!" `
-`It can't be true. `
-`She's got to be alive. `
-`Otherwise, how can she be here...?! `
-`...The kid-aged Aunt Rosa shook {f:5:Beatrice}'s body, crying. `
-`I stared into that face too, `
-`......but her eyes were still open, and it really was a corpse. `
-`...I wanted to dodge the issue by saying something vague, like "she must be playing dead", `
-`...but no matter how I looked at it, it didn't look fake at all, ...it really did look like she was dead... `
-`{f:5:Beatrice} had fallen upside down from a cliff of that height, `
-`...and her head had smashed against the pointed tip of those sharp rocks. `
-`............You would die, wouldn't you, `
-`after landing on those rocks... `
-`from that height... `
-`But I couldn't accept it... `
-`No matter how dead she looked, ...she had to be alive...! `
-`Then, she went on to become this damn irritating witch! `
-`That makes all the inconsistencies fit. `
-`Grandfather must have kept her confined constantly in a hidden mansion. `
-`Then, to take revenge for that, `
-`...she committed several atrocious murders! `
-`Aunt Rosa probably just mistakenly thought she was dead. `
-`But she was actually alive, and as soon as Aunt Rosa left, would miraculously breathe again. `
-`...Then, she somehow lived on until today...and opened the curtain on her revenge drama. `
-`Otherwise, the facts don't fit together!! `
-`"...I won't let you trick me so easily. `
-`Can you repeat it in red?! `
-`That she's certainly dead!! `
-`She has to be alive, right?! `
-`It's obvious!!" `
-`"How does that look alive to you? `
-`{p:1:It's definitely dead}!" `
+`Rosa terdiam. `
+`...Matanya tertuju ke kaki, ...seolah-olah dia melihat melalui lantai ke kenangan yang menjijikkan... `
+`"Dia... meninggal, kan...?" `
+`Kata-kata kasar Eva adalah yang paling ingin dihindari Rosa. `
+`Dan ketika dia mendengarnya, ...dia berteriak dengan pasrah. `
+`"Ya, dia meninggal!! `
+`Disana adalah pantai berbatu, dengan banyak batu tajam dan berbahaya yang terpapar!! `
+`Matanya masih terbuka, dan darah yang luar biasa banyak terus mengalir, ...cepat menyebar hingga terlihat seperti karpet merah...! `
+`Aku berbicara padanya, menggoyangkan tubuhnya!! `
+`Tapi dia menolak untuk merespons, bahkan tidak berkedip... tidak, dia bahkan tidak mau menutup kelopak matanya!! `
+`Ini salahku! `
+`Dia mengenakan gaun, ingat?! `
+`Meskipun aku tau pakaiannya sulit untuk bergerak, aku bilang kita harus turun tebing!! `
+`Dia sangat polos, jadi dia menuruti apa yang aku katakan tanpa ragu-ragu...!!" `
+`"...Seberapa lama kau berencana tetap mati? `
+`Bukalah matamu. `
+`Sialan kau, berubah jadi gumpalan daging sendirian saat aku pergi." `
+`"Aku hanya menggoda teman-teman nee-chanmu. `
+`...Yang lebih penting, apa yang sedang terjadi di sini?" `
+`"Nah, `
+`seperti yang bisa kau lihat, `
+`...Aku terpeleset, jatuh, `
+`{i:dan mati}." `
+`"Apa sih...? `
+`......Meskipun kau muncul sebagai orang ke-19, `
+`...kau sudah mati...?" `
+`"Jangan main-main denganku, itu tidak mungkin...! `
+`Bibi Rosa masih anak-anak, dan dia panik. `
+`Dan bukan seperti ada dokter di sana. `
+`Dia mungkin hanya salah mengira kau sudah mati, dan kau mungkin...umm...masih hidup dan berpura-pura mati atau sesuatu. `
+`Bukan begitu?!" `
+`Itu tidak mungkin benar. `
+`Dia pasti masih hidup. `
+`Kalau tidak, bagaimana dia bisa ada di sini...?! `
+`...Bibi Rosa yang masih anak-anak menggoyangkan tubuh {f:5:Beatrice}, menangis. `
+`Aku menatap wajah itu juga, `
+`......tapi matanya masih terbuka, dan itu benar-benar mayat. `
+`...Aku ingin menghindar dari masalah dengan mengatakan sesuatu yang samar-samar, seperti "dia pasti pura-pura mati", `
+`...tapi tak peduli seberapa keras aku memandangnya, itu sama sekali tidak terlihat palsu, ...dia benar-benar terlihat seperti sudah mati... `
+`{f:5:Beatrice} terjatuh terbalik dari tebing setinggi itu, `
+`...dan kepalanya menghantam ujung tajam batu-batu itu. `
+`............kau akan mati, bukan? `
+`setelah mendarat di batu-batu itu... `
+`dari ketinggian itu... `
+`Tapi aku tidak bisa menerimanya... `
+`Tidak peduli seberapa mati dia terlihat, ...dia harus hidup...! `
+`Lalu, dia berubah menjadi penyihir sialan yang mengganggu ini! `
+`Itu membuat semua ketidakselarasan menjadi masuk akal. `
+`Kakek pasti telah menahannya secara terus-menerus di sebuah mansion tersembunyi. `
+`Lalu, untuk membalas dendam atas itu, `
+`...dia melakukan beberapa pembunuhan keji! `
+`Bibi Rosa mungkin hanya salah mengira dia sudah mati. `
+`Tapi dia sebenarnya masih hidup, dan begitu Bibi Rosa pergi, dia akan bernapas kembali secara ajaib. `
+`...Lalu, dia entah bagaimana bertahan hidup hingga hari ini...dan membuka tirai drama balas dendamnya. `
+`Jika tidak, fakta-fakta tidak cocok!! `
+`"...Aku tidak akan membiarkanmu menipuku begitu saja. `
+`Bisakah kau mengulanginya dengan huruf merah?! `
+`Kalau dia pasti sudah mati!! `
+`Dia pasti masih hidup, kan?! `
+`Itu jelas!!" `
+`"Bagaimana itu terlihat hidup bagimu? `
+`{p:1:Dia pasti sudah mati}!" `
 `"............Nnngggggg..." `
-`My theory that the 19th person was Grandfather's mistress, a human {f:5:Beatrice}, had been defeated. `
-`...I had planned to strike back from a defensive position, but... `
-`"...Then, ...who are you? `
-`You just died, right?! `
-`Don't tell me you revived yourself with magic?!" `
-`"*cackle*cackle* `
-`I've already explained that, have I not? `
-`...The "me" lying over there definitely possesses my soul, `
-`but that body's nothing more than a cage of flesh tying me to the physical world. `
-`This is how that cage of flesh was broken. `
-`...Do you understand what that means?" `
-`"......I don't have a clue anymore. `
-`...Keep having fun with your witch girl tricks. `
-`I'll listen to that in place of a snack! `
-`What the...it's empty. `
-`Hey, could I get some more black tea?" `
-`"*cackle*cackle*! `
+`Teoriku kalau orang ke-19 adalah selir Kakek, seorang manusia {f:5:Beatrice}, telah terbantahkan. `
+`...Aku berencana untuk menyerang balik dari posisi bertahan, tapi... `
+`"...Lalu, ...siapa kau? `
+`kau baru saja mati, kan?! `
+`Jangan bilang kau menghidupkan diri sendiri dengan sihir?!" `
+`"*terkekeh*terkekeh* `
+`Aku sudah menjelaskan itu, kan? `
+`..."Aku'" yang terbaring di sana pasti memiliki jiwaku, `
+`tapi tubuh itu hanyalah kandang daging yang mengikatku pada dunia fisik. `
+`Begitulah cara kandang daging itu dihancurkan. `
+`...Apakah kau mengerti artinya?" `
+`"......Aku tidak tau lagi. `
+`...Teruslah bersenang-senang dengan trik-trik sihir gadismu. `
+`Aku akan mendengarkannya sebagai pengganti camilan! `
+`Apa ini... kosong. `
+`Hei, bisakah aku dapat teh hitam lagi?" `
+`"*terkekeh*terkekeh*! `
 `Ronove, `
-`our guest would like some tea." `
-`When Beato clapped her hands, Ronove appeared. `
-`...Butlers sure are convenient. `
-`"A refill, you say? `
-`Certainly. `
-`How much shall I pour you?" `
-`"Well, I've got more than enough snacks. `
-`Half will be fine." `
-`"Even so, filling it to the brim is the English custom." `
-`Even though just enough to wet my throat would have been fine, he filled it to the top. `
-`I turned my back to Beato, sipping it in silence... `
-`"Hey, ...open your eyes...!! `
+`tamu kita ingin minum teh." `
+`Ketika Beato bertepuk tangan, Ronove muncul. `
+`...Pelayan memang sangat berguna. `
+`"Anda ingin isi ulang? `
+`Tentu saja. `
+`Berapa banyak yang harus saya tuangkan untuk anda?" `
+`"Yah, aku punya camilan lebih dari cukup. `
+`Setengah saja sudah cukup." `
+`"Meskipun begitu, mengisinya sampai penuh adalah kebiasaan orang Inggris." `
+`Meskipun cukup untuk membasahi tenggorokan aku sudah cukup, dia mengisinya sampai penuh. `
+`Aku membalikkan badan ke arah Beato, menyeruput dalam diam... `
+`"Hei, ...buka matamu...!! `
 `{f:5:Beatrice}...!!" `
-`Rosa shook me... `
-`...no, shook the corpse that had once been me. `
-`I watched over her from a short distance away. `
-`Ah, ...so I fell from there and died... `
-`For a while, I believed that was true. `
-`...I saw Rosa spend a long time beside my corpse, then watched her as she ran away. `
-`...Eventually, I realized that I was a different individual from that corpse... `
-`".........That's right. `
-`I am...me. `
-`...So, I've finally managed to escape from Kinzo's bonds..." `
-`Eventually, I felt the memory returning... `
-`The fact that I was an Endless Witch who had lived for one thousand years. `
-`Then, I remembered that I'd been summoned by Kinzo, and that I'd been imprisoned by him for a long time... `
-`While being imprisoned in a cage of flesh, I completely lost my memory as a witch. `
-`However, thanks to Rosa, if you could say that... `
-`...Thanks to my accidental death, I'd now finally regained my self... `
+`Rosa menggoyangkan tubuhku... `
+`...tidak, menggoyang mayat yang pernah menjadi diriku. `
+`Aku mengawasinya dari jarak yang tidak terlalu jauh. `
+`Ah, ...jadi aku jatuh dari sana dan mati... `
+`Untuk sementara, aku percaya itu benar. `
+`...Aku melihat Rosa menghabiskan waktu lama di samping mayatku, lalu menontonnya saat dia berlari pergi. `
+`...Akhirnya, aku menyadari bahwa aku adalah individu yang berbeda dari mayat itu... `
+`".........Benar. `
+`Aku adalah... diriku. `
+`...Jadi, akhirnya aku berhasil melarikan diri dari ikatan Kinzo..." `
+`Akhirnya, aku merasakan ingatan itu kembali... `
+`Fakta bahwa aku adalah Penyihir Tak Terbatas yang telah hidup selama seribu tahun. `
+`Kemudian, aku ingat bahwa aku dipanggil oleh Kinzo, dan aku telah dipenjara olehnya selama bertahun-tahun... `
+`Saat dipenjara dalam kandang daging, aku sepenuhnya kehilangan ingatanku sebagai penyihir. `
+`Namun, berkat Rosa, jika boleh dikatakan... `
+`...Berkat kematianku yang tidak disengaja, aku akhirnya mendapatkan kembali diriku... `
 `"...Rosa, `
-`you probably regret bringing about my death. `
-`But I should be thanking you. `
-`*cackle*cackle*...!" `
-`I couldn't see Rosa anymore. `
-`Did she go to call a doctor, or was she so terrified that she ran away? `
-`...It no longer matters. `
-`That soulless shell no longer has any value. `
-`And yet, ...I'm so frail now. `
-`Even this glorious midday sun is agony to me. `
-`I destroyed my human form. `
-`Then, I changed it into several gold butterflies. `
-`...Yes, with my magical power as frail as it is now, this form is easier to maintain. `
-`To escape even a little from the light of the sun, I rode the wind and gently flew up the side of the cliff. `
-`It will probably be a bit cooler in the forest. `
-`Anyway, I'll take some time to recuperate and regain my former power. `
-`...As I ponder how to make Kinzo pay up all he owes me. `
-`Dancing alone through the air, I looked down at the shore one more time. `
-`On the rocky shore...lay the figure of what had once been me, ...the figure I would eventually regain. `
-`To regain the form of that physical body I had thrown away, `
-`...it would probably take more than one hundred, two hundred days. `
-`...And it might require one thousand days, or perhaps even more. `
-`However, I am the Endless Witch. `
-`The Golden Witch who has lived for one thousand years. `
-`Waiting any countable number of days would be no problem. `
-`*cackle*cackle* Oh, Kinzo. `
-`Regret that you are not here now. `
-`No longer will you be able to capture me. `
-`...*cackle*cackle*! `
-`"......And then, you changed into gold butterflies, hid in the forest, and waited for your magical power to be restored? Is that what you're saying?" `
-`"That is correct. `
-`I take this form to sneer at you, but most of the time, it is easier magically for me to keep my form as gold butterflies." `
-`"Hey, feel free to take a load off and stick to whatever's easiest. `
-`I wouldn't mind not having to hear your irritating laugh." `
-`"*cackle*cackle* `
-`When I turned into butterflies and slipped into the forest, it was already no longer possible for Kinzo to find me. `
-`...However, Kinzo was not dismayed. `
-`Still, he was not immediately able to prepare a way to catch me." `
-`"So, he first moved to prevent me from leaving this island... `
-`and to keep me from regaining my power. `
-`......My, my. At any rate, Kinzo's spitefulness was unimaginable. `
-`...It was pretty tough to be loved by someone like that. `
-`*cackle*cackle*!" `
-`"He found a way to keep you from leaving after you turned into butterflies? `
-`What, did he put a bug net around the entire forest?" `
-`"Indeed. `
-`A magical one. `
-`......Didn't you know? `
-`On the sea in front of the harbor is a reef...upon which sits a small shrine of Eastern magic." `
-`"...Ah, that. `
-`It was gone by this year, though. `
-`It was a small shrine built long ago by a shugenja, right?" `
-`"From the very beginning, Rokkenjima has been an island enveloped by a distortion. `
-`It attracts things of magical power and other related creatures. `
-`...Milady herself is one of them. `
-`How about some more tea?" `
-`"*cackle*cackle*, please. `
-`...They brought harm to humans and probably left several eerie legends in their wake. `
-`That small shrine was built in ancient times by an Eastern magician who heard of them. `
-`A long time passed, and that power was lost. `
-`By repairing it, Kinzo restored this island's barrier...and once again bound me to the island." `
-`"...Can Eastern magic work on a Western witch like you?" `
-`"Normally, the affinity would be poor. `
-`However, for the purpose of sealing me here, it may have been quite convenient in a way." `
-`"If it was Western magic, I would have had some knowledge. `
-`For any barrier, there would have been some measures I could have taken. `
-`But Eastern magic is outside my area of expertise. `
-`It was as if I had been given chopsticks instead of a spoon for some soup that I wanted to drink." `
-`"In a space dominated by Eastern magic, Western magic loses much of its power. `
-`Even if she were given one thousand days to regain her strength, `
-`she would have to wait many, many more." `
-`"...So you're saying it took you 20 years to regain your power, and now you've revived, as we can all see?" `
-`"Those were horribly long years... `
-`I spent many days in the form of gold butterflies, found Kinzo's mansion, and watched over him every day. `
-`I lived through those days with no means to enjoy myself except to ponder how I would get back at him." `
-`"...That period of 20 years was fortunate for me. `
-`Kinzo tried to use all sorts of magic to find and capture me, but each failed. `
-`There's a limit to how many miracles a single human can bring about. `
-`Even simply holding me captive for that long had been a miracle far above his place. `
-`It would be unthinkable for me to be captured like that multiple times." `
-`"......Grandfather said something in the previous game. `
-`It was something like...magic lies in a miracle of probability." `
-`"Indeed. `
-`As Kinzo was searching for a hidden art to capture me again, he stumbled upon that. `
-`......Then, he finally worked out the ceremony involving the offering of 13 people as sacrifices to revive me again." `
-`"13 people...as sacrifices..." `
-`"That is the witch's epitaph. `
-`A song of sacrifices. `
-`...Six people on the first twilight. `
-`Two people on the second. `
-`And then five more people on the fourth through eight twilights. `
-`A forbidden ceremony, involving the offering of a total of 13 people as sacrifices... `
-`Those sacrifices were to be chosen randomly, and the one who held the ceremony, Kinzo himself, was no exception." `
-`"Dumbass... `
-`Are you saying that all the gruesome murders on this island were a weird ceremony?!!" `
-`I'd had a vague idea that this might be the case... `
-`But I couldn't just hear that it was true from a witch and a demon and say "Oh, really?" and accept it! `
-`"There are 18 people on Rokkenjima. `
-`13 are offered as sacrifices, five are left alive. `
-`Then I revive. `
-`...In other words, the odds that Kinzo will be able to meet me again are probably around one in three. `
-`He bet his own life on those odds, `
-`wishing for a reunion with me for the last bit of his remaining life." `
-`"......You're saying he gathered our family for the sake of that joke of a ceremony?! `
-`Don't fuck with me!! `
-`Don't say stuff like that, damn it!!" `
-`"It was all set out in our contract from the beginning. `
-`When Kinzo's life ended, `
-`all the gold I lent him and all of the assets he created would be given to me. `
-`...Yes, Kinzo did stab me in the back quite brutally, `
-`but looking back now, it was a rare and precious time during my thousand years of life. `
-`After all, boredom is my natural enemy. `
-`To Kinzo, who offered me a chance to run away from that for several decades... `
-`yes, you could say I owe him for that." `
-`"I decided to go along with Kinzo's game. `
-`So, to start, Kinzo returns the Ushiromiya Family Head's Ring to me. `
-`It was my gold that revived the family, after all. `
-`......Then, 13 people are chosen at random to be sacrifices. `
-`While that happens, you all run about, `
-`showing me all kinds of human interactions as you try to oppose me, and entertaining me greatly. `
-`Yes, I truly have taken a liking to this game of Kinzo's! `
-`*cackle*cackle*." `
+`kau mungkin menyesal telah menyebabkan kematianku. `
+`Tapi aku seharusnya berterima kasih padamu. `
+`*terkekeh*terkekeh*...!" `
+`Aku tidak bisa melihat Rosa lagi. `
+`Apakah dia pergi memanggil dokter, atau dia begitu ketakutan sehingga dia melarikan diri? `
+`...Itu tidak lagi penting. `
+`Cangkang tanpa jiwa itu tidak lagi memiliki nilai. `
+`Dan juga, ...aku begitu lemah sekarang. `
+`Bahkan sinar matahari tengah hari yang indah ini terasa menyiksa bagiku. `
+`Aku menghancurkan bentuk manusia ku. `
+`Lalu, aku mengubahnya menjadi beberapa kupu-kupu emas. `
+`...Ya, dengan kekuatan magisku yang sekarat seperti sekarang, bentuk ini lebih mudah dipertahankan. `
+`Untuk menghindari sedikit saja cahaya matahari, aku menaiki angin dan terbang perlahan di sisi tebing. `
+`Mungkin di hutan akan sedikit lebih sejuk. `
+`Bagaimanapun, aku akan mengambil waktu untuk pulih dan mengembalikan kekuatan lamaku. `
+`...Sambil memikirkan cara membuat Kinzo membayar semua utangnya padaku. `
+`Menari sendirian di udara, aku menatap pantai sekali lagi. `
+`Di tepi pantai berbatu...terbaringlah sosok yang pernah menjadi diriku, ...sosok yang pada akhirnya akan kudapatkan kembali. `
+`Untuk mendapatkan kembali bentuk tubuh fisik yang telah aku buang, `
+`...mungkin akan membutuhkan lebih dari ratusan hari. `
+`...dan mungkin memerlukan seribu hari, atau bahkan lebih. `
+`Tapi, aku adalah Penyihir Tak Terbatas. `
+`Penyihir Emas yang telah hidup selama seribu tahun. `
+`Menunggu berapapun jumlah hari tidak akan menjadi masalah. `
+`*terkekeh*terkekeh* Oh, Kinzo. `
+`Menyesalkah kau tidak ada di sini sekarang. `
+`Kau tidak akan bisa menangkapku lagi. `
+`...*terkekeh*terkekeh*! `
+`"......Dan kemudian, kau berubah menjadi kupu-kupu emas, bersembunyi di hutan, dan menunggu kekuatan magismu pulih? Itukah yang kau maksud?" `
+`"Benar. `
+`Aku mengambil bentuk ini untuk mengejekmu, tapi kebanyakan waktu, lebih mudah bagiku secara magis untuk mempertahankan bentukku sebagai kupu-kupu emas." `
+`"Hey, silakan bersantai dan pilih yang paling mudah. `
+`Aku tidak keberatan tidak perlu mendengarkan tawamu yang mengganggu." `
+`"*terkekeh*terkekeh* `
+`Ketika aku berubah menjadi kupu-kupu dan menyusup ke dalam hutan, Kinzo sudah tidak mungkin lagi menemukanku. `
+`...Tapi, Kinzo tidak kecewa. `
+`Tetap saja, dia tidak langsung bisa menyiapkan cara untuk menangkapku." `
+`"Jadi, dia terlebih dahulu bergerak untuk mencegahku meninggalkan pulau ini... `
+`dan mencegahku mendapatkan kembali kekuatanku. `
+`......Astaga. Bagaimanapun, kejahatan Kinzo sungguh tak terbayangkan. `
+`...Sungguh sulit dicintai oleh seseorang seperti itu. `
+`*terkekeh*terkekeh*!" `
+`"Dia menemukan cara untuk mencegahmu pergi setelah kau berubah menjadi kupu-kupu? `
+`Apa, dia memasang jaring serangga di seluruh hutan?" `
+`"Benar. `
+`Yang ajaib. `
+`......kau tidak tau? `
+`Di laut di depan pelabuhan ada terumbu karang... di atasnya terdapat sebuah kuil sihir Timur kecil." `
+`"...Ah, itu. `
+`Tapi sudah hilang tahun ini. `
+`Itu adalah kuil kecil yang dibangun berabad-abad lalu oleh seorang shugenja, kan?" `
+`"Sejak awal, Rokkenjima adalah pulau yang diliputi oleh distorsi. `
+`Ia menarik benda-benda berkuasa sihir dan makhluk-makhluk terkait lainnya. `
+`...Nyonya sendiri adalah salah satunya. `
+`Bagaimana kalau teh lagi?" `
+`"*terkekeh*terkekeh*, silakan. `
+`...Mereka membawa bahaya bagi manusia dan kemungkinan besar meninggalkan beberapa legenda menyeramkan di belakang mereka. `
+`Kuil kecil itu dibangun pada zaman kuno oleh seorang penyihir Timur yang mendengar tentang mereka. `
+`Waktu berlalu, dan kekuatan itu hilang. `
+`Dengan memperbaikinya, Kinzo memulihkan penghalang pulau ini... dan sekali lagi mengikatku pada pulau ini." `
+`"...Apakah sihir Timur bisa bekerja pada seorang penyihir Barat seperti kau?" `
+`"Secara normal, kesesuaiannya akan buruk. `
+`Namun, untuk tujuan mengurungku di sini, mungkin hal itu cukup praktis dalam suatu cara." `
+`"Jika itu sihir Barat, aku mungkin memiliki sedikit pengetahuan. `
+`Untuk setiap penghalang, pasti ada langkah-langkah yang bisa aku ambil. `
+`Tapi sihir Timur berada di luar bidang keahlianku. `
+`Seolah-olah aku diberi sumpit alih-alih sendok untuk sup yang ingin aku minum." `
+`"Di ruang yang didominasi oleh sihir Timur, sihir Barat kehilangan sebagian besar kekuatannya. `
+`Bahkan jika dia diberi seribu hari untuk memulihkan kekuatannya, `
+`dia harus menunggu jauh lebih lama lagi." `
+`"...Jadi maksudnya kau butuh 20 tahun untuk memulihkan kekuatannya, dan sekarang telah bangkit kembali, seperti yang kita semua lihat?" `
+`"Itu adalah tahun-tahun yang sangat panjang... `
+`Aku menghabiskan banyak hari dalam bentuk kupu-kupu emas, menemukan mansion Kinzo, dan mengawasinya setiap hari. `
+`Aku menjalani hari-hari itu tanpa cara untuk menikmati diri kecuali memikirkan bagaimana aku akan membalas dendam padanya." `
+`"...Periode 20 tahun itu beruntung bagiku. `
+`Kinzo mencoba menggunakan segala macam sihir untuk menemukan dan menangkapku, tetapi semuanya gagal. `
+`Ada batas seberapa banyak keajaiban yang bisa diciptakan oleh seorang manusia. `
+`Bahkan hanya menahanku dalam penangkapan selama itu sudah merupakan keajaiban yang jauh di luar kemampuannya. `
+`Tidak terbayangkan bagi diriku untuk ditangkap seperti itu berkali-kali." `
+`"......Kakek mengatakan sesuatu dalam permainan sebelumnya. `
+`Itu sesuatu seperti... sihir terletak pada keajaiban peluang." `
+`"Benar. `
+`Saat Kinzo mencari seni tersembunyi untuk menangkapku lagi, dia menemukan hal itu. `
+`......Lalu, dia akhirnya menemukan upacara yang melibatkan pengorbanan 13 orang untuk menghidupkanku kembali." `
+`"13 orang... sebagai korban..." `
+`"Itulah epitaf penyihir. `
+`Lagu pengorbanan. `
+`...Enam orang pada senja pertama. `
+`Dua orang pada senja kedua. `
+`Dan lima orang lagi pada senja keempat hingga kedelapan. `
+`Sebuah upacara terlarang, yang melibatkan pengorbanan total 13 orang... `
+`Korban-korban tersebut dipilih secara acak, dan orang yang mengadakan upacara, Kinzo sendiri, tidak terkecuali." `
+`"Bodoh... `
+`Jadi maksudmu semua pembunuhan mengerikan di pulau ini adalah upacara aneh?!' `
+`Aku memang punya firasat kalau ini mungkin terjadi... `
+`Tapi aku tidak bisa hanya mendengar itu dari seorang penyihir dan iblis lalu berkata "Oh, benarkah?" dan menerimanya begitu saja! `
+"Ada 18 orang di Rokkenjima. `
+`13 di antaranya ditawarkan sebagai korban, lima dibiarkan hidup. `
+`Kemudian aku bangkit kembali. `
+`...Dengan kata lain, peluang Kinzo dapat bertemuku lagi kemungkinan sekitar satu banding tiga. `
+`Dia mempertaruhkan nyawanya sendiri pada peluang itu, `
+`berharap untuk bertemu kembali denganku di sisa hidupnya yang tersisa." `
+`"......Maksudmu dia mengumpulkan keluarga kami untuk upacara konyol itu?! `
+`Jangan main-main denganku!! `
+`Jangan bicara seperti itu, sialan!!" `
+`"Semua sudah diatur dalam kontrak kami sejak awal. `
+`Ketika hidup Kinzo berakhir, `
+`semua emas yang aku pinjamkan padanya dan semua aset yang dia ciptakan akan diberikan padaku. `
+`...Ya, Kinzo memang menusukku dari belakang dengan sangat kejam, `
+`tapi jika dilihat kembali sekarang, itu adalah masa yang langka dan berharga selama seribu tahun hidupku. `
+`Lagi pula, kebosanan adalah musuh alamiku. `
+`Kepada Kinzo, yang memberiku kesempatan untuk melarikan diri dari itu selama beberapa dekade... `
+`ya, bisa dibilang aku berhutang padanya untuk itu." `
+`"Aku memutuskan untuk ikut dalam permainan Kinzo. `
+`Jadi, untuk memulai, Kinzo mengembalikan Cincin Kepala Keluarga Ushiromiya kepadaku. `
+`Lagi pula, emaskulah yang menghidupkan kembali keluarga itu. `
+`......Kemudian, 13 orang dipilih secara acak untuk dijadikan korban. `
+`Sambil itu terjadi, kalian semua berlari-lari, `
+`menunjukkan kepadaku berbagai interaksi manusia saat kalian mencoba menentangku, dan sangat menghiburku. `
+`Ya, aku benar-benar menyukai permainan Kinzo ini! `
+`*terkekeh*terkekeh*." `
 `"Aaaaaaaaaahh!! `
-`I definitely won't believe in that kind of magic story! `
-`......Then who are you?! `
-`You fell off a cliff and died, dammit! `
-`Your soul slipped out, became butterflies, and went to the forest? `
-`That's all a load of bullshit!!" `
-`"But you're here! `
-`Who are you?!! `
-`Aren't you the 19th person?!" `
-`"That is true, I am the 19th person. `
-`*cackle*cackle*! `
-`But it's useless, right? `
-`It's all useless!!" `
+`Aku pasti tidak akan percaya pada cerita sihir semacam itu! `
+`......Lalu siapa kau?! `
+`kau jatuh dari tebing dan mati, sialan! `
+`Jiwamu melayang keluar, berubah menjadi kupu-kupu, dan pergi ke hutan? `
+`Itu semua omong kosong belaka!!" `
+`"Tapi kau ada di sini! `
+`Siapa kau?!! `
+`Bukankah kau orang ke-19?!" `
+`"Itu benar, aku adalah orang ke-19. `
+`*terkekeh*terkekeh*! `
+`Tapi itu sia-sia, kan? `
+`Semua sia-sia!!" `
 `" `
-`{p:1:There are no more than 18 humans on this Rokkenjima}!" `
-`"Wha......what did you saaaaaaay...?! `
-`So you're saying...that the "X" in the 18+X doesn't exist?! `
-`Are you saying the piece I took...the X...doesn't exist?!" `
+`{p:1:Tidak ada lebih dari 18 manusia di Rokkenjima ini}!" `
+`"A......Apa katamu...?! `
+`Jadi kau mengatakan...kalau "X" dalam 18+X tidak ada?! `
+`kau bilang potongan yang aku ambil... X... tidak ada?!" `
 `"Pu ku ku ku... `
-`That is what this means. `
-`My condolences. `
-`...Still, you do move fast, Milady. `
-`And I thought you'd let him flounder about before spinning everything around at the end. `
-`Well then, Battler-sama, would some more tea be agreeable?" `
-`"I-I don't need it, damn it!! `
-`I don't believe it! `
-`The culprit can't be one of the 18! `
-`Then what are you, and why are you here?!! `
-`If the 19th person doesn't exist, then are you saying you're one of the 18 in disguise?!" `
-`"*cackle*cackle*! `
-`Perhaps you are castling. `
-`Though reluctantly, you are doubting one of the 18 people as your last way out. `
-`......However, it will be difficult for me from here on out. `
-`If you choose to stop caring about propriety, `
-`you could prepare a culprit freely amid 18 people! `
-`Making you reach checkmate `
-`by evading those 18 pieces... `
-`...will be truly difficult." `
-`"As if I'd do that!! `
-`I won't suspect any of the 18! `
-`I don't want to suspect people!! `
-`Have I really been cornered here again...?! `
-`Damn it, damn it, damn it!!" `
-`"It looks like we're finally approaching the end, in the third round of this game of ours. `
-`You've nowhere to run anymore, right? `
-`*cackle*cackle*! `
-`You don't want to suspect any of those beloved people in the 18, do you? Were you trying to hide that from me? `
-`Then why do you refuse me?" `
-`"They say you should play the opening like a book, the middle game like a magician, `
-`and the endgame like a machine. `
-`I'll corner you from here on. `
-`Slowly, carefully, ...surely. `
-`Or, on the other hand, would it be better if I pressed you all at once, which might suit your style more?" `
-`"Yes, that should fit you well, let's do that. `
-`I'm now fully aware of the sorts of attacks you're weakest against! `
-`*cackle*cackle*cackle* Hihihihihihihihihihi!!" `
+`Itulah artinya. `
+`Turut berduka cita. `
+`...Tetap saja, anda bergerak cepat, Nyonya. `
+`Dan saya pikir anda akan membiarkannya kebingungan sebelum membalikkan segalanya di akhir. `
+`Baiklah, Battler-sama, apakah teh lagi akan menyenangkan?" `
+`"A-aku tidak membutuhkannya, sialan!! `
+`Aku tidak percaya! `
+`Pelakunya tidak mungkin salah satu dari 18 orang itu! `
+`Lalu siapa kau, dan kenapa kau di sini?!! `
+`Jika orang ke-19 tidak ada, apakah kau mengatakan kau salah satu dari 18 yang menyamar?!" `
+`"*terkekeh*terkekeh*! `
+`Mungkin kau sedang melakukan rokade. `
+`Meskipun enggan, kau meragukan salah satu dari 18 orang sebagai jalan keluar terakhirmu. `
+`......Namun, akan sulit bagiku mulai sekarang. `
+`Jika kau memilih untuk tidak peduli dengan etika, `
+`kau bisa menyiapkan seorang pelaku dengan bebas di antara 18 orang! `
+`Membuatmu mencapai skakmat `
+`dengan menghindari 18 bidak tersebut... `
+`...akan benar-benar sulit." `
+`"Mana mungkin aku akan melakukan itu!! `
+`Aku tidak akan mencurigai siapa pun dari 18 orang itu! `
+`Aku tidak mau mencurigai orang-orang!! `
+`Apakah aku benar-benar terjebak di sini lagi...?! `
+`Sialan, sialan, sialan!!" `
+`"Sepertinya kita akhirnya mendekati akhir, di putaran ketiga permainan kita ini. `
+`kau tidak punya tempat untuk lari lagi, kan? `
+`*terkekeh*terkekeh*! `
+`kau tidak ingin mencurigai salah satu dari 18 orang-orang tercinta, kan? Apakah kau mencoba menyembunyikan itu dariku? `
+`Lalu kenapa kau menolaknya?" `
+`"Mereka bilang kau harus memainkan pembukaan seperti buku, permainan tengah seperti pesulap, `
+`dan akhir permainan seperti mesin. `
+`Aku akan mengurungmu mulai sekarang. `
+`Pelan-pelan, hati-hati, ...pasti. `
+`Atau, di sisi lain, apakah lebih baik jika aku menyerangmu sekaligus, yang mungkin lebih cocok dengan gaya bermainmu?" `
+`"Ya, itu seharusnya cocok untukmu, mari kita lakukan itu. `
+`Aku sekarang sepenuhnya menyadari jenis serangan apa yang paling lemah bagimu! `
+`*terkekeh*terkekeh*terkekeh* Hihihihihihihihihihi!!" `
+
