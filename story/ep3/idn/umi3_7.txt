@@ -1,640 +1,641 @@
-`Gohda was doing the nighttime rounds. `
-`Rokkenjima had always been empty, except for the Ushiromiya Family household. `
-`So, checking that the doors and windows were all closed had no real purpose. `
-`However, ever since the time Natsuhi had condemned such an attitude as being careless, the nighttime rounds had become part of the servants' daily routine. `
-`...In the first place, Natsuhi had ordered this because of the occasional witch disturbances. `
-`Everyone who came and left this island knew about the legend of {f:5:Beatrice}, the witch of the forest. `
-`It had become established as this island's characteristic ghost story. `
-`Because of that, it was only natural that some people would claim that, when they thought they were alone in the mansion, `
-`...they would hear a strange sound or see the shadow of a person. `
-`However, when that created a little too much of a disturbance and reached Natsuhi's ears, `
-`she made a fuss, thinking that some suspicious person might have been entering and leaving. `
-`Apparently, she had roused all the servants and had them check throughout the mansion. `
-`Because all of that panic over the witch had happened before Gohda's arrival, `
-`he had only heard about it from the more senior servants. `
-`Ghost stories like that could be found in any workplace. `
-`Even at the hotels and restaurants Gohda had worked at, `
-`there had been plenty of them. `
-`So when he heard about that story on this island, `
-`he'd given a forced smile, thinking "Ah, so they have that kind of thing here after all". `
-`That forced smile aside, he had figured that, when in Rome, do as the Romans do, and had taken it seriously. `
-`Gohda went along with it on the outside, but in his heart, he'd assumed it to be a childish trick. `
-`...At first, that is. `
-`"......This certainly is eerie. `
-`Yes, I can see why it was so easy for past servants to get into a panic." `
-`He could understand how someone doing the rounds on an eerie night like this... `
-`might believe they'd seen a ghost if they `
-`saw a lace curtain waving in the breeze from a window that hadn't been closed. `
-`"So, if you make fun of the witch of the portrait, there is a curse. `
-`...It seems there was even a servant who received a serious injury and quit. `
-`...Well, I wouldn't want that. `
-`Think of my age. `
-`I probably wouldn't be granted a workplace this hospitable again... `
+`Gohda sedang melakukan patroli malam. `
+`Rokkenjima selalu sepi, kecuali kediaman Keluarga Ushiromiya. `
+`Jadi, sebenarnya tidak ada maksud apapun untuk memeriksa apakah semua pintu dan jendela tertutup. `
+`Tapi, sejak Natsuhi mengkritik sikap tersebut sebagai tindakan ceroboh, patroli malam menjadi bagian dari rutinitas harian para pelayan. `
+`...Sejak awal, Natsuhi memerintahkan hal ini karena gangguan penyihir yang sesekali terjadi. `
+`Semua orang yang datang dan pergi dari pulau ini tahu tentang legenda {f:5:Beatrice}, penyihir hutan. `
+`Legenda itu telah menjadi cerita hantu khas pulau ini. `
+`Karena itu, wajar saja kalau beberapa orang mengklaim, ketika mereka merasa sendirian di mansion, `
+`...mereka mendengar suara aneh atau melihat bayangan seseorang. `
+`Tapi, ketika hal itu menimbulkan keributan yang terlalu besar dan sampai ke telinga Natsuhi, `
+`dia membuat keributan, berpikir bahwa mungkin ada orang mencurigakan yang masuk dan keluar. `
+`Ternyata, dia telah membangunkan semua pelayan dan memerintahkan mereka untuk memeriksa seluruh mansion. `
+`Karena semua kepanikan tentang penyihir itu terjadi sebelum kedatangan Gohda, `
+`dia hanya mendengarnya dari pelayan yang lebih senior. `
+`Cerita hantu seperti itu bisa ditemukan di tempat kerja manapun. `
+`Bahkan di hotel dan restoran tempat Gohda pernah bekerja, `
+`ada banyak cerita semacam itu. `
+`Jadi ketika dia mendengar cerita itu di pulau ini, `
+`dia tersenyum paksa, berpikir, "Ah, jadi mereka juga punya hal semacam itu di sini." `
+`Di luar senyum paksa itu, dia berpikir, "Di Roma, ikutilah kebiasaan orang Roma," dan lakukan dengan serius. `
+`Gohda mengikuti aturan itu di luar, tapi di dalam hatinya, dia menganggapnya sebagai trik anak-anak. `
+`...Awalnya, saja sih. `
+`"......Ini memang menyeramkan. `
+`Ya, aku bisa mengerti mengapa pelayan-pelayan sebelumnya mudah panik." `
+`Dia bisa memahami bagaimana seseorang yang berkeliling di malam menyeramkan seperti ini... `
+`mungkin percaya kalau mereka melihat hantu jika mereka `
+`melihat tirai renda berayun di angin dari jendela yang tidak ditutup. `
+`"Jadi, jika kau mengejek penyihir dalam lukisan, ada kutukan. `
+`...Sepertinya bahkan ada pelayan yang mengalami cedera serius dan mengundurkan diri. `
+`...Yah, aku tidak ingin itu terjadi. `
+`Ingat umur. `
+`Mungkin aku tidak akan mendapat tempat kerja sehangat ini lagi... `
 `Aaah. `
-`Witch of the portrait, `
-`I'm working sincerely, so please give me some peace." `
-`Gohda prayed to the portrait, his hands together, as though he was at a Shinto shrine... `
-`At that time, ...he thought he heard a sound. `
-`The kitchen? `
-`Was that the sound of something metal falling on the floor? `
-`Maybe a mouse or a cockroach had come out and knocked over some of the dishes. `
-`No, no, how could that be? `
-`It was usually cleaned thoroughly! `
-`Thinking he'd check out what that noise really had been, Gohda entered the kitchen. `
-`He turned on the kitchen light. `
-`When he did, he heard a strange sound. `
-`*clank*clank*clank*clank*clank*clank*. `
-`...To a cook like Gohda, the sound felt like the lid on a pressure cooker or something shaking. `
-`Surely, there wouldn't be a pot on the burner when no one was in the kitchen. `
-`Even if someone was using the gas, walking away from it would be quite dangerous. `
-`...Just in case, Gohda decided to inspect the area around the gas range... `
-`"......What is this...?" `
-`When he did, in the corner with the gas range, `
-`...the pressure cooker really had been set out, just as he'd thought. `
-`But the flame wasn't on. `
-`...And yet, the lid was clanking... `
-`Was something fermenting and leaking gas? `
-`...How could that be? `
-`...Then was there a mouse or something inside? `
-`...How could there be? Ridiculous... `
-`When people were watching, Gohda acted as though he had a bold personality fitting for his build, `
-`...but he actually had an unexpectedly timid side to him. `
-`He was frightened that there might be something inside, and he couldn't bring himself to check it carelessly... `
-`In his cowardice, ...he grabbed a nearby wooden pestle, `
-`and with a *clunk!* `
-`he tapped it a little forcefully against the side of the pressure cooker. `
-`When he did, the clanking sound suddenly stopped. `
-`...He should've been relieved that it had stopped, `
-`...but the fact that it had stopped when he'd hit it was even more eerie, and made him even more suspicious about what was inside... `
-`"......Hmm, ...*gulp*. `
-`......Mysterious phenomena do not exist in this world. `
-`Yes, witches and magic, things like that couldn't possibly exist. `
-`All phenomena can be explained with science. `
-`...As if monsters and witches could exist...!" `
-`He repeated that many times, trying to build up his own confidence. `
-`...The gap between what he was saying and what he was doing was quite comical. `
-`"Who would believe in a witch, who would believe in magic or curses...? `
-`...Come on, `
-`...show me what you really are...! `
-`Take that!" `
-`...He removed the lid of the pressure cooker. `
-`And lying exposed there... `
-`was the sparkling clean silver bottom of the pot. `
-`...There was absolutely nothing frightening like he'd imagined. `
-`"......Whew. `
-`...Hahahaha, it's only natural. `
-`...There's no way there could have been anything inside." `
-`By now, Gohda realized that he had been a coward. `
-`...So, while he still had some doubts as to what had caused the lid to make that sound, `
-`...he figured it wasn't a big problem, and decided not to worry about it too much. `
-`Then he took the lid he'd grabbed...and softly set it back down where it had been. `
-`...It's fine, it won't make a sound. `
-`...Of course it won't. `
-`As if witches or magic could exist...! `
-`*clank*. `
-`*clank*clank*clank*clank*. `
-`"......Huh...?" `
-`*clank*clank*clank*clank*clank*clank*clank*clank*. `
-`*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*clank*! `
+`Wanita dalam lukisan, `
+`Aku bekerja dengan tulus, jadi tolong beri aku sedikit ketenangan." `
+`Gohda berdoa kepada lukisan itu, tangannya tergenggam, seolah-olah dia berada di kuil Shinto... `
+`Pada saat itu, ...dia merasa mendengar suara. `
+`Dapur? `
+`Apakah itu suara benda logam jatuh di lantai? `
+`Mungkin tikus atau kecoa keluar dan menumpahkan beberapa piring. `
+`Tidak, tidak, bagaimana bisa? `
+`Biasanya dibersihkan dengan bersih! `
+`Berpikir untuk memeriksa suara itu, Gohda masuk ke dapur. `
+`Dia menyalakan lampu dapur. `
+`Ketika dia melakukannya, dia mendengar suara aneh. `
+`*klang*klang*klang*klang*klang*klang*. `
+`...Bagi seorang koki seperti Gohda, suara itu terasa seperti tutup panci tekan atau sesuatu yang bergoyang. `
+`Tentu saja, tidak akan ada panci di atas kompor saat tidak ada orang di dapur. `
+`Bahkan jika seseorang menggunakan gas, meninggalkan kompor begitu saja sangat berbahaya. `
+`...Sebagai tindakan pencegahan, Gohda memutuskan untuk memeriksa area sekitar kompor gas... `
+`"...... Apa ini...?" `
+`Ketika dia melakukannya, di sudut dekat kompor gas, `
+`...panci tekan memang sudah diletakkan di sana, seperti yang dia duga. `
+`Tapi apinya tidak menyala. `
+`...Tapi, tutupnya berdenting... `
+`Apakah ada sesuatu yang membusuk dan bocor gas? `
+`...Bagaimana bisa? `
+`...Atau ada tikus atau sesuatu di dalamnya? `
+`...Bagaimana bisa ada? Konyol... `
+`Ketika orang-orang menonton, Gohda bertindak seolah-olah dia memiliki kepribadian berani yang sesuai dengan postur tubuhnya, `
+`...tapi dia sebenarnya memiliki sisi yang tak terduga dan penakut. `
+`Dia takut ada sesuatu di dalamnya, dan dia tidak bisa membiarkan dirinya memeriksanya dengan sembarangan... `
+`Dalam ketakutannya, ...dia mengambil sebuah alu kayu yang ada di dekatnya, `
+`dan dengan suara *krek!* `
+`dia menepuknya dengan sedikit paksa ke sisi panci tekan. `
+`Ketika dia melakukannya, suara gemerincing tiba-tiba berhenti. `
+`...Dia seharusnya merasa lega karena suaranya berhenti, `
+`...tetapi fakta bahwa suaranya berhenti saat dia memukulnya justru lebih mengerikan, dan membuatnya semakin curiga tentang apa yang ada di dalamnya... `
+`"......Hmm, ...*meneguk*. `
+`......Fenomena misterius tidak ada di dunia ini. `
+`Ya, penyihir dan sihir, hal-hal seperti itu tidak mungkin ada. `
+`Semua fenomena dapat dijelaskan dengan sains. `
+`...Seolah-olah monster dan penyihir bisa ada...!" `
+`Dia mengulanginya berkali-kali, berusaha membangun keyakinannya sendiri. `
+`...Jarak antara apa yang dia katakan dan apa yang dia lakukan cukup lucu. `
+`"Siapa yang akan percaya pada penyihir, siapa yang akan percaya pada sihir atau kutukan...? `
+`...Ayo, `
+`...tunjukkan padaku apa yang sebenarnya kau...! `
+`Rasakan itu!" `
+`...Dia membuka tutup panci tekan. `
+`Dan terbaring di sana... `
+`adalah bagian bawah panci perak yang bersih berkilau. `
+`...Tidak ada sama sekali hal menakutkan seperti yang dia bayangkan. `
+`"......Wuh. `
+`...Hahahaha, itu wajar saja. `
+`...Tidak mungkin ada apa-apa di dalamnya." `
+`Sekarang, Gohda menyadari bahwa dia telah menjadi pengecut. `
+`...Meskipun dia masih ragu tentang apa yang menyebabkan tutup panci itu berbunyi, `
+`...dia memutuskan itu bukan masalah besar dan memilih untuk tidak memikirkannya terlalu dalam. `
+`Lalu dia mengambil tutup panci yang dia ambil...dan meletakkannya kembali dengan lembut di tempat semula. `
+`...Tidak apa-apa, tidak akan berbunyi. `
+`...Tentu saja tidak. `
+`Seolah-olah penyihir atau sihir bisa ada...! `
+`*klang*. `
+`*klang*klang*klang*klang*. `
+`"......Hah...?" `
+`*klang*klang*klang*klang*klang*klang*klang*klang*. `
+`*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*klang*! `
 `"...E-Eeeeeeeeeeeppp!!" `
-`All of the pots and dishes in the kitchen started clanking at once. `
-`It grew even stronger, so that finally, the lid to one of the pots fell off...! `
-`And...from inside that pot, ......a slender white arm reached out. `
-`Lids fell off the other pots one after another, `
-`and another, `
-`and another... `
+`Semua panci dan piring di dapur mulai berbunyi berderak secara bersamaan. `
+`Itu semakin kuat, sehingga akhirnya, salah satu tutup panci terlepas...! `
+`Dan...dari dalam panci itu, ......sebuah lengan putih ramping menjulur keluar. `
+`Tutup panci lainnya terlepas satu demi satu, `
+`dan lagi, `
+`dan lagi... `
 `"Eeeeeeeeeepp!!! `
-`As if...as if witches could exiiiist!! `
-`As if I'd believe iiiiiiiiiit!!" `
-`When the number of arms grew to seven, a loud, shrill laughter split the air. `
-`"What a letdown! `
-`Too bad that someone who can make such delicious food is such a lightweight!!" `
-`"If you don't want him, I'll take him, he's all mine!!" `
-`"Wait, I said nooooooooooo!! `
-`I'll take him!!" `
-`"Huh?! `
-`Wha, whaa?!?! `
+`Mana ada... yang namanya penyihir!! `
+`Mana mungkin aku percaya iiiiiiiiiitu!!" `
+`Ketika jumlah lengan mencapai tujuh, tawa nyaring dan tajam memecah udara. `
+`"Betapa mengecewakannya! `
+`Sayang sekali orang yang bisa membuat makanan enak seperti itu ternyata begitu lemah!!" `
+`"Kalau kau tidak mau dia, aku yang akan mengambilnya, dia milikku!!" `
+`"Tunggu, aku bilang tidakkkkkkkkkkk!! `
+`Aku yang akan mengambilnya!!" `
+`"Hah?! `
+`Ap, apaaa?!?! `
 `HYAAAAAAAAAAAAAAAAAAAAAAAHHH!!" `
 `""""Kyahahahahahahaha!!!"""" `
-`Come on, let's search, there's only one more. `
-`That old hag! `
-`Where is she? `
-`She isn't in the mansion, what about the guesthouse? `
-`Kuhihihihi, first one wins, first one wins, right?! `
-`Come on, search, search, find her, find her...! `
-`Don't be noticed by the relatives in the dining hall, right? `
-`And don't get noticed by the kids in the guesthouse, right? `
-`Search in silence, kill in silence! `
-`After all, it's still just the first twilight! `
-`She isn't in the guesthouse. `
-`But she wasn't in the mansion either, right? `
-`Hey, hey, I found her, I found her, she's in the rose garden. `
-`Why's she standing around there without an umbrella? `
-`She's already given up, all mine, all mine, all miiine! `
-`You blockheads can just sit there and watch! `
-`I told you, nooooooo, this one's miiiiiiiiiiiiine!! `
-`Come on, if we take any longer, we'll be scolded by {f:5:Beatrice}-sama! `
-`Let's take care of it all at once! `
+`Ayo, kita cari, tinggal satu lagi. `
+`Nenek tua itu! `
+`Di mana dia? `
+`Dia tidak ada di mansion, bagaimana dengan guesthouse? `
+`Kuhihihihi, yang pertama menang, yang pertama menang, kan?! `
+`Ayo, cari, cari, temukan dia, temukan dia...! `
+`Jangan ketauan oleh kerabat di ruang makan, kan? `
+`Dan jangan ketahuan oleh anak-anak di rumah tamu, kan? `
+`Cari dengan diam, bunuh dengan diam! `
+`Lagi pula, ini masih hanya senja pertama! `
+`Dia tidak ada di guesthouse. `
+`Tapi dia juga tidak ada di mansion, kan? `
+`Hei, hei, aku menemukannya, aku menemukannya, dia ada di taman mawar. `
+`Kenapa dia berdiri di sana tanpa payung? `
+`Dia sudah menyerah, semuanya milikku, semuanya milikku, semuanya milikkuuuu! `
+`Kalian orang bodoh, duduk saja dan tonton! `
+`Aku bilang, tidakkkkkkk, yang ini milikkuuuuuuuuuuuuu! `
+`Ayo, kalau kita terlambat, kita akan dimarahi oleh {f:5:Beatrice}-sama! `
+`Kita selesaikan semuanya sekaligus! `
 `"............" `
-`There, found her, surrounded her! `
-`Come on, let's get along and do it all at once, okay?! `
-`Diiiiiiiiiiiiiiiiiiiiiiiie!!! `
-`"......Huuuh...? `
-`......What?" `
-`"Wh‐ `
-`What is... `
-`this...?" `
+`Di sana, dia ketemu, kelilingi dia! `
+`Ayo, kita kerja sama dan selesaikan semuanya sekaligus, oke?! `
+`Matiiiiiiiiiii!!! `
+`"......Haaah...? `
+`......Apa?" `
+`"Ap- `
+`Apa-apaan... `
+`ini...?" `
 `"......Hohohohoh. `
-`What naughty girls. `
-`...You wouldn't happen to be friends of that child, would you...?" `
-`"...Just what is this......this old hag...?!" `
-`"There's got to be some mistake!! `
-`One more time!!" `
-`"...Why can she defend against us?!" `
-`"Move aside! `
-`One more time!!!" `
-`"......No matter how often you try, it won't work. `
-`This person...is good." `
-`"......I am waiting for that child. `
-`Would you mind calling for her?" `
-`"D-Do you really expect us to run errands for you like that?!" `
-`"There's no need." `
+`Anak-anak nakal. `
+`...Kau tidak kebetulan teman anak itu, kan...?" `
+`"...Apa-apaan......nenek tua ini...?!`
+"Pasti ada kesalahan!! `
+`Lagi sekali!!" `
+`"...Kenapa dia bisa melawan kita?!" `
+`"Minggir! `
+`Lagi sekali!!!" `
+`"......Dicoba berapa kalipun, tetap tidak bisa. `
+`Orang ini...sangat hebat." `
+`"...... Aku menunggu anak itu. `
+`Bisakah kau memanggilnya?" `
+`"A-Apa kau pikir kami akan melakukan itu untukmu?!" `
+`"Itu tidak perlu." `
 `"{f:5:Beatrice}-sama...!" `
-`"......After all, even I have manifested by now. `
-`...I was certain that you had awakened." `
+`"...... Lagi pula, bahkan aku sudah muncul sekarang. `
+`...Aku yakin kau sudah terbangun." `
 `"Ronove, `
-`it's been a long time. `
-`...Yes, truly, a long time." `
-`"This person's talking to Ronove-sama without using "sama"...!" `
-`".........And... `
-`it's been a long time since I've seen you too, `
+`sudah lama sekali. `
+`...Ya, benar-benar lama sekali." `
+`"Orang ini berbicara kepada Ronove-sama tanpa menggunakan ‘sama’...!" `
+`"......... Dan... `
+`sudah lama sekali aku tidak melihatmu juga, `
 `...{f:5:Beatrice}." `
-`"Sh-She's not even using "sama" for {f:5:Beatrice}-sama..." `
-`"Enough. `
-`Don't you know who this is? `
-`...The name "{f:5:Beatrice}" itself is hers. `
-`I only inherited it from her. `
-`...This is my teacher, `
-`the previous Lady {f:5:Beatrice}." `
-`"The previous... `
-`Lady {f:5:Beatrice}..." `
-`Gold butterflies appeared in ones and twos from the garden of roses and began to gather around Kumasawa... `
-`Then, after she was wrapped in a golden sparkle, she burst and disappeared, and Kumasawa's form was no longer there. `
-`...Instead, there was another Golden Witch, ......the one who once taught the path of an Endless Witch to {f:5:Beatrice}, `
-`and the only person {f:5:Beatrice} ever called Teacher. `
-`Her hair was long, beautiful, and vividly youthful, `
-`and her figure in that elegant dress couldn't possibly have been mistaken for an old lady... `
-`No, this looked like a completely different person from Kumasawa. `
-`"......Well, well, Teacher. `
-`I never even dreamed that we would meet each other again." `
-`"Yes, neither did I. `
-`...I certainly never dreamed that my sleep would be disturbed." `
-`"Such a troublesome time for you to awaken. `
-`...If you'd remained asleep as usual, the first twilight could have ended without much trouble. `
-`...Or perhaps I should be glad you're here. `
-`......I was just getting a tad bored." `
-`"...As usual, it seems you're toying with sinless people in a vulgar game. `
-`...I believe I taught you several times that the power of the Endless Witch mustn't be used to cause people trouble." `
-`"Don't say that, Teacher. `
-`Isn't boredom our natural enemy? `
-`This is just a little spice to escape from that." `
+`"Dia bahkan tidak menggunakan ‘sama’ untuk {f:5:Beatrice}-sama..." `
+`"Cukup. `
+`Apa kau tidak tau siapa dia? `
+`...Nama "{f:5:Beatrice}" itu sendiri adalah miliknya. `
+`Aku hanya mewarisinya darinya. `
+`...Ini adalah guruku, `
+`Nyonya {f:5:Beatrice} yang sebelumnya." `
+`"Nyonya {f:5:Beatrice}... `
+`Yang sebelumnya..." `
+`Kupu-kupu emas muncul satu per satu dari taman mawar dan mulai berkumpul di sekitar Kumasawa... `
+`Kemudian, setelah dia terbungkus kilauan emas, dia meledak dan menghilang, dan bentuk Kumasawa tidak lagi ada di sana. `
+`...Alih-alih, ada Penyihir Emas lain, ......yang pernah mengajarkan jalan Penyihir Tak Terbatas kepada {f:5:Beatrice}, `
+`dan satu-satunya orang yang pernah dipanggil Guru oleh {f:5:Beatrice}. `
+`Rambutnya panjang, indah, dan tampak sangat muda, `
+`dan sosoknya dalam gaun elegan itu tidak mungkin disangka sebagai seorang wanita tua... `
+`Tidak, ini tampak seperti orang yang sama sekali berbeda dari Kumasawa. `
+`"......Wah, wah, Guru. `
+`Aku bahkan tidak pernah membayangkan kalau kita akan bertemu lagi." `
+`"Ya, aku juga tidak. `
+`...Aku sama sekali tidak pernah membayangkan tidurku akan terganggu." `
+`"Waktu yang merepotkan untukmu bangun. `
+`...Jika kau tetap tidur seperti biasa, senja pertama bisa berakhir tanpa banyak masalah. `
+`...Atau mungkin aku harus bersyukur kau ada di sini. `
+`......Aku mulai sedikit bosan." `
+`"...Seperti biasa, sepertinya kau bermain-main dengan orang-orang tak bersalah dalam permainan yang keji. `
+`...Aku yakin sudah mengajarimu beberapa kali kalau kekuatan Penyihir Tak Terbatas tidak boleh digunakan untuk menyusahkan orang." `
+`"Jangan bilang begitu, Guru. `
+`Bukankah kebosanan adalah musuh alami kita? `
+`Ini hanya sedikit bumbu untuk melarikan diri dari itu." `
 `"......Tch. `
-`The more the corrosion advances, the stronger my power becomes, and the easier it becomes to summon my minions. `
-`...But who would have thought it would release the seal on you, Teacher, at the same time..." `
-`"It's precisely because I predicted such a thing would happen... `
-`that I slept so very close to where you were. `
-`...Though, I prayed in my sleep that I would not be woken again." `
-`"...Being reunited with you like this is a very sad thing for me." `
-`".........You're as cunning as always, Teacher... `
-`*cackle*..." `
+`Semakin keropos ini berkembang, semakin kuat kekuatanku, dan semakin mudah bagiku untuk memanggil para pengikutku. `
+`...Tapi siapa sangka, pada saat yang sama hal itu juga akan membuka segelmu, Guru..." `
+`"Karena itulah mengapa aku memprediksi hal seperti ini akan terjadi... `
+`jadinya aku tidur sangat dekat dengan tempatmu. `
+`...Meskipun, aku berdoa dalam tidurku agar tidak dibangunkan lagi." `
+`"...Bertemu kembali denganmu seperti ini adalah hal yang sangat sedih bagiku." `
+`".........Kau tetap licik seperti biasa, Guru... `
+`*terkekeh*..." `
 `"Ronove, `
-`have that young furniture step back. `
-`Furniture only serves its master. `
-`The master is responsible for all of her crimes." `
-`"......Certainly, `
-`Madam {f:5:Beatrice}." `
-`"I have already passed that name on to this child. `
-`...Come now, step back, `
-`furniture girls. `
-`...I may give warnings a second time, if you did not listen to the first. `
-`However, do not expect to receive a third..." `
-`"...Step back, Seven Sisters of Purgatory. `
-`If you get dragged into this, only dust will remain..." `
-`"...B-Back, everyone..." `
-`Ronove and the Seven Sisters of Purgatory retreated. `
-`After that, what remained was the {f:5:Beatrice} whose daring expression didn't falter... `
-`and the teacher {f:5:Beatrice}, who had given up that name and wore a composed smile... `
-`"Well then, `
-`...Teacher, `
-`what tea shall I prepare for our long-awaited reunion?" `
-`"Let's see. `
-`This reunion was longer in coming than the visit of a comet. `
-`Perhaps I will accept your hospitality. `
-`......And if it seems a mistake has been made, `
-`...I'll have you return my name and the title of Endless Witch." `
-`"*cackle*cackle*! `
-`So, even the title of Endless Witch has a license renewal policy? `
-`...As you wish, Teacher. `
-`See how splendid your disciple has become, `
-`and see how far she surpassed you so long ago...!" `
-`The air between the two {f:5:Beatrice}s seemed to explode with sparks. `
-`Just by glaring at each other, they purged all spirits from that space. `
-`...As they watched, the Seven Sisters shivered. `
-`...After all, if they had retreated just three steps less than they had, they would already have been turned to dust by now. `
-`"So come, `
+`suruh furnitur muda itu mundur. `
+`Furnitur hanya melayani tuannya. `
+`Tuannya bertanggung jawab atas semua kejahatannya." `
+`"......Tentu saja, `
+`Nyonya {f:5:Beatrice}." `
+`"Aku sudah memberikan nama itu kepada anak ini. `
+`...Nah, mundurlah, `
+`nona-nona furnitur. `
+`...Aku mungkin akan memberi peringatan kedua kali, jika kalian tidak mendengarkan yang pertama. `
+`Tapi, jangan harapkan akan ada yang ketiga..." `
+`"...Mundur, Tujuh Saudari Api Penyucian. `
+`Jika kalian terseret ke dalam ini, hanya debu yang akan tersisa..." `
+`"...M-Mundur, semuanya..." `
+`Ronove dan Tujuh Saudari Api Penyucian mundur. `
+`Setelah itu, yang tersisa adalah {f:5:Beatrice} dengan ekspresi berani yang tidak goyah... `
+`dan guru {f:5:Beatrice}, yang telah melepaskan nama itu dan mengenakan senyum tenang... `
+`"Baiklah, `
+`...Guru, `
+`teh apa yang harus aku siapkan untuk reuni yang telah lama ditunggu-tunggu ini?" `
+`"Apa ya kira-kira. `
+`Reuni ini lebih lama datangnya daripada kunjungan komet. `
+`Mungkin aku akan menerima keramahanmu. `
+`......Dan jika sepertinya ada kesalahan yang dibuat, `
+`...Aku akan memintamu mengembalikan namaku dan gelar Penyihir Tak Terbatas." `
+`"*terkekeh*terkekeh*! `
+`Jadi, bahkan gelar Penyihir Tak Terbatas memiliki kebijakan perpanjangan lisensi? `
+`...Seperti yang kau inginkan, Guru. `
+`Lihatlah telah menjadi betapa indahnya muridmu ini, `
+`dan lihatlah betapa jauh dia melampauimu sejak lama...!" `
+`Udara di antara kedua {f:5:Beatrice} itu seolah meledak dengan percikan api. `
+`Hanya dengan saling menatap, mereka membersihkan semua roh dari ruang itu. `
+`...Saat mereka menonton, Tujuh Saudari Api Penyucian. `
+`...Lagi pula, jika mereka mundur tiga langkah lebih sedikit dari yang mereka lakukan, mereka sudah menjadi debu sekarang. `
+`"Ayo, `
 `{f:5:Beatrice}. `
-`...Surrendering my name to you is the only regret I have in life. `
-`I will now correct that error by my own hands!" `
-`"*cackle*cackle*cackle*... `
+`...Menyerahkan namaku padamu adalah satu-satunya penyesalan dalam hidupku. `
+`Aku akan memperbaiki kesalahan itu dengan tanganku sendiri!" `
+`"*terkekeh*terkekeh*terkekeh*... `
 `...Tsk, tsk, tsk. `
-`...You've got it wrong, Teacheer. `
-`My only error... `
-`was becoming your disciple in the hopes of gaining such a puny level of power, get iiiiiiiit?" `
-`"What are you calling magic? `
-`What are you calling the Endless Witch? `
-`...All you've got is a power that can be gained just by noticing, right? `
-`And you act as though that's so great and impressive. `
-`Your turn's long over, Teacheeeeeeeeeeeeer!!" `
-`"......I... `
-`I-I don't have a clue what's going on anymore...! `
-`What in the world is happening right in front of my eyes...?!" `
-`"...You poor thing. `
-`It seems my disciple is causing you trouble. `
-`I apologize." `
-`"Wh-Who the heck are you...? `
-`Why did old Kumasawa turn into a nee-chan like this?! `
-`I mean, seriously, who are you?! `
-`I don't get it! `
-`What kind of special effects are these?! `
-`My head feels like it's gonna explode!!" `
-`"I am the witch teacher of that child. `
-`My old name was {f:5:Beatrice}. `
-`When that child succeeded me, I gave up that name, so I have no name of my own." `
-`"Like you've already said, your disciple's been a real pain to me! `
-`Please, take responsibility and do something! `
-`No, wait!!" `
-`"I don't believe in stuff like this!! `
-`As if witches and magic could exist!! `
-`I won't accept this messed-up battle! `
-`Dammit, what should I believe?!!" `
+`...Kau salah, Guuruu. `
+`Kesalahanku yang satu-satunya... `
+`adalah menjadi muridmu dengan harapan mendapatkan tingkat kekuatan yang begitu kecil, mengerti iiiiiiiit?" `
+`"Apa yang kamu sebut sihir? `
+`Apa yang kamu sebut Penyihir Abadi? `
+`...Yang kamu miliki hanyalah kekuatan yang bisa didapatkan hanya dengan menyadarinya, kan? `
+`Dan kamu bertindak seolah-olah itu begitu hebat dan mengesankan. `
+`Giliranmu sudah lama berakhir, Guruuuuuuuuuuuuu!!" `
+`"......Aku... `
+`Aku... aku tidak tau lagi apa yang sedang terjadi...! `
+`Apa yang sedang terjadi di depan mataku ini...?!" `
+`"...Kasihan sekali. `
+`Sepertinya muridku sedang menyusahkanmu. `
+`Aku minta maaf." `
+`"Kau ini siapa...? `
+`Kenapa Kumasawa tua berubah jadi nee-chan seperti ini?! `
+`Maksudku, serius, siapa kau?! `
+`Aku tidak mengerti! `
+`Efek khusus apa ini?! `
+`Kepalaku rasanya mau meledak!!" `
+`"Aku adalah guru penyihir anak itu. `
+`Nama lamaku adalah {f:5:Beatrice}. `
+`Ketika anak itu menggantikanku, aku melepaskan nama itu, jadi aku tidak punya nama sendiri." `
+`"Seperti yang sudah kau katakan, muridmu benar-benar menyusahkanku! `
+`Tolong, ambil tanggung jawab dan lakukan sesuatu! `
+`Tunggu, jangan!!" `
+`"Aku tidak percaya hal-hal seperti ini!! `
+`Seolah-olah penyihir dan sihir bisa ada!! `
+`Aku tidak akan menerima pertempuran kacau ini! `
+`Sial, apa yang harus aku percayai?!!" `
 `"Hohohoh... `
-`That's just like you, hospitality with a very quick temper." `
-`"...*cackle*cackle* `
-`I'd expect nothing less from you, Teacher. `
-`It seems this is so trivial to you, you don't even feel like opening your eyes...! `
-`But I doubt you'll be able to win unless you're prepared to wreck this whole island, seeeeeeee? `
-`Come, arise, Shoulder War Towers!!" `
-`In response to {f:5:Beatrice}'s summons, a terrific earth tremor split the rose garden. `
-`And on either side of her shoulders, two massive War Towers sprouted and stabbed into the heavens. `
-`They stretched up to 100 {c:86Ef9C:merute} tall, and each had over 360 ports. `
-`They were War Towers of the gods' army corps, which had prevented even groups of ancient heroes from invading their sacred grounds. `
-`As {f:5:Beatrice} elegantly floated in the gap between the massive two-headed towers, she looked down on her teacher, sneering with a sense of absolute superiority. `
-`With the two massive towers lined up behind her shoulders, the witch looked very small, `
-`like a butterfly dancing between huge trees. `
+`Kau banget ya, ramah tapi mudah marah." `
+`"...*terkekeh*terkekeh* `
+`Tidak mengherankan, Guru. `
+`Sepertinya ini terlalu sepele bagimu, kau bahkan tidak mau membuka mata...! `
+`Tapi aku ragu kau bisa menang kecuali kau siap menghancurkan pulau ini sepenuhnya. `
+`Nah nah, datanglah, Menara Perang Bahu!!" `
+`Menanggapi panggilan {f:5:Beatrice}, gempa bumi yang dahsyat membelah taman mawar. `
+`Dan di kedua sisi bahunya, dua Menara Perang raksasa tumbuh dan menusuk langit. `
+`Mereka menjulang setinggi 100 {c:86Ef9C:merute}, dan masing-masing memiliki lebih dari 360 lubang. `
+`Menara-menara Perang ini merupakan bagian dari pasukan dewa, yang telah mencegah bahkan kelompok pahlawan kuno untuk menyerang tanah suci mereka. `
+`Saat {f:5:Beatrice} melayang dengan anggun di celah antara dua menara berwajah ganda yang raksasa, ia menatap gurunya dengan senyuman merendahkan, penuh rasa superioritas mutlak. `
+`Dengan dua menara raksasa yang berbaris di belakang bahunya, penyihir itu terlihat sangat kecil, `
+`seperti kupu-kupu yang menari di antara pohon-pohon raksasa. `
 `"Hihhyahhyahhyaaaaaa!! `
-`Don't think you can dodge it by turning into butterflies, okay? `
-`The density of the twin towers' barrage wouldn't just make you a pinned bug sample, it'd make you a madly stabbed pincushion, right...?" `
-`Over 720 ports opened on the towers, and godly soldiers readied their multi-shot ballistas. `
-`"Is that the end of your turn?" `
-`"Heh, famous last words!! `
-`Blast awaaaaaaaaaaaaaaaaaaaaaay!!!" `
-`The ballista shots that numbered over a thousand were all fired at once, drawing a beautiful geometric curtain of death. `
-`The boorish sound as the bowstrings were played was probably even deeper than that of a reaper swinging its sickle. `
-`"Come, arise, Fallen Tower. `
-`Split the single language and let that sin be known." `
-`The sky was stained an incandescent red, and from between the clouds, a blazing, massive tower fell upside down. `
-`That massive falling tower and its rubble... `
-`sucked in the thousands of ballista shots, so that not one of them approached the body of the witch who had summoned it. `
-`That's right, no group of people, no matter how large, could approach the mysteries of heaven. `
-`That was the reality of the fallen tower. `
-`"As I'd expect from you, Teacher! `
-`If you do something, you always do it big!! `
+`Jangan pikir kau bisa menghindarinya dengan berubah menjadi kupu-kupu! `
+`Kepadatan tembakan menara kembar ganda tidak hanya akan membuatmu menjadi sampel serangga yang tertusuk, tapi akan membuatmu menjadi bantal jarum yang tertusuk brutal, kan...?" `
+`Lebih dari 720 lubang terbuka di menara, dan prajurit-prajurit suci menyiapkan ballista multi-tembakan mereka. `
+`"Apakah itu akhir giliranmu?" `
+`"Heh, itukah kata-kata terakhirmu!? `
+`Hancurkan diaaaaaaaaaaaaa!!!" `
+`Tembakan ballista yang berjumlah lebih dari seribu dilepaskan secara bersamaan, membentuk tirai kematian geometris yang indah. `
+`Suara kasar saat tali busur ditarik mungkin bahkan lebih dalam daripada suara pemotong rumput yang mengayunkan sabitnya. `
+`"Nah nah, datanglah, Menara Runtuh. `
+`Pecahlah bahasa tunggal itu dan biarkan terungap dosa itu." `
+`Langit diwarnai merah menyala, dan dari antara awan, menara besar yang terbakar jatuh terbalik. `
+`Menara besar yang jatuh dan reruntuhannya... `
+`menyerap ribuan tembakan ballista, sehingga tidak satu pun mendekati tubuh penyihir yang memanggilnya. `
+`Benar, tidak ada kelompok orang, sekecil apa pun, yang dapat mendekati misteri langit. `
+`Itulah kenyataan menara yang jatuh. `
+`"Memang hebat dirimu, Guru! `
+`Jika kau melakukan sesuatu, kau selalu melakukannya dengan besar!! `
 `Khehhhuhuhuhuhyahyahya!!" `
-`"My turn isn't over. `
-`Come, arise, Sons of Ivaldi. `
-`Bestow upon me a worthy spear." `
-`As the massive crimson tower that had fallen made a terrible gold-colored explosion, `
-`a massive spear appeared from inside those flames, so tall, like a tower, that you had to look up to see all of it. `
-`...It was too large even for a giant's hand. `
-`That divinely beautiful Spear of the Gods was so massive, it gave the illusion that the fallen tower had turned into a spear of the same size. `
-`It was a spear of certain victory that none could escape. `
-`"Looks like your twin towers won't help you now. `
-`How foolish, to block off your means of escape on both sides. `
-`You can't defend against even a single spear!" `
-`When she snapped her fingers in command, `
-`the massive tower-sized spear shot at {f:5:Beatrice} like a lightning bolt. `
-`It aimed right for the middle of the center of the Golden Witch's heart with extreme precision, `
-`as she danced in the gap between the towers like a butterfly, `
-`slicing straight through the air like a flash of lightning. `
+`"Giliranku belum berakhir. `
+`Nah nah, datanglah, para Anak Ivaldi. `
+`Berikan padaku tombak yang layak." `
+`Saat menara merah besar yang runtuh meledak dengan ledakan emas yang mengerikan, `
+`sebuah tombak raksasa muncul dari dalam api itu, begitu tinggi seperti menara, sehingga kau harus menengadah untuk melihat seluruhnya. `
+`...Itu terlalu besar bahkan untuk tangan raksasa. `
+`Tombak Dewa yang indah secara ilahi itu begitu besar, sehingga memberi ilusi kalau menara yang runtuh berubah menjadi tombak dengan ukuran yang sama. `
+`Itu adalah tombak kemenangan pasti yang tak bisa dihindari oleh siapa pun. `
+`"Sepertinya menara kembarmu tak akan menolongmu sekarang. `
+`Betapa bodohnya, memblokir jalan keluar di kedua sisi. `
+`Kau tak bisa bertahan melawan bahkan satu tombak pun!" `
+`Ketika dia menjentikkan jarinya dengan perintah, `
+`tombak raksasa seukuran menara melesat ke arah {f:5:Beatrice} seperti kilat. `
+`Tombak itu mengarah tepat ke tengah hati Penyihir Emas dengan presisi ekstrem, `
+`sementara dia menari di celah antara menara-menara seperti kupu-kupu, `
+`menyayat udara seperti kilat. `
 `"Hah!! `
-`So, you use Gungnir at a moment like this!! `
-`You really are incredible, Teacheeeeeer!!" `
-`"Burst, useless towers! `
-`Arise, Giant Soldier Battle Line. `
-`Fully block that divine spear with your shields and chests!!" `
-`The Shoulder War Towers exploded in gold. `
-`They became several billion gold butterflies. `
-`Those butterflies took the shape of seven massive armored soldiers. `
-`Each stretched a full 50 merute into the sky, `
-`and they lined up in front of {f:5:Beatrice}, protecting their master and holding massive shields that towered like windmills. `
-`They were as massive as a mountain range. `
-`The witch behind them was like a small moon hiding behind the mountains. `
-`Once in the past, when the massive shields these giants held had been readied by the whole regiment, `
-`they had protected King Whilhelm's castle not only from arrows, but from the wind and the rain, `
-`for when they had faced upwards and held their shields to the heavens, not a single raindrop had gotten through. `
-`"Foolish. `
-`The shame of a witch who has forgotten to respect things sacred. `
-`Did you think mere giants could defend against a Spear of the Gods?!" `
-`"...Indeed. `
-`No matter how much human metal you are armed with, you cannot block a Spear of the Gods. `
-`A wonderful Epaulette Mate by Madam." `
-`"No way! `
+`Jadi, pada saat seperti ini kau menggunakan Gungnir!! `
+`Kau benar-benar luar biasa, Guruuuuuu!!" `
+`"Ledakkan, menara-menara tak berguna! `
+`Datanglah, Barisan Prajurit Raksasa. `
+`Hentikan tombak Dewa itu dengan perisai dan dada kalian!!" `
+`Menara Perang Bahu meledak dalam cahaya emas. `
+`Mereka berubah menjadi miliaran kupu-kupu emas. `
+`Kupu-kupu itu membentuk tujuh prajurit berlapis baja raksasa. `
+`Setiap prajurit menjulang setinggi 50 merute ke langit, `
+`dan mereka berbaris di depan {f:5:Beatrice}, melindungi tuan mereka sambil memegang perisai raksasa yang menjulang seperti kincir angin. `
+`Mereka sebesar pegunungan. `
+`Penyihir di belakang mereka seperti bulan kecil yang tersembunyi di balik pegunungan. `
+`Dahulu kala, ketika perisai raksasa yang dipegang raksasa-raksasa ini disiapkan oleh seluruh regu, `
+`mereka melindungi kastil Raja Whilhelm tidak hanya dari panah, tetapi juga dari angin dan hujan, `
+`karena ketika mereka menghadap ke atas dan memegang perisai ke langit, tidak ada setetes hujanpun yang bisa menembus. `
+`"Bodoh. `
+`Sungguh memalukan bagi seorang penyihir yang lupa menghormati hal-hal suci. `
+`Apa kau pikir raksasa biasa bisa menahan Tombak Dewa?!" `
+`"...Benar. `
+`Tak peduli seberapa banyak logam manusia yang anda miliki, anda tidak bisa menahan Tombak Dewa. `
+`Sebuah Skakmat Epaulette yang indah oleh Nyonya." `
+`"Tidak mungkin! `
 `{f:5:Beatrice}-sama?!!" `
-`"Of course I haven't forgotten, Teacher! `
-`Come arise, disciples of Hephaestus. `
-`Bestow upon me a worthy shield!!" `
-`A golden whirlwind arose at the feet of the Giant Soldiers. `
-`It was a cloud of countless butterflies. `
-`...They attached themselves to the massive shields like gold leaf, sparkling like they were a gold mirror. `
-`It was the absolute defensive wall given to a goddess by the chief of the gods. `
-`The Aegis Shield. `
-`When the holy spear, which left a dignified tail behind it like a comet, crashed into the mountain range of that gold shield, `
-`there was a terrible thunderous roar. `
-`It was the creaking of the pillars that held up the heavens. `
-`The Divine Spear spun around and around...and was sent flying in the direction of the setting sun. `
-`"Impossible... `
-`She defended against the Divine Spear...!!" `
-`"No, that is not correct. `
-`The divine spear avoided her. `
-`It is the law of the gods that an absolute spear and an absolute shield must never fight one another. `
-`Although, in the end, it means the same thing as defending against it." `
-`".........Your skills have improved from engaging in these fights so often." `
-`"Or rather, it seems you're still as bad as ever at this kind of game, Teacher. `
-`It's my turn to strike back. `
-`I shall follow the code and counter a spear with a spear." `
-`The Giant Soldier Battle Line, which had fully blocked the Divine Spear, released its holy gold shields. `
-`The shields fell to the earth, making the ground shake. `
-`When they did, another gold whirlwind arose, `
-`and the seven gold shields changed their form into seven massive spears of lightning lying on the ground. `
-`At once, each of the giants lifted one of their legs high...and firmly stomped on the tips of the handles. `
-`As the earth shook with a thunderous sound, the seven lightning spears spun beautifully and flew up above the Giant Soldiers' heads. `
-`...They scattered into a golden splash and began to fall before the giants. `
-`Each of the giants squared off, and with the force of their whole body, they kicked and smashed them. `
-`The broken pieces numbered exactly 30, and became lightning spears of exactly the same size as the originals... `
-`...Which made 210 for the 7 giants. And all of those burst at once, `
-`with each splitting into 30 thorns, for a total of 6,300. `
-`They became a barrage of thunderclouds drawing a beautiful geometric pattern, `
-`and then each changed into three bolts of lightning, so that 18,900 thunderbolts shot at the Predecessor {f:5:Beatrice}. `
-`"It's oveeeeer, `
+`"Tentu saja aku tidak lupa, Guru! `
+`Bangkitlah, para murid Hephaestus. `
+`Berikan aku perisai yang layak!!" `
+`Sebuah pusaran angin emas muncul di kaki para Prajurit Raksasa. `
+`Itu adalah awan ribuan kupu-kupu. `
+`...Mereka menempel pada perisai raksasa seperti lembaran emas, berkilau seperti cermin emas. `
+`Itu adalah dinding pertahanan mutlak yang diberikan kepada dewi oleh pemimpin para dewa. `
+`Perisai Aegis. `
+`Ketika tombak suci, yang meninggalkan ekor yang anggun seperti komet, menghantam pegunungan perisai emas itu, `
+`terdengar gemuruh yang mengerikan. `
+`Itu adalah suara retakan tiang-tiang yang menopang langit. `
+`Tombak Ilahi berputar-putar...dan terlempar ke arah matahari terbenam. `
+`"Tidak mungkin... `
+`Dia menangkis Tombak Ilahi...!!" `
+`"Tidak, itu tidak benar. `
+`Tombak ilahi itu menghindarinya. `
+`Itu adalah hukum para dewa kalau tombak mutlak dan perisai mutlak tidak boleh saling bertarung. `
+`Meskipun, pada akhirnya, itu berarti sama dengan menangkisnya." `
+`".........Keterampilanmu sudah meningkat karena sering bertarung di pertempuran seperti ini." `
+`"Atau lebih tepatnya, sepertinya kau masih seburuk dulu dalam permainan ini, Guru. `
+`Giliranku untuk membalas. `
+`Aku akan mengikuti kode dan membalas tombak dengan tombak." `
+`Barisan Prajurit Raksasa, yang telah sepenuhnya menangkis Tombak Ilahi, melepaskan perisai emas suci mereka. `
+`Perisai-perisai itu jatuh ke tanah, membuat tanah bergetar. `
+`Ketika itu terjadi, badai emas lain muncul, `
+`dan tujuh perisai emas berubah bentuk menjadi tujuh tombak petir raksasa yang terbaring di tanah. `
+`Seketika, masing-masing raksasa mengangkat salah satu kaki mereka tinggi...dan menginjak ujung pegangan dengan kuat. `
+`Saat bumi bergetar dengan suara gemuruh, tujuh tombak petir berputar indah dan terbang di atas kepala Pasukan Raksasa. `
+`...Mereka tersebar menjadi percikan emas dan mulai jatuh di hadapan raksasa-raksasa. `
+`Setiap raksasa berhadapan, dan dengan kekuatan seluruh tubuh mereka, mereka menendang dan menghancurkan tombak-tombak itu. `
+`Potongan-potongan yang hancur berjumlah tepat 30, dan menjadi tombak petir dengan ukuran yang sama persis dengan aslinya... `
+`...Yang membuat total 210 untuk 7 raksasa. Dan semua itu meledak sekaligus, `
+`masing-masing terbelah menjadi 30 duri, sehingga totalnya 6.300. `
+`Mereka menjadi hujan petir yang membentuk pola geometris yang indah, `
+`kemudian masing-masing berubah menjadi tiga petir, sehingga 18.900 petir menembak ke arah Pendahulu {f:5:Beatrice}. `
+`"Sudah berakhir, `
 `{f:5:Beatrice}-samaaa!!" `
-`"I would expect nothing less... `
-`from Madam." `
-`That bundle of almost 20,000 thunderbolts must have reduced the teacher's body to dust. `
-`But there had been no resistance. `
-`{f:5:Beatrice} knew immediately that she had been fooled. `
-`At that time, from the direction that the sun had supposedly set, she felt the impossible rays of sunlight. `
-`A brilliant ray of light shone on her profile. `
-`It was the figure of her teacher, holding aloft the Spear of the Gods that had supposedly been repelled a short while ago. `
-`...She bore a sparkle like the sun on her back and made it shine on the incarnation of darkness. `
-`...As {f:5:Beatrice} watched, `
-`she was trapped like a mouse in a cage, cornered in a dead end formed by the Giant Soldier Battle Line. `
-`By now, the Predecessor {f:5:Beatrice} had seized a position directly alongside that Line. `
-`"Playtime is over, {f:5:Beatrice}...!" `
-`"......Have I... `
-`exposed my flaaaaank...?!" `
-`Her bold expression hadn't faltered even once, but now it twisted for the first time. `
-`And faster than {f:5:Beatrice} could click her tongue, the Predecessor {f:5:Beatrice} released the holy spear. `
-`As it leapt through the air, it changed its form once more. `
-`"Come, arise, Dvergar brothers. `
-`Bestow upon me the giant-smashing Iron Hammer of heaven!" `
-`"Giant soldiers, protect me!!! `
-`What are you doing, you blockheads?!!!" `
-`By now it was no longer a spear, but the whirlwind of a massive hammer that raised a sound like a windstorm as it flew through the air. `
-`It was the legendary hammer that had shaken even the King of the Frost Giants. `
-`So, the Giant Soldiers couldn't escape from that fear. `
-`So, regardless of how strongly their master ordered them, they couldn't get in the path of that hammer. `
-`"Back Rank Mate! `
-`Rest in peace." `
-`"...Damn iiiiiiiiiiiiiiiit...!!!" `
-`Before the whirlwind of that massive chunk of metal, {f:5:Beatrice} was nothing more than a mere speck. `
-`The instant the whirlwind started to suck {f:5:Beatrice} in, she appeared to change into a massive War Tower. `
-`The Iron Hammer smashed the War Tower, scattering tremendous amounts of rubble, but it did not reach she who had escaped behind it. `
-`Furthermore, when the smoke started to settle, the War Tower had sucked in the massive Iron Hammer without crumbling, and blocked the way. `
-`Even the giant-smashing Iron Hammer couldn't break through the final tower protecting the witch. `
-`However, this War Tower was actually the witch's last trump card. `
-`It was a War Tower for dodging that could only save her from danger once. `
-`But this tower was impregnable. `
-`No weapon could break through it. `
-`At that time, the moon disappeared. `
-`As {f:5:Beatrice} hid in the shadows of the Giant Soldier Battle Line and the War Tower, she looked up at the sky. `
-`When she did, inside the moon was the figure of a massive horse ridden by the god of war and death. `
-`The Predecessor {f:5:Beatrice} rode the horse with him. `
-`His cloak had blocked the moon and swallowed it in an eerie shadow. `
-`And the Spear of the Gods was in his hand once more... `
-`In other words, it was a godly knight who had jumped over the ramparts formed by the Giant Soldiers and the War Tower, attacking from the heavens. `
-`"...*cackle*... `
-`You got meee..." `
-`"Smothered Mate. `
-`It was fun, {f:5:Beatrice}!" `
+`"Anda memang hebat... `
+`Nyonya." `
+`Kumpulan hampir 20.000 petir itu pasti telah menghancurkan tubuh guru menjadi debu. `
+`Tapi tidak ada perlawanan. `
+`{f:5:Beatrice} segera menyadari kalau dia telah ditipu. `
+`Pada saat itu, dari arah matahari yang seharusnya terbenam, dia merasakan sinar matahari yang mustahil. `
+`Sinar cahaya yang benderang menerangi rupanya. `
+`Itu adalah sosok gurunya, memegang tinggi Tombak Dewa yang seharusnya telah ditangkis beberapa saat sebelumnya. `
+`...Dia memancarkan kilauan seperti matahari di punggungnya dan membuatnya bersinar pada penjelmaan kegelapan. `
+`...Saat {f:5:Beatrice} menonton, `
+`dia terjebak seperti tikus dalam kandang, terpojok di jalan buntu yang dibentuk oleh Barisan Prajurit Raksasa. `
+`Saat ini, Pendahulu {f:5:Beatrice} telah menduduki posisi tepat di samping Garis tersebut. `
+`"Waktu bermain sudah berakhir, {f:5:Beatrice}...!" `
+`"......Diriku ini... `
+`membiarkan bagian sisiku terbuka...?!" `
+`Raut wajahnya yang berani dan tidak pernah goyah, tapi kini untuk pertama kalinya berubah. `
+`Dan lebih cepat dari {f:5:Beatrice} bisa mengklik lidahnya, Pendahulu {f:5:Beatrice} melepaskan tombak suci. `
+`Saat melesat di udara, tombak itu berubah bentuk sekali lagi. `
+`"Nah nah, datanglah, para saudara Dvergar. `
+`Berikan padaku Palu Besi surga penakluk raksasa!" `
+`"Pasukan raksasa, lindungi aku!!! `
+`Apa yang kalian lakukan, dasar bodoh?!!!" `
+`Kini itu bukan lagi tombak, melainkan pusaran angin dari palu raksasa yang menimbulkan suara seperti badai saat melintas di udara. `
+`Itu adalah palu legendaris yang pernah menggoyahkan Raja Raksasa Es. `
+`Jadi, prajurit raksasa tidak bisa melarikan diri dari ketakutan itu. `
+`Jadi, meskipun tuan mereka memerintahkan dengan keras, mereka tidak bisa menghalangi jalan palu itu. `
+`"Skakmat Baris Belakang! `
+`Beristirahatlah dengan damai." `
+`"...Sialaaaaaaaaaaaaan...!!!" `
+`Di hadapan pusaran angin dari potongan logam raksasa itu, {f:5:Beatrice} hanyalah titik kecil. `
+`Saat pusaran angin mulai menarik {f:5:Beatrice}, dia tampak berubah menjadi Menara Perang raksasa. `
+`Palu Besi menghancurkan Menara Perang, menyebarkan puing-puing yang luar biasa, tetapi tidak mencapai dia yang telah melarikan diri di belakangnya. `
+`Selain itu, saat asap mulai mereda, Menara Perang tertarik Palu Besi raksasa tanpa hancur, dan menghalangi jalan. `
+`Bahkan Palu Besi raksasa yang menghancurkan raksasa pun tidak dapat menembus menara terakhir yang melindungi penyihir. `
+`Namun, Menara Perang ini sebenarnya adalah kartu terakhir penyihir. `
+`Itu adalah Menara Perang untuk menghindari bahaya yang hanya dapat menyelamatkannya sekali. `
+`Namun, menara ini tak tertembus. `
+`Tidak ada senjata yang bisa menembusnya. `
+`Saat itu, bulan menghilang. `
+`Saat {f:5:Beatrice} bersembunyi di bayang-bayang Barisan Prajurit Raksasa dan Menara Perang, dia menatap langit. `
+`Ketika dia melakukannya, di dalam bulan terdapat sosok kuda raksasa yang ditunggangi oleh dewa perang dan kematian. `
+`Pendahulu {f:5:Beatrice} menunggangi kuda bersama dewa itu. `
+`Jubahnya menghalangi bulan dan menelannya dalam bayangan yang mengerikan. `
+`Dan Tombak Dewa kembali berada di tangannya... `
+`Dengan kata lain, itu adalah ksatria dewa yang melompati benteng yang dibentuk oleh Pasukan Raksasa dan Menara Perang, menyerang dari langit. `
+`"...*terkekeh*... `
+`Kau mendapatkanku..." `
+`"Skakmat Terjepit. `
+`Itu menyenangkan, {f:5:Beatrice}!" `
 `"Uuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!!!" `
-`The struggle to the death between the two witches with the same name...was over. `
-`The spear that had been launched from the heavens pierced the ground. `
-`The Giant Soldier Battle Line and the War Tower split up into countless gold butterflies, wrapping the area in a gold-colored storm. `
-`Then came the sound of thunder. `
-`And the sound of the falling rain and wind. `
-`If you looked around, the rose garden was empty. `
-`...The butler and the rest were watching the two witches confronting each other. `
-`......But {f:5:Beatrice} alone had changed. `
-`She had been pierced straight through by the spear, from the base of her neck and her right shoulder to her left buttocks, `
-`unable to even reach the ground with her feet, `
-`...horribly exposed like a pitiful pinned butterfly, tormented by the wind and rain... `
-`"......B-{f:5:Beatrice}-sama..." `
+`Pertarungan hingga mati antara dua penyihir dengan nama yang sama... telah berakhir. `
+`Tombak yang diluncurkan dari langit menembus tanah. `
+`Barisan Prajurit Raksasa dan Menara Perang terpecah menjadi ribuan kupu-kupu emas, membungkus area tersebut dalam badai berwarna emas. `
+`Kemudian terdengar suara guntur. `
+`Dan suara hujan dan angin yang jatuh. `
+`Jika kau melihat sekeliling, taman mawar itu kosong. `
+`...Pelayan dan yang lainnya sedang menonton dua penyihir yang saling berhadapan. `
+`......Tapi {f:5:Beatrice} sendiri telah berubah. `
+`Dia tertusuk langsung oleh tombak, dari dasar leher dan bahu kanannya hingga pantat kirinya, `
+`tidak bisa bahkan menyentuh tanah dengan kakinya, `
+`...terpampang mengerikan seperti kupu-kupu yang tertusuk jarum, disiksa oleh angin dan hujan... `
+`“......B-{f:5:Beatrice}-sama...” `
 `"......... `
-`As expected, `
-`...a truly fearsome person." `
-`"That settles it, `
+`Benar-benar, `
+`...sosok yang menakutkan." `
+`"Dengan begini sudah berakhir, `
 `{f:5:Beatrice}." `
 `"......Ku, `
 `...hihihihi, `
-`...ouch...ch..." `
-`{f:5:Beatrice} wore a bitter smile of false courage, `
-`but a strand of blood dangled from her mouth, making her look even more pitiful. `
-`"The title and power of the Endless Witch. `
-`You will return them to me now, along with the name {f:5:Beatrice}. `
-`...You are too immature to call yourself an Endless Witch." `
-`"......Stop... `
-`Forgive me, Teacher... `
-`I was just fooling around, okay...?" `
-`"I will take my name back from you. `
-`I shall return you to your original form. `
-`Perhaps you should relinquish this power which is beyond you...and live a life suitable for yourself." `
-`"......Come, try to remember. `
-`What form did you have?" `
-`The Predecessor {f:5:Beatrice} began to recite the words of power. `
-`When she did, small gold butterflies gathered near the skewered {f:5:Beatrice}...and began to swarm about her. `
-`Like butterflies sucking the nectar out of flowers... `
-`...They began to suck the magical power out of {f:5:Beatrice}. `
-`And it seemed to cause her intense pain. `
-`A cry of anguish issued from {f:5:Beatrice}'s mouth. `
-`She no longer had any power to resist it... `
-`"Come, try closing your eyes. `
-`Try to remember. `
-`What form did you have?" `
-`"......Come, {f:5:Beatrice}. `
-`Repeat it with me. `
-`Let us sing a song together. `
-`Then it will be over soon. `
-`Let us end your pain as fast as possible." `
+`...aduh...duh..." `
+`{f:5:Beatrice} memasang senyum pahit penuh keberanian palsu, `
+`tetapi seutas darah menggantung dari mulutnya, membuatnya terlihat semakin menyedihkan. `
+`"Gelar dan kekuatan Penyihir Tak Terbatas. `
+`Kau akan mengembalikannya padaku sekarang, beserta nama {f:5:Beatrice}. `
+`... Kau terlalu muda untuk menyebut dirimu Penyihir Tak Terbatas." `
+`"......Berhenti... `
+`Maafkan aku, Guru... `
+`Aku hanya bercanda, ya...?" `
+`"Aku akan mengambil namaku kembali darimu. `
+`Aku akan mengembalikanmu ke bentuk aslimu. `
+`Mungkin kau sebaiknya melepaskan kekuatan yang melampaui batasmu ini... dan hidup sesuai dengan dirimu." `
+`"......Ayo, coba ingat. `
+`Bentuk apa yang kau miliki?" `
+`Pendahulu {f:5:Beatrice} mulai mengucapkan kata-kata kekuatan. `
+`Ketika dia melakukannya, kupu-kupu emas kecil berkumpul di sekitar {f:5:Beatrice} yang tertusuk...dan mulai berkerumun di sekitarnya. `
+`Seperti kupu-kupu yang mengisap nektar dari bunga... `
+`...Mereka mulai mengisap kekuatan magis dari {f:5:Beatrice}. `
+`Dan sepertinya hal itu menyebabkan rasa sakit yang hebat baginya. `
+`Teriakan kesakitan keluar dari mulut {f:5:Beatrice}. `
+`Dia tidak lagi memiliki kekuatan untuk menolaknya... `
+`"Ayo, coba tutup matamu. `
+`Coba ingat. `
+`Bentuk apa yang kau miliki?" `
+`"......Ayo, {f:5:Beatrice}. `
+`Ulangi bersamaku. `
+`Mari kita nyanyikan lagu bersama. `
+`Maka ini akan segera berakhir. `
+`Mari kita akhiri rasa sakitmu secepat mungkin." `
 `"...Kuhihihi, `
 `...ha, `
 `...haha... `
-`...You're right... `
-`How long has it been... `
-`...since I've sung with you, Teacher...?" `
-`"Come, together now. `
-`......Come, try to remember. `
-`What form did you have?" `
-`"...Come, try to remember. `
-`What form did you have...?" `
-`When the two of them began to recite the same song, `
-`more and more gold butterflies danced around, swarming around {f:5:Beatrice}... `
-`"......It will be all right, Milady. `
-`You will lose your place as my disciple, `
-`but that will not change the fact that you are the lady I serve." `
-`"...After that, I shall read a book for you again. `
-`I shall bake you apple pies once more. `
-`Just like it was long ago. `
-`...Come, try to remember." `
+`...Kau benar... `
+`sudah berapa lama... `
+`...sejak aku bernyanyi bersamamu, Guru...?" `
+`"Ayo, bersama-sama sekarang. `
+`......Ayo, coba ingat. `
+`Bentuk apa yang kau miliki?" `
+`"...Ayo, coba ingat. `
+`Bentuk apa yang kau miliki...?" `
+`Ketika keduanya mulai menyanyikan lagu yang sama, `
+`semakin banyak kupu-kupu emas menari-nari, berkerumun di sekitar {f:5:Beatrice}... `
+`"......Tenang saja, Nona. `
+`Kau akan kehilangan tempatmu sebagai muridku, `
+`tetapi hal itu tidak akan mengubah fakta kalau kau adalah wanita yang aku layani." `
+`"...Setelah itu, aku akan membacakan buku untukmu lagi. `
+`Aku akan membuatkanmu pai apel sekali lagi. `
+`Seperti dulu kala. `
+`...Ayo, coba ingat." `
 `"...Hahahahahaha... `
-`Yes, try to remember. `
-`...Are you finally starting to remember...? `
-`......Hey, Teacher." `
-`Did you remember... `
-`that thing behind yooou...?" `
-`"...What is... `
-`............this...?" `
-`When the Predecessor {f:5:Beatrice} looked behind her, `
-`......there was an eerie hedgehog curled up there. `
-`No. `
-`...It was... `
-`herself. `
-`There was another Predecessor {f:5:Beatrice}, whose whole body had been packed with ballista shots, `
-`...lying there like a pincushion doll... `
-`"...Come, try to remember. `
-`What form did you have? `
-`...Or maybe that's not right." `
-`"...Come, try to remember. `
-`How were you killed? `
+`Ya, coba ingat. `
+`...Apa kau akhirnya mulai ingat...? `
+`......Hei, Guru." `
+`Apa kau ingat... `
+`itu yang di belakangmu...?" `
+`"...Apa... `
+`............ini...?" `
+`Ketika Pendahulu {f:5:Beatrice} menoleh ke belakang, `
+`......ada landak aneh yang menggulung di sana. `
+`Tidak. `
+`...Itu adalah... `
+`dirinya sendiri. `
+`Ada Pendahulu {f:5:Beatrice} lain, seluruh tubuhnya tertembus panah balista, `
+`...terbaring di sana seperti boneka jarum... `
+`"...Nah, coba ingat. `
+`Bentuk apa yang kau miliki? `
+`...Tidak." `
+`"...Nah, coba ingat. `
+`Bagaimana kau dibunuh? `
 `...Kuhihihii, kuhyahhyahhyahhaaaaaaahh!!" `
-`The Predecessor {f:5:Beatrice} was stunned. `
-`...Her form gradually began to fade away... `
-`"This is... `
-`...When...did you......?" `
-`"At the beginning, I did not summon a pair of Shoulder Towers. `
-`There were four towers. `
-`Teacher, you carelessly stepped across the Seventh Rank Rook boundary of death created by the two hidden towers, `
-`which were lurking in the distance on either side of you." `
-`"...It was bad manners of me to say check this late. `
-`I simply must apologize. `
-`...*cackle*cackle*cackle*!" `
-`The battle had been decided at the very beginning. `
-`It had been over since the time the Predecessor had leaned forward, readying her holy spear to attack {f:5:Beatrice}, who had been wedged between her Shoulder Towers. `
-`...The hidden towers lurking on either side had bathed her in a windstorm of ballista shots from 720 ports on both sides, `
-`pinning and killing her. `
-`However, {f:5:Beatrice} hadn't wanted it to be resolved like that. `
-`She had wanted to let her teacher take her next move...and had continued acting as though the game was still on. `
-`She had immediately revived her with the Endless Power... `
-`and had made her continue the game as though nothing had happened... `
-`Then, the Predecessor slowly remembered that she had already been killed... `
-`...and began to vanish completely. `
-`When she did, the spear that had pierced {f:5:Beatrice} also vanished. `
-`{f:5:Beatrice} finally landed on the ground. `
-`...There wasn't even a trace of a scar. `
-`"......It was fun, `
-`Teacher. `
-`If you want to play again, I'll revive you any time. `
-`And once we've had some fun, I'll make you remember that you're a corpse again." `
-`"See? `
-`I did everything you told me to, right...? `
-`Didn't you tell me to always put my toys back in their boxes when I'm done playing with them? `
-`*cackle*cackle* Hahhahahahahahahahahahahahahahahahahahahahahaha!!" `
-`"...Was it...an easy victory?" `
-`"You fool, it was a tough one!! `
-`......If I hadn't tricked her with the four towers, I would've been the one dead! `
-`...As I'd expect from Teacher. `
-`......But now I can stand proud." `
-`"...Now, I have completely surpassed Teacher. `
+`Pendahulu {f:5:Beatrice} terkejut. `
+`...Bentuknya mulai memudar secara bertahap... `
+`"Ini... `
+`...Kapan...kau......?" `
+`"Dari awalnya, aku tidak memanggil sepasang Menara Bahu. `
+`Ada empat menara. `
+`Guru, kau ceroboh melangkahi batas kematian Pion Baris Ketujuh yang diciptakan oleh dua menara tersembunyi, `
+`yang bersembunyi di kedua sisimu." `
+`"...Itu adalah ketidaksopanan dariku untuk mengatakan skak. `
+`Aku benar-benar harus meminta maaf. `
+`...*terkekeh*terkekeh*terkekeh*!" `
+`Pertempuran sudah diputuskan sejak awal. `
+`Sudah berakhir sejak saat Pendahulu condong ke depan, menyiapkan tombak suci untuk menyerang {f:5:Beatrice}, yang terjepit di antara Menara Bahunya. `
+`... Menara tersembunyi di kedua sisi telah membanjiri dirinya dengan badai panah balista dari 720 lubang di kedua sisi, `
+`menjepit dan membunuhnya. `
+`Tapi, {f:5:Beatrice} tidak ingin hal ini diselesaikan seperti itu. `
+`Dia ingin membiarkan gurunya mengambil langkah berikutnya...dan terus bertindak seolah-olah permainan masih berlangsung. `
+`Dia segera menghidupkannya kembali dengan Kekuatan Tak Terbatas... `
+`dan membuatnya melanjutkan permainan seolah tidak terjadi apa-apa... `
+`Kemudian, Pendahulu perlahan mengingat kalau dia sudah terbunuh... `
+`...dan mulai menghilang sepenuhnya. `
+`Ketika dia menghilang, tombak yang menembus {f:5:Beatrice} juga menghilang. `
+`{f:5:Beatrice} akhirnya mendarat di tanah. `
+`...Tidak ada bekas luka sama sekali. `
+`"......Itu menyenangkan, `
+`Guru. `
+`Jika kau ingin bermain lagi, aku akan menghidupkanmu kapan saja. `
+`Dan setelah kita bersenang-senang, aku akan membuatmu ingat lagi kalau kau adalah mayat." `
+`"Lihat? `
+`Aku melakukan semua yang kau suruh, kan...? `
+`Bukankah kau bilang padaku untuk selalu mengembalikan mainanku ke kotaknya setelah selesai bermain? `
+`*terkekeh*terkekeh* Hahhahahahahahahahahahahahahahahahahahahahahaha!!" `
+`"... Apakah itu... kemenangan yang mudah?" `
+`"Bodoh, itu sangat sulit!! `
+`......Kalau aku tidak menipunya dengan empat menara, aku yang akan mati! `
+`...Guru memang hebat. `
+`......Tapi sekarang aku bisa berdiri dengan bangga." `
+`"...Sekarang, aku telah sepenuhnya melampaui Guru. `
 `Ronove, `
-`clean up Teacher's remains a bit. `
-`...I haven't lost my respect for her that much." `
-`"Certainly. `
-`Tonight's first twilight became a little too riotous. `
-`A little cleanup will be necessary. `
-`I shall see to it immediately." `
-`"Goats, it is time to clean up." `
-`When Ronove snapped his fingers, blazing, sparkling eyes began to blink open in the shadows and darkness, `
-`becoming goat-headed attendants that appeared one after another. `
-`One by one, they wordlessly stood at attention in a line behind Ronove's back. `
-`"This time, what shall be done about the six corpses? `
-`Another closed room pattern?" `
-`"...I'm in no mood to think now. `
-`I will leave it to you, Ronove. `
-`...An extraordinary closed room to torment Battler, if you would." `
-`"Certainly. `
-`Then it shall be extraordinary." `
-`"*cackle*cackle*cackle* Hahhhahahahahahahahaha...!! `
-`Oookay, where's Battler? `
-`Battleeeeer, did you see my big momeeeeeeeeent??" `
-`"......Damn iiiiiiiiit... `
-`After being shown that screwed up magical storm, what can I deny?!" `
-`"Forget just witches existing! `
-`After being shown that tremendous, flashy fantasy, `
-`what can I deny now?!! `
-`I don't get it anymore! `
-`It was like that last time too, but how can I deny these awesome, wonderful magical battles?!" `
-`"Iiisn't that riiight?! `
-`After watching this, you can't talk your way out of it, riiiiiiiight??? `
-`Okay, Battler, let me hear some ridiculous reasoning, khehhihhyahhyahhya! `
+`bersihkan sedikit sisa-sisa Guru. `
+`...Aku belum kehilangan rasa hormatku padanya sebanyak itu." `
+`"Tentu saja. `
+`Senja pertama malam ini menjadi sedikit terlalu kacau. `
+`Perlu ada sedikit pembersihan. `
+`Saya akan mengurusnya segera." `
+`"Kambing-kambing, saatnya membersihkan." `
+`Ketika Ronove mengetukkan jarinya, mata yang berkilau dan berapi-api mulai terbuka di kegelapan, `
+`menjadi pelayan berwujud kambing yang muncul satu per satu. `
+`Satu per satu, mereka berdiri tegak tanpa bicara di barisan di belakang punggung Ronove. `
+`"Kali ini, apa yang harus dilakukan dengan enam mayat? `
+`Polanya ruangan tertutup lagi?" `
+`"...Aku sedang tidak mau berpikir sekarang. `
+`Aku serahkan padamu, Ronove. `
+`...Sebuah ruangan tertutup yang luar biasa untuk menyiksa Battler, kalau kau mau." `
+`"Tentu saja. `
+`Maka itu akan menjadi luar biasa." `
+`"*terkekeh*terkekeh*terkekeh* Hahhhahahahahahahahaha...!! `
+`Baiklah, di mana Battler? `
+`Battleeeeer, apakah kau melihat momen besarkuuuuuuuuu??" `
+`"......Siaaaaaaaaal... `
+`Setelah melihat badai sihir yang kacau itu, apa yang bisa aku tolak?!" `
+`"Lupakan saja keberadaan penyihir! `
+`Setelah melihat fantasi yang luar biasa dan mengagumkan itu, `
+`apa yang bisa aku tolak sekarang?!! `
+`Aku tidak mengerti lagi! `
+`Seperti terakhir kali, tapi bagaimana aku bisa menolak pertempuran sihir yang luar biasa dan menakjubkan ini?!" `
+`"Iya, kan?! `
+`Setelah melihat ini, kau tidak bisa mengelak, kan??? `
+`Nah, Battler, berikan alasan konyolmu, khehhihhyahhyahhya! `
 `Ihhiehhiehhyaaahhh!!" `
-`"Milady, your laugh is becoming undignified." `
-`"Oh, my apologies. `
-`But that isn't my fault. `
-`After all, if Battler tightly closes his eyes, grinds his teeth, and shows me that ever so bitter expression, `
-`it just automatically slips out of my mouth, you seeee... `
+`"Nyonya, tawamu menjadi tidak pantas." `
+`"Oh, maafkan aku. `
+`Tapi itu bukan salahku. `
+`Lagi pula, kalau Battler menutup rapat matanya, menggertakkan giginya, dan menunjukkan ekspresi yang begitu pahit padaku, `
+`itu hanya keluar begitu saja dari mulutku, kau tau... `
 `Kuhhihihhyahhyahaah!!" `
-`"So, Battler-sama, `
-`why don't you return to the table without losing heart? `
-`Milady is expecting your counterattack, you see...?" `
-`"Quit messing with me!! `
-`How the hell can I make a counterargument?!" `
-`"In the first place, everything was already screwed up when that tower sprouted up out of the earth!! `
-`Should I say that, under the ground in Rokkenjima, there's a secret laboratory for building super-alloy combining robots or something, `
-`and that pushing a button can make these strange towers sprout up?! `
-`Right, and then those huge giants must be the robots, `
-`or maybe an evil secret association's mecha-monsters?!" `
-`"I don't get it!! `
-`Don't talk to meeeeeeeeeee, gwaaaaaaaaaaaaaahhh!!!" `
-`"Look, look, look, look, don't cry, okay?? `
-`Bang bang, it's magic!! `
-`If you want, I'll crush the moon and make comets fall like rain! `
-`I can even bury the whole island in those massive-breasted nee-chans you like so much, seeeeeeeeee?? `
+`"Jadi, Battler-sama, `
+`mengapa anda tidak kembali ke meja tanpa kehilangan semangat? `
+`Nyonya sedang menanti serangan balikmu, anda tau...?" `
+`"Berhenti menggangguku!! `
+`Bagaimana mungkin aku bisa membuat argumen balasan?!" `
+`"Sejak awal, semuanya sudah berantakan saat menara itu muncul dari tanah!! `
+`Haruskah aku bilang kalau di bawah tanah Rokkenjima ada laboratorium rahasia untuk membangun robot super-alloy, `
+`dan menekan tombol bisa membuat menara aneh ini tumbuh?! `
+`Benar, dan raksasa besar itu pasti robot, `
+`atau mungkin monster mecha dari asosiasi rahasia jahat?!" `
+`"Aku tidak ngerti!! `
+`Jangan bicara padakuuuuuuuuuuuu, gwaaaaaaaaaaaaaahhh!!!" `
+`"Cup, cup cup, cup jangan nangis, ya?? `
+`Dar der dor, ini sihir!! `
+`Kalau mau, aku bisa menghancurkan bulan dan membuat komet jatuh seperti hujan! `
+`Aku bahkan bisa menenggelamkan seluruh pulau dengan nee-chan berpayudara besar yang kau sukai, lihatlah?? `
 `Hihhihhihhihhi!!" `
-`"Come on, come on, look, look, look, my turn's over, seeeeeeeeee?! `
-`Show me your response, launch your counterattack!! `
-`You can't, can yoooooouuu? `
-`Accept that there's a quadrillion things you can't do!! `
-`You're useless against this, riiiiiiiiiight? `
-`You actually like this kind of fantasy, don't yooooouuu??" `
-`"I get it, that's been going around on the streets lately, hasn't it?! `
-`In manga and light novels, in anime and movies! `
-`Some teenage brats get a whole bunch of strange special abilities, and they blow up all sorts of stuff with the fate of the world on the line!" `
-`"You love that too, don't you?! `
-`I know, don't hide it, you love it, right, hi-hyahhyahhyah!! `
-`Hasn't the thing you love just been displayed before your very eyes?" `
-`"Why do you believe it in manga and anime, but you won't believe in meeeeeeeeee?? `
-`Believe, believe, believe it! `
-`You can't argue back, not after you've been shown something like this, riiiiiiiiiiiiight?" `
-`"Look, look, look, answer, `
-`you don't need to think, you can just obediently say "I'm sorry, {f:5:Beatrice}-sama"! `
-`Look, look, try saying it, "I'm sorry, {f:5:Beatrice}-sama", try saying it, say it, say it, don't be embarrassed, `
+`"Nah, ayo, ayo, ayo, ayo, giliranku sudah habis, lihatlah?! `
+`Tunjukkan responsmu, luncurkan serangan balasanmu!! `
+`Kau tidak bisa, kaaaaaaaaaan? `
+`Terimalah kalau ada quadriliun hal yang tidak bisa kau lakukan!! `
+`Kau tidak berguna melawan ini, kaaaaaaaaan? `
+`Kau sebenarnya suka fantasi seperti ini, kaaaaaaaaaan??" `
+`"Aku mengerti, itu sedang tren di belakangan ini, kan?! `
+`Di manga dan novel ringan, di anime dan film! `
+`Beberapa remaja nakal mendapatkan segudang kemampuan khusus aneh, dan mereka meledakkan segala macam hal dengan nasib dunia dipertaruhkan!" `
+`"Kau juga suka itu, kan?! `
+`Aku tau, jangan sembunyikan, kau suka, kan, hi-hyahhyahhyah!! `
+`Bukankah hal yang kau sukai baru saja ditampilkan di depan matamu?" `
+`"Kenapa kau percaya di manga dan anime, tapi tidak percaya padakuuuuuuuuu?? `
+`Percayalah, percayalah, percayalah! `
+`Kau tidak bisa membantah, setelah melihat hal seperti ini, kan?" `
+`"Lihat, lihat, lihat, jawab, `
+`kamu tidak perlu berpikir, kamu bisa dengan patuh mengatakan “Maaf, {f:5:Beatrice}-sama”! `
+`Lihat, lihat, coba katakan, "Maaf, {f:5:Beatrice}-sama", coba katakan, katakan, katakan, jangan malu, `
 `kukikikikakkakakahhyahhyaaaah hahhahhahahhhahahhyaaahh!!" `
+
