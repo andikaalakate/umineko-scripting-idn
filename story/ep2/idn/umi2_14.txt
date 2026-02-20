@@ -1,881 +1,881 @@
-`"Doctor Nanjo and Kumasawa-san were?! `
-`What on earth are you talking about?!" `
-`"Aaah, Shannon! `
-`Thank goodness you're safe...! `
-`If something had happened to you, I...!" `
-`"...George-sama, `
-`...uuuuu......" `
-`"George-kun, be quiet for a second! `
-`A murder occurred before your very eyes, right?! `
-`Did you see the culprit?! `
-`Or not?!!" `
-`"...Th-That is, umm, `
-`...how should I explain...?! `
-`G-Genji-san." `
-`"......Even we cannot adequately explain what happened in front of us." `
-`"It certainly, umm, ...happened right before our eyes! `
-`{i:It} was right in front of my eyes! `
-`However, `
-`...it was, umm, `
-`......what was it...? `
-`Even I don't understand!" `
-`"What are you saying?! `
-`You couldn't have met anyone except the witch, {f:5:Beatrice}, whose location has been unknown since yesterday, `
-`or Kanon-kun, who's gone missing! `
-`Was it a man or a woman?! `
-`You should be able to tell me at least that much, right?!" `
-`"Aunt Rosa, calm down a bit...! `
-`Anyone would be confused if two people were taken out right in front of them! `
-`Gohda-san, Genji-san, `
-`there's no need to rush. `
-`Tell us what happened, one thing at a time." `
-`"......As to that, ...how should I say it..." `
-`"............" `
-`Doctor Nanjo and Kumasawa-san had been killed. `
-`We understood that much. `
-`...And it seemed that it had occurred in front of these people's eyes. `
-`But even so, they spoke awkwardly. `
-`They admitted that they had definitely seen the crime with their own eyes. `
-`But when asked to explain what they had seen, their mouths went suddenly shut. `
-`I could understand why Aunt Rosa was irritated and flaring up... `
+` "Dokter Nanjo dan Kumasawa-san?! `
+` Apa yang kau bicarakan?!" `
+` "Aaah, Shannon! `
+` Syukurlah kau selamat...! `
+` Jika terjadi sesuatu padamu, aku...!" `
+` "...George-sama, `
+` ...uuuuu......" `
+` "George-kun, Diam sebentar.! `
+` Pembunuhan baru saja terjadi di depan matamu, kan?! `
+` Apa kau meliat pelakunya?! `
+` Atau tidak?!!" `
+` "...S-soal itu, umm, `
+` ...bagaimana cara saya menjelaskannya...?! `
+` G-Genji-san." `
+` "......Kami bahkan tidak bisa menjelaskan apa yang terjadi di depan mata kami." `
+` "Itu tepat, umm, ...tejadi di depan mata kami! `
+` {i:Itu} Benar-benar terjadi di depan kami! `
+` Tetapi, `
+` ...itu, umm, `
+` ......Apa itu...? `
+` Saya bahkan tidak mengerti!" `
+` "Apa yang kau bicarakan?! `
+` Kau tidak mungkin bertemu dengan orang lain selain, {f:5:Beatrice}, yang keberadaannya belum diketahui sejak kemarin, `
+` atau Kanon-kun, yang sedang menghilang! `
+` apa dia laki-laki atau perempuan?! `
+` setidaknya kau bisa membedakan itu, kan?!" `
+` Bibi Rosa, tolong tenang dulu...! `
+` Siapa pun pasti akan bingung jika dua orang dibawa pergi tepat di depan mata mereka! `
+` Gohda-san, Genji-san, `
+` tidak perlu terburu-buru. `
+` Beri tahu kami, apa yang terjadi saat itu." `
+` "......Mengenai itu, ...bagaimana cara menjelaskannya..." `
+` "............" `
+` Dokter Nanjo dan Kumasawa-san telah dibunuh. `
+` Sejauh itu kami mengerti. `
+`...Dan sepertinya hal itu terjadi di depan mata orang-orang ini. `
+` Namun, meskipun begitu, mereka berbicara dengan canggung. `
+` Mereka mengakui bahwa mereka pasti telah melihat kejahatan itu dengan mata kepala sendiri. `
+` Tetapi, ketika ditanya untuk menjelaskan apa yang mereka lihat, mulut mereka tiba-tiba tertutup. `
+` Aku paham mengapa Bibi Rosa merasa kesal dan marah... `
 `"...Shannon, `
-`did you see it? `
-`When Doctor Nanjo was attacked?" `
-`"...Y-Yes." `
-`"Tell me. `
-`...Just what you understand. `
-`What in the world happened?" `
-`"......Someone came...... `
-`...to the back door." `
-`"...Th-That's right. `
-`Someone came up to the back door. `
-`Then, wondering who it was, I opened the door..." `
-`"Someone at the back door? `
-`Who was it?!" `
-`"Let them finish! `
-`And after that?!" `
-`"......That person was...stained with blood...and had a large wound. `
-`...We carried that person to the servant room, and Doctor Nanjo immediately began first aid. `
-`...It was...a very deep wound." `
-`"Like I said, who are you talking about?!" `
-`"...I don't know! `
-`Certainly, ...in the beginning, I thought that was the case. `
-`No, I still think that! `
-`But......what in the world was that!! `
-`...I don't know, ...I don't know!!" `
-`In a manner that didn't match his large body, Gohda held his head and scratched at it... `
-`I didn't have a clue if he was confused because he couldn't remember... `
-`or because he'd seen something terrifying and couldn't accept it. `
-`And Shannon looked the same way. `
-`If she let her guard down, what she'd seen just a short while ago would quickly melt away like a daydream, `
-`and she wouldn't be able to remember anything. `
-`...That's what she looked like. `
-`Only Genji looked composed as usual. `
-`...So the questions were naturally directed at him. `
-`However, even Genji took quite some time before he spoke, and he had to gather his thoughts. `
-`"Genji-san, `
-`you saw it, right? `
-`Who came in through the back door?!" `
-`"......At first, ...we believed that person...was Kanon." `
-`"You see!! `
-`He was alive after all! `
-`My theory was correct!!" `
-`"...By "at first", you mean that your impression changed later, right...?" `
-`"Yes. `
-`......I cannot explain with words what happened after that. `
-`...He killed Doctor Nanjo and Kumasawa, ...then disappeared. `
-`At that time, he was definitely not Kanon..." `
-`"Yes! `
-`That's right! `
-`It's just as Genji-san says!! `
-`You really couldn't explain it with words!" `
-`"...Do you have the same opinion?" `
-`"...Yes...... `
-`I...can only say the same thing..." `
-`"............" `
-`...If we give their claims the benefit of the doubt, `
-`...it means that Aunt Rosa's first conclusion was correct. `
-`Kanon had appeared near the back door to the kitchen with a serious injury. `
-`Then, he had been taken to the servant room and cared for. `
-`...And after that, something terrifying had happened. `
-`So, were these people so convinced that Kanon-kun couldn't possibly have done such a thing... `
-`that they'd started to suspect whether it had even been Kanon-kun at all? `
-`In other words, that means...Kanon-kun did appear. `
-`No matter how confused they are, no matter how they muddle their words, that's what it means in the end. `
-`So, does that mean that, after all, Kanon-kun used some trick to escape that room even though it was locked?! `
-`No, that doesn't matter anymore. `
-`The real problem is that Doctor Nanjo and Kumasawa-san were killed. `
-`Aunt Rosa has claimed that Kanon-kun was behind this from the very beginning. `
-`No matter how confused these people are, no matter how much they try to deny it, ...they're halfway confirming that she was right. `
-`...But even so, for some reason, I felt like their awkwardness couldn't be explained by confusion alone... `
-`...What did they see? `
-`Like they said, did they really {i:see something that couldn't be explained with words}...? `
-`Aunt Rosa, who'd decided that further talk wouldn't get us anywhere, `
-`concluded her questioning and said she wanted to check the two bodies. `
-`That was something I'd been wanting to do too. `
-`The witnesses had been unable to figure anything out, but they'd been shaken. `
-`...If those of us who hadn't been at the scene calmly looked at the corpses, we might find something. `
-`......But it was a little surprising to learn that Aunt Rosa was also concerned about the bodies. `
-`Even at this point, I still wanted to use any clues I could find to expose the culprit and the truth myself. `
-`But it should've been different in Aunt Rosa's case. `
-`...Hasn't Aunt Rosa prioritized staying safe over finding the culprit? `
-`I couldn't really see why she would go to all the trouble of leaving our barricade in the parlor, just because she wanted to check the bodies. `
-`"We will all go to the servant room together. `
-`If we all move together, it'll be safe. `
-`Maria, stop playing with scribbles!" `
-`"Uu-. `
-`Not scribbles. `
-`I'm solving {f:5:Beatrice}'s puzzle. `
-`Uu-..." `
-`"{f:5:Beatrice}'s puzzle? `
-`What's that? Show me too." `
-`"...Aunt Rosa, are you, ...umm, bringing Maria-chan too?" `
-`It seemed that George-aniki was against the idea of bringing Maria to the bloody crime scene. `
-`...But considering that Maria would be all alone if left here, it'd surely be much safer to take Maria with us. `
-`...In the end, it was just Aniki's irresponsible humanism. `
-`We decided that all of us, including Maria, would go to the servant room. `
-`The bed in the servant room was stained with bright-red blood. `
-`...No, not just the bed. `
-`The whole room was covered with a gruesome paint from countless blood stains. `
-`That dreadful scene alone was enough to give us an idea of the repulsive sight they'd been trying to describe... `
-`"...Uu-. `
-`I wanna look too!" `
-`"Maria-chan, wait here with me." `
-`George-aniki was standing by the entrance, covering Maria's eyes, with his back to the room. `
-`...He probably didn't want to dirty an innocent girl's retinas with the repulsive blood in this room. `
-`That was surely the correct decision. `
-`...I was acting tough right now, so I didn't mind, `
-`...but for the rest of my life, whenever I see red paint scattered around, `
-`I'll probably remember this room and start to vomit. `
-`...My retinas have already had this room burned into them. `
-`...In other words, it's already too late for me... `
-`"......Huh..." `
-`"Wh-Where did they...?!" `
-`Right after they entered the servant room, Gohda-san and Shannon-chan trembled. `
-`...We shook, wondering what horrible new situation had arisen to make them tremble again. `
-`"What happened? `
-`What is it?" `
-`Aunt Rosa also shuddered, raised her gun high, and searched for whatever it was that had made them shudder. `
-`...But she couldn't find it. `
-`...It was only natural. `
-`...They were trembling because they couldn't find it. `
-`"Hey, what in the world's going on...?" `
-`"......The two bodies...aren't here." `
-`"What does this mean?" `
-`"...Th-That can't be...! `
-`Those two were definitely...here...!" `
-`"...Wait, wait, wait. `
-`What the hell, are you saying the corpses just walked off somewhere? `
-`That couldn't happen, right? `
-`I mean, wasn't the servant room locked? `
-`Didn't you unlock the door when you came in just now, Gohda-san?!" `
-`"...So what does that mean? `
-`...Isn't this the same as Jessica's room?! `
-`Someone's disappeared from inside a closed room again?! `
-`That's ridiculous!!" `
-`"I don't have a clue what happened either!! `
-`When we left this room, we definitely locked it, ......!! `
-`I don't have a clue what's going on anymore...!!" `
-`There was a timid, pitiful smile on Gohda-san's face that he definitely wouldn't have let show normally. `
-`Shannon was the same. `
-`"Two corpses disappeared! `
-`And furthermore, they disappeared while the door was locked! `
-`Even if Kanon-kun was the culprit, he shouldn't have a master key anymore!!" `
-`"That's wrong...! `
-`Kanon-kun isn't the culprit...!!" `
-`"...Shannon... `
-`I believe Shannon. `
-`Kanon-kun is not the culprit. `
-`This must be the doing of someone who looks a lot like him." `
-`"No. `
-`Kanon-kun could have gotten a master key. `
-`...After all, his master key was found in the pocket of Jessica-chan's corpse. `
-`...And who took that key?" `
-`"!! `
-`Th-That's right! `
-`It was Doctor Nanjo...!!" `
-`That's right. `
-`Back then, it definitely was Doctor Nanjo who searched through Jessica's clothes and found the master key...! `
-`So, if someone had the opportunity to search Doctor Nanjo's corpse, it would've been easy for them to take the master key back... `
-`Aunt Rosa searched under the bed and in the locker. `
-`...By now, I also understood what that meant. `
-`If you assume there are two culprits, this can be easily explained. `
-`The first person was Kanon-kun, or maybe an impostor who looked like him. `
-`He finished off Doctor Nanjo and ran off somewhere. `
-`The second person was...probably the 19th person, {f:5:Beatrice}, whose location was unknown. `
-`That person hid under the bed in the servant room beforehand, and while Doctor Nanjo's body was enshrined here, they waited for Genji-san and the rest to leave. `
-`Then later, they crawled out, took the master key back from Doctor Nanjo's pocket, and carried the two corpses away for some reason. `
-`If they then locked the door with the master key, you'd end up with this closed room. `
-`"*cackle*cackle* `
-`You constructed that one pretty fast, basing it off your reasoning from Jessica's room. `
-`With that method, you could create a closed room even without magic. `
-`Should I give you passing marks? `
-`However, interestingly enough, ...there's one thing you mustn't forget." `
-`"...If the culprit took back the master key as you suggest, `
-`......that culprit... `
-`they {i:must have known that Nanjo took the master key from Jessica's body}." `
-`"...You don't have to tell me that... `
-`You're probably trying to say that it's information only the people in that place, at that time, could know..." `
-`"...Hah! `
-`This third closed room was crushed so fast that you're stuck trying to make hurtful remarks like that. `
-`There's no art in repeating the same content over and over..." `
-`I may have managed to bluff, but that move of the witch's hurts bad... `
-`...I can tell that I'm cracking under the thing I want to deny the most. `
-`This person's trying to close in on me from two directions. `
-`On the one hand, there's the frontal attack, where she tries to force me to believe there's a witch using closed room tricks that only a witch could do. `
-`...And on the other hand, there's the rear attack, where she tries to lure me into wanting a witch to exist... by strengthening my suspicions of those close to me. `
-`In the first closed room, the chapel, she used the frontal attack, but it didn't work on me. `
-`So by the second closed room, and now on the third closed room, she's definitely changing the direction of her attack... `
-`However, the fact that she {i:is} changing the direction of her attack proves that my resistance is having some effect. `
-`...And she must've given up on the frontal attack because she clearly can't win with it... `
-`......I tried to settle my unease by thinking these things. `
-`But apparently, the witch had seen through me long ago. `
-`"*cackle*cackle* `
-`I will not abandon my frontal attack. `
-`...A rear attack only has meaning because it advances at the same time as the front. `
-`If I were to degenerate into only using the rear attack, it would merely result in a foolish plan where my means have became my goal." `
-`"...Ihihi, really? `
-`Well then, won't you repeat "someone was hiding in the servant room" using that red you're so proud of?" `
-`"There is no need. `
-`The premise of your theory is about to be destroyed." `
-`"Oh, really?! `
-`You refuse?! `
-`So someone really is hiding?!" `
-`"Rosa will destroy your premise right now. `
-`...*cackle*cackle*! `
-`Come, let's listen in." `
-`"Please believe us, Rosa-sama...!! `
-`The two corpses were definitely lying here! `
-`The bright-red blood on the floor is theirs...!!" `
-`Aunt Rosa began to search through various objects around the room, her back to Gohda-san as he cried out in supplication. `
-`...Eventually, she found something, and for a while, stopped moving. `
-`"Rosa-sama, we definitely aren't lying...!! `
-`The two corpses were definitely here!!" `
-`"Be quiet. `
-`......The person who hid the corpses has confessed that they took them to another place. `
-`......With this." `
-`Rosa showed them a single sheet of paper over her shoulder. `
-`"What on Earth is that?! `
-`Could it be...a letter in a sealed envelope, just like in the chapel?!" `
-`"...Yes, that's right. `
-`It was set here, out in the open. `
-`I'll read it." `
-`{e:070:Members of the Ushiromiya Family and its household.`
-`Have you now reached the climax of the riddle of the gold's epitaph?`
-`There is only one way you all can stop me: by solving the epitaph's riddle.}`
-`{e:070:There are no other options left to you that will result in the suspension of my ceremony.`
-`I humbly ask that you take care not to misunderstand your current situation.}`
-`{e:070:Searching for me will prove useless.`
-`Attempting to escape will prove useless.`
-`Trying to deny me will prove useless.`
-`—{f:5:Beatrice} the Golden.}`
-`"...P.S. `
-`I borrowed those two corpses for my ceremony. `
-`They will be returned to you in due time, so I crave your indulgence. `
-`...Also, these keys belong to you, so I return them to you now.." `
-`As Rosa read that aloud, the contents of the envelope lay exposed on the palm of her hand. `
-`They were two master keys. `
-`The master key that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's master key. `
-`"What the heeeeeell...? `
-`So what does that mean...? `
-`Damn you, again?! `
-`You're saying I can only suspect the servants with keys again?!" `
-`"I won't say it in red, okay...? `
-`I won't deny the possibility that after they locked the door and left, someone was hiding in this room, okay...? `
-`*cackle*cackle*cackle*!" `
-`"...If they hid under the bed, it still would've been possible for them to carry the corpses somewhere. `
-`But they wouldn't have been able to lock the door! `
-`The master key they went to all that trouble to get was left right here! `
-`...That's right, I'd forgotten. `
-`What about the keys specifically for this room, the "servant room keys"?!" `
-`"Indeed. `
-`Those {p:1:are in the key box in the center of the servant room}. `
-`There are several servant room keys, but {p:1:all of those are inside the key box}." `
-`"Which means the situation is exactly the same as Jessica's room... `
-`It's not like the servants would walk around with an unnecessary key when they have those convenient master keys. `
-`I can accept that they're all kept in the key box..." `
-`"And the other conditions remain unchanged as well. `
-`{p:1:Entry and exit are impossible except for the single door and the single window}. `
-`Therefore, hidden doors and irregular methods of entry cannot exist. `
-`Rejoice, great detectives. `
-`*cackle*!" `
-`" `
-`{p:1:And those were both locked}. `
-`{p:1:The door and the window do not permit any kind of entry or exit when they are locked}. `
-`So it wouldn't work to remove the door and make a crack to slide in through or anything like that while the lock is still set. `
-`And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}." `
-`"...It's a pain having to read all these aloud every time. `
-`Sooner or later, I should think of a word to put this all together and abbreviate it." `
-`"But you can't repeat that someone was hiding in this room! `
-`...However, that alone won't break open the door of a closed room... `
-`Aaah, damn it, damn it!! `
-`It's useless, it's useless, it's all useless...!" `
-`"*cackle*cackle*! `
-`What happened to that spinning the chessboard around thing that you're so proud of...? `
-`Please, announce your boastful strange theory." `
-`"...Spin...the chessboard around. `
-`......What would I do if I were the culprit? `
-`I carry the corpses off somewhere. `
-`...I leave a letter. `
-`......I lock the door from the inside. `
-`...Then I just have to escape this room by some means. `
-`......Damn it, is that even possible?! `
-`I was told in red that you can't get outside except through the door or the window...! `
-`.........Ah-" `
-`...At that moment, ...I got it. `
-`That's right. `
-`...The culprit carried away the corpses, left the letter... `
-`...And since they didn't use a "hidden door", {i:they weren't able to escape}... `
-`...That's it. `
-`This isn't a question, it's an answer... `
-`"Beato, `
-`...before I ask you to repeat anything, I want to check {i:the definition of hidden doors} that you're using." `
-`"What have you thought of? `
-`Very well, I'll explain. `
-`A hidden door refers to an entrance or exit that cannot be recognized as such by those who don't know of it beforehand, of course. `
-`Even children know that." `
-`"...So in other words, if you can't get outside the room with it, it isn't a hidden door?" `
-`"Hoh. `
-`......So that's your game." `
-`"I kept thinking there needed to be some way for the culprit to escape from the closed room. `
-`...That's wrong. `
-`The culprit couldn't escape! `
-`So they decided to hide until we all left!" `
-`During the second closed room, I tried applying this theory to Kanon-kun. `
-`...But after hearing "Kanon-kun was killed" in red, I gave it up. `
-`After that, I proposed that a third person might've been in the room, before escaping through a hidden door. `
-`And then, for the first time, I was faced with the red claim that "no hidden doors exist". `
-`Now move from there to what I've just learned. `
-`That term, "hidden door", refers to things that make it possible to enter or leave a room. `
-`...In other words, that category doesn't cover things that don't actually lead in or out of the room, even if these things could never be recognized by people who didn't know about them beforehand. `
-`So, if we had something like a "hidden shelf" or a "secret closet", for example, that wouldn't count as a "hidden door"! `
-`That means the third person from Jessica's room is hiding here, waiting for us to leave! `
-`Heh, how pathetic, it was all just a bit of wordplay! `
-`Looks like that technique should be enough to handle even this third closed room. `
-`If there's a hidden shelf under the bed or anything like that, that'd be enough. `
-`The culprit's hiding somewhere, waiting for us to leave. `
-`......The culprit is also trapped in this closed room even now!! `
-`Which means...at this very moment! `
-`The culprit is still hiding in the servant room, holding their breath...!!! `
-`And that means......what the hell... `
-`Even though we've been tortured by closed rooms three times, `
-`...at this very moment, we've actually gotten the culprit in checkmate!! `
-`"I'm finally starting to see it. `
-`...Eat this, Beato!! `
-`Repeat it! `
-`"There is no one in this room other than us"! `
-`By us, I mean me, George-aniki, Maria, Aunt Rosa, Genji-san, Gohda-san, and Shannon-chan, got it?! `
-`What do you think?!! You can't say it, right?!" `
-`"......Hoh... `
-`......hoh...!" `
-`"I'll bet that hit you where it hurts!! `
-`If you refuse, then say it, dammit!! `
-`Here comes the next one!! `
-`Repeat it!!" `
-`I don't know how they're hiding in this room. `
-`But if they are, then this solves the second closed room, Jessica's room, at the same time!! `
-`I've finally caught her by the tail! `
-`With this, I can explain everything! `
-`Witches don't exist, and I don't have to suspect anyone!! `
-`All right, starting now, I'll spin it all around! `
-`Now I'll have her repeat that- `
-`" `
-`{p:1:No one exists in this room except your group}. `
-`{p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}." `
-`"...Wha......" `
-`"Let's go back to Jessica's room. `
-`{p:1:At the time of Jessica's corpse discovery, `
-`only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}." `
-`Whoops, the corpse of {p:1:Jessica is also included}. `
-`{p:1:Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of}. `
-`{p:1:No one is hiding}." `
-`"And I'll say more. `
-`{p:1:No method exists by which the doors can be locked from the outside without using a key}. `
-`{p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}." `
-`"And let me also say this. `
-`{p:1:You are incompetent}!" `
-`"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!" `
-`"...D-Dumbaaaaass... `
-`So, ......it's really...a closed room, isn't it......? `
-`A-And just when I'd finally managed to think of a way out. `
-`If you were hiding, ...that would fit everything. `
-`Just when I thought I'd broken through to your trick, ......damn iiit..." `
-`"......N-Nnngyaaaaaaaaaaaaahhhhhhhhhh!!" `
-`It's useless it's useless it's useless it's all useless!! `
-`For a second, I thought I had it! `
-`It was all useless!! `
-`Dammit, `
-`, I was so sure that I'd finally seen through her, `
-`that I'd seen how she distracted me with her clever red wordplay and fooled me. `
-`......Just when I thought I'd seen a light in the darkness, `
-`......it disappeared... `
-`just disappeared... `
-`swallowed up...... `
-`by a blood-red sea......! `
-`Red, `
-`... `
-`... `
-`red `
-`red `
-`red `
-`red!! `
-`No one is hiding! `
-`And there's no hidden door, and no way to get past the door or the window while they're locked!! `
-`Have you just proven that it's all impossible?! `
-`Has the Devil's Proof... `
-`been fulfilled... `
-`with a frontal attack?! `
-`Impossible, `
-`...that's impossible!! `
-`"What's wrong, Ushiromiya Battleer? `
-`Weren't you so confident in your ability to deny witches? `
-`Why are you groveling and wringing out bitter tears in a place like that?" `
-`"Yes, what a truly splendid tactic. `
-`Truly splendid how you're trying to make me fall over and drown in a sea of tears from my own laughter. `
-`That {i:is} what you're trying to do, right? `
-`You're trying to make me laugh and laugh and laugh myself to death, right, `
-`U `
-`shiro `
-`miya `
-`Batt `
-`le `
-`e `
-`er `
-`???" `
-`"What are you calling magic?! I'll definitely prove that witches don't exist!! `
-`I definitely won't believe in you!! `
-`You used the power of magic... `
-`and bullied and killed everyone for fun? `
-`...I definitely won't accept thaaaaaaaat!!" `
-`"Hey, Battler? `
-`Sorry for bullying you so much. `
-`I'll "spin the chessboard around" from my side. `
-`I'll stand in your place and show you the best possible move you could make. `
-`Want to heeeeeaar??" `
-`"Don't screw with me, I don't want to hear, I don't want to hear!!" `
-`"Consider Jessica's room. `
-`You were off to a good start, you know that...? `
-`All that about hiding and waiting for everyone else to leave. `
-`That truly was well spotted." `
-`"...But why did you only think of Kanon and me, the 19th person...? `
-`I see, so the "hide" part of hiding and waiting got in the way, which prevented you from getting any further." `
-`"...Come on, you see what I'm getting at, don't you? `
-`It's Jessica. `
-`Jeeeessicaaaaaa!!" `
-`If Jessica were the culprit, ...a farce like this could be easily constructed!! `
-`She killed Kanon-kun and carried him off somewhere! `
-`Then, she played dead and let us walk by! `
-`But that's ridiculous!! `
-`Doctor Nanjo definitely confirmed that she was dead! `
-`So was Doctor Nanjo an accomplice too?! `
-`That's wrong!! `
-`I also confirmed that Jessica was dead! `
-`Of course, I've never examined a corpse before, but she was definitely dead! `
-`I think she was dead!! `
-`No, that's probably surely definitely what I thought but certainly wait... `
-`...she was dead!! `
-`She was dead!!! `
-`"Jessica was in on it. `
-`And Nanjo, who examined her corpse, was in on it too. `
-`*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!! `
-`And that makes the third closed room a farce, doesn't it?" `
-`Yeah, then it's simple. `
-`Doctor Nanjo was in on it, so in other words, he's on the culprit's side, ...which means...which means... `
-`he was never dead in the first place?! `
-`We thought his body disappeared after he was killed, but what if he was never in the servant room to begin with?! `
-`So, if Kumasawa baa-chan disappeared with him, does that mean she's in on it too?! `
-`...That's not all, that's not all! `
-`The servants who all agreed to keep to that story, Genji-san and Gohda-san, and even Shannon-chan, were also in on it! `
-`Then, the one who stole the key from Maria's handbag was Jessica... `
-`no, it could even have been George-aniki! `
-`After all, if Shannon-chan is on the culprit's side, that automatically makes George-aniki on the culprit's side!! `
-`Wait a second, just wait a second, they're all wolves... `
-`They're all wolves!! `
-`Not only am I drowning in an ocean of bright-red blood, `
-`there are packs of wolves clamoring on the banks, whose blazing eyes tell me that they'll eat me if I crawl out!! `
-`Which way should I die?! `
-`Should I deny everything and drown in a bright-red sea?! `
-`Or should I learn the truth and have my whole body chewed to bits by the wolves?! `
-`It's either one hell or the other!! `
-`I can't choose! `
-`Gaaaaaaaaaaaaaaaaaaaaahhhhh!!! `
-`"That's why I'm here...!! `
-`{p:1:Come on, Ushiromiya Battler, kneel}. `
-`Swear your eternal loyalty and lick my shoes...!! `
-`"{p:1:If you accept me, all of the riddles will be resolved}. `
-`{p:1:With my power, any kind of locked room can be created or destroyed}!!" `
-`"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer?? `
-`{p:1:I'll make you my favorite piece of furniture}. `
-`{p:1:I'll love you so much and make you my toy until you turn to ashes}..." `
-`"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!" `
-`".........Now, it's clear. `
-`There's no longer any reason to doubt." `
-`"Huh...? `
-`...What are you saying...?" `
-`"You kept saying those two were dead, but they aren't here. `
-`...And now we have this letter from {f:5:Beatrice}, where she's been kind enough to confess that she carried the corpses off." `
-`"...It's as simple as that. `
-`I've had enough of this farce!!" `
-`As Aunt Rosa yelled this, she looked at all of us with a fierce expression. `
-`'W- `
-`What do you mean... `
-`by farce...?!" `
-`"I said it in Jessica-chan's room. `
-`...You can't trust anyone but yourself and those whose corpses have been found. `
-`And since we can't find the corpses of those two people, we must not accept that they've been killed." `
-`"...P-Please wait, Aunt Rosa. `
-`What do you mean by that...?!" `
-`"Doctor Nanjo and Kumasawa-san aren't dead, they're alive! `
-`We're supposed to believe that they've been killed, but they're definitely hiding somewhere in this mansion. `
-`So that they can attack us!!" `
-`"How could you know that?! `
-`Are you saying that Gohda-san and the rest are lying?!" `
-`"...Rosa-sama!! `
-`I, Gohda...no, all of the Ushiromiya family servants! `
-`We all swear that nothing of the sort happened!!" `
-`"You all say that those two were killed. `
-`But since there are no corpses, we mustn't believe you. `
-`There's a chance that you worked out a story beforehand, that you're lying!!" `
-`"There's a good way to prove your innocence, isn't there? `
-`Find Doctor Nanjo's and Kumasawa-san's bodies!!" `
-`"If you can find them, then maybe I'll start listening to your story. `
-`But until you do, you cannot deny that you are all wolves!!" `
-`"You! `
-`And you!! `
-`I'll bet you were all bought by that witch, that your eyes were blinded by gold!! `
-`Do you really want money that much?! `
-`That's right, isn't it?! `
-`You want to live the easy life for as long as you live?! `
-`What value could a life like that possibly have?!!" `
-`"Rosa-sama...!! `
-`We...couldn't have!" `
-`"Be silent! `
-`And Shannon, don't get any closer!! `
-`To think you'd repay a ten-year-long debt of gratitude with betrayal!! `
-`I'll pull the trigger without mercy!!" `
-`"How...... `
-`......how could you...? `
-`...It's too... `
-`cruel..." `
-`"...A-Aunt Rosa!! `
-`That's horrible!! `
-`A murder occurred in this room! `
-`And then the culprit carried the corpses away! `
-`All they're doing is honestly reporting what they saw!!" `
-`"......Aaah, aaaaaaaaaaaaaahhhhhhh!!!" `
-`Shannon had finally broken down in tears... `
-`She had sacrificed 10 years to the Ushiromiya family. `
-`She had sacrificed 10 of the most brilliant years of her life. `
-`......She'd believed that she'd built up a friendly relationship with Rosa. `
-`...And this was what she got in return!! `
-`You can kill a person without using a knife... `
-`I didn't have to be George-aniki... `
-`to realize that Shannon-chan had been stabbed deep in the heart, that she was shedding tears like blood... `
-`"Shannon-san, stay back... `
-`...Rosa-sama, it is true that I, Gohda, have not served for many years, and I understand that I have not earned your trust..." `
-`"...However...could you not believe in Shannon-san at least...?! `
-`She has sacrificed a full 10 years in service to the Ushiromiya family...! `
-`I'm not telling you to believe me...! `
-`At the very least, can't you believe in Shannon-san...?!!" `
-`...But...even I don't understand anymore!! `
-`I don't understand!! `
-`We can't search for an answer without suspecting them!!! `
-`Yeah, bit by bit, I'm starting to understand... `
-`...It's {i:because} we've been searching an answer, ...that's why everything keeps going wrong... `
-`We don't need...an answer. `
-`These are all...strange murders, committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, in accordance with some creepy ceremony. `
-`......Isn't that...enough......? `
-`I don't...want to suspect...anyone anymore...... `
-`Shannon-chan and Gohda-san were protesting their innocence, half-crying. `
-`Genji-san quietly put a stop to that. `
-`"......Enough. `
-`...What Rosa-sama says is quite sensible. `
-`...Until we find the corpses, `
-`{i:we cannot prove Doctor Nanjo and Kumasawa's innocence}." `
-`That's right. `
-`...By Rosa-san's argument, if their corpses can be found, then the innocence of those people alone can be proven. `
-`But that only counted for the corpses. `
-`Even if the survivors searched the mansion and found the corpses, in the end, their own innocence would never be proven. `
-`"They kidnapped Doctor Nanjo and Kumasawa-san, killed them in another place, and locked the closed room with their own master keys." `
-`Unless the closed room could be broken by a method other than that one, `
-`...it would be impossible to prove their innocence... `
-`...But......that couldn't be done!! `
-`They only have one chance to prove their innocence. `
-`...That can only happen if they meet with the culprit, become corpses, and are then reunited with Aunt Rosa. `
-`Isn't that strange?!! `
-`They're innocent if they die, but guilty as long as they're alive, just like a witch trial! `
-`...Oh, right, the enemy's a witch. `
-`So everything's cool, is that it...? `
-`"...Rosa-sama, `
-`we are furniture in service to the Ushiromiya family. `
-`...Whether you trust us or not is no business of ours. `
-`No matter what assessment you give us, we will merely continue to serve until our final hour." `
-`"You really are a model servant. `
-`...I deeply understand why Father trusts you. `
-`It really is heartrending that I must suspect even you." `
-`"............" `
-`Genji-san stuck his hand into his pocket and pulled out a master key. `
-`...Then, he set it on a nearby table. `
-`"...I believe I was given this as a sign of the trust placed in me. `
-`If that trust has been lost, I think it only natural that I return it." `
-`"......... `
-`...That's a good decision. `
-`Those master keys are the main reason you've been suspected several times today. `
-`It may seem elementary that letting go of those might clear away that suspicion, `
-`but I don't think it's a bad thing." `
-`"......You two." `
-`Genji-san looked at Gohda-san and Shannon-chan. `
-`...The two of them nodded and set their own master keys on the table. `
-`Aunt Rosa lay the two master keys that had come out of the envelope on top. `
-`With that, all five master keys were gathered in this place. `
-`In other words, this was proof that all of the servants' service until today had been negated, `
-`with even the final honor they should have been permitted stripped from them... `
-`"Maria, give me that handbag." `
-`"...Uu-! `
-`Give it back!!" `
-`Aunt Rosa snatched Maria's handbag, tossed the master keys in there, and held up one of them for all to see. `
-`She was showing us that she now had all the master keys. `
-`"...A-Are you satisfied now, Aunt Rosa? `
-`...Now you have all the master keys. `
-`...Doesn't that satisfy you?!!" `
-`"Yes, I'm satisfied. `
-`Even if I can't trust anyone else, I can at least trust myself!" `
-`"I've been able get the gun and all the master keys for myself! `
-`Now, I don't have to suspect anyone. `
-`You all are happy too, I take it? `
-`Now you don't have to be suspected anymore! `
-`Ahahahahahahahahaha, hahahahahahahah!" `
-`"......Kiihihihihi." `
-`At that time, Maria, who alone seemed to be watching this as though it were a show, sneered at her mother. `
-`...Aunt Rosa reacted nervously to that laugh and turned around. `
-`"...Keys don't have anything to do with this. `
-`...{f:5:Beatrice} can open doors with magic. `
-`She doesn't need keys. `
-`...It doesn't matter who has or doesn't have something like that. `
-`Kihihihihihihihihihihihihihi...!" `
-`"Don't I always tell you to stop laughing like that?!! `
-`...? `
-`What is it, Battler-kun?" `
-`...I had just cut in between the two of them. `
-`...No, that's not it. `
-`...I was on my knees...and hugging Maria's head. `
-`...I was...crying. `
-`"Just...stop it already, Aunt Rosa... `
-`...Maria was...right..." `
-`"...Wh-What are you talking about...?" `
-`"......Maria, `
-`I'm sorry... `
-`...for doubting. `
-`...I'm sorry... `
-`...for not believing." `
-`"......Battler." `
-`"It was all... `
-`the witch's doing... `
-`...The witch's... `
-`doing... `
-`...All that stuff about tricks and closed rooms didn't matter... `
-`......It's just, it's just... `
-`...that the witch {f:5:Beatrice} actually exists, `
-`......and she's really a witch... `
-`...And because I didn't believe, `
-`......it's been so painful... `
-`...and so sad......" `
-`"......You...believe in {f:5:Beatrice}...?" `
-`"Yes...! `
-`I believe. `
-`...{f:5:Beatrice} "exists". `
-`And she's a witch, who uses strange magic...!" `
-`"Battler..." `
-`Maria let go of my hand, ...and then she was the one holding my head. `
-`"...That's enough, Battler. `
-`......{f:5:Beatrice} "existed". `
-`...You had so much trouble believing, so you couldn't see her. `
-`......Witches "exist". `
-`They "exist". `
-`And will "come" soon." `
-`"......You believed in Beato, so you'll surely be invited to the Golden Land. `
-`...Very soon now. `
-`...It will happen very soon. `
-`So there's nothing to be afraid of anymore. `
-`......There's no need to be afraid, okay? `
-`Stay with me, hands joined, ...okay...? `
-`Let's think about the riddle of the epitaph together. `
-`Let's think about Beato's puzzle. `
-`......Beato has been saying it from the beginning. `
-`She hasn't said anything other than "let's play and solve this puzzle"." `
-`"Right, ...she did... `
-`Searching for the culprit was just a waste of time... `
-`......If only we had... `
-`...just believed in...... `
-`...the witch......" `
-`After gently brushing my cheek as my tears kept dripping down, `
-`...Maria kissed my forehead, as soft as a feather. `
-`For just that instant, ...Maria's smile, which had once seemed creepy to me, looked like that of an angel... `
-`"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change. `
-`......From now on, we will not enter the parlor without permission. `
-`Rosa-sama, please lock the parlor from the inside." `
-`"...You truly are an admirable person. `
-`When the typhoon passes, ...if the cries of the seagulls return to this island again, `
-`......I wonder if we'll be able to trust each other once more." `
-`"...If you were to grant us your trust once again, there could be no greater pleasure." `
-`"I see. `
-`...We'll definitely be able to understand each other. `
-`...When the seagulls cry." `
-`"......It would probably be best if we left this room as it is until the police come. `
-`Rosa-sama, if you would please lock it. `
-`...We will return to the kitchen. `
-`If you need anything, please command us at any time." `
-`"Thank you. `
-`......If you are a wolf, `
-`how shamelessly you speak. `
-`...And if you are a sheep, `
-`......then I'm sorry for throwing you into the cage of wolves." `
-`"...Furniture entrusts its fate to the family. `
-`...If I could regain your trust by giving up this life of mine, `
-`I would consider it a great honor." `
-`"............ `
-`I hope you all manage to remain safe until the typhoon passes, if such a thing is possible. `
-`This is all a rhapsody of blowing winds and pouring rain performed by the typhoon. `
-`...When the performance ends...and the curtain closes, `
-`...we will surely be able to grasp hands together again." `
-`"...When the seagulls...cry." `
-`Aunt Rosa nodded in response... `
-`Genji-san turned on his heels. `
-`He left the servant room. `
-`Gohda-san's face was still streaked with tears, `
-`...but maybe he'd managed to sort out his feelings as he listened to Genji-san's words. `
-`...His face had been truly shameful, `
-`...but it had returned to the face of the Gohda-san we knew well. `
-`"......I will also be waiting in the kitchen. `
-`...If you need anything, please command me at any time. `
-`......If you wish for some warm food, I, Gohda, will have the very best prepared for you." `
-`"......Thank you. `
-`I can't wait for your breakfast tomorrow. `
-`...And the boat will probably come by midday tomorrow. `
-`...Thanks for everything up until now. `
-`Your cooking was my only pleasure on Rokkenjima." `
-`"...Certainly. `
-`I, Gohda, will prepare a supreme breakfast. `
-`Please, look forward to tomorrow morning." `
-`"Thank you. `
-`......And Shannon-chan. `
-`Tomorrow morning, ...let's make up and have some delicious coffee." `
-`"............" `
-`"...? `
-`George-kun?" `
-`"...I'm...going with them." `
-`"...It's all right, George-sama... `
-`Please, return to the parlor. `
-`There are no more master keys. `
-`So, if you're with Rosa-sama in the parlor, you won't be threatened by anyone." `
-`"You're right. `
-`...That's how things have sorted themselves out, isn't it? `
-`...Objectively speaking, I'd say you'll be safest staying with me in the parlor." `
-`"...But I won't force you to stay with us. `
-`George-kun, you may stay in any place you feel is safe. `
-`......You're already an adult. `
-`It's up to you where and with whom you spend the time until tomorrow morning." `
-`"......Yes. `
-`I will decide... `
-`with whom I'll spend this night." `
-`"...A-Aniki..." `
-`"Battler-kun, stay with Aunt Rosa in the parlor. `
-`I'm sure you'll be safest there. `
-`...Everywhere outside the parlor is dangerous in comparison. `
-`...So, I can't leave her in a place like that alone." `
-`"...It's...not like I suspect Shannon-chan and the other servants `
-`...or anyone at all... `
-`I don't want to suspect anyone... `
-`The inheritance? `
-`The gold? `
-`...That's all nothing... `
-`...There's no way people are killing each other over things like that..." `
-`"Yes. `
-`I know better than anyone how pure your heart is, Battler-kun. `
-`...No one will blame you. `
-`No one." `
-`".........Anikiii..." `
-`"...It's all right. `
-`I'll protect you, Battler. `
-`...If you're with me, even {f:5:Beatrice} won't be able to lay a hand on you. `
-`I may be small, but I'm still a witch." `
-`"Yes. `
-`......Maria-chan, `
-`I'm leaving Battler in your care. `
-`......All right, Shannon. `
-`Let's go." `
-`"Yes... `
-`...Rosa-sama, if you would excuse me. `
-`If you have an order, please call me at any time." `
-`"......I'm sorry for saying something so cruel just now. `
-`......I don't expect you to forgive me until tomorrow morning. `
-`But when tomorrow morning comes, let me apologize again." `
-`"Yes... `
-`......Thank you very much." `
-`George-aniki and Shannon-chan left the servant room together. `
-`......Now, only Maria, Aunt Rosa and I were left in this disgusting, bloodstained room. `
-`Until Genji-san disappeared, until Gohda-san disappeared, until George-aniki and Shannon-chan disappeared, we stood there, shocked... `
-`After their presence and their footsteps had completely disappeared, Aunt Rosa giggled, as though she'd just remembered something pleasant. `
-`"......You can't trust them for a moment. `
-`That damned furniture." `
-`That one sentence... `
-`made me choke. `
-`"...Wh... `
-`Why are you... `
-`...saying... `
-`...something like that...?" `
-`"There are five master keys in all? `
-`Who would believe that? `
-`It's obvious that some duplicate keys exist. `
-`...As if we could trust them just because they pulled keys out of their pockets...!!" `
-`"Y-You don't mean that, right...? `
-`B-By setting down those keys, ...they weren't just letting go of them... `
-`...You've...made all their hard work count for nothing, disgraced it, trampled it, `
-`......and in the end, you made them give up their keys... `
-`What's with that parting line...? `
-`They've shown that they're willing to go this far, and you still can't trust them?! `
-`Too much, ...that's just too much...!" `
-`"It's a Devil's Proof! `
-`There are five master keys in all?! `
-`It's impossible to prove something like that!! `
-`You can show that there are five master keys by placing them here! `
-`But you can't prove that no more than five exist!! `
-`Only a demon or a witch could prove something like that, right?!" `
-`"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaahh!!! `
-`Stop it already, stop it already...!! `
-`Please, {f:5:Beatrice}, show yourself right now, `
-`and tell Aunt Rosa in red that "there are only five master keys"!! `
-`Please, I'm begging you, this can only be proved by devils, by a witch like you! `
-`Please, Beato, show yourself here and tell Rosa that those are all the master keys, `
-`and that there's no need to suspect anyone anymore...!!!" `
-`" `
-`{p:1:There are only five master keys}. `
-`{p:1:There are only five master keys}." `
-`...*cackle* How's that? `
-`No matter how often I say it, it won't reach Rosa's ears. `
-`After all, it seems there's still someone who denies that I exist, right? `
-`Ushiromiya Battleeeeeeeer???" `
-`"I accept it!! `
-`I accept it, you exist you exist you definitely exist! `
-`So I'm begging you, stop this already!! `
-`Stop it already! Stop it already!! `
-`Aaaaaaaaaaaaaagggghhh!!" `
-`"Words alone are not enough, show it with your actions. `
-`Swear from your heart that you will become my furniture." `
-`"Can you do it? `
-`Take off your clothes, be naked, then put your hands on the ground and crawl. `
-`Clothing is proof of one's humanity. `
-`From now on, you will become furniture, so it's only natural that you will lose that right!!" `
-`"Then kneel, make your tongue crawl on my shoes. `
-`Can you do it? `
-`You can do it, riiiiiiiight?? `
-`When you do, I'll appear and say it in red! `
-`I'll tell Rosa that {p:1:there are only five master keys}!!" `
-`"Oh, but of course, you'll never abandon that lordly pride of yours. `
-`But you've done well, you've done more than enough, and you're starting to get that tingly feeling, aren't you? `
-`For just an instant, you thought maybe licking my shoes wouldn't be so bad, didn't you? `
-`And you immediately denied that and felt ashamed, riiiiight?? `
-`Just looking at your expression feels just heavenly!!" `
-`"That face of yours is so pathetic, so go look in a mirror, `
-`you'll see how low you are, naked and licking my shoes, riiiiiiiiiight? `
-`Can you see it, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???" `
+` apa kau melihatnya? `
+` Saat dokter Nanjo diserang?" `
+` "...Y-Ya." `
+` "Katakan padaku. `
+` ...Apa  yang kamu lihat. `
+` Apa yang sebenarnya terjadi?" `
+` "......Seseorang datang...... `
+` ...ke pintu belakang." `
+` "...I-itu benar. `
+` Seseorang datang ke pintu belakang. `
+` Lalu, karena aku penasaran, aku membuka pintu..." `
+` "Seseorang di pintu belakang? `
+` Siapa itu?!" `
+` "Biarkan mereka menyelesaikannya! `
+` Setelah itu?!" `
+` "......Orang itu...memiliki noda darah...dan luka yang besar. `
+`...Kami membawa orang itu ke ruang pelayan, lalu Dokter Nanjo segera melakukan pertolongan pertama. `
+` ...Itu merupakan...luka yang sangat dalam." `
+` "Sudah ku katakan, siapa yang kalian bicarakan?!" `
+` "...Saya tidak tahu! `
+` Memang benar, ...dari awal, saya pikir itu masalahnya. `
+` Tidak, saya masih berpikir demikian! `
+` Tetapi......apa itu sebenarnya!! `
+` ...Saya tidak tahu, ...saya tidak tahu!!" `
+` Dengan sikap yang tidak sesuai dengan ukuran badannya, Gohda memegang kepalanya lalu menggaruknya... `
+` Aku tidak memiliki petunjuk jika dia bingung karena tidak bisa mengingatnya... `
+` atau karena dia baru saja melihat sesuatu yang mengerikan dan tidak bisa menerimanya. `
+` Dan Shannon kelihatannya juga sama. `
+` Jika dia menurunkan kewaspadaannya, apa yang baru saja dia lihat beberapa saat lalu akan segera lenyap seperti mimpi siang hari, `
+` dan dia tidak akan bisa mengingat apapun. `
+` ...Dia terlihat seperti itu. `
+` Hanya Genji yang memiliki ketenangan seperti biasanya. `
+`...Jadi pertanyaan-pertanyaan tersebut seharusnya diberikan kepadanya. `
+` Tetapi, bahkan Genji memerlukan Waktu sebelum berbicara, dan dia harus mengumpulkan isi pikirannya. `
+` "Genji-san, `
+` kau melihatnya, kan? `
+` Siapa yang masuk lewat pintu belakang?!" `
+` "......Pada awalnya, ...kami yakin bahwa orang itu...adalah Kanon." `
+` "Sudah kuduga!! `
+` Dia masih hidup! `
+` Teoriku benar!!" `
+` "..."pada awalnya", yang berarti impresimu berubah beberapa saat kemudian, bukan...?" `
+` "Ya. `
+`......Aku tidak bisa menjelaskannya dengan kata-kata apa yang sudah terjadi. `
+`...Dia membunuh Dokter Nanjo dan Kumasawa, ...lalu menghilang. `
+` Pada saat itu, aku yakin dia bukan Kanon..." `
+` "Ya! `
+` Itu benar! `
+` Seperti yang Genji-san katakan!! `
+` Kau tidak bisa menjelaskannya dengan kata-kata!" `
+` "...Apa kamu memiliki pendapat yang sama?" `
+` "...Ya...... `
+` Saya...memikirkan hal yang sama..." `
+` "............" `
+` ...Jika kita anggap pernyataan mereka benar, `
+` ...maka teori pertama Bibi Rosa itu benar. `
+` Kanon muncul lewat pintu belakang menuju dapur dengan penuh luka. `
+` Kemudian, dia dibawa ke ruang pelayan untuk diperiksa. `
+`...Setelah itu, sesuatu yang mengerikan terjadi. `
+` Jadi, orang-orang ini begitu yakin bahwa Kanon-kun tidak mungkin melakukan hal seperti itu... `
+` sehingga mereka mulai curiga apakah benar Kanon-kun yang melakukannya? `
+` ,dengan kata lain...Kanon-kun memang muncul. `
+` Tidak peduli betapa bingungnya mereka, betapa kacaunya ucapan mereka, itulah yang dimaksud. `
+` Jadi, yang berarti, Kanon-kun menggunakan semacam trik untuk keluar dari ruangan yang bahkan terkunci?! `
+` Tidak, bukan itu masalahnya. `
+` Masalah utamanya ialah Dokter Nanjo dan Kumasawa-san telah dibunuh. `
+` Bibi Rosa menyatakan bahwa Kanon-kun adalah orang dibalik semua ini. `
+` Tidak peduli betapa bingungnya mereka, betapa banyaknya mereka membantah, ...mereka setengah setuju bahwa dia benar. `
+`...Meski begitu, untuk berbagai alasan, aku merasa kecanggungan mereka tidak bisa dijelaskano oleh kebingungan semata... `
+` ...Apa yang mereka lihat? `
+` Seperti yang mereka katakan, apa mereka benar-benar {i:melihat sesuatu yang tidak bisa dijelaskan oleh kata-kata}...? `
+` Bibi Rosa, yang memutuskan bahwa pembicaraan lebih lanjut tidak akan membawa kita ke mana-mana, `
+` menyelesaikan pemeriksaannya dan mengatakan bahwa dia ingin memeriksa kedua mayat tersebut. `
+` Itu adala hal yang ingin aku lakukan juga. `
+` Saksi-saksi tidak dapat memahami apa pun, tetapi mereka telah terguncang. `
+`...Jika seseorang diantara kita yang tidak berada di tempat kejadian memeriksa mayat, kita mungkin akan menemukan sesuatu. `
+` ......Namun agak mengejutkan mengetahui bahwa Bibi Rosa juga khawatir dengan mayat-mayat itu. `
+` Bahkan pada titik ini, aku masih ingin menggunakan petunjuk apa pun yang bisa ku temukan untuk mengungkapkan pelaku dan kebenaran sendiri. `
+` Tetapi, itu berbeda dengan kasus Bibi Rosa. `
+` ...Bukankah Bibi Rosa mengutamakan eselamatan timbang encari pelakunya? `
+` Aku sangat tidak mengerti mengapa dia repot-repot meninggalkan barikade kami di ruang tamu, hanya karena dia ingin memeriksa mayat-mayat itu. `
+` "Kita semua akanmergi ke ruang pelayan bersama. `
+` Jika kita bergerak bersama, kita akan aman. `
+` Maria, berhenti bermain -main dengan coretan!" `
+` "Uu-. `
+` Ini bukan coretan. `
+` Aku sedang menyelesaikan teka-teki {f:5:Beatrice}. `
+` Uu-..." `
+` "Teka-teki {f:5:Beatrice}? `
+` Apa itu? Tunjukkan padak." `
+` "...Bibi Rosa, apakah kau, ...umm, akan membawa Maria-chan juga?" `
+` Kelihatannya George-aniki menolak ide untuk membawa Maria tke tempat kejadian yang penuh darah. `
+` ...Namun mempertimbangkan Maria yang akan ditinggal sendirian, akan mebih baik untuk membawanya dengan kita. `
+` ...Pada akhirnya, Itu hanyalah humanisme yang tidak bertanggung jawab dari Aniki. `
+` Kami memutuskan untuk membawa semua orang, termasuk Maria, would untuk pergi ke ruang pelayan. `
+` Kasur pelayan dipenuhi dengan bercak darah. `
+` ...Tidak, bukan hanya kasur. `
+` Seluruh ruangan dipenuhi dengan cat yang mengerikan dari bercak-bercak darah yang tak terhitung jumlahnya. `
+` Adegan mengerikan seerti itu sudah cukup untuk memberi kita gambaran tentang pemandangan menjijikkan yang mereka coba gambarkan... `
+` "...Uu-. `
+` Aaku juga ingin melihatnya!" `
+` "Maria-chan, tunggu di sini enganku." `
+` George-aniki berdiri di pintu masuk, menutup mata Maria, dengan punggungnya menghadap ke dalam ruangan. `
+` ...Dia mungkin tidak ingin mengotori mata gadis polos dengan darah yang mengerikan di ruangan ini. `
+` Itu merupakan keputusan yang tepat. `
+` ...Saat ini aku sedang bersikap keras kepala, jadi aku tidak peduli, `
+`...tapi untuk selama hidupku, setiap kali aku melihat cat merah tersebar di sekitar, `
+` aku mungkin akan mengingat ruangan ini dan mulai muntah. `
+` ...Retinaku sudah terpatri dengan ruangan ini. `
+` ...Dengan kata lain, sudah terlambat bagiku.... `
+` "......Huh..." `
+` "D-dimana mereka...?!" `
+` Tepat setelah mereka memasuki ruangan, Gohda-san dan Shannon-chan gemetaran. `
+` ...Kami terkejut, situasi mengerikan seperti apa yang baru saja muncul sehingga membuat mereka gemetar lagi. `
+` "Apa yang terjadi? `
+` Apa-apaan ini?" `
+` Bibi Rosa juga ikut bergetar, mengangkat tinggi senjatanya, dan mencari apapun yang membuat mereka gemetar. `
+` ...Namun dia tidak menemukannya. `
+` ...Itu hal yang wajar. `
+` ...Mereka bergetar karena tidak bisa menemukannya. `
+` "Hei, apa yang terjadi...?" `
+` "......Kedua tubuh mereka...tidak ada." `
+` "Apa maksudnya itu?" `
+` "...T-tidak mungkin...! `
+` Mereka berdua...seharusnya da di sini...!" `
+` "...Tunggu, tunggu, tunggu. `
+` Apa maksudnya?, Apakah kau ingin mengatakan bahwa mayat-mayat itu pergi ke suatu tempat? `
+` Itu tidak mungkin, kan? `
+` Maksudku, bukankah ruang pelayan terkunci? `
+` Bukankah kau tidak membuka pintu saat masuk tadi?, Gohda-san?!" `
+` "...Jadi aa maksudnya ini? `
+` ...Bukankah ini sama seperti yang ada di kamar Jessica?! `
+` Seseorang lagi-lagi menghilang dari ruangan tertutup?! `
+` Sungguh konyol!!" `
+` "Saya juga tidak mengerti apa yang baru saja terjadi!! `
+` Saat kami meninggalkan ruangan, kami yakin telah menguncinya, ......!! `
+` Saya sudah tidak paham lagi apa yang sudah terjadi...!!" `
+` Ada senyuman yang malu-malu dan menyedihkan di wajah Gohda-san, yang pasti tidak akan dia tunjukkan dalam keadaan normal. `
+` Begitu juga dengan Shannon. `
+` "Dua mayat telah menghilang! `
+` Ditambah, mereka menghilang di dalam ruangan terkunci! `
+` Bahkan jika Kanon-kun pelakunya, dia seharusna tidak memiliki master key lagi!!" `
+` "Itu tidak benar...! `
+` Kanon-kun bukanlah pelakunya...!!" `
+` "...Shannon... `
+` Aku percaya pada Shannon. `
+` Kanon-kun bukanlah pelakunya. `
+` Ini pasti ulah seseorang yang terlihat mirip dengannya." `
+` "Tidak. `
+` Kanon-kun mungkin memiliki master key. `
+` ...Lagipula, master key miliknya ditemukan di dalam saku mayat Jessica. `
+` ...Lalu siapa yang mengambilnya?" `
+` "!! `
+` I-itu benar! `
+` Itu adalah Dokter Nanjo...!!" `
+` Itu benar. `
+` Pada saat itu, Dokter Nanjo lah yang memeriksa pakaian Jessica dan menemukan master key miliknya...! `
+` Jadi, Jika seseorang memiliki kesempatan untuk memeriksa mayat Dokter Nanjo, mereka akan dengan mudah mengambil kembali master key miliknya... `
+` BibiRosa bawah kasur dan di dalam lemari. `
+` ...Saat imi, Aku juga mengerti maksudnya. `
+` Jika kamu mengasumsikan ada dua pelaku, ini mudah untuk dijelaskan. `
+` Orang pertama ialah Kanon-kun, atau mungkin seseorang yang terlihat mirip dengannya. `
+` Dia menghabisi Dokter Nanjo dan melarikan diri ke suatu tempat.. `
+` Orang kedua...kemungkinan ialah orang yang ke-19, {f:5:Beatrice}, yang lokasinya belum diketahui. `
+` Orang tersebut sebelumnya bersembunyi di bawah kasur pelayan, dan saat mayat Dokter Nanjo disemayamkan di sini, mereka menunggu Genji-san dan yang lainnya pergi. `
+` Kemudian, mereka merangkak keluar, mengambil kembali master key dari Dokter Nanjo, dan membawa keluar kedua mayat untuk suatu alasan. `
+` Jika mereka kemudian mengunci pintu dengan master key, itu akan membuat ruangan menjadi tertutup. `
+` "*terkekeh-kekeh* `
+` Kamu menyusunnya dengan cukup cepat, berdasarkan penalaranmu dari kamar Jessica. `
+` Dengan metode itu, kau bisa menciptakan ruangan tertutup bahkan tanpa sihir. `
+` Haruskah aku memberi kamu nilai kelulusan? `
+` Bagaimanapun, ini cukup menarik, ...ada satu hal yang tidak boleh kau lupakan." `
+` "...Jika pelakunya mengambil master key seperti ucapanmu, `
+` ......pelaku tersebut... `
+` mereka {i:harus mengetahui bahwa Nanjo mengambil master key dari tubuh Jessica}." `
+` "...Kau tidak perlu mengatakannya... `
+` Kau mungkin mencoba mengatakan bahwa itu adalah informasi yang hanya diketahui oleh orang-orang di tempat itu, pada waktu itu..." `
+` "...Hah! `
+` Ruang tertutup ketiga ini dipecahkan begitu cepat sehingga kamu terjebak dan mencoba membuat komentar menyakitkan seperti itu. `
+` Tidak ada seni dalam mengulang konten yang sama berulang kali..." `
+` Mungkin aku berhasil menggertak, tapi gerakan penyihir itu benar-benar menyakitkan... `
+` ...Aku bisa merasakan bahwa aku mulai retak di bawah hal yang paling ingin aku tolak. `
+` Orang ini mencoba mendekati aku dari dua arah. `
+` Di satu sisi, ada serangan frontal, di mana dia mencoba memaksaku untuk percaya bahwa ada penyihir yang menggunakan trik ruang tertutup yang hanya bisa dilakukan oleh penyihir. `
+` ...Dan di sisi lain, ada serangan dari belakang, di mana dia mencoba memancingku untuk menginginkan keberadaan penyihir... dengan memperkuat kecurigaanku terhadap orang-orang terdekatku. `
+` Di ruang tertutup pertama, kapel, dia menggunakan serangan frontal, tapi itu tidak berpengaruh padaku. `
+` Jadi di ruang tertutup kedua, dan sekarang di ruang tertutup ketiga, dia pasti mengubah arah serangannya... `
+` Bagaimanapun, fakta bahwa dia {i:telah} merubah arah serangannya membuktikan bahwa pertahananku memiliki efek. `
+` ...Dan dia pasti sudah menyerah dengan serangan frontal karena jelas dia tidak bisa menang dengan itu... `
+` ......Aku mencoba menenangkan kegelisahanku dengan memikirkan berbagai hal. `
+` Tapi ternyata, penyihir itu sudah lama menembus pikiranku. `
+` "*terkekeh-kekeh* `
+` Aku tidak akan mengabaikan erangan frontalku. `
+` ...Serangan dari belakang dapat efektif karena dilakukan bersamaan dengan serangan dari depan. `
+` Jika aku hanya mengandalkan serangan dari belakang, itu akan menghasilkan rencana yang bodoh di mana tujuanku telah menjadi saranaku.." `
+` "...Ihihi, benarkah? `
+` Kalau begitu, tidakkah kamu mengulang kalimat “ada seseorang yang bersembunyi di ruang pelayan” menggunakan kalimat merah yang kau banggakan itu?" `
+` "Itu tidak perlu. `
+` Premis dari teorimu akan segera hancur." `
+` "Oh, benarkah?! `
+` Kau menolaknya?! `
+` Jadi seseorang benar-benar bersembunyi di sana??!" `
+` "Rosa akan menghancurkan premismu. `
+`...*terkekeh-kekeh*! `
+` Ayo, mari kita dengarkan." `
+` "Tolong percaya pada kami, Rosa-sama...!! `
+` Ada dua mayat yang benar-benar terbaring di sini! `
+` Darah merah terang di lantai itu milik mereka...!!" `
+` Bibi Rosa mulai mencari-cari berbagai benda di sekitar ruangan, punggungnya menghadap ke arah Gohda-san saat dia berteriak memohon. `
+` ...Akhirnya, dia menemukan sesuatu, dan untuk sesaat, dia berhenti bergerak. `
+` "Rosa-sama, kami benar-benar tidak berbohong...!! `
+` Kedua mayat benar-benar ada di sini!!" `
+` "Diamlah. `
+`......Orang yang menyembunyikan mayat-mayat tersebut telah mengaku bahwa mereka membawanya ke tempat lain.. `
+` ......Dengan ini." `
+` Rosa memperlihatkan kepada mereka selembar kertas di atas bahunya. `
+` "Benda apa itu?! `
+` Apakah itu...surat yang ada di dalam amplop, sama seperti yang ada di kapell?!" `
+` "...Ya, itu benar. `
+` Ini ditaruh di sini, di tempat terbuka. `
+` Aku akan membacanya." `
+` {e:070:Anggota Keluarga Ushiromiya dan rumah tangganya.`
+` Apakah kalian sudah mencapai puncak teka-teki epitaf ini? `
+` Hanya ada satu cara untuk menghentikanku: dengan memecahkan teka-teki nisan tersebut.} `
+` {e:070:Tidak ada pilihan lain yang tersisa bagi kalian yang dapat menghentikan upacaraku. `
+` Aku dengan rendah hati meminta agar kalian tidak salah memahami situasi kalian saat ini.} `
+` {e:070: Mencariku sama dengan sia-sia.`
+` Mencoba melarikan diri juga sia-sia.`
+` Mencoba menyangkalku pun sia-sia.`
+` —{f:5:Beatrice} Penyihir Emas.}`
+` "...P.S. `
+` Aku meminjam kedua mayat tersebut untuk upacara. `
+` Mereka akan dikembalikan kepadamu pada waktunya, jadi mohon maafkan aku. `
+` ...Selain itu, kunci-kunci ini milikmu, jadi aku mengembalikannya kepadamu sekarang.." `
+` Saat Rosa membacanya dengan lantang, isi amplop tersebut tergeletak terbuka di telapak tangannya. `
+` Itu adalah dua master key. `
+` Master key yang ditemukan Nanjo di saku Jessica, yang semula milik Kanon, dan master key Kumasawa. `
+` "Apa-apaan itu...?! `
+` Jadi begitu maksudmu ya...? `
+` Sialan, lagi-lagi kau! `
+` Kau memaksaku mencurigai para pelayan yang memiliki kunci?!" `
+` "Aku tidak akan menyebutnya dengan warna merah, oke...? `
+` AKu tidak akan membantah adanya kemungkinan setelah mereka mengunci pintu dan kelua, seseorang bersembunyi di dalam ruangan, oke...? `
+` *terkekeh-kekeh*!" `
+` "...Jika mereka bersembunyi di bawah kasur, mereka masih memungkinkan untuk membawa mayat ke suatu tempat. `
+` Tetapi mereka tidak akan bisa mengunci pintu! `
+` Master key yang mereka susah payah dapatkan itu ditinggal tepat di sini! `
+` ...Itu benar, aku hampir lupa. `
+` Bagaimana dengan kunci khusus untuk ruangan ini?, "kunci ruang pelayan"?!" `
+` "Baiklah. `
+` {p:1:Kunci-kunci tersebut berada di kotak kunci di tengah ruang pelayan.}. `
+` DI sana ada beberapa kunci ruang pelayan, tetapi {p:1:semua itu berada di dalam kotak kunci}." `
+` "Yang berarti situasi ini sama persis seperti di kamar Jessica... `
+` Bukan berarti para pelayan akan membawa kunci yang tidak diperlukan saat mereka sudah memiliki master key. `
+` Aku terima bahwa semua kunci disimpan di kotak kunci..." `
+` "Aspek-aspek lainnya juga tetap tidak berubah. `
+` {p:1:Untuk masuk dan keluar ruangan mustahil dilakukan kecuali melalui pintu tunggal dan jendela tunggal}. `
+` Dan juga, tidak ada pintu tersembunyi atau metode yang tidak lazim untuk memasuki ruangan tersebut. `
+` Berbahagialah, tuan detektif. `
+` *terkekeh*!" `
+` " `
+` {p:1:Keduanya juga terkunci}. `
+` {p:1:Pintu dan jendela mustahil digunakan untuk masuk atau keluar dalam keadaan terkunci}. `
+` Jadi, mustahil untuk melepas dan membuat celah untuk memasukkan sesuatu melaluinya sementara kunci masih berfungsi. `
+` Dan tentu saja, {p:1:mustahil untuk membuka kunci pintu tanpa kunci pelayan atau master key}." `
+` "...Sungguh merepotkan harus membacakan semua ini setiap saat. `
+` Suatu saat nanti, aku harus memikirkan kalimat yang bisa menggabungkan semua ini dan menyingkatnya." `
+` "Tetapi kamu tidak bisa mengatakan kembali bahwa seseorang bersembunyi di ruangan ini! `
+` ...Namun, hanya dari itu saja tidak akan menggagalkan trik ruang tertutup... `
+` Aaah, sialan, sialan!! `
+` Percuma, percuma, ini semua percuma...!" `
+` "*terkekeh-kekeh*! `
+` Apa yang terjadi dengan 'memutarbalikkan papan catur' Wyang kau banggakan itu...? `
+` Ayolah, tunjukkan teori anehmu itu." `
+` "...Memutarbalikkan...papan catur. `
+` ......Apa yang akan kulakukan jika aku pelakunya? `
+` Aku membawa myat ke suatu tempat. `
+` ...Aku meninggalkan surat. `
+` ......Aku mengunci pintu dari dalam. `
+` ...Lalu aku hanya perlu meninggalkan uangan dengan suatu cara. `
+` ......Sialan, aoa itu memungkinkan?! `
+` Kau telah mengatakannya dengan merah bahwa kau tidak bisa keluar kecuali melalui pintu dan jendela...! `
+` .........Ah-" `
+` ...Pada saat itu, ...aku mengerti. `
+`Itu benar. `
+`...Pelakunya membawa keluar mayat, meninggalkan surat... `
+`...Dan dikarenakan mereka tidak bisa menggunakan "pintu rahasia", {i:mereka tidak akan isa melarikan diri}... `
+` ...Itu dia. `
+` Ini bukanlah pertanyaan, inilah jawabannya... `
+` "Beato, `
+` ...Sebelum aku memintamu mengulang Kembali ucapanmu, aku ingin memastikan {i:definisi dari into rahasia} yang kau gunakan." `
+` "Apa yang kau pikirkan? `
+` Baiklah, aku akan menjelaskannya. `
+` Pintu rahasia merujuk pada pintu masuk atau keluar yang tidak bisa dikenal oleh mereka yang tidak tahu. `
+` Tentu saja, bahkan anak-anak pun mengetahui itu." `
+` "...Dengan kata lain, jika kau tidak bisa keluar dengan itu,maka itu tidak termasuk pintu rahasia?" `
+` "Hoh. `
+` ......Jadi itu permainanmu." `
+` "Aku dipaksa berpikir untuk mengetahui cara agar pelaku mampu melarikan diri dari ruang tertutup. `
+` ...Rupanya itu salah. `
+` Sang pelaku tidak melarikan diri! `
+` Jadi, mereka memutuskan untuk bersembunyi sampai kami semua keluar!" `
+` Selama ruang tertutup kedua berlangsung, aku mencoba menerapkan teori ini kepada Kanon-kun. `
+` ...tetapi setelah mengetahui bahwa "Kanon-kun telah dibunuh" dalam merah, aku menyerah. `
+` Setelah itu, aku menyatakan bahwa orang ketiga mungkin masih ada di dalam ruangan, sebelum melarikan diri melalui pintu rahasia. `
+` Kemudian, untuk pertama kali, aku dihadapkan dengan kalimat merah yang mengatakan bahwa "tidak ada pintu rahasia". `
+` Sekarang kembali ke pembahasan awal yang aru aku pahami. `
+` Definisi dari "pintu rahasia", merujuk pada sesuatu yang memungkinkan untuk keluar masuk ruangan. `
+` ...Dengan kata lain, kategori tersebut tidak mencakup hal-hal yang pada kenyataannya tidak benar-benar berfungsi sebagai akses masuk atau keluar ruangan, meskipun hal-hal itu tidak akan pernah dapat dikenali oleh orang-orang yang sebelumnya tidak mengetahui keberadaannya. `
+` Jadi, jika kita memiliki sesuatu semacam "rak tersembunyi" atau "lemari rahasia", sebagai contoh, itu tidak termasuk ke dalam "pintu rahasia"! `
+` Itu berarti, orang ketiga dari kamar Jessica bersembunyi di sana, menunggu kami semua keluar! `
+` Heh, sungguh menyedihkan, itu hanyalah permainan kata-kata! `
+` Sepertinya teknik tersebut cukup untuk mengatasi bahkan ruang tertutup ketiga. `
+` Jika ada rak tersembunyi di Bawah Kasur atau semacamnya, itu sudah cukup. `
+` Sang pelaku bersembunyi i suatu tempat, menunggu kami semua keluar. `
+` ......Sang pelaku pun masih terjebak di dalam ruangan hingga sekarang!! `
+` Yang berarti...pada saat ini! `
+` Sang pelaku masih bersembunyi di ruang pelayan, sambio menahan napas...!!! `
+` Itu berarti......sial... `
+` Meskipun kita tersiksa oleh ruang tertutup sebanyak tiga kali, `
+` ...pada saat ini, kita berhasil memojokkan pelakunya!! `
+` "Akhirnya aku bisa mengerti. `
+` ...Terimalah ini, Beato!! `
+` Ulangi ini! `
+` "Tidak ada seorang pun di ruangan ini selain kami"! `
+` 'Kami' yang dimaksud adalah, aku, George-aniki, Maria, Bibi Rosa, Genji-san, Gohda-san, dan Shannon-chan, kau paham?! `
+` Bagaimana menurutmu?!! kau tidak bisa mengatakannya, kan?!" `
+` "......Hoh... `
+` ......hoh...!" `
+` "Aku yakin itu tepat sasaran!! `
+` Jika kau menolaknya, katakanlah sialan!! `
+` Terima yang satu ini!! `
+` Ulangi ucaanku!!" `
+` Aku tidak tahu bagaimana mereka bersembunyi di dalam ruangan. `
+` Namun jika mereka bersembunyi, maka ini telah menjawan trik ruang tertutup kedua, kamar Jessica, disaat yang bersamaan!! `
+` Akhirnya aku berhasil mengejarnya! `
+` Dengan ini, Aku bisa menjelaskan semuanya! `
+` Penyihir itu tidak ada, dan aku tidak perlu menuduh siapapun lagi!! `
+` Baiklah, mulai saat ini, aku akan membalikan keadaan! `
+` Sekarang, aku harus membuatnya mengulang kalimat ini- `
+` " `
+` {p:1:Tidak ada satupun orang di ruangan ini selain kelompokmu}. `
+` {p:1:"Kelompok" yang dimaksud yaitu Battler, George, Maria, Rosa, Genji, Gohda, dan Shannon}." `
+` "...Apa......" `
+` "Mari kita kembali ke permasalahan di kamar Jessica. `
+` {p:1:Pada saat mayat Jessica ditemukan, `
+` hanya ada Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, dan Nanjo yang ada di dalam kamar Jessica}." `
+` Ups, mayat dari {p:1:Jessica juga termasuk}. `
+` {p:1:Oleh karena itu, kedua kasus baik di kamar Jessica maupun ruang pelayan, tidak ada manusia yang tidak kau sadari}. `
+` {p:1:Tidak ada satupun yang bersembunyi}." `
+` "Aku akan mengatakannya lagi. `
+` {p:1:Tidak ada metode yamng membuat pintu dapat dikunci dari luar tanpa menggunakan kunci}. `
+` {p:1:Mengenai jendela, tidak ada metode yamng membuat mereka dapat mengunci jendela dari luar}." `
+` "Dan izinkan aku mengatakan ini. `
+` {p:1:Kau tidak kompeten}!" `
+` "*terkekeh-kekeh*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!" `
+` "...B-bodohnyaaaa... `
+` Jadi, ......ini benar-benar...rang tertutup......? `
+` Padahal aku sudah menemkan jalan keluranya. `
+` Jika kau bersembunyi, ...maka itu dapat menjelaskan semuanhya. `
+` Padahal aku baru saja berpikir berhasil menyelesaikan trikmu, ......sial..." `
+` "......N-Nnngyaaaaaaaaaaaaahhhhhhhhhh!!" `
+` Percuma percuma percuma percuma!! `
+` Untuk sesaat, aku pikir aku berhasil menyelesaikannya! `
+` Ini semua sia-sia!! `
+` Sialan, `
+` aku sangat yakin bahwa aku berhasil memecahkannya, `
+` bahwa aku telah melihat bagaimana dia mengalihkan perhatianku dengan permainan kata-kata cerdasnya dengan kalimat merah dan menipuku. `
+` ......Tepat saat aku berpikir bahwa aku melihat secercah cahaya di kegelapan, `
+` ......itu langsung menghilang... `
+` langsung lenyap... `
+` ditelan habis...... `
+` oleh lautan darah merah......! `
+` Merah, `
+` ... `
+` ... `
+` merah `
+` merah `
+` merah `
+` merah!! `
+` Tidak ada satupun yang bersembunyi! `
+` Tidak ada pintu rahasia, dan tidak ada jalan untuk keluar pada saat pintu atau jendelanya terkunci!! `
+` Aapa kau baru saja membuktikan bahwa semua itu mustahil?! `
+` Apakah Bukti Iblis... `
+` telah terpenuhi... `
+` dengan serangan frontal?! `
+` Mustahil, `
+` ...itu mustahil!! `
+` "Ada apa, Ushiromiya Battleer? `
+` Bukankah kausangat percaya iri dengan kemampuanmu dalam menyangkal penyihir? `
+` Mengapa kau merendahkan diri dan menangis pilu di tempat seperti itu?" `
+` "Ya, sungguh taktik yang cemerlang. `
+` Betapa cerdasnya kau membuatku jatuh dan tenggelam di lautan air mata dari tawaku sendiri. `
+` Bukankah {i:itu} yang kau coba lakukan, bukan? `
+` Kau membuatku tertawa terus-menerus hingga mati, bukan? `
+` U `
+` shiro `
+` miya `
+` Batt `
+` le `
+` e `
+` er `
+` ???" `
+` "Kau sebut itu sihir?! Aku akan memuktikan bahwa penyihir itu tidak ada!! `
+` Aku tidak akan mempercayaimu!! `
+` Kau menggunakan sihir... `
+` mengejek dan membunuh semua orang hanya untuk kesenangan? `
+` ...Aku tidak akan menerima ituuuuu!!" `
+` "Hei, Battler? `
+` Maaf sudah mempermainkanmu. `
+` Aku akan "memutarbalikkan papan catur" dari sisiku. `
+` Aku akan menggantikan posisimu dan menunjukkan padamu langkah terbaik yang bisa kau ambil. `
+` Kau ingin mendengarnyaaaaa??" `
+` "Jangan mempermainkanku, aku tidak ingin mendengarnya!!" `
+` "Mempertimbangkan kamar Jessica. `
+` Kau sudah memulainya dengan baik, bukan...? `
+` Semua hal tentang bersembunyi dan menunggu orang lain pergi. `
+` Itu sungguh pengamatan yang bagus." `
+` "...namun, kenapa kau hanya berpikir bahwa hanya aku dan Kanon yang merupakan orang ke-19...? `
+` Aku paham, jadi, bagian “sembunyi” dari proses menyembunyikan dan menunggu, yang mencegahmu untuk berpikir lebih jauh." `
+` "...Ayolah, kau paham maksudkut, bukan? `
+` Itu adalah Jessica. `
+ `Jeeeessicaaaaaa!!" `
+` Jika Jessica pelakunya, ...lelucon seperti ini bisa dengan mudah terselesikan!! `
+` Dia membunuh Kanon-kun dan membawanya ke suatu tempat! `
+` Lalu, dia berpura-pura mati dan membiarkan kalian melewatinya! `
+` Tetapi itu konyol!! `
+` Dokter Nanjo sudah mengonfirmasi bahwa dia telah mati! `
+` Apa itu berarti bahwa Dokter Nanjo merupakan rekannya?! `
+` Itu salah!! `
+` Aju juga telah memastikan kematian Jessica! `
+` Memang benar, aku belum pernah memeriksa mayat sebelumnya, tapi dia benar-benar mati! `
+` Aku rasa dia sudah mati!! `
+` Tidak, itu pasti sesuatu yang aku pikirkan, tapi tunggu sebentar... `
+` ...dia sudah mati!! `
+` Dia sudah mati!!! `
+` "Jessica terlibat dalam hal itu. `
+` Dan Nanjo, yang memeriksa mayatnya, juga ikut terlibat. `
+` *terkekeh-kekeh*!! `
+` Dan itu membuat ruang tertutup ketiga terdengar konyol, bukan?" `
+` Ya, itu sangat sederhana. `
+` Dokter Nanjo memang terlibat, dengan kata lain, dia berada di pihak sang pelaku, ...yang berarti...yang berarti... `
+` dari awal ia tidak pernah mati?! `
+` Kita berpikir bahwa tubuhnya menghilang setelah ia dibunuh, tapi bagaimana jika dari awal ia tidak pernah masuk ke dalam ruang pelayan?! `
+` Jadi, jika Kumasawa baa-chan menghilang bersamanya, apa itu berarti dia juga ikut terlibat?! `
+` ...Tidak, bukan begitu! `
+` Para pelayan yang setuju merahasiakannya, Genji-san dan Gohda-san, bahkan Shannon-chan, mereka juga ikut terlbat! `
+` Lalu, orang yang mengambil kunci dari tas Maria adalah Jessica... `
+` tiak, itu pasti George-aniki! `
+` Lagipula, jika Shannon-chan berada di pihak sang pelaku, itu akan membuat George-aniki berada di pihak yang sama!! `
+` Tunggu, tunggu sebentar, mereka serigala... `
+` Mereka semua serigala!! `
+` Bukan hanya aku yang tenggelam di dalam lautan darah, `
+` ada gerombolan serigala yang berisik di tepi sungai, yang tatapannya mengatakan padaku ahwa mereka akan memakanku jika berusaha merangkak keluar!! `
+` Bagaimana sebaiknhya ku mati?! `
+` Apakah aku harus membantah semuanya dan tenggelam di autan merah?! `
+` Atau haruskah aku mengetahui kenyataan dan seluruh tubuhku akan dicabik-cabik oleh para serigala?! `
+` Ini antara neraka yang sau dengan yang lainnya!! `
+` Aku tidak bisa memilihnya! `
+` Gaaaaaaaaaaaaaaaaaaaaahhhhh!!! `
+` "Itulah mengapa aku ada di sini...!! `
+` {p:1:Datanglah, Ushiromiya Battler, bersujudlah}. `
+` Bersumpahlan untuk setia padaku dan jilat sepatuku...!! `
+` "{p:1:Jika kau menerimaku, seluruh teka-teki akan terselesaikan}. `
+` {p:1:Drengan kekuataku, segala jenis uang tertutup dapat dihancurkan}!!" `
+` "Battler, tidakkah kau ingin menyerahkan dirimu pada seseorang yang berkuasaa?? `
+` {p:1:aku akan menjadikanmu sebagai pion favoritku}. `
+` {p:1:Aku akan sangat encintaimuh dan membuatmu sebagai mainanku hingga au berubah menjadi abu}..." `
+` "{p:1:*terkekeh-kekeh*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!" `
+` ".........Sekarang, semuanya sudah jelas. `
+` Tidak ada lagi alsan untuk ragu." `
+` "Huh...? `
+` ...Apa yang kau katakan...?" `
+` "Kau selalu mengatakan bahwa mereka berdua telah mati, tetapi mereka tidak ada di sini. `
+` ...Dan sekarang kita mendapatkan surat dari {f:5:Beatrice}, di mana ia cukup baik untuk menyatakan bahwa ialah yang membawa pergi mayatnya." `
+` "...Semudah itu. `
+` Aku sudah muak dengan lelucon ini!!" `
+` Seperti yang Bibi Rosa katakan, dia menatap kami semua dengan ekspresi marah. `
+` 'A- `
+` Apa... `
+` Maksud anda lelucon...?!" `
+` "Aku sudah mengatakannya di kamar Jessica-chan. `
+`...Kau tidak bisa mempercayai siapapun selain dirimu sendiri dan mereka yang mayatnya telah ditemukan. `
+` Dan semenjak kita tidak dapat menemukan edua mayat tersebut, kita belum bisa mengonfirmasi bahwa mereka telah dibunuh." `
+` "...T-tolong tunggu sebentar, Bibi Rosa. `
+` Apa maksudmu...?!" `
+` "Dokter Nanjo dan Kumasawa-san tidak mati, mereka masih hidup! `
+` Kita dibuat percaya bahwa mereka telah dibunuh, tetapi mereka asti bersemmbunyi di suau tempat di mansion ini. `
+` Semua tu agar mereka dapat menyerang kita!!" `
+` "Bagaimana kau bisa tahu?! `
+` Apa kau curiga bahwa Gohda-san dan yang lainnya berbohong?!" `
+` "...Rosa-sama!! `
+` Atas nama Gohda...tidak, seluruh pelayan keluarga Ushiromiya! `
+` Kami semua bersumpah bahwa hal semacam itu tidak pernah terjadi!!" `
+` "Kalian semua mengatakan bahwa mereka berdua telah dibunuh. `
+` Tetapi dikarenakan tidak adanya mayat, kami tidak harus mempercayainya. `
+` Ada kemungkinan kalian semua bekerja sama untuk mengarang cerita sebelumnya!!" `
+` "Ada cara yang lebih bagus untuk membuktikan ketidakbersalahan kalian, bukan? `
+` Temukan tubuh Dokter Nanjo dan Kumasawa-san!!" `
+` "Jika kau bisa menemukannya, maka aku akan mendengarkan ceritamu. `
+` Sampai kalian melakukannya, aku akan menganggap kalian semua sebagai serigala!!" `
+` "Kau! `
+` Dan kauu!! `
+` Aku yakin kalian semua telah disewa oleh penyihir itu, dibutakan oleh emas!! `
+` Apakah kalian sebegitunya menginginkan uang?! `
+` Bukankah itu benar?! `
+` Kalian ingin hidup tenang seumur hidup?! `
+` Apa nilai yang mungkin dimiliki oleh kehidupan seperti itu?!!" `
+` "Rosa-sama...!! `
+` Kami...tidak mungkin!" `
+` "Diamlah! `
+` Lalu Shannon, jangan mendekat!! `
+` Untuk berpikir bahwa kau akan membalas hutang budi selama sepuluh tahun dengan pengkhianatan!! `
+` Aku akan menarik pelatuk ini tanpa belas kasihan!!" `
+` "Bagaimana...... `
+` ......bagaimana bisa anda...? `
+` ...ini... `
+` terlalu kejam..." `
+` "...B-bibi Rosa!! `
+` Itu keterlaluan!! `
+` Pembunuhan sedang terjadi di ruangan ini! `
+` Lalu pelakunya membawa pergi mayat tersebut! `
+` Apa yang mereka lakukan hanyalah melaporkan apa yang mereka lihat!!" `
+` "......Aaah, aaaaaaaaaaaaaahhhhhhh!!!" `
+` Shannon had finally broken down in tears... `
+` Dia mengorbankan 10 tahunnya pada keluarga Ushiromiya. `
+` Dia mengorbankan 10 tahun Waktu paling berharga dalam hidupnya. `
+` ......Dia percaya ahwa ia telah membangun hubungan yang aik dengan Rosa. `
+` ...Dan ini balasan yang ia dapatkan!! `
+` Kau bisa membunuh seseorang menggunakan pisau... `
+` Aku tidak peru menjadi seperti George-aniki... `
+` untuk menyadari bahwat Shannon-chan merasa ditusuk di dalam hatinya, membuatnya terlihat menangis darah... `
+` "Shannon-san, berdirilah... `
+` ...Rosa-sama, memang benar saya, Gohda, belum bekerja selama bertahun-tahun, dan aku mengerti bahwa aku belum mendapatkan kepercayaanmu..." `
+` "...Bagaimanapun...bisakah anda untuk setidaknya percaya pada Shannon-san...?! `
+` Dia telah mengorbankan selama 10 tahun bekerja pada keluarga Ushiromiya...! `
+` Saya tidak meminta anda mempercayai saya...! `
+` Namun stidaknya, bisakah anada percaya pada Shannon-san...?!!" `
+` ...Tetapi...bahkan aku sudah tidak mengerti lagi!! `
+` Aku tidak pahamd!! `
+` Kita tidak bisa menemukan jawbannya tanpa mencurigai mrerka!!! `
+` Ya, sedikit demi sedikit, aku mulai mengerti... `
+` ...Ini {i:karena} kita terus-menerus mencari jawaban, ...yang membuat semua ini menjadi salah... `
+` Kita tidak memerlukan...jawaban. `
+` Semua ini...pembunuhan yang aneh, dilakukan dengan sihir yang gila oleh orang ke-19, penyihir {f:5:Beatrice}, sesuai dengan upacara yang menyeramkan. `
+` ......Bukankah itu...cukup......? `
+` Aku tidak ingin...mencurigai...sipapun lagi...... `
+` Shannon-chan dan Gohda-san mencoba membuktikan ketidakbersalahanyya, dengan setengah menangis. `
+` Dengan cepat Genji-san menghentikannya. `
+` "......Cukup. `
+` ...Apa yang dikatakan Rosa-sama cukup masuk akal. `
+` ...Sampai kami menemukan mayatnya, `
+` {i:kami tidak bisa membuktikan ketidakbersalahan Dokter Nanjo dan Kumasawa}." `
+` Itu benar. `
+` ...Berdasarkan argumen Rosa-san, jika mereka menemukan mayatnya, maka mereka terbukti tidak bersalah. `
+` Tapi itu hanya berlaku untuk para mayat. `
+` Bahkan jika para penyintas mencari ke keseluruhan mansion dan menemukan mayat-mayat itu, pada akhirnya, ketidakbersalahan mereka sendiri tidak akan pernah terbukti. `
+` “Mereka menculik Dokter Nanjo dan Kumasawa-san, membunuh mereka di tempat lain, dan mengunci ruangan tertutup dengan master key mereka sendiri.” `
+` kecuali ruangan tertutup itu bisa dibobol dengan metode lain selain itu, `
+` ...tidak mungkin membuktikan ketidakbersalahan mereka... `
+` ...Tetapi......itu tidak mungkin dilakukan!! `
+` Mereka hanya punya satu kesempatan untuk membuktikan ketidakbersalahan mereka. `
+` ...Hal itu hanya bisa terjadi jika mereka bertemu dengan pelaku, menjadi mayat, dan kemudian bersatu kembali dengan Bibi Rosa. `
+` Bukankah itu aneh?!! `
+` Mereka tidak bersalah jika mereka mati, tapi bersalah selama mereka hidup, sama seperti persidangan penyihir! `
+` ...Oh, benar, musuhnya adalah penyihir. `
+` Jadi semua sudah jelas, bukan...? `
+` "...Rosa-sama, `
+` kami furnitur siap melayani keluarga Ushiromiya. `
+` ...Baik anda percaya atau tidak, itu bukan urusan kami. `
+` Terlepas dari penilaian apa pun yang anda berikan, kami akan terus melayani hingga akhir hayat." `
+` "Kau sangat layak sebagai seorang pelayan. `
+` ...Aku sangat mengerti alas an Ayah sangat mempercayaimu. `
+` Sangat mengharukan bahwa aku harus mencurigaimu." `
+` "............" `
+` Genji-san memasukan tangan ke dalam sakunya dan mengambil master key. `
+` ...Kemudian, ia meletakkannya di atas meja yang ada di dekatnya. `
+` "...Saya yakin hal ini diberikan kepada saya sebagai tanda kepercayaan. `
+` Jika kepercayaan itu telah hilang, saya pikir wajar saja jika saya mengembalikannya." `
+` "......... `
+` ...Keputusan yang bijak. `
+` Master key ini merupakan alasan utama kalian dicurigai selama ini. `
+` Mungkin terdengar sederhana bahwa melepaskan hal-hal tersebut dapat menghilangkan kecurigaan itu, `
+` tetapi aku tidak berpikir itu hal yang buruk." `
+` "......Kalian berdua." `
+` Genji-san menatap Gohda-san dan Shannon-chan. `
+` ...Mereka berdua mengangguk dan meletakkan master key mereka di atas meja. `
+` Bibi Rosa meletakkan dua master key yang keluar dari amplop. `
+` Dengan ini, kelima master key telah terkumpul di tempat ini. `
+` Dengan kata lain, ini adalah bukti bahwa semua pelayanan para pelayan hingga hari ini telah dibatalkan, `
+` bahkan kehormatan terakhir yang seharusnya mereka dapatkan pun telah dirampas dari mereka... `
+` "Maria, serahkan tasmu." `
+` "...Uu-! `
+` Berikan!!" `
+` Bibi Rosa mengambil paksa tas Maria, memasukkan maser key ke dalamnya, dan ia menunjukkannya salah satunya agar semua orang dapat melihatnya. `
+` Dia menunjukkan kepada kami bahwa ia memiliki seluruh master key. `
+` "...A-Apa kau puas, Bibi Rosa? `
+` ...Sekarang kau memiliki semua master key. `
+` ...Apakah itu tidak memuaskanmu?!!" `
+` "Ya, aku puas. `
+` Bahkan jika aku tidak mempercayai semua orang, setidaknya aku mempercayai diriku sendiri!" `
+` "Aku memiliki senapan dan master key untuk diriku sendiri! `
+` Sekarang, aku tidak perlu mencurigai siapapun. `
+` Bukankah kalian senang? `
+` Mulai sekarang kalian tidak perlu dicurigai lagi! `
+` Ahahahahahahahahaha, hahahahahahahah!" `
+` "......Kiihihihihi." `
+` Pada saat itu, Maria, yang seolah-olah hanya dia yang menonton pertunjukan itu, mencibir pada ibunya. `
+` ...Bibi Rosa terkejut mendengar tawa tersebut dan berbalik. `
+` "...Kunci tersebut sama sekali tidak berguna di sini. `
+` ...{f:5:Beatrice} dapat membuka pintu dengan sihirnya. `
+` Dia tidak memerlukan kunci. `
+` ...Tidak peduli siapapun yang memiliki kunci tersebut. `
+` Kihihihihihihihihihihihihihi...!" `
+` "Bukanah sudah ku katakan untuk berhenti tertawa seperti itu?!! `
+` ...? `
+` Ada apa, Battler-kun?" `
+` ...Aku memotong pembicaraan mereka berdua. `
+` ...Tidak, bukkan hanya itu. `
+` ...Aku sedang berlutut...dan memeluk kepala Maria. `
+` ...Aku...menangis. `
+` "Cukup...hentikan, Bibi Rosa... `
+` ...Maria...benar..." `
+` "...A-Apa yang kau bicarakan...?" `
+` "......Maria, `
+` Maafkan aku... `
+` ...karena meragukanmu. `
+` ...Maafkan aku... `
+` ...karena tidak mempercayaimu." `
+` "......Battler." `
+` "Ini semua... `
+` ulah sang penyihir... `
+`...Penyihir yang... `
+` melakukannya... `
+` ...Segala jenis trik dan ruang tertutup... `
+` ......Itu hanyalah, hanya... `
+` ...berarti bahwa {f:5:Beatrice} itu benar-benar ada, `
+` ......dan ia memang seorang penyihir... `
+` ...Gara-gara aku yang tidak mempercayainya, `
+` ......ini sangat menyakitann... `
+` ...dan menyedihkan......" `
+` "......Kau...percaya pada {f:5:Beatrice}...?" `
+` "Ya...! `
+` Aku percaya. `
+` ...{f:5:Beatrice} itu "ada". `
+` Dan dia adalah penyihir, yang menggunakan sihir aneh...!" `
+` "Battler..." `
+` Maria melepaskan tanganku, ...lalu kemudian dia yang memegang kepalaku. `
+` "...Itu cukup, Battler. `
+` ......{f:5:Beatrice} itu "ada". `
+` ...Kamu kesulitan untuk mempercayainya, jadi kamu tidak bisa melihatnya. `
+` ......Penyihir itu "ada". `
+` Mereka "ada". `
+` Dan akan "datang" suatu saat nanti." `
+` "......Kamu pecaya pada Beato, jadi kamu akan diundang ke Tanah Emas. `
+` ...Secepatnya. `
+` ...Itu akan terjadi secepatnya. `
+` Jadi tidak ada yang perlu dikhawatirkan lagi. `
+` ......Tidak ada yang perlu ditakutkan, oke? `
+` Tetaplah bersamaku, saling berpegangan tangan, ... oke...? `
+` Mari kita pikirkan teka-teki epitaph ini bersama-sama. `
+` Mari kita pikirkan teka-teki Beato. `
+` ......Beato telah mengatakannya dari awal. `
+` Dia tidak mengatakan apapun selain "mari bermain dan menyeleaikan teka-teki"." `
+` "Benar, ...dia melakukannya... `
+` Mencari pelaku hanyalah buang-bang waktu... `
+` ......Jka saja kita... `
+` ...mempercayai...... `
+` ...sang penyihir......" `
+` Setelah Maria mengusap pipiku dengan lembut saat air mataku terus menetes, `
+` ...ia mencium keningku, selembut bulu. `
+` Untuk sejenak, ...senyum Maria, yang dulu terasa menakutkan,  kini tampak seperti senyum seorang malaikat... `
+` "Kami telah mengembalikan master key, ...tetapi kesetiaan kami kepada keluarga Ushiromiya tidak akan berubah. `
+` ......Mulai sekarang, kami tidak akan masuk ke ruang tamu tanpa izin. `
+` Rosa-sama, tolong kunci ruang tamu dari dalam." `
+` "...Kau sungguh sangat bisa diandalkan. `
+` Ketika topan berlalu, ...jika suara burung camar kembali ke pulau ini lagi, `
+` ......aku bertanya-tanya apakah kita bisa saling mempercayai lagi." `
+` “...Jika anda bersedia memberikan kepercayaan anda kembali pada kami, tak ada kebahagiaan yang lebih besar dari itu.” `
+` "aku paham. `
+` ...Kita pasti bisa saling memercayai satu sama lain. `
+` ...Saat burung dara menangis." `
+` "......Alangkah baiknya kita meninggalkan ruangan ini sampai polisi tiba. `
+` Rosa-sama, jika berkenan tolong kunci ruangan ini. `
+` ...Kami akan Kembali ke dapur. `
+` Jika anda membutuhkan sesuatu, tolong perintahkan kami kapanpun." `
+` "Terima kasih. `
+` ......Jika kau serigala, `
+` betapa beraninya kau berbicara. `
+` ...Dan jika kamu domba, `
+` ......maka aku menyesal telah melemparkanmu ke dalam kandang serigala." `
+` "...Furnitur mempercayakan nasibnya kepada keluarga besar. `
+` ...Jika saya bisa mendapatkan kembali kepercayaan anda dengan mengorbankan hidup saya ini, `
+` saya akan menganggapnya sebagai kehormatan besar." `
+` "............ `
+` Saya harap kalian semua dapat tetap aman hingga badai berlalu, jika hal itu memungkinkan. `
+` Ini semua adalah simfoni angin kencang dan hujan deras yang dipersembahkan oleh badai. `
+` ...Ketika pertunjukan berakhir...dan tirai tertutup, `
+` ...kita pasti dapat berpegangan tangan lagi." `
+` "...Disaat burung dara...menangis." `
+` Bibi Rosa mengangguk `
+` Genji-san membalikkan badannyas. `
+` Ia meninggalkan ruang pelayan. `
+` Wajah Gohda-san masih menyisakan air mata, `
+` ...tetapi mungkin dia menahan perasaannya selama mendengarkan perkataan Genji-san. `
+` ...Wajahnya sangat memalukan, `
+` ...tetapi itu kembali ke wajah Gohda-san yang kita kenal. `
+` "......Saya juga akan menunggu di dapur. `
+` ...Jika anda butuh sesuatu, tolong hubungi saya kapanpun. `
+` ......Jika anda menginginkan makanan hangat, saya, Gohda, akan menyiapkan yang terbaik untuk anda." `
+` "......Terima kasih. `
+` Aku tidak sabar menunggu sarapan buatanmu besok. `
+` ...Dan kapalnya mungkin akan dating di tengah hari besok. `
+` ...Terima kasih atas selama ini. `
+` Masakanmu adalah satu-satunya kesenangan bagiku di Rokkenjima.." `
+` "...Dapat dimengerti. `
+` Saya, Gohda, akan menyiapkan sarapan yang terbaik. `
+` Silakan tunggu sampai besok pagi." `
+` "Terima kasih. `
+` ......Dan Shannon-chan. `
+` Besok pagi, ...mari berbaikan dan meminum kopi bersama." `
+` "............" `
+` "...? `
+` George-kun?" `
+` "...Aku...akan ikut bersama mereka." `
+` "...Tidak apa-apa, George-sama... `
+` Tolong, kembalilah ke ruang tamu. `
+` Sudah tidak ada lagi master key. `
+` Jadi, jika kau bersama Rosa-sama di ruang tamu, kau tidak akan terancam oleh siapapun." `
+` "Kau benar. `
+` ...Begitulah keadaan yang seharusnya terselesaikan, bukan? `
+` ...Secara objektif, menurutku akan paling aman tinggal bersamaku di ruang tamu." `
+` "...Tapi aku tidak akan memaksamu untuk tinggal bersama kami. `
+` George-kun, kamu boleh tinggal di mana pun yang menurutmu aman. `
+` ......Kamu sudah dewasa. `
+` Kau bebas memilih tempat dan dengan siapa kau menghabiskan waktu hingga besok pagi." `
+` "......Ya. `
+` Aku akan memutuskan... `
+` dengan siapa aku akan mengahbiskan malam ini." `
+` "...A-Aniki..." `
+` "Battler-kun, tetaplah Bersama Bibi Rosa di ruang tamu. `
+` Aku yakin kau akan lebih aman di sini. `
+` ...Seluruh tempat di luar ruang tamu, semuanya berbahaya dibandingkan dengan di dalam. `
+` ...Jadi, aku tidak bisa meninggalkannya sendirian di tempat seperti itu." `
+` "...Bukan berarti...aku mencurigai Shannon-chan dan pelayan lainnya `
+` ...atau orang lain... `
+` Aku tidak ingin mencurigai siapapun lagi... `
+` Warisan? `
+` Emas? `
+` ...Semuanya tidak berarti... `
+` ...Tidak mungkin orang rela membunuh satu sama lain hanya demi itu..." `
+` "Ya. `
+` Aku tahu lebih dari siapapun betapa murninya hatimu, Battler-kun. `
+` ...Tidak ada satupun yang menyalahkanmu. `
+` Tidak ada." `
+` ".........Anikiii..." `
+` "...Itu benar. `
+` Aku akan melindungimu, Battler. `
+` ...Jika kau bersamaku, bahkan {f:5:Beatrice} pun tidak akan melayangkan tangannya padamu. `
+` Aku mungkin kecil, tetapi aku teteap seorang penyihir." `
+` "Ya. `
+` ......Maria-chan, `
+` Tolong titip Battler. `
+` ......Baiklah, Shannon. `
+` Mari kita pergi." `
+` "Ya... `
+`...Rosa-sama, jika anda berkenan. `
+` Jika anda memiliki permintaan, tolong panggil saya kapanpun." `
+` "......Maafkan aku karena telah mengatakan hal yang jahat. `
+` ......Aku tidak berharap kau memaafkanku hingga besok pagi. `
+` Namun saat pagi datang, izinkan aku meminta maaf kembali." `
+` Ya... `
+` ......Terima kasih banyak." `
+` George-aniki dan Shannon-chan meninggalkan ruang pelayan bersama. `
+` ......Sekarang, hanya ada Maria, Bibi Rosa dan aku yang meninggaalkan ruangan menjijikan dan penuh darah ini. `
+` Sampai Genji-san menghilang, sampai Gohda-san menghilang, sampai George-aniki dan Shannon-chan menghilang, kami berdiri di sini, terkejut... `
+` Setelah kehadiran dan jejak langkah mereka benar-benar menghilang, Bibi Rosa tertawa kecil, seolah-olah baru saja teringat sesuatu yang menyenangkan. `
+` "......Kau tidak bisa mempercayainya untuk sementara. `
+` Furnitur sialan." `
+` Kalimat itu... `
+` membuatku muak. `
+` "...Ke... `
+` Kenapa kau... `
+` ...mengatakan... `
+`...hal seperti itu...?" `
+` "Hanya ada 5 master key? `
+` Siapa yang akan mempercayai itu? `
+` Sudah jelas ada semacam kunci duplikat. `
+` ...Seolah-olah kita bisa mempercayai mereka hanya karena mereka mengeluarkan kunci dari saku mereka....!!" `
+` "Kau tidak bermaksud jahat, bukan...? `
+` D-Dengan meletakkan kunci-kunci itu, ...mereka tidak hanya melepaskannya... `
+` ...Kau...telah membuat semua kerja keras mereka sia-sia, menghina, menginjak-injak, `
+` ......dan pada akhirnya, kamu membuat mereka menyerahkan kunci-kunci itu... `
+` Apa arti dari kalimat perpisahan itu...? `
+` Mereka telah menunjukkan bahwa mereka bersedia melangkah sejauh ini, dan kau masih tidak bisa mempercayai mereka?! `
+` Ini kejam, ...terlalu kejam...!" `
+` "Itu adalah bukti sang iblis! `
+` Seluruh master key hanya ada 5?! `
+` Mustahil embuktikan hal semacam itu!! `
+` Kau bisa menunjukkan bahwa da 5 master key yang diletakkan di sana! `
+` Tetapi au tidak bisa membuktikan adanya lebih dari 5 master key!! `
+` Hanya iblis dan penyihir yang dapat membuktikan hal semacam itu, bukan?!" `
+` "Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaahh!!! `
+` Cukup hentikan, hentikan...!! `
+` Tolong, {f:5:Beatrice}, tunjukkan dirimu sekarang, `
+` dan katakana pada bibi Rosa dengan merah bahwa "hanya ada 5 master keys"!! `
+` Tolong, aku mohon, hal ini hanya bisa dibuktikan oleh iblis, oleh penyihir sepertimu! `
+` Tolong, Beato, tunjukkan dirimu dan katakan pada Bibi Rosa bahwa itu semua total keseluruhan master key, `
+` dan dengan begitu tidak perlu mencurigi siapapun lagi...!!!" `
+` " `
+` {p:1:Master key hanya ada 5}. `
+` {p:1:Master key hanya ada 5}." `
+` ...*terekeh* Bagaimana? `
+` Tidak peduli berapa banyak aku mengatakannya, itu tidak akan sampai di telinga Rosa. `
+` Lagipula, keliatannya masih ada orang yang menyangkal keberadaanku, bukan? `
+` Ushiromiya Battleeeeeeeer???" `
+` "Aku menerimanya!! `
+` Aku menerimanya, ka memang ada, benar-benar ada! `
+` Jadi aku mohon, tolong hntikan!! `
+` Cepat hentikan! Hentikan!! `
+` Aaaaaaaaaaaaaagggghhh!!" `
+` "Hanya dengan kata-kata tidak akan cukup, tunjukkan denan aksimu. `
+` Berjanjilah dari lubuk hatimu bahwa kau akan menjadi furniturku." `
+` "Bisakah kau melakukannya? `
+` Lepaskan bajum, telanjanglah, kemudian letakkan tanganmu di tanah samil merangkak. `
+` Pakaian adalah bukti kemanusiaan seseorang. `
+` Mulai sekarang, kau akan menjadi furniturku, jadi wajar jika kau akan kehilangan hal itu!!" `
+` "Lalu bersujudlah, buat lidahmu menjalar di sepatuku. `
+` Bisakah kau melakukannya? `
+` Kau bisa melakukannya, bukaaaaaan?? `
+` Saat kau melakukannya, aku akan muncul dan mengatakannya dalam merah! `
+` Aku akan mengatakan pada Rosa bahwa {p:1:hanya ada 5 master key}!!" `
+` "Oh, tentu saja, kau tidak akan pernah melepaskan kebanggaanmu yang sombong itu. `
+` Tapi kau sudah berbuat baik, kau sudah berbuat lebih dari cukup, dan kau mulai merasakan sensasi yang menggelikan itu, bukan? `
+` Untuk sejenak, kau mugkin berpikir bahwa menjilati sepatuku tidaklh seburuk itu, bukan? `
+` Lalu kaau langsung menyangkalnya dan merasa malu, bukaaaaaaaan?? `
+` Hanya dengan melihat ekspresimu serasa seperti di surga!!" `
+` "Wajahmu yang terlihat menyedihkan, terlihat bagus di dalam cermin, `
+` kau akan sadar betapa rendahnya dirimu, sambil telanjang dan menjilati sepatuku, kaaaaan? `
+` bisakah kau melihatnya, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???" `
