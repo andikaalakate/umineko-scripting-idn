@@ -1,6 +1,6 @@
 `"Ayah, ...Ibu...!! `
 `Siapa yang melakukan ini...?!! `
-`Waaaaaaaaaaaaaaaahhh...!!" `
+`Waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh...!!" `
 `Tangisan Jessica bergema di seluruh taman mawar... `
 `Mungkin itu adalah intuisi orang yang tinggal di pulau ini `
 `...Setelah memeriksa bagian taman mawar di mana Bibi Rosa dan Maria yang tergeletak dan tidak melakukan apa-apa, `
@@ -26,14 +26,14 @@
 `"..."...Saat ini, telah ditemukan mayat-mayat dengan kepala, dada, perut, lutut, dan kaki yang ditusuk." `
 `"Aaaaaaaaahh, sial, sial, sial!! `
 `Aku akan membunuh pembunuh itu, membunuhnya!! `
-`Uwaaaaaaaaaahhh...!!" `
+`UwaaAA{0}AAaa{0}aaHHH...!!" `
 `"...Dengan ini, senja kedelapan telah diselesaikan. `
 `...Apakah ini akan berlanjut ke senja kesembilan? `
 `...Penyihir akan hidup kembali, dan tak seorang pun akan hidup." `
 `"Ayo... `
 `...Kalau penyihir hidup kembali, `
 `...itu berarti pelakunya akan muncul ke panggung, kan?! `
-`Tak seorang pun akan hidup? Omong kosong... `
+`Tak seorang pun akan hidup? Omong {i:kosong}... `
 `...Aku akan membunuhnya...! `
 `Aku pasti akan membunuh pelaku yang membunuh Ayah dan Ibu dengan tanganku sendiri...!!" `
 `Jessica membiarkan emosinya meluap dipenuhi amarah. `
@@ -75,19 +75,19 @@
 `Dengan kata-kataku, Jessica akhirnya tampak merasa bahwa kami memahami emosinya. `
 `Ia masih menunjukkan ekspresi kelam itu, tapi aku merasa kewarasan Jessica telah kembali. `
 `Kami pun berangkat. `
-`Mengejar Bibi Eva. `
+`{n}Mengejar Bibi Eva. `
 `Melewati taman mawar, `
 `menaiki tangga batu, `
 `berlari secepat mungkin menuju mansion, ...yang bayangannya besar dan mengintimidasi saat tersambar kilat. `
 `...Dengan ini, pembunuhan epitaf telah mencapai senja kedelapan. `
-`Dan kemudian, pada senja kesembilan, penyihir akan hidup kembali. `
-`...Tak seorang pun akan hidup. `
+`{n}Dan kemudian, pada senja kesembilan, penyihir akan hidup kembali. `
+`{n}...Tak seorang pun akan hidup. `
 `Kemungkinan besar aku akan kehilangan nyawaku. `
 `...Namun setidaknya, aku ingin membakar kebenaran itu ke dalam mataku. `
 `Itu satu-satunya hal yang mendorongku untuk terus bergerak sekarang. `
 `Kami berhasil menyusul Bibi Eva, yang sedang kesulitan dengan kunci pintu depan. `
 `Tampaknya seluruh darah telah naik ke kepala Bibi Eva. `
-`Itu mungkin membuat jari-jarinya menjadi kaku.. `
+`{n}Itu mungkin membuat jari-jarinya menjadi kaku.. `
 `Kelihatannya dia tidak bisa melakukan tugas sederhana seperti memasukkan kunci ke lubang kunci. `
 `...Lalu, terdengar suara samar. `
 `Suara pintu yang terbuka. `
@@ -184,7 +184,7 @@
 `Pagi tadi, di balik setiap pintu yang digambar lingkaran sihir...terdapat mayat korban. `
 `...Jadi, jika ada suatu hal yang baru ditambahkan ke pintu ini, apakah itu berarti sesuatu yang baru {i:telah ditambahkan} di dalam ruang tamu? `
 `Saat Bibi Eva mencoba membukanya, ia merasakan hambatan dari kunci. `
-`Ia segera mengeluarkan kunci utama dan memasukkannya ke lubang kunci. `
+`{n}Ia segera mengeluarkan kunci utama dan memasukkannya ke lubang kunci. `
 `Begitu pintu terbuka, ...Bibi Eva menjerit nyaring dan berlari masuk. `
 `Itu saja sudah cukup memberi tahu kami apa yang terjadi di dalam ruangan itu... `
 `Dokter Nanjo dan aku saling menatap, dan aku menggeleng sebelum memasuki ruang tamu... `
@@ -237,7 +237,7 @@
 ` kenapa kamu tidak menghentikannya? `
 `......Dan...bagaimana dengan putrimu, Ange...? `
 `Dia masih enam tahun. `
-`Jangan bilang kamu ingin aku menjaganya... `
+`{n}Jangan bilang kamu ingin aku menjaganya... `
 `Lagi pula, aku ragu bisa keluar dari pulau ini hidup-hidup...... `
 `"B-berhenti...!! `
 `Kenapa kamu berkelahi di saat seperti ini...?! `
@@ -276,7 +276,7 @@
 `Ini semua......salah sang penyihir!! `
 `Jadi berhenti menuduh satu sama lain...!!" `
 `...Salah penyihir, huh...? `
-`Apakah itu cara yang tepat untuk menenangkan situasi ini. `
+`{n}Apakah itu cara yang tepat untuk menenangkan situasi ini. `
 `Ya, ...aku akhirnya mengerti mengapa mereka pergi dari guesthouse...ketika semua pintu dan jendela {i:terkunci dari dalam}... `
 `Inilah yang mereka cari. `
 `...Membuat kita berpikir kalau pelakunya berada di dalam...dan membuat percikan, yang menghasilkan rasa kebencian... `
@@ -293,7 +293,7 @@
 `......Aku tidak percaya kalau ini adalah ruang tamu yang hangat dan menyenangkan pada siang hari kemarin, `
 `...sebelum topan ini menyerang... `
 `"Gyaaaaaaaaaaahhhh, `
-`...uwaaaaaaaaaaaahhhh...!!" `
+`...uWAA{0}AAuu{0}ughhaAA{0}AAUU{0}UUgghh{0}hhh...!!" `
 `Suara tembakan membuatku bangun dari setengah tidur. `
 `...Asap keluar dari laras senjata yang Bibi Eva pegang. `
 `Jessica jatuh ke lantai dan menutup kedua matanya. `
@@ -302,7 +302,7 @@
 `Jessica-san...!!" `
 `"UuuAaaaAAAaaaaHHHaHHHhhh, `
 `sakit, sakit, sakit, `
-`...rrraaaaaaaaaaaaaaaaggghhh..." `
+`...uuaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaggghhh..." `
 `"...I-itu bukan salahku... `
 `...In-ini terjadi karena kamu mendekatiku bahkan setelah aku menyuruhmu berhenti...!" `
 `"H-Hei, tunggu, apa yang terjadi...?!" `
@@ -325,7 +325,7 @@
 `"Jessica-san, kamu akan memperparah lukanya, jadi jangan bergerak...! `
 `Ayo, kita ke kamar pelayan..." `
 `Jessica terus menuduh Bibi Eva sebagai orang yang membunuh orang tuanya. `
-`Tampaknya Bibi Eva tidak dapat menyembunyikan ketakutan karena dialah menarik pelatuknya, walaupun karena kecelakaan. `
+`{n}Tampaknya Bibi Eva tidak dapat menyembunyikan ketakutan karena dialah menarik pelatuknya, walaupun karena kecelakaan. `
 `"...Ini bukan salahku, ...ini terjadi karena anak itu mendekatiku tiba-tiba... `
 `...Aku tidak membunuh siapapun... `
 `...Yang lebih penting, ...siapa yang membunuh George? `
@@ -345,7 +345,7 @@
 `Setelah Jessica duduk di kasur kamar pelayan, `
 `Nanjo mengatakan agar tidak menyentuh atau meraba-raba matanya. `
 `Laras itu mungkin dekat dengan matanya. `
-`Ada kemungkinan kalau api dari tembakan itu melukai kornea matanya. `
+`{n}Ada kemungkinan kalau api dari tembakan itu melukai kornea matanya. `
 `...Tidak ada yang mengancam nyawanya, tapi mungkin akan penting membawanya ke Dokter secepat mungkin. `
 `Nanjo memberikan pertolongan pertama, menutupi area yang terluka dengan kain kasa dan membalutnya. `
 `Hasilnya, Jessica sepenuhnya kehilangan pengelihatannya... `
@@ -381,12 +381,12 @@
 `...dan Kanon-kun... `
 `Kanon-kun......" `
 `Dia dengar Kanon dibunuh di kapel. `
-`...Jessica masih belum melihat wajahnya ketika meninggal. `
+`{n}...Jessica masih belum melihat wajahnya ketika meninggal. `
 `Jessica sekarang mulai tidak takut dengan fakta bahwa dia buta, `
 `dan lebih takut kalau polisi membawa tubuh Kanon sedangkan dia masih belum melihatnya, `
 `dan dia akan mengucapkan selamat tinggal tanpa melihat wajahnya. `
 `Kemarahannya pada pelaku...dan kebenciannya pada kematian orang yang dia suka. `
-`...Emosi itu bercampur dan dia mulai menangis. `
+`{n}...Emosi itu bercampur dan dia mulai menangis. `
 `Tapi sekarang, air mata sangat sakit baginya, `
 `jadi dia tidak bisa mengingat wajahnya di masa lalu... `
 `Jessica tidak bisa melakukan apapun selain duduk di kasur dan menundukkan kepalanya, menahan rasa sakit... `
@@ -397,7 +397,7 @@
 `Dia mengintip ke lorong untuk melihat apakah ada yang datang. `
 `"......!" `
 `Lalu, mereka bertatapn. `
-`Nanjo, tidak tahu siapa orang ini, dia merasa bingung sesaat. `
+`{n}Nanjo, tidak tahu siapa orang ini, dia merasa bingung sesaat. `
 `"Aku dengar bahwa orang-orang yang telah kehilangan kemampuan penglihatan memiliki nol kekuatan anti-sihir dan kekuatan resistensi sihir." `
 `"Dengan kata lain, kamu adalah pion yang terisolasi sekarang." `
 `"Paham apa artinya itu?" `
@@ -407,7 +407,7 @@
 `"......Dokter Nanjo? `
 `Apa yang terjadi...?" `
 `Karena tidak bisa melihat, Jessica harus mengandalkan suara saja untuk memahami situasi. `
-`...Tetapi karena dia mendengar Nanjo mengatakan sesuatu dengan nada gelisah, `
+`{n}...Tetapi karena dia mendengar Nanjo mengatakan sesuatu dengan nada gelisah, `
 `dia khawatir, berpikir bahwa sesuatu yang buruk mungkin telah terjadi. `
 `"...T-Tolong berhenti...! `
 `Tolong jangan bunuh aku...!! `
@@ -418,7 +418,7 @@
 `"...Dokter Nanjo...? `
 `Dokter Nanjo?!" `
 `Jessica tidak bisa melakukan apa pun kecuali memanggil dari tempat tidur. `
-`...Menilai dari nada suaranya, Nanjo berada di koridor, menghadapi seseorang. `
+`{n}...Menilai dari nada suaranya, Nanjo berada di koridor, menghadapi seseorang. `
 `Dan dia ketakutan. `
 `Nyawanya pasti sedang terancam. `
 `"Tidak, hentikan!! `
@@ -439,12 +439,12 @@
 `Jessica, yang hanya bisa mencoba mengerti apa yang terjadi dengan telinganya, tidak tahu apa yang sedang terjadi. `
 `...Tetapi meskipun begitu, dia menyadari bahwa dengan suara itu, Nanjo telah mati. `
 `Dan, ...dia bisa tahu bahwa orang itu sekarang berada di koridor, tepat di depan kamar pelayan. `
-`...Terlebih lagi, karena dia tidak bisa melihat, dia tidak akan bisa melarikan diri, apalagi melawan. `
+`{n}...Terlebih lagi, karena dia tidak bisa melihat, dia tidak akan bisa melarikan diri, apalagi melawan. `
 `...Mengetahui bahwa dia adalah tikus dalam perangkap dan dalam situasi hidup atau mati, Jessica merinding... `
 `"...Oh, Jessica." `
 `"Sayang sekali, matamu terluka." `
 `"...Sekarang kamu bahkan tidak bisa melarikan diri." `
-`"kekehkekehkekeh" `
+` *kekeh*kekeh*kekeh*" `
 `"...Aku akan bermain sepuasnya dengan mayat Nanjo sekarang." `
 `"...Ketika aku bosan dengan itu, aku akan membunuhmu berikutnya dan bermain lagi." `
 `"...Tidak, tunggu, karena aku sudah mendapatkanmu dalam keadaan buta di sini..." `
@@ -468,18 +468,18 @@
 `Dia menabrak rak atau sesuatu, dan benda-benda seperti stoples permen dan botol-botol jatuh, mengenai kepalanya. `
 `...Dalam kondisinya sekarang, akan sulit baginya bahkan untuk melindungi kepalanya untuk menghalangi benda jatuh itu. `
 `...Dia sadar betapa tidak berdayanya manusia hanya dengan kehilangan indra penglihatan mereka. `
-`Tentu saja, dia tidak punya waktu untuk terkesan oleh fakta ini. `
+`{n}Tentu saja, dia tidak punya waktu untuk terkesan oleh fakta ini. `
 `Dia merangkak ke sana kemari secara acak, mencoba melarikan diri dari tempat itu, `
 `tetapi dia terus menabrak benda-benda yang tidak dia mengerti, terpukul oleh berbagai benda yang jatuh, `
 `dan rasanya seperti seluruh ruangan itu hidup, merundungnya dan menolak membiarkannya melarikan diri. `
 `Lalu,  kaki terdengar dari kehadiran di lorong itu. `
-`Dan kemudian, sebuah suara. `
+`{n}Dan kemudian, sebuah suara. `
 `...Dia mungkin melongokkan kepalanya ke dalam ruangan, karena Jessica sangat berisik. `
 `"kamu benar-benar berisik." `
 `"Bertingkahlah seperti seorang wanita dan tunggulah di sana di atas tempat tidur." `
 `"Karena aku akan memberimu pakaian kematian berwarna merah darah yang indah, cocok untuk putri terhormat sepertimu." `
 `"...Sesuatu yang cukup bagus untuk membuat orang yang menemukanmu akan pingsan, oke?" `
-`"Gehheheheheheheheheheh!!" `
+`"Gehhe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heh!!" `
 `"E-Eeeeeeeeeeeeeeeeeekkk!!" `
 `Sesaat yang lalu, dia telah bersumpah bahwa dia akan membunuh pelakunya jika dia menemukannya. `
 `...Namun, dia sekarang sangat tidak berdaya. `
@@ -592,7 +592,7 @@
 `"...K-Kanon-kun...?!" `
 `"K-Kamu selamat...?!" `
 `Kali ini, dia merasa mendengar suaranya dengan jelas. `
-`Jessica melompat kaget, membenturkan kepalanya ke meja sekali lagi. `
+`{n}Jessica melompat kaget, membenturkan kepalanya ke meja sekali lagi. `
 `...Nona, tolong, tenangkan hatimu dan dengarkan. `
 `...Sayangnya, aku tidak hidup. `
 `"......Hah...?" `
@@ -602,7 +602,7 @@
 `"Tolong, tenangkan hatimu lebih dalam lagi." `
 `"Jika kamu melakukannya, ...wujudku akan menjadi terlihat bahkan olehmu, Nona... `
 `Jessica menuruti kata-kata itu. `
-`Dia mengusir semua pikiran kosong dari kepalanya dan merilekskan pernapasannya. `
+`{n}Dia mengusir semua pikiran kosong dari kepalanya dan merilekskan pernapasannya. `
 `...Tentu saja, hatinya terasa seperti akan meledak setelah mendengar suara orang yang dia sukai dan yang dia kira telah mati. `
 `Dia menahan kegembiraan itu dengan seluruh kekuatannya. `
 `...Ketika dia melakukannya, ...dia merasa seolah-olah Kanon-kun benar-benar ada tepat di depannya. `
@@ -648,13 +648,13 @@
 `"T-Tidak, ...aku baik-baik saja... `
 `"Selanjutnya apa...?" `
 `Jessica berpikir bahwa jika ini adalah mimpi, dia tidak ingin bangun. `
-`...Dan, jika dia diizinkan, dia ingin membuka perban yang menutupi matanya dan melihatnya. `
+`{n}...Dan, jika dia diizinkan, dia ingin membuka perban yang menutupi matanya dan melihatnya. `
 `...Namun, jika dia melakukan itu, Kanon mungkin akan lenyap seperti asap lilin yang rapuh, persis seperti yang dikatakannya sendiri... `
 `...Dia takut akan hal itu. `
 `Jadi dia memuaskan dirinya dengan hanya mendengarkan kata-katanya sekali lagi, `
 `menekan keinginannya untuk melihatnya, untuk memeluknya. `
 `Oleh karena itu, yang menyakiti matanya sekarang adalah air mata syukur. `
-`...Air mata syukur kepada Tuhan... atau mungkin sang penyihir... yang telah memberinya momen ajaib ini. `
+`{n}...Air mata syukur kepada Tuhan... atau mungkin sang penyihir... yang telah memberinya momen ajaib ini. `
 `"...Apakah ini oke...?" `
 `"Jika kita terus bicara seperti ini, bukankah kita akan ketahuan olehnya?" `
 `"Bukankah suara kita akan terdengar...?" `
@@ -681,7 +681,7 @@
 `...tidak ada rasa takut di hati Jessica. `
 `Dia sedang dilindungi dan dibimbing oleh Kanon, seseorang yang dia kira tidak akan pernah ditemuinya lagi. `
 `...Itu mungkin hanya keajaiban sesaat. `
-`...Meski begitu, Jessica sangat berterima kasih untuk itu. `
+`{n}...Meski begitu, Jessica sangat berterima kasih untuk itu. `
 `Jika dia berharap terlalu banyak, dia yakin Kanon akan menghilang, jadi dia mencoba untuk tidak merusak keajaiban yang redup ini. `
 `Dan, mencoba mengukir momen ini ke dalam hatinya untuk selama-lamanya, dia perlahan, perlahan... terus berjalan, menuruti suara Kanon... `
 `"...Oke, jika kamu berjalan 10 langkah lagi, kamu akan keluar dari kamar pelayan." `
@@ -692,7 +692,7 @@
 `"...apakah kamu akan... "
 `pergi, Kanon-kun...?" `
 `"............" `
-`Kanon tidak menjawab. `
+`{n}Kanon tidak menjawab. `
 `...Tetapi ketiadaan jawabannya sudah cukup untuk memberitahunya kebenaran. `
 `"...Kalau begitu, ...tidak mau." `
 `"......Aku tidak mau pergi..." `
@@ -924,7 +924,7 @@
 `"Gyoah, gwuaahh......!!" `
 `"Tentu saja, kamu tidak perlu menjawab." `
 `"Lagipula, dengan begitu aku bisa menyiksamu." `
-`"Kuukuhihihihihihihihihihi!!" `
+`"Kuukuhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!" `
 `"Sihir Tak Terbatas benar-benar luar biasa." `
 `"...Jika dipikir-pikir, dunia ini terbatas dalam segala hal." `
 `"Yang tak terbatas tidak bisa eksis di dunia manusia." `
@@ -944,23 +944,23 @@
 `"Jahit. Tiga kali kali ini." `
 `"Gwoah, gyuooh, ...gu...!!!" `
 `Dada Beato telah disulam dengan benang emas itu. `
-`Ia mengencang lebih kuat lagi, menyebabkan Beato semakin kesakitan... `
+`{n}Ia mengencang lebih kuat lagi, menyebabkan Beato semakin kesakitan... `
 `"...Yah, tidak apa-apa." `
 `"Aku tidak lagi penasaran tentang wahyu macam apa yang mungkin didapat oleh wanita tua yang menolak untuk mati." `
 `"Aku bosan sekarang, jadi aku akan membunuhmu saja." `
 `"Jika aku melakukannya, penghalang di sekitar ruang tamu akan lenyap." `
 `"...Lalu aku akan menyiksa Kanon dan Jessica sampai mati berkali-kali." `
 `"...Bisa memiliki sepasang kekasih sebagai mainanku pada saat yang sama... terdengar cukup menyenangkan, bukan?" `
-`"Kuhhihihhihhihihihhihihihihi!!" `
+`"Kuhhi{0}hi{0}hhi{0}hhi{0}hi{0}hi{0}hhi{0}hi{0}hihihi!!" `
 `"Bunuh dia...!!!" `
 `Tanpa meleset satu milimeter pun, benang jahit emas itu menembak menembus jantung Beato... `
-`Rasa sakit luar biasa itu lebih buruk daripada semua rasa sakit sebelumnya jika digabungkan. `
+`{n}Rasa sakit luar biasa itu lebih buruk daripada semua rasa sakit sebelumnya jika digabungkan. `
 `Beato akhirnya mengingat perasaan sebenarnya dari kematian, yang telah dilupakannya selama seribu tahun... `
 `Tapi...... dia tidak bisa mati. `
 `Dia tidak boleh mati. `
-`Jika dia mati, itu berarti menyerahkan keduanya di ruang tamu kepada penyihir kejam itu. `
+`{n}Jika dia mati, itu berarti menyerahkan keduanya di ruang tamu kepada penyihir kejam itu. `
 `Jadi dia benar-benar tidak bisa mati. `
-`Dia dengan teguh... menolak untuk mati...! `
+`{n}Dia dengan teguh... menolak untuk mati...! `
 `"......{f:5:Beatrice} yang baru," `
 `"...aku punya permintaan." `
 `"......Pertemuan sepasang kekasih di ruang tamu itu tidak akan berlangsung lama." `
@@ -1099,7 +1099,7 @@
 `Lalu, ...terdengar suara berair. `
 `Jantung emas yang tadinya melayang di udara... kehilangan cahanya, menjadi daging yang berlumuran darah, dan jatuh ke tanah. `
 `...Sangat rapuh. `
-`Jantung itu penuh dengan lubang. `
+`{n}Jantung itu penuh dengan lubang. `
 `...Namun tadi, jantung itu sangat bersinar, dan terus berdetak. `
 `Jantung itu masih berdetak. `
 `...Tetapi, hanya masalah waktu sampai jantung itu berhenti berdetak. `
@@ -1113,7 +1113,7 @@
 `Ketidakterbatasan jauh lebih baik daripada terbatas!!" `
 `"............" `
 `{f:5:Beatrice} tidak lagi memiliki keinginan untuk menjawab. `
-`...Tidak, sebaliknya, apakah kata-kata penyihir kejam itu sampai ke telinganya masih diragukan... `
+`{n}...Tidak, sebaliknya, apakah kata-kata penyihir kejam itu sampai ke telinganya masih diragukan... `
 `"Jika kamu Penyihir Tak Terbatas yang sebenarnya, cobalah berdiri!! `
 `Bagaimana? `
 `Kamu tidak bisa berdiri, kan?! `
@@ -1122,7 +1122,7 @@
 `Penyihir kejam itu menusuk jantung {f:5:Beatrice} dengan jarinya. `
 `{f:5:Beatrice} tidak menjawab provokasi itu. `
 `...Tetapi, ...dibandingkan ucapan, dia menjawab dengan suatu ekspresi. `
-`...Hal itu terasa seperti hinaan bagi penyihir kejam. `
+`{n}...Hal itu terasa seperti hinaan bagi penyihir kejam. `
 `Karena dia sedikit melengkungkan bibirnya...dan tersenyum. `
 `...Langkah kaki mendekati tempat itu. `
 `Tidak mungkin dia salah mendengar. `
@@ -1156,12 +1156,12 @@
 `Semuanya tidak berguna. `
 `Kamu bukan lawanku." `
 `Penyihir kejam itu mengangkat tinggi kakinya... `
-`...Di bawah kakinya adalah jantung {f:5:Beatrice} yang rapuh. `
+`{n}...Di bawah kakinya adalah jantung {f:5:Beatrice} yang rapuh. `
 `"Mati, wanita tua!! `
 `Ayo kita lihat seberapa tak terbatasnya saat kamu hancur lebur!! `
 `Aku penyihir! `
 `Aku Penyihir Emas, {f:5:Beatrice}!!! `
-`Maaaaaaaaaaaaaaaaatiiiiiiiiii!!" `
+`Maaaaatii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}!!" `
 `{e:170:"Yaaaaaaaaaa, ini tidak berguna, sama sekali tidak berguna{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"} `
 `"Ap-Apa... `
 `...ini...? `
@@ -1177,7 +1177,7 @@
 `"410, dimengerti. Mati, Battler!!" `
 `Saudari Chiester masing-masing mempersiapkan busur emas mereka dan menembakkan panah api. `
 `Mereka berdua hanya menarik tali panahnya bersama ketika menggunakan bantuan bidik. `
-`Jika mereka melawan musuh yang berada di depan mereka, mereka menembakkan busur mereka bersamaan. `
+`{n}Jika mereka melawan musuh yang berada di depan mereka, mereka menembakkan busur mereka bersamaan. `
 `Dan kekuatan mereka tidak terkuras banyak. `
 `"Ap, ......d-d-dihindari?!?! `
 `Tidak ada perisai, itu terpental karena penolakan... `
@@ -1229,8 +1229,8 @@
 `mundurlah dan beristirahatlah." `
 `"B-Benar..." `
 `Beato menatap Battler dengan rindu sekaligus takut. `
-`...Dia masih belum diakui sebagai lawan laki-laki itu. `
-`Apakah dia layak untuk menonton papan permainan ini dari pinggir...? `
+`{n}...Dia masih belum diakui sebagai lawan laki-laki itu. `
+`{n}Apakah dia layak untuk menonton papan permainan ini dari pinggir...? `
 `"Beato, mundur dan tontonlah!! `
 `Akan kurobek topengnya!! `
 `Akan kubongkar penyihir palsu ini sampai ke akar-akarnya!! `
@@ -1268,7 +1268,7 @@
 `Seorang penyihir bisa dengan mudah membawa orang mati ke kursi saksi untuk memberikan kesaksian..." `
 `Di sisi lawan, Paman Hideyoshi yang transparan terpanggil. `
 `...Benar-benar praktis. `
-`Dia tampak seolah-olah tidak bisa melihat apa yang terjadi di sini, hampir seperti orang di balik layar televisi. `
+`{n}Dia tampak seolah-olah tidak bisa melihat apa yang terjadi di sini, hampir seperti orang di balik layar televisi. `
 `"Pemanggilan saksi. `
 `Kesaksian Ushiromiya Hideyoshi. `
 `Ayo, Hideyoshi, berbicaralah...!" `
@@ -1539,7 +1539,7 @@
 `Battler tidak bisa lagi membalas penyihir ini, yang tertawa gila dengan kemenangan... `
 `Dia tidak ingin menyerah, tetapi tidak ada langkah yang terpikirkan. `
 `Dia merenggutkan giginya, mengepalkan kedua tangan. `
-`...Tapi meski begitu, dia tidak bisa memikirkan serangan balik yang bagus...! `
+`{n}...Tapi meski begitu, dia tidak bisa memikirkan serangan balik yang bagus...! `
 `"Battler-sama, `
 `batas waktumu sudah habis, jadi akankah kamu menyerah...?" `
 `"Kh......aaaaaaaaaaaaaaaaaahhhhh......!!!" `
@@ -1594,7 +1594,7 @@
 `...Bahkan jika aku harus merangkak di lantai dan menggeledah tubuh yang mati, `
 `...Aku harus menjawab tanggung jawab itu..." `
 `Dihujani dengan hinaan penyihir itu, Beato memeriksa mayat Kyrie. `
-`...Dia memeriksa sakunya, mengeluarkan isinya dan meletakkannya di lantai... `
+`{n}...Dia memeriksa sakunya, mengeluarkan isinya dan meletakkannya di lantai... `
 `Di lantai tergeletak... `
 `sebuah sapu tangan, `
 `tisu, `
@@ -1613,7 +1613,7 @@
 `Aaah, sangat menyedihkan, memalukan!! `
 `Andai saja kamu menyerah dan mati!" `
 `Penyihir itu tertawa, menghina Beato. `
-`...Beato menundukkan kepala, mencoba menahan rasa malu ini. `
+`{n}...Beato menundukkan kepala, mencoba menahan rasa malu ini. `
 `"...Nona, `
 `apakah pemeriksaanmu telah selesai?" `
 `"......S-sudah... `
@@ -1647,7 +1647,7 @@
 `Kamu harus menyelamatkan putramu dari penderitaannya... `
 `......Kumohon, ...kematian, pinjamkan aku kekuatan demi dia..." `
 `Tetapi, tubuh Kyrie tidak menjawab. `
-`...Wajar saja kalau mayat hanya terus diam. `
+`{n}...Wajar saja kalau mayat hanya terus diam. `
 `Tidak ada orang mati yang akan menjawab Beato, yang telah kehilangan Sihir Tak Terbatas... `
 `"Ini tidak berguna, tidak berguna, tidak berguuunnnaaa. `
 `Bermain dengan orang mati adalah keuntungan untuk penyihir. `
@@ -1761,7 +1761,7 @@
 `Hideyoshi ditugaskan berada di kamar itu untuk menciptakan alibi, `
 `...dan selama ini, dia tegang dan memutuskan untuk merokok. `
 `Lalu, Kyrie mengatakan ini pada Rudolf. `
-`Dia mengatakan kalau ada kemungkinan Eva pelakunya, dan Hideyoshi adalah komplotannya. `
+`{n}Dia mengatakan kalau ada kemungkinan Eva pelakunya, dan Hideyoshi adalah komplotannya. `
 `"......Lalu, Kyrie-san mengajak mereka untuk mengambil makanan. `
 `Lalu dia mengajak Paman Hideyoshi untuk membantunya!! `
 `Ini artinya." `
@@ -1969,12 +1969,12 @@
 `...mereka kagum dengan skakmat yang sempurna ini, `
 `...yang harus diakui... `
 `Ketika seseorang menerima kekalahan dalam lubuk hatinya... `
-`...Hal itu tidak menimbulkan rasa malu atau penyesalan. `
-`...Hanya rasa hormat yang ada... `
+`{n}...Hal itu tidak menimbulkan rasa malu atau penyesalan. `
+`{n}...Hanya rasa hormat yang ada... `
 `Aku......tidak lagi tahu...yang mana lagi. `
 `Tidak ada titik lemah di red truthnya. `
 `Dia telah mengatakan dengan red truth kalau 15 orang telah mati. `
-`Dia telah mengatakan dengan red truth hanya 18 orang yang ada di pulau ini. `
+`{n}Dia telah mengatakan dengan red truth hanya 18 orang yang ada di pulau ini. `
 `Dengan kata lain, tidak lebih dari tiga orang: aku, Jessica, dan Bibi Eva, ada. `
 `Dan meskipun mereka tiga bukan pelakunya, Dokter Nanjo terbunuh. `
 `Dan tidak salah lagi, kematian Dokter Nanjo adalah pembunuhan, dia dibunuh oleh "orang itu" secara terbuka di depannya...! `
@@ -2080,8 +2080,8 @@
 `"N‐Nona...!!" `
 `Guru dan pelayan itu terkejut. `
 `...Aku juga mengerti apa maksudnya. `
-`Menggunakan red truth yang hanya bisa digunakan oleh penyihir. `
-`{i:Menggunakan red truth untuk menyangkal penyihir}. `
+`{n}Menggunakan red truth yang hanya bisa digunakan oleh penyihir. `
+`{n}...{i:Menggunakan red truth untuk menyangkal penyihir}. `
 `Seperti menggunakan pedangnya untuk menggorok lehernya sendiri. `
 `"......Ap-Apaaa...?! `
 `...H-Hei, apa maksudmu? `
@@ -2111,25 +2111,25 @@
 `"...A-Apa kamu gila?!?! `
 `H-hentikan itu...! `
 `Aku masih ingin menjadi penyihir! aku benci menjadi Manusia...!!" `
-`"......Witch-sama, kembali ke kursimu. `
+`{n}......Witch-sama, kembali ke kursimu. `
 `Kumohon, terima balasan dari pihak manusia dari kursimu." `
 `"Ap-Apa yang kamu lakukan?! `
 `L-Lepaskan aku!! `
-`Jangan biarkan perempuan itu menggunakan red truth!! `
+`{n}Jangan biarkan perempuan itu menggunakan red truth!! `
 `Hentikan dia!! `
 `Lepaskannnnnnnnnnnnnnnnnnn!!" `
-`Saat penyihir itu berdiri dari bangkunya dan berusaha menyerang Beato, Ronove menahan kedua bahunya, memaksanya kembali ke kursinya. `
+`{n}Saat penyihir itu berdiri dari bangkunya dan berusaha menyerang Beato, Ronove menahan kedua bahunya, memaksanya kembali ke kursinya. `
 `Dan, setelah itu, dia tidak melepaskan tangannya dari bahunya. `
 `Menyangkal penyihir sama saja seperti menyangkal sihir. `
 `...Termasuk iblis seperti Ronove. `
-`Namun, daripada kabur, Ronove bertindak sebagai moderator untuk permainan ini, `
+`{n}Namun, daripada kabur, Ronove bertindak sebagai moderator untuk permainan ini, `
 `...dan untuk melaksanakan tugas tersebut demi nonanya . `
 `"...{f:5:Beatrice}, `
 `......kamu tidak...ada penyesalan, kan...?" `
 `"Itu perkataanku. `
 `...Maaf, Guru. `
 `...Walaupun kamu mengajariku tentang sihir yang menyenangkan dan sihir yang membawa kebahagiaan, `
-`......aku tidak bisa menggunakannya dengan benar. `
+`{n}......aku tidak bisa menggunakannya dengan benar. `
 `......Jadi aku akan belajar dari awal... `
 `dan memulai lembaran baru. `
 `...Aku benar-benar minta maaf......kamu harus menderita karena muridmu yang bodoh." `
@@ -2246,7 +2246,7 @@
 `......Kemarilah, tunjukkan dirimu. `
 `Tunjukkan wujudmu sebenarnya, ...Ushiromiya Eva!!!" `
 `Saat matahari itu meledak dan melempar segalanya... `
-`...Eva terlihat di sana, memegang sebuah pistol. `
+`{n}...Eva terlihat di sana, memegang sebuah pistol. `
 `"...K-Kamu pelakunya,, `
 `Bibi Eva...!!!" `
 `"*kekeh*kekeh*kekeh* ...Ahhahahahahahahahaha!! `
@@ -2264,7 +2264,7 @@
 `...Dengan kata lain, ......meskipun aku tidak memahaminya, `
 `...bukankah itu tidak lebih dan tidak kurang dari bukti bahwa semua sihir bisa dijelaskan dengan cara manusia? `
 `......Beato Beato membuatku menutup telingaku. `
-`...Jadi aku sendiri tidak tahu kebenarannya. `
+`{n}...Jadi aku sendiri tidak tahu kebenarannya. `
 `...Namun, ......sekarang itu telah disangkal dengan red truth, `
 `Aku bisa melihat satu fakta yang sangat tidak adil bagi kita, ...kalau "Mungkin untuk menyangkal semua sihir". `
 `Jadi, dengan kata lain, ......... `
