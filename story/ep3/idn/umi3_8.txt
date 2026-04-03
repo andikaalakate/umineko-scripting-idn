@@ -1,648 +1,648 @@
-`There would've been no way to tell that morning had come without opening a window and looking up at the cloudy sky, which had become a tiny bit lighter. `
-`It wasn't a refreshing morning. `
-`All that could be heard was the sound of the rain, which hadn't stopped falling since last night, and the howl of the wind... `
-`"...It's hard to imagine that it's morning. `
-`This horrible weather speaks for our hearts." `
-`"Hey, it could be worse. `
-`At least it's just rain and not spears falling from the sky." `
+`Tidak ada cara untuk mengetahui bahwa pagi telah tiba tanpa membuka jendela dan melihat ke langit berawan yang sedikit lebih terang. `
+`Itu bukanlah pagi yang menyegarkan. `
+`Yang terdengar hanyalah suara hujan yang belum berhenti sejak semalam, dan desir angin... `
+`"...Sangat sulit membayangkan bahwa ini adalah pagi. `
+`Cuaca mengerikan ini mencerminkan hati kita." `
+`"Hei, bisa saja lebih buruk. `
+`Setidaknya ini hanya hujan, bukan tombak yang jatuh dari langit." `
 `"Wahhaha. `
-`Whether it's rain or spears, it's comin' down with a bang. `
-`......Is it already 6:00? `
+`Entah hujan atau tombak, semuanya turun dengan keras. `
+`......Sudah jam 6:00? `
 `Fuaaaaaa... `
-`Isn't this enough? `
-`After this, we've got no measures we can take 'til the mystery 19th person, {f:5:Beatrice}, makes her move." `
-`"True. `
-`...However, I believe we have anticipated every trick they might use against us." `
-`"That's right. `
-`As long as a traitor doesn't appear among the siblings, we should be able to deal with most situations." `
-`"...Haven't we talked about this enough? `
-`We've stayed up all night. `
-`...I'm tired." `
-`"You're right. `
-`How about taking a little rest after eating breakfast?" `
-`"...A good plan. `
-`Staying up all night is trying at our age." `
-`As they all stretched, they enjoyed this unrefreshing morning as best they could. `
-`"I'll go wash my face or something. `
-`I probably look horrible." `
+`Bukankah ini sudah cukup? `
+`Setelah ini, kita tidak punya langkah apa pun yang bisa diambil sampai orang misterius ke-19, {f:5:Beatrice}, mengambil tindakan." `
+`"Benar. `
+`...Tapi, aku yakin kita sudah mengantisipasi setiap trik yang mungkin mereka gunakan melawan kita." `
+`"Benar. `
+`Selama tidak ada pengkhianat di antara para saudara, harusnya kita bisa menangani kebanyakan situasi." `
+`"...Bukankah kita sudah membicarakan ini cukup lama? `
+`Kita sudah begadang semalaman. `
+`...Aku lelah." `
+`"Kau benar. `
+`Bagaimana kalau istirahat sebentar setelah sarapan?" `
+`"...Ide yang bagus. `
+`Begadang semalaman itu melelahkan di usia kita." `
+`Saat mereka semua meregangkan tubuh, mereka menikmati pagi yang tidak menyegarkan ini sebaik mungkin. `
+`"Aku akan mencuci muka atau sesuatu. `
+`Aku pasti terlihat mengerikan." `
 `".........? `
-`What is that awful stench?" `
-`As soon as they exited into the corridor, Kyrie openly made a disgusted expression. `
-`"...What is it?" `
-`"Hey, don't you smell something awful...?" `
+`Apa bau busuk itu?" `
+`Begitu mereka keluar menuju lorong, Kyrie menunjukkan ekspresi jijik. `
+`"...Apa itu?" `
+`"Hei, kau tidak mencium bau yang mengerikan...?" `
 `"......Nnn. `
-`...What is this stench? `
-`I can't stand it..." `
-`After hearing those complaints, everyone stuck their heads out into the corridor. `
-`...The stench was faint, but once people started commenting on it, it was clearly noticeable. `
-`Each of them went into the corridor, relying on their own sense of smell to tell them where this strange odor was coming from... `
-`"What in the world could it be? `
-`Let us have Genji deal with it. `
-`I believe he should already have arrived in the servant room to begin the morning preparations." `
-`"Indeed, please do. `
-`At the very least, it's difficult to imagine `
-`Gohda making a breakfast that would cause such an odor..." `
-`Rudolf and the others searched for the source of the smell...and determined that it was coming from underground, `
-`from the boiler room. `
-`But the door was locked, and they couldn't check inside. `
-`At the same time, when Natsuhi's group was on its way to search for someone in the servant room, they noticed something strange near the parlor. `
-`"...What is this...?!" `
-`"Wh-What a horrible prank... `
-`Who would do something like this...?" `
-`On the door to the parlor, drawn in a paint that looked like blood, was a strange... `
-`thing that looked like a magic circle. `
-`"There's no one in the kitchen yet. `
-`...Wh-What is...that?" `
-`Eva's group, who'd thought the smell might be coming from the kitchen, `
-`had returned after confirming that no one was there and that preparations for breakfast had not yet begun. `
-`...Then, they noticed the change to the parlor. `
-`"It's useless, the boiler room's locked. `
-`Wouldn't that be bad if something went wrong with the boiler? `
-`Has anyone spotted a servant?" `
+`...Bau apa ini? `
+`Aku tidak tahan..." `
+`Setelah mendengar keluhan-keluhan itu, semua orang mengintip ke lorong. `
+`...Bau busuknya samar, tapi begitu orang-orang mulai membicarakannya, baunya jelas terasa. `
+`Mereka lorong, mengandalkan indra penciuman mereka sendiri untuk mengetahui dari mana bau aneh itu berasal... `
+`"Apa yang bisa jadi penyebabnya? `
+`Biarkan Genji yang mengurusnya. `
+`Aku yakin dia sudah sampai di ruang pelayan untuk memulai persiapan pagi." `
+`"Benar, silakan lakukan. `
+`Sulit dibayangkan `
+`Gohda membuat sarapan yang menimbulkan bau seperti itu..." `
+`Rudolf dan yang lainnya mencari sumber bau... dan menyimpulkan bahwa bau itu berasal dari bawah tanah, `
+`dari ruang boiler. `
+`Namun, pintu terkunci, dan mereka tidak bisa memeriksa di dalamnya. `
+`Pada saat yang sama, ketika kelompok Natsuhi sedang dalam perjalanan untuk mencari seseorang di ruang pelayan, mereka memperhatikan sesuatu yang aneh di dekat ruang tamu. `
+`"...Apa ini...?!" `
+`"Apa-apaan ini... `
+`Siapa yang melakukan hal seperti ini...?" `
+`Di pintu ruang tamu, digambar dengan cat yang terlihat seperti darah, terdapat sesuatu yang aneh... `
+`sesuatu yang terlihat seperti lingkaran sihir. `
+`"Belum ada orang di dapur. `
+`...Apa itu...?" `
+`Kelompok Eva, yang berpikir bau itu mungkin berasal dari dapur, `
+`kembali setelah memastikan tidak ada orang di sana dan persiapan sarapan belum dimulai. `
+`...Kemudian, mereka menyadari perubahan di ruang tamu. `
+`"Percuma saja, ruang boiler terkunci. `
+`Bukankah itu buruk jika ada masalah dengan boiler? `
+`Apakah ada yang melihat pelayan?" `
 `"......! `
-`Is one of those vulgar scribbles here too? `
-`There was another one on the door to the boiler room." `
-`"What's that?! `
-`This creepy scribble isn't just here, but it's in other places too?! `
-`Haha, you don't think this is the witch of the forest {f:5:Beatrice}'s declaration of war, do ya?" `
-`Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like a message from a witch. `
-`...The dripping, bright-red paint made one think of blood, which made it even creepier. `
-`Hideyoshi tried to open the door, but it had been locked. `
-`...As a general rule, the parlor wasn't locked. `
-`Someone had gone out of their way to lock it. `
-`"...What does this mean...? `
-`Could it be that, while we were talking in the dining hall, someone secretly left this scribble? `
-`On the doors to the parlor and the boiler room?" `
-`"...I'm sure the servants are behind this. `
-`We were together the whole time. `
-`We all have alibis. `
-`...They probably received some strange order from Father and pulled this prank." `
-`"......And there's also the case yesterday with Maria-chan's letter. `
-`It's really easy to suspect that the servants are acting on Dad's orders and planning something. `
-`...Anyway, where is everyone? `
-`They can't be playing hide and seek. `
-`Let's look for them." `
-`"B-Before that, I'm worried about the children. `
-`They are safe, right? `
-`I'll go and check, and while I'm there, I'll see if there aren't any servants there." `
-`"Then let's split up. `
-`While you go to the guesthouse to see how the brats are doing, we'll investigate inside the mansion." `
-`"......I don't want to think about it, `
-`but maybe these creepy magic circles aren't just in the places we've found them already." `
-`"...We might be wrapped up in some bizarre game of Father's. `
-`...I will go to him and hear the situation. `
-`...Though, I doubt he'll obediently listen to me." `
-`The adults split up. `
-`As a result, they confirmed that the four children were safe in the so-called cousins' room, on the second floor of the guesthouse. `
-`They had apparently stayed up late last night playing. `
-`All of them were snoring loudly, so Rosa decided not to wake them. `
-`Furthermore, Nanjo, who had returned early the previous night to rest, was also safe. `
-`It seemed he believed in the phrase "early to bed, early to rise" and had awoken refreshed. `
-`During that time, Kyrie and Hideyoshi searched for the servants. `
-`But they didn't find them. `
-`...The servant room in the guesthouse was also empty. `
-`"...The children are safe. `
-`They all stayed up too late last night." `
-`"The servant room is empty. `
-`I looked at the shift chart, and the mornin' shift begins at 6:00. `
-`They should've started workin' by now..." `
-`"The nap room is also empty. `
-`There were signs that a futon had been slept in, but it wasn't warm." `
-`"Hey, ...isn't everyone's reasonin' right on this? `
-`...This is probably a game Father set up. `
-`He must've left those creepy scribbles and hid himself somewhere, `
-`tryin' to make us do somethin'." `
-`"...Are you saying he's trying to see who's fit to succeed his wealth and the Headship? `
-`...Isn't that a bit..." `
-`"No... `
-`...It might not be strange if Father was behind something like that." `
-`"After all, Father loves doing things on a big scale. `
-`...This might've been a finely-tuned plan startin' as far back as when the epitaph was hung in the hall." `
-`"...In that case, I wonder if they'll give us an announcement of the game or some explanation of it. `
-`...It certainly would be nice if an envelope with the crest, like the one handed to Maria-chan, were to appear." `
-`"......That's right. `
-`Maybe Nii-san and the rest have found something like that in the mansion." `
-`"Doctor Nanjo, `
-`have you heard anythin' about this?" `
-`"...M-My apologies, I have no idea what is going on. `
-`And yet...yes, certainly, `
-`I could easily imagine Kinzo-san planning something on a big scale." `
-`"...Shouldn't we go back to the mansion for now? `
-`Maybe they found somethin' over there." `
-`"If I won't be in the way, I shall go too." `
-`"I-I'll stay here. `
-`...The children are sleeping upstairs. `
-`We don't know what's happening. `
-`We cannot leave them alone." `
-`"...That's right. `
-`I'll stay with Rosa-san and watch over the place. `
-`Would you tell that to my husband?" `
-`Rosa and Kyrie remained in the guesthouse. `
-`Hideyoshi went with Nanjo and returned again to the mansion. `
-`At the same time, in the mansion... `
-`In a way that was hard to believe, ...or maybe we should say in a way that gave him a bad feeling... `
-`Rudolf's prediction was spot on. `
-`...The same magic circle graffiti that had been drawn on the doors to the boiler room and the parlor...had been found in multiple places throughout the mansion. `
+`Apakah salah satu coretan kasar itu juga ada di sini? `
+`Ada lagi di pintu ruang boiler." `
+`"Apa itu?! `
+`Tulisan aneh ini tidak hanya di sini, tapi juga ada di tempat lain?! `
+`Haha, mana mungkin ini adalah deklarasi perang dari penyihir hutan {f:5:Beatrice}, kan?" `
+`Hideyoshi mencoba mengolok-oloknya, tapi menatap lingkaran sihir menyeramkan ini sambil mendengarkan angin dan hujan benar-benar membuatnya terasa seperti pesan dari penyihir. `
+`...Cat merah cerah yang menetes membuat orang berpikir tentang darah, yang membuatnya semakin menyeramkan. `
+`Hideyoshi mencoba membuka pintu, tapi pintu itu sudah terkunci. `
+`...Secara umum, ruang tamu tidak pernah dikunci. `
+`Seseorang sengaja menguncinya. `
+`"...Apa artinya ini...? `
+`Mungkinkah, saat kita sedang berbicara di ruang makan, seseorang secara diam-diam meninggalkan coretan ini? `
+`Di pintu ruang tamu dan ruang boiler?" `
+`"...Aku yakin para pelayan yang melakukannya. `
+`Kita bersama-sama sepanjang waktu. `
+`Kita semua punya alibi. `
+`...Mereka mungkin menerima perintah aneh dari Ayah dan melakukan kejahilan ini." `
+`"......Dan ada juga kasus kemarin dengan surat Maria-chan. `
+`Mudah saja untuk mencurigai para pelayan bertindak atas perintah Ayah dan merencanakan sesuatu. `
+`...Selain itu, di mana semua orang? `
+`Mereka tidak mungkin sedang bermain petak umpet. `
+`Ayo kita cari mereka." `
+`"S-Sebelum itu, aku khawatir tentang anak-anak. `
+`Mereka aman, kan? `
+`Aku akan pergi memeriksa, dan saat di sana, aku akan melihat apakah tidak ada pelayan di sana." `
+`"Kalau begitu, kita berpisah. `
+`Sementara kau pergi ke rumah tamu untuk melihat bagaimana keadaan anak-anak itu, kami akan menyelidiki di dalam mansion." `
+`"......Aku tidak mau memikirkannya, `
+`tapi mungkin lingkaran sihir aneh ini tidak hanya ada di tempat-tempat yang sudah kita temukan." `
+`"...Kita mungkin terjebak dalam permainan aneh Ayah. `
+`...Aku akan menemuinya dan mendengarkan situasinya. `
+`...Walaupun, aku ragu dia akan mendengarkanku." `
+`Para orang dewasa berpisah. `
+`Hasilnya, mereka memastikan bahwa keempat anak itu aman di tempat yang sesebut kamar sepupu, di lantai dua rumah tamu. `
+`Mereka tampaknya begadang semalam bermain. `
+`Semua dari mereka mendengkur dengan keras, jadi Rosa memutuskan untuk tidak membangunkan mereka. `
+`Selain itu, Nanjo, yang telah kembali lebih awal malam sebelumnya untuk beristirahat, juga aman. `
+`Sepertinya dia percaya pada pepatah "tidur awal, bangun awal" dan bangun dengan segar. `
+`Selama itu, Kyrie dan Hideyoshi mencari para pelayan. `
+`Tapi mereka tidak menemukannya. `
+`...Ruangan pelayan di penginapan juga kosong. `
+`"...Anak-anak selamat. `
+`Mereka semua begadang terlalu larut semalam." `
+`"Ruangan pelayan kosong. `
+`Aku melihat jadwal shift, dan shift pagi dimulai pukul 6:00. `
+`Mereka seharusnya sudah mulai bekerja sekarang..." `
+`"Ruang tidur juga kosong. `
+`Ada tanda-tanda bahwa futon telah digunakan untuk tidur, tapi tidak hangat." `
+`"Hei, ...bukankah alasan semua orang benar dalam hal ini? `
+`...Ini mungkin permainan yang dibuat oleh Ayah. `
+`Dia pasti meninggalkan coretan-coretan aneh itu dan bersembunyi di suatu tempat, `
+`berusaha membuat kita melakukan sesuatu." `
+`"...Maksudmu dia mencoba melihat siapa yang layak mewarisi kekayaannya dan kepemimpinan? `
+`...Bukankah itu agak..." `
+`"Tidak... `
+`...Tidak aneh lagi kalau Ayah berada di balik hal seperti itu." `
+`"Lagi pula, Ayah suka melakukan hal-hal dalam skala besar. `
+`...Ini mungkin rencana yang dirancang dengan cermat sejak saat nisan digantung di aula." `
+`"...Kalau begitu, aku penasaran apakah mereka akan memberi pengumuman tentang permainan atau penjelasan tentangnya. `
+`...Tentu saja akan menyenangkan kalau muncul amplop dengan lambang, seperti yang diberikan kepada Maria-chan." `
+`"......Benar. `
+`Mungkin Nii-san dan yang lain telah menemukan sesuatu seperti itu di mansion." `
+`"Dokter Nanjo, `
+`apakah kai mendengar sesuatu tentang ini?" `
+`"...Maaf, saya tidak tau apa yang sedang terjadi. `
+`Namun... ya, tentu saja, `
+`saya bisa membayangkan Kinzo-san merencanakan sesuatu dalam skala besar." `
+`"...Mungkin sebaiknya kita kembali ke mansion untuk saat ini? `
+`Mungkin mereka menemukan sesuatu di sana." `
+`"Jika saya tidak mengganggu, saya juga akan ikut." `
+`"Aku... aku akan tinggal di sini. `
+`...Anak-anak sedang tidur di atas. `
+`Kita tidak tau apa yang sedang terjadi. `
+`Kita tidak bisa meninggalkan mereka sendirian." `
+`"...Benar. `
+`Aku akan tinggal bersama Rosa-san dan menjaga tempat ini. `
+`Bisakah kau memberitau itu kepada suamiku?" `
+`Rosa dan Kyrie tetap tinggal di guesthouse. `
+`Hideyoshi pergi bersama Nanjo dan kembali lagi ke mansion. `
+`Pada saat yang sama, di mansion... `
+`Dengan cara yang sulit dipercaya, ...atau mungkin dengan cara yang tidak mengenakan... `
+`Perkiraan Rudolf tepat. `
+`...Lingkaran sihir yang sama yang digambar di pintu ruang boiler dan ruang tamu...ditemukan di beberapa tempat di seluruh mansion. `
 `"Aniki...! `
-`How's Dad?" `
-`"It was no use. `
-`I received no response. `
-`I tried putting my ear against the door, but I couldn't sense anyone." `
-`"...There's no sign of any of the servants. `
-`...Where in the world did they disappear to...?" `
-`"This isn't funny. `
-`Father and the servants are hiding, and there are strange magic circles all over the mansion. `
-`...What in the world is happening...?!" `
-`There weren't only magic circles on the door to the boiler room and the door to the parlor. `
-`There were two on the second floor... `
-`and one on the third floor, for a total of five. `
-`They were all the same magic circle, and all of the doors had been locked, so they couldn't check inside the rooms. `
-`"...Anyway, let's do something about the boiler room first. `
-`It'd be bad if something broke down and caught fire or exploded. `
-`...So we need the key." `
-`"It should be in the key box in the servant room." `
-`They fished through that key box. `
-`Because each of the servants carried their master keys around, those weren't kept there. `
-`However, all of the individual keys should have been there. `
-`"......I can't believe they managed to fit so many keys in there." `
-`"...It isn't here. `
-`No matter how much we look, the key to the boiler room isn't here." `
-`"Look, Aneki. `
-`...Only the keys to the rooms with those magic circles drawn on them... `
-`are totally missing." `
-`"...It's true. `
-`...How bothersome..." `
-`"It's as though someone didn't want us to go into the rooms with the magic circles. `
-`...No, they went to all the trouble of making those magic circles obvious, so maybe they wanted us to enter..." `
-`"I think it's the latter. `
-`...This isn't a movie, so breaking down the door is probably impossible. `
-`Smashing a window might do the trick though." `
-`For a while, Krauss pondered over whether this situation really called for smashing a window. `
-`At that time, Hideyoshi and Nanjo returned. `
-`There was nothing strange in the guesthouse, and the children were safe. `
-`They told the others that Rosa and Kyrie had stayed to watch over the place. `
-`"Good morning. `
-`...I heard that something strange has happened." `
-`"Good morning, Doctor Nanjo. `
-`...I apologize for waking you so early in the morning." `
-`"What is it? `
-`Did you find a letter or somethin'? `
-`I was sure you'd have found somethin' like that by now..." `
-`"...You're right. `
-`I also believe this to be a massive joke or game of Father's... `
-`But if that's the case, there should be some letter telling us about it. `
-`Like the letter that was given to Maria-chan." `
-`"What if Maria-chan's letter actually was the announcement, telling us that the game was on? `
-`The rules of the game, "try solving the riddle of the epitaph", have already been made clear." `
-`"Then what might the five magic circles we found in the mansion represent? `
-`...And the missing servants?" `
+`Bagaimana keadaan Ayah?" `
+`"Tidak ada gunanya. `
+`Tidak ada balasan. `
+`Aku mencoba mendekatkan telingaku ke pintu, tapi aku tidak merasakan ada orang di sana." `
+`"...Tidak ada tanda-tanda para pelayan. `
+`...Ke mana mereka menghilang...?" `
+`"Ini tidak lucu. `
+`Ayah dan para pelayan bersembunyi, dan ada lingkaran sihir aneh di seluruh mansion. `
+`...Apa yang sedang terjadi di dunia ini...?!" `
+`Tidak hanya di pintu ruang boiler dan pintu ruang tamu. `
+`Ada dua di lantai dua... `
+`dan satu di lantai tiga, total lima lingkaran. `
+`Semua lingkaran sihir itu sama, dan semua pintu terkunci, jadi mereka tidak bisa memeriksa isi ruangan. `
+`"...Bagaimanapun, kita tangani ruang boiler dulu. `
+`Gawat kalau sesuatu rusak dan terbakar atau meledak. `
+`...Jadi kita butuh kuncinya." `
+`"Kuncinya seharusnya ada di kotak kunci di ruang pelayan." `
+`Mereka mencari di kotak kunci itu. `
+`Karena setiap pelayan membawa kunci utama mereka sendiri, kunci-kunci itu tidak disimpan di sana. `
+`Tapi, semua kunci pribadi seharusnya ada di sana. `
+`"......Aku tidak percaya mereka berhasil memasukkan begitu banyak kunci ke dalam sana." `
+`"...Itu tidak ada di sini. `
+`Tidak peduli seberapa keras kita mencari, kunci ruang boiler tidak ada di sini." `
+`"Lihat, Aneki. `
+`...Hanya kunci-kunci untuk ruangan yang memiliki lingkaran sihir yang digambar di atasnya... `
+`yang benar-benar hilang." `
+`"...Benar. `
+`...Betapa menyebalkannya..." `
+`"Seolah-olah ada yang tidak ingin kita masuk ke kamar-kamar dengan lingkaran sihir itu. `
+`...Tidak, mereka repot-repot membuat lingkaran sihir itu terlihat jelas, jadi mungkin mereka ingin kita masuk..." `
+`"Aku pikir yang terakhir. `
+`...Ini bukan film, jadi menghancurkan pintu mungkin tidak mungkin. `
+`Memecahkan jendela mungkin bisa jadi solusi." `
+`Selama beberapa saat, Krauss memikirkan apakah situasi ini benar-benar membutuhkan memecahkan jendela. `
+`Pada saat itu, Hideyoshi dan Nanjo kembali. `
+`Tidak ada yang aneh di guesthouse, dan anak-anak aman. `
+`Mereka memberitau yang lain kalau Rosa dan Kyrie tinggal untuk menjaga tempat itu. `
+`"Selamat pagi. `
+`...Aku dengar ada hal aneh yang terjadi." `
+`"Selamat pagi, Dokter Nanjo. `
+`...Maaf telah membangunkan anda begitu pagi." `
+`"Ada apa? `
+`Apakah kau menemukan surat atau sesuatu? `
+`Aku yakin kau sudah menemukan sesuatu seperti itu sekarang..." `
+`"...Benar juga. `
+`Aku juga yakin ini adalah lelucon besar atau permainan Ayah... `
+`Tapi jika itu benar, seharusnya ada surat yang memberitau kita tentang hal itu. `
+`Seperti surat yang diberikan kepada Maria-chan." `
+`"Bagaimana jika surat Maria-chan sebenarnya adalah pengumuman yang memberitahu kita bahwa permainan sudah dimulai? `
+`Aturan permainan, "coba selesaikan teka-teki nisan", sudah dijelaskan dengan jelas." `
+`"Lalu, apa yang mungkin diwakili oleh lima lingkaran sihir yang kita temukan di mansion? `
+`...Dan pelayan-pelayan yang hilang?" `
 `"...Natsuhi nee-san, `
-`how many servants were there today in total...?" `
-`"Huh? `
+`berapa banyak pelayan yang ada hari ini secara total...?" `
+`"Hah? `
 `......Genji, Gohda... `
-`...five of them, but why?" `
-`"...So, there are five servants. `
-`There are also five magic circles. `
-`...It's probably a coincidence, but I don't like it." `
+`...lima orang, tapi kenapa?" `
+`"...Jadi, ada lima pelayan. `
+`Ada juga lima lingkaran sihir. `
+`...Mungkin hanya kebetulan, tapi aku tidak suka itu." `
 `"...Nii-san, `
-`let's break a window. `
-`We should check and see what's inside." `
-`"......We have no choice. `
-`Do it neatly." `
-`Krauss made his decision and gave permission to smash a window. `
-`And he decided that the first room they would break into should be the parlor on the first floor, where the windows would be easiest to reach. `
-`They had hoped to peek in through the window, `
-`but the curtains were down, so they couldn't see inside. `
-`Rudolf wandered around the garden, trying to find something that would be good for smashing the window. `
-`Eventually, he found a rock bigger than a fist and came back. `
-`"You don't have to smash the whole thing. `
-`Just open it enough so you can reach the lock." `
-`"Don't get your hopes up, okay?" `
-`Rudolf raised the rock and hit the glass with it several times. `
-`Eventually, he succeeded in opening a hole big enough that he could unlock it from the outside. `
-`...Covering his hand with a handkerchief, he stuck his hand through that hole...and cautiously unlocked it. `
-`"We should probably cover it with packing tape later. `
-`The rain'll get blown in." `
-`When he suddenly opened the window, the wind and rain made the curtain dance around violently. `
-`That curtain was blown to the side. `
-`...They could see into the parlor they knew well. `
-`They were a little relieved. `
-`...They'd thought there might be another bizarre magic circle inside the room, `
-`or possibly the traces of some creepy ceremony. `
-`In any event, they didn't want to hang around out in the rain, `
-`so the six of them: Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo, entered the parlor as a group. `
-`"...It seems...that nothing in particular has changed..." `
+`ayo kita pecahkan jendela. `
+`Kita harus memeriksa apa yang ada di dalamnya." `
+`"......Mau bagaimana lagi. `
+`Lakukan dengan rapi." `
+`Krauss membuat keputusan dan memberi izin untuk memecahkan jendela. `
+`Dan dia memutuskan bahwa ruangan pertama yang akan mereka masuki adalah ruang tamu di lantai pertama, di mana jendela-jendelanya paling mudah dijangkau. `
+`Mereka berharap bisa mengintip melalui jendela, `
+`tetapi tirai tertutup, jadi mereka tidak bisa melihat ke dalam. `
+`Rudolf berkeliling taman, mencoba mencari sesuatu yang cocok untuk menghancurkan jendela. `
+`Akhirnya, dia menemukan batu yang lebih besar dari kepalan tangan dan kembali. `
+`"Tidak perlu kau hancurkan seluruhnya. `
+`Cukup buka sedikit agar bisa menjangkau kunci." `
+`"Jangan terlalu berharap, ya?" `
+`Rudolf mengangkat batu itu dan memukul kaca beberapa kali. `
+`Akhirnya, ia berhasil membuka lubang cukup besar sehingga bisa membuka kuncinya dari luar. `
+`...Menutupi tangannya dengan sapu tangan, dia memasukkan tangannya melalui lubang itu...dan dengan hati-hati membuka kuncinya. `
+`"Sebaiknya kita tutup dengan selotip kemasan nanti. `
+`Hujan akan masuk." `
+`Ketika dia tiba-tiba membuka jendela, angin dan hujan membuat tirai bergoyang dengan hebat. `
+`Tirai itu terbang ke samping. `
+`...Mereka bisa melihat ke ruang tamu yang mereka kenal baik. `
+`Mereka sedikit lega. `
+`...Mereka pikir mungkin ada lingkaran sihir aneh lain di dalam ruangan, `
+`atau mungkin jejak upacara aneh. `
+`Bagaimanapun, mereka tidak ingin berlama-lama di luar dalam hujan, `
+`jadi keenam orang itu: Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, dan Nanjo, masuk ke ruang tamu bersama-sama. `
+`"...Sepertinya...tidak ada yang berubah..." `
 `"......Nn-" `
-`"Wh-What's wrong, Shannon...?!" `
-`"Wait, wait, are you okay?! `
-`What happened to you?!" `
-`"Blood, blood!! `
-`D-D-Doctor Nanjo, take a look at this!!" `
-`"Hey, Shannon-chan! `
-`Are you okay?! `
-`Answer me!" `
-`"Y-You mustn't shake her... `
-`I will examine her condition now..." `
-`She had been in the shadow of the sofa, so they hadn't noticed her until they'd entered the room. `
-`Shannon was lying on the floor, her chest stained bright-red with blood... `
-`"He-y, `
-`Battleeer, where are yoooou? `
-`Look, look, Shannon's corpse has turned up, seeee? `
-`I won't bully you anymore, so come out." `
+`"Ada apa, Shannon...?!" `
+`"Tunggu, tunggu, apakah kau baik-baik saja?! `
+`Apa yang terjadi padamu?!" `
+`"Darah, darah!! `
+`D-D-Dokter Nanjo, lihat ini!!" `
+`"Hei, Shannon-chan! `
+`Kau baik-baik saja?! `
+`Jawab aku!" `
+`"K-Kau tidak boleh mengguncanginya... `
+`Aku akan memeriksa kondisinya sekarang..." `
+`Dia berada di bayang-bayang sofa, jadi mereka tidak menyadarinya sampai mereka masuk ke ruangan. `
+`Shannon terbaring di lantai, dadanya berlumuran darah merah terang... `
+`"Hei, `
+`Battleeer, di mana kau? `
+`Lihat, lihat, mayat Shannon sudah ditemukan, lihat? `
+`Aku tidak akan mengganggumu lagi, jadi keluarlah." `
 `"...Hmmmm? `
-`Oh, there you are. `
-`What are you doing, clutching at your head in a place like that?" `
+`Oh, kau di sini. `
+`Apa yang kau lakukan, memegang kepala di tempat seperti itu?" `
 `"............" `
-`Battler was crouching under the table, holding his head... `
-`His pitiful figure made it plainly clear that he didn't want to see anything, didn't want to hear anything... `
-`Had he heard {f:5:Beatrice}'s sneering voice? `
-`...Could he not hear, or was he pretending that he couldn't hear? `
-`In any event, it was clear that he'd closed up his heart like a shell... `
+`Battler sedang berlutut di bawah meja, memegang kepalanya... `
+`Penampilannya yang menyedihkan jelas menunjukkan dia tidak ingin melihat apapun, tidak ingin mendengar apapun... `
+`Apakah dia mendengar suara mengejek {f:5:Beatrice}? `
+`...Apakah dia tidak bisa mendengar, atau pura-pura tidak bisa mendengar? `
+`Bagaimanapun, jelas bahwa dia menutup hatinya seperti cangkang... `
 `"Pu ku ku ku... `
-`...Perhaps you tormented him too much, Milady. `
-`After showing him all that and demanding a counterargument, `
-`I can understand why'd he want to mope around." `
-`"Hey, Battleeer. `
-`If you can't argue back, then resign, okay? `
-`It's your turn. `
-`If you don't make some move or pass... `
-`or else give up, we won't get anywhere." `
-`"............et." `
-`"...Huh? `
-`What's that? `
-`I can't hear you?" `
-`"I said BE QUIET!! `
-`Aaaah, shut up, shut uuuuuuuuuuuup!! `
-`A witch? Magic?! `
-`Why don't you just do whatever you want?! I don't believe, I don't believe any of it, `
-`dammit, dammit, dammit, dammit!!" `
-`"Don't talk to me, don't show me anything, disappear, disappear, just disappear!! `
-`Don't get that annoying face near meeeeeeeeeeeeeeeeee!!!" `
+`...Mungkin Anda menyiksanya terlalu keras, Nyonya. `
+`Setelah menunjukkan semua itu padanya dan menuntut argumen balasan, `
+`saya bisa mengerti mengapa dia ingin bersedih-sedih." `
+`"Hei, Battleeer. `
+`Kalau kau tidak bisa membantah, mending mundur saja. `
+`Giliranmu. `
+`Kalau kau tidak melakukan sesuatu atau lewat... `
+`atau menyerah, kita tidak akan kemana-mana." `
+`"............am." `
+`"...Hah? `
+`Apa itu? `
+`Aku tidak bisa mendengarmu?" `
+`"Aku bilang DIAM!! `
+`Aaaah, diamlah, diamlahhhhhhhhh!! `
+`Penyihir? Sihir?! `
+`Kenapa kau tidak melakukan apa yang kau inginkan?! Aku tidak percaya, aku tidak percaya sama sekali, `
+`sial, sial, sial, sial!!" `
+`"Jangan bicara padaku, jangan tunjukkan apapun padaku, menghilang, menghilang, hanya menghilang!! `
+`Jangan dekatkan wajah menyebalkanmu ke dirikuuuuuuuuuuuuuuuuuuu!!!" `
 `".........!" `
-`{f:5:Beatrice} winced reflecively at Battler's sudden rage. `
-`"...E-Even if you say that... `
-`If you don't finish your turn, then my turn won't come. `
-`In fact, I'm the one asking you to stop boring me..." `
-`"Who cares, be quiet, shut uuup!! `
-`Who cares about your game?! `
-`I won't go along with iiiiit!! `
-`If your turn won't come until mine's finished, then just wait for all eternity!! `
-`Aaaah, I don't know, I don't know, I don't get it!! `
-`I won't accept witches or magic, I won't accept something that screwed up!! `
-`Uuooooooooooohhh, I said don't talk to meeeeeeeeeeeeeeeeeeee!!!" `
-`...I don't know what's what anymore. `
-`After being shown something that screwed up, how could I resist...? `
-`I wandered aimlessly through the rose garden. `
-`...It was raining and windy, but that didn't mean my body got wet. `
-`...There was just a feeling of isolation as I wandered amidst the wind and rain without an umbrella. `
-`".........Maybe... `
-`I lost in that person's game a long time ago." `
-`...Actually, didn't we already have a clear winner and loser in the last game? `
-`After all, I surrendered for a time. `
-`That's why the world was tinted with witches and magic. `
-`...Right now, Rokkenjima is a different world, where witches stride around openly and fire off strange spells. `
-`...It isn't a matter of accepting it or denying it. `
-`Maybe I mistakenly assumed that I was playing a game on an even footing with Beato. `
-`Maybe I was already defeated in the last game, ...and this is just the signing ceremony of my surrender. `
-`A minute ago, a terrible battle unfolded in this rose garden. `
-`I saw it with my own eyes. `
-`I kicked the ground. `
-`...Obviously, the ground was hard. `
-`And water from a puddle splashed. `
-`Several towers had split this ground, sprouting like high-rise buildings. `
-`...The more I kicked this ground, `
-`......the more it felt like that couldn't possibly have happened. `
-`But, for that very reason, I couldn't explain it with anything other than magic anymore... `
-`"...If it was a closed room with a key shut up inside, `
-`I'd know it was probably an extension of stuff you often see in detective novels." `
-`"...But that...? `
-`That big flashy thing...? `
-`Damn it......" `
-`"......It seems my disciple has caused you much trouble." `
-`"...Huh? `
-`......It's you..." `
-`Someone suddenly spoke to me, so I turned around, `
-`...and in the rose garden arbor... `
-`...was the Predecessor {f:5:Beatrice}, whom {f:5:Beatrice} had supposedly defeated a short while ago. `
-`"......I was sure you'd died. `
-`So, you survived." `
-`"No, I did die. `
-`...Now, I am nothing more than a defeated chess piece loitering outside the chessboard." `
-`"You're Beato's teacher, right? `
-`So, in other words, you're a witch too." `
-`"...Yes, that is correct." `
-`"Tch. `
-`So basically, `
-`...that means witches really do exist? `
-`And the only one who can defeat her...isn't me. `
-`That'd be you, since you can use awesome magic, right? `
-`...I'm just useless now. `
-`There's nothing I can do anymore..." `
-`"......Oh, my. `
-`Have you surrendered completely?" `
-`"What do you mean, surrender?! `
-`How am I supposed to explain that?! `
-`Towers sprouting and falling!! `
-`Huge giants holding shields and throwing spears!" `
-`"Aaah, just remembering it makes me feel like I'm going insane! We're way past the point of trying to reason this all out, aren't we?!! `
-`We've left the level of tricks and things that can be explained with human culprits!! `
-`Aaaaaaaaaaahh, damn it, damn it, damn it, damn it!!" `
-`"Calm yourself. `
-`...I am nothing more than a piece on that child's game board. `
-`After being removed from that board, I am no longer a being capable of doing anything. `
-`But you are that child's opponent. `
-`As long as you do not give up on your own, you will always have the power to strike back." `
-`"Shut up! `
-`Weren't you also reciting strange spells and summoning towers and spears?!! `
-`What do you mean, strike back?! `
-`Are you saying you'll teach me magic too, and make me take part in that massive magic battle?!!" `
-`"...If you wish, `
-`I could teach you a bit about magic." `
-`"Oh, just what I wanted! `
-`Please, give me some awesome magic to smash through her chest in one blow...!! `
-`Hah, don't screw with me!" `
-`"I hear that in Japanese magic, there is a ceremony used to pray for rain. `
-`Do you know of it?" `
-`"A rain ceremony? `
-`That thing where you throw stuff into a fire and dance as an offering? `
-`...That's not magic. `
-`They say that the fire causes an updraft, which makes rain clouds gather. `
-`That's supposed to be an accepted scientific phenomenon." `
+`{f:5:Beatrice} cemberut saat amarah Battler tiba-tiba meledak. `
+`"...B-Bahkan kalau kau mengatakan itu... `
+`Kalau kau tidak menyelesaikan giliranmu, maka giliranku tidak akan datang. `
+`Sebenarnya, aku yang memintamu untuk berhenti membuatku bosan..." `
+`"Siapa peduli, diamlah, tutup mulutmu!! `
+`Siapa peduli dengan permainanmu?! `
+`Aku tidak akan ikut-ikutan dengan ituuuuu!! `
+`Kalau giliranmu tidak akan datang sampai giliranku selesai, maka tunggu saja selamanya!! `
+`Aaaah, aku tidak tau, aku tidak tau, aku tidak mengerti!! `
+`Aku tidak akan menerima penyihir atau sihir, aku tidak akan menerima sesuatu yang kacau!! `
+`Uuooooooooooohhh, aku bilang jangan bicara padakuuuuuuuuuuuuuuuuuuuuu!!!" `
+`...Aku tidak tau apa-apa lagi. `
+`Setelah melihat sesuatu yang kacau ini, bagaimana aku bisa menolaknya...? `
+`Aku berjalan tanpa tujuan di taman mawar. `
+`...Hujan dan angin kencang, tapi itu tidak berarti tubuhku basah. `
+`...Hanya ada perasaan kesepian saat aku berjalan di tengah angin dan hujan tanpa payung. `
+`".........Mungkin... `
+`Aku kalah dalam permainannya sudah dari lama sekali." `
+`...Sebenarnya, bukankah kita sudah punya pemenang dan pecundang yang jelas dalam permainan terakhir? `
+`Lagi pula, aku menyerah untuk sementara waktu. `
+`Itulah mengapa dunia diwarnai dengan penyihir dan sihir. `
+`...Saat ini, Rokkenjima adalah dunia yang berbeda, di mana penyihir berjalan-jalan dengan bebas dan melepaskan mantra aneh. `
+`...Ini bukan soal menerima atau menolak. `
+`Mungkin aku salah mengira kalau aku bermain permainan dengan Beato dalam posisi yang seimbang. `
+`Mungkin aku sudah kalah dalam permainan terakhir, ...dan ini hanyalah upacara penyerahan diriku. `
+`Sejenak yang lalu, pertempuran mengerikan terjadi di taman mawar ini. `
+`Aku melihatnya dengan mata kepalaku sendiri. `
+`Aku menendang tanah. `
+`...Jelas, tanahnya keras. `
+`Dan air dari genangan air menyiprat. `
+`Beberapa menara telah membelah tanah ini, tumbuh seperti gedung pencakar langit. `
+`...Semakin aku tendang tanah ini, `
+`......semakin terasa hal itu tidak mungkin terjadi. `
+`Tapi, karena alasan itu, aku tidak bisa menjelaskannya dengan apa pun selain sihir... `
+`"...Kalau itu adalah ruangan tertutup dengan kunci yang terkunci di dalamnya, `
+`aku tau itu mungkin merupakan perpanjangan dari hal-hal yang sering kau lihat dalam novel detektif." `
+`"...Tapi itu...? `
+`Benda besar yang mencolok itu...? `
+`Sialan......" `
+`"......Sepertinya muridku sudah menimbulkan banyak masalah bagimu." `
+`"...Hah? `
+`......Kau kan..." `
+`Tiba-tiba ada yang berbicara padaku, jadi aku berbalik, `
+`...dan di bawah tempat teduh taman mawar... `
+`...ada pendahulu {f:5:Beatrice}, yang telah dikalahkan oleh {f:5:Beatrice} beberapa saat yang lalu. `
+`"......Aku yakin kau sudah mati. `
+`Jadi, kau selamat." `
+`"Tidak, aku memang sudah mati. `
+`...Sekarang, aku hanyalah bidak catur yang kalah yang berkeliaran di luar papan catur." `
+`"Kau guru Beato, kan? `
+`Jadi, dengan kata lain, kau juga seorang penyihir." `
+`"...Ya, itu benar." `
+`"Hmph. `
+`Jadi intinya, `
+`...itu berarti penyihir benar-benar ada? `
+`Dan satu-satunya yang bisa mengalahkannya...bukan aku. `
+`Itu kau, kan, karena kau bisa menggunakan sihir yang hebat? `
+`...Aku sekarang tidak berguna. `
+`Tidak ada yang bisa aku lakukan lagi..." `
+`"......Oh, astaga. `
+`Apakah kau sudah sepenuhnya menyerah?" `
+`"Maksudmu menyerah?! `
+`Bagaimana aku harus menjelaskannya?! `
+`Menara-menara tumbuh dan runtuh!! `
+`Para raksasa memegang perisai dan melempar tombak!" `
+`"Aaah, hanya mengingatnya saja membuatku merasa seperti akan gila! Kita sudah jauh melampaui titik di mana kita bisa mencoba memahami semua ini, bukan?! `
+`Kita sudah melewati level trik dan hal-hal yang bisa dijelaskan dengan pelaku manusia!! `
+`Aaaaaaaaaaahh, sialan, sialan, sialan, sialan!!" `
+`"Tenanglah. `
+`...Aku hanyalah sebuah bidak di papan permainan anak itu. `
+`Setelah dihilangkan dari papan itu, aku bukan lagi makhluk yang mampu melakukan apa pun. `
+`Tapi kau adalah lawan anak itu. `
+`Selama kau tidak menyerah, kau akan selalu memiliki kekuatan untuk membalas." `
+`"Diam! `
+`Bukankah kamu juga mengucapkan mantra aneh dan memanggil menara dan tombak?! `
+`Maksudmu membalas?! `
+`Apa kau akan mengajarkan sihir padaku juga, dan membuatku ikut serta dalam pertempuran sihir besar itu?!!" `
+`"...Kalau kau mau, `
+`aku bisa mengajarimu sedikit tentang sihir." `
+`"Oh, tepat seperti yang aku inginkan! `
+`Tolong, berikan aku sihir yang hebat untuk menghancurkan dadanya dengan satu pukulan...!! `
+`Hah, yang benar saja!" `
+`"Aku dengar dalam sihir Jepang, ada upacara untuk memohon hujan. `
+`Apakah kau tau tentang itu?" `
+`"Upacara hujan? `
+`Itu yang kau lempar barang ke api dan menari sebagai persembahan? `
+`...Itu bukan sihir. `
+`Mereka bilang api itu menyebabkan arus udara naik, yang membuat awan hujan berkumpul. `
+`Itu seharusnya fenomena ilmiah yang diakui." `
 `"Oh? `
-`...I believed it to be a form of Eastern magic, `
-`but is that not the case? `
-`I believed people offered sacred fire to the heavens, as well as a dance of respect, `
-`so that your entreaty for rain would reach the hearts of the gods." `
-`"Maybe people did that long ago. `
-`But most occult things like that have a scientific explanation." `
-`"Why do things burn? `
-`Isn't that because phlogiston is contained in the material?" `
-`"...No, things burn because of a chemical reaction. `
-`Lavoisier abolished the phlogiston theory." `
-`"Why does heat transfer through objects? `
-`Isn't that because caloric is contained in the material?" `
-`"...I'm pretty sure that was abolished by Joule. `
-`Heat is energy, not a substance." `
-`"You have studied well. `
-`Your knowledge is accurate." `
-`"...It's just some trivia." `
-`"Phlogiston, caloric, and eventually ether and god's love. `
-`...All are powerless before a scientific explanation. `
-`In the past, I was told that an apple falling from a tree `
-`was thanks to god's love, so that humans would be given food." `
-`"So, even gravity is the love of god? `
-`...Well, that's probably the remnants from the period when religion rather than science was used to explain everything." `
-`"That is correct. `
-`In the past, humans called the limits of their knowledge... `
-`...no, ignorance itself, magic. `
-`...Like the rain ceremony we were just talking about." `
-`"Did the people of ancient times realize that there was a scientific explanation, `
-`that fire gave rise to heat to cause updrafts that summoned clouds? `
-`Even without understanding these things, they at least knew the result." `
-`"...That probably happened a lot. `
-`That stuff called "knowledge of the ancestors". `
-`Even without understanding the reason, through long experience, they knew that they'd achieve results. `
-`...Phenomena whose principles they didn't understand were probably the same as magic to them." `
-`Like this person just said, ancient people who didn't understand those principles probably believed that, `
-`through the rain ceremony, their wishes would reach the heavens and make rain fall. `
-`To them, that was certainly magic. `
-`As long as they didn't understand updrafts... `
-`"If you push an electrical switch, a light turns on. `
-`...Children do not know the scientific principles behind why a lightbulb lights up, `
-`they only know the result when they push the switch. `
-`If they obtain such a result without knowing the principles, doesn't that make it magic to them?" `
-`"......That's pretty interesting. `
-`...Well, logically, that's true. `
-`...For example, I don't have a clue why the Braun tubes in a TV show a picture. `
-`Still, I think it's totally normal to see things shown on a TV. `
-`Even if I don't understand the principles behind Braun tubes, I at least know that "If I push the switch, I can watch TV". `
-`...It's exactly the same as having a rain ceremony without understanding updrafts. `
-`...In other words, if I don't know the principles, even TV is the same as magic... `
-`or even magic itself, I guess." `
-`"Do you know the structure of Braun tubes? `
-`Have you ever taken one apart and looked inside?" `
-`"...Nope. `
-`I think I read about it in a book or something once, but it was complicated and I didn't have a clue. `
-`I think that when electrons hit a fluorescent material, it creates luminescence or something like that..." `
-`"That book lied. `
-`Actually, there are small people called gremlins shut up inside the Braun tubes, `
-`and they do their work with magic." `
-`"Huh?! `
-`Don't be stupid, there's no way that's true...!" `
-`"How can you deny it, if you have never looked inside a Braun tube?" `
-`"...I've never looked inside, but I can say for sure that small people like that definitely don't exist!" `
-`"Since there are no Braun tubes here, that is impossible to prove." `
-`"Y-Yeah, it's impossible to prove right now, `
-`...but later, I can take apart a TV somewhere and show you, and instantly win the argument!" `
-`"So, put another way, `
-`my "magical theory" that gremlins are shut up inside the Braun tubes and display the picture with magic... `
-`is impossible to disprove until we can verify the contents of a Braun tube, correct?" `
+`...Aku pikir itu adalah bentuk sihir Timur, `
+`tapi apakah itu tidak benar? `
+`Aku rasa orang-orang mempersembahkan api suci kepada langit, serta tarian penghormatan, `
+`agar permohonanmu akan hujan sampai ke hati para dewa." `
+`"Mungkin orang-orang melakukan itu dulu. `
+`Tapi kebanyakan hal-hal gaib seperti itu memiliki penjelasan ilmiah." `
+`"Mengapa benda-benda terbakar? `
+`Bukankah itu karena ada kandungan phlogiston?" `
+`"...Tidak, benda-benda terbakar karena reaksi kimia. `
+`Lavoisier membantah teori phlogiston." `
+`"Mengapa panas dapat ditransfer melalui benda-benda? `
+`Bukankah itu karena caloric terkandung dalam bahan?" `
+`"...Aku yakin itu dibantah oleh Joule. `
+`Panas adalah energi, bukan zat." `
+`"Kau telah belajar dengan baik. `
+`Pengetahuanmu akurat." `
+`"...Itu hanya pengetahuan umum." `
+`"Phlogiston, caloric, dan akhirnya eter dan cinta Tuhan. `
+`...Semua itu tak berdaya di hadapan penjelasan ilmiah. `
+`Dulu, aku diberitau kalau sebuah apel yang jatuh dari pohon `
+`adalah berkat cinta Tuhan, agar manusia diberi makanan." `
+`"Jadi, bahkan gravitasi adalah cinta Tuhan? `
+`...Yah, itu mungkin sisa-sisa dari masa ketika agama, bukan sains, digunakan untuk menjelaskan segala sesuatu." `
+`"Itu benar. `
+`Dulu, manusia menyebut batas pengetahuan mereka... `
+`...tidak, ketidaktahuan itu sendiri, sihir. `
+`...Seperti upacara hujan yang baru saja kita bicarakan." `
+`"Apakah orang-orang zaman dahulu menyadari bahwa ada penjelasan ilmiah, `
+`bahwa api menghasilkan panas yang menyebabkan arus udara naik yang memanggil awan? `
+`Bahkan tanpa memahami hal-hal ini, mereka setidaknya tau hasilnya." `
+`"...Itu mungkin terjadi sering kali. `
+`Hal itu disebut "pengetahuan nenek moyang". `
+`Bahkan tanpa memahami alasannya, melalui pengalaman yang panjang, mereka tau mereka akan mendapat hasil. `
+`...Fenomena yang prinsipnya tidak mereka pahami mungkin sama dengan sihir bagi mereka." `
+`Seperti yang baru saja dikatakan orang ini, orang-orang kuno yang tidak memahami prinsip-prinsip itu mungkin percaya, `
+`kalau melalui upacara hujan, keinginan mereka akan sampai ke langit dan membuat hujan turun. `
+`Bagi mereka, itu tentu saja sihir. `
+`Selama mereka tidak memahami arus udara naik... `
+`"Kalau kau menekan tombol listrik, lampu akan menyala. `
+`...Anak-anak tidak tau prinsip ilmiah di balik mengapa lampu menyala, `
+`mereka hanya tau hasilnya saat menekan saklar. `
+`Jika mereka mendapatkan hasil tersebut tanpa mengetahui prinsip-prinsipnya, bukankah itu membuatnya terasa seperti sihir bagi mereka?" `
+`"......Itu cukup menarik. `
+`...Ya, secara logis, itu benar. `
+`...Misalnya, aku tidak tau kenapa tabung Braun di TV menampilkan gambar. `
+`Tapi, menurutku, melihat gambar di TV adalah hal yang sangat normal. `
+`Bahkan kalau aku tidak memahami prinsip di balik tabung Braun, setidaknya ali tau "Kalau aku menekan tombol, aku bisa menonton TV". `
+`...Itu sama saja dengan mengadakan upacara hujan tanpa memahami arus naik. `
+`...Dengan kata lain, kalau aku tidak tau prinsipnya, bahkan TV pun sama seperti sihir... `
+`atau bahkan sihir itu sendiri, mungkin." `
+`"Apa kau tahu struktur tabung Braun? `
+`Pernahkah kau membongkarnya dan melihat bagian dalamnya?" `
+`"...Tidak. `
+`Sepertinya aku pernah membacanya di buku atau sesuatu, tapi itu rumit dan aku tidak mengerti. `
+`Itu kan saat elektron menabrak bahan fluoresen, itu menciptakan luminesensi atau semacamnya..." `
+`"Buku itu bohong. `
+`Sebenarnya, ada makhluk kecil bernama gremlin yang terjebak di dalam tabung Braun, `
+`dan mereka melakukan pekerjaan mereka dengan sihir." `
+`"Hah?! `
+`Jangan membodohiku, tidak mungkin itu benar...!" `
+`"Bagaimana kau bisa menyangkalnya, kalau kau belum pernah melihat ke dalam tabung Braun?" `
+`"...Aku belum pernah melihat ke dalamnya, tapi bisa aku memastikan makhluk kecil seperti itu pasti tidak ada!" `
+`"Karena tidak ada tabung Braun di sini, itu tidak mungkin dibuktikan." `
+`"Y-Ya, sekarang memang tidak bisa dibuktikan, `
+`...tapi nanti, aku bisa membongkar TV di suatu tempat dan menunjukkan padamu, dan langsung memenangkan argumen!" `
+`"Jadi, dengan kata lain, `
+`teori "magis"ku gremlin terkunci di dalam tabung Braun dan menampilkan gambar dengan sihir... `
+`tidak mungkin dibantah sampai kita bisa membuktikan isi tabung Braun, kan?" `
 `"......Erk, `
-`......what the hell, is this one of those? `
-`Are you trying to say it's a "Devil's Proof"? `
-`That's a favorite trick of you witches." `
-`"A "Devil's Proof" is a bit of sophistry, one that takes advantage of the fact that negative facts are impossible to prove. `
-`However, it's different from my Braun tubes metaphor. `
-`That could be resolved simply by taking apart a single television." `
-`"...You're right. `
-`It isn't really a "Devil's Proof"." `
-`"You have proposed a scientific theory, and I have proposed a magical one. `
-`...One of those is the truth. `
-`And which one it is can be ascertained the moment you look inside a Braun tube. `
-`However, until the instant that happens, we cannot deny each other's theories." `
-`"So, even though only one truth exists, `
-`until you look into the Braun tube, you can have two conflicting truths existing at the same time. `
-`...You have a realm in which two truths can exist simultaneously, even though there must be only one truth in existence." `
-`Is the cat in the box alive or dead? `
-`If you open the box, you will learn the answer. `
-`You will learn the truth. `
-`However, until you open the box, you can claim that the cat is alive, and you can also claim that it is dead. `
-`Both claims are the "correct" truth according to the people making them, `
-`and even though the two sides are in conflict, neither can win the argument as long as the box remains unopened. `
-`In other words, two truths can exist at the same time. `
-`Even though there can only be one cat in the box, `
-`it is packed with a living cat and a dead cat, forming a strange separate world. `
-`That is what Rokkenjima is now. `
-`...This island is now a different world where a scientific theory and a magical one can exist at the same time. `
-`...To a resident of the world of science such as yourself, `
-`at a glance, it may feel as though this island had been sucked into a world of magic. `
-`That might not be wrong, but it is not accurate. `
-`Strictly speaking, it has been moved from the world of science to the gap between that world and the world of magic. `
-`So, at a glance, it appears to you as though the world is tilted towards the magical side. `
-`...But, in reality, this island is now in a perfectly impartial position with relation to those two opposing worlds. `
-`"...I don't really get it... `
-`The gap between reality and magic? `
-`A perfectly impartial world? `
-`How's that? `
-`Hasn't pretty much everything that's happened been totally not in my favor...?!" `
-`"Then perhaps you could think of it this way. `
-`This is a trial. `
-`Think of it as a court where you and {f:5:Beatrice} are laying out opposing claims. `
-`Call it a Braun tube trial." `
-`"Your opponent claims that there are tiny people inside the Braun tubes, `
-`explaining one thing after another, `
-`talking about the lives of these tiny people, what they look like, what type of magical power they have. `
-`...And what do you do?" `
-`"...Well, I study in a library and argue back by explaining how Braun tubes are constructed." `
-`"At this moment, both your claim and that child's claim exist in the court at the same time. `
-`...If you find your opponent's claim convincing, `
-`it might sound like truth to you. It might look like truth to you. `
-`{i:That is exactly what you saw}." `
+`......apa sih, ini salah satunya? `
+`Maksudmu ini adalah "Devil's Proof"? `
+`Itu trik favorit kalian para penyihir." `
+`"Devil's Proof" adalah sedikit kecerdikan, yang memanfaatkan fakta kalau fakta negatif tidak mungkin dibuktikan. `
+`Tapi, itu berbeda dengan metaforaku tentang tabung Braun. `
+`Itu bisa diselesaikan dengan mudah dengan membongkar satu televisi saja." `
+`"...Benar. `
+`Itu sebenarnya bukan "Devil's Proof"." `
+`"Kau telah mengusulkan teori ilmiah, dan aku mengusulkan teori magis. `
+`...Salah satunya adalah kebenaran. `
+`Dan mana yang benar dapat diketahui begitu kau melihat ke dalam tabung Braun. `
+`Tapi, hingga saat itu terjadi, kita tidak nisa menyangkal teori satu sama lain." `
+`"Jadi, meskipun hanya ada satu kebenaran, `
+`sampai kau melihat ke dalam tabung Braun, kau bisa punya dua kebenaran yang bertentangan yang ada pada saat yang sama. `
+`...kau punya dunia di mana dua kebenaran dapat ada secara bersamaan, meskipun hanya ada satu kebenaran yang sebenarnya ada." `
+`Apakah kucing di dalam kotak hidup atau mati? `
+`Kalau kau membuka kotak, kau akan mengetahui jawabannya. `
+`kau akan mengetahui kebenarannya. `
+`Tapi, sebelum kau membuka kotak, kau bisa menyatakan kalau kucing itu hidup, dan kau juga dapat menyatakan kalau kucing itu mati. `
+`Kedua pernyataan itu adalah "benar" menurut orang yang mengatakannya, `
+`dan meskipun kedua pihak bertentangan, tidak ada yang bisa memenangkan argumen selama kotak tetap tertutup. `
+`Dengan kata lain, dua kebenaran dapat ada pada saat yang sama. `
+`Meskipun hanya ada satu kucing di dalam kotak, `
+`kotak itu berisi seekor kucing hidup dan seekor kucing mati, membentuk dunia terpisah yang aneh. `
+`Itulah yang kini menjadi Rokkenjima. `
+`...Pulau ini kini menjadi dunia yang berbeda di mana teori ilmiah dan teori magis dapat ada secara bersamaan. `
+`...Bagi seorang penduduk dunia sains seperti dirimu, `
+`sekilas, mungkin terasa seolah-olah pulau ini telah tersedot ke dalam dunia sihir. `
+`Itu mungkin tidak salah, tetapi tidak akurat. `
+`Secara teknis, pulau ini telah dipindahkan dari dunia sains ke celah antara dunia sains dan dunia sihir. `
+`Jadi, sekilas, dunia ini tampak condong ke sisi sihir. `
+`...Tapi, pada kenyataannya, pulau ini sekarang berada dalam posisi yang sepenuhnya netral terhadap kedua dunia yang berlawanan tersebut. `
+`"...Aku tidak benar-benar mengerti... `
+`Celah antara kenyataan dan sihir? `
+`Dunia yang sepenuhnya netral? `
+`Maksud? `
+`Bukannya hampir semua yang terjadi sejauh ini sama sekali tidak menguntungkanku...?!" `
+`"Mungkin kau bisa memikirkannya seperti ini. `
+`Ini adalah sebuah pengadilan. `
+`Bayangkan sebagai pengadilan di mana kau dan {f:5:Beatrice} mengajukan pernyataan yang bertentangan. `
+`Sebut saja ini sidang Tabung Braun." `
+`"Lawannya menyatakan kalau ada orang-orang kecil di dalam tabung Braun, `
+`menjelaskan satu per satu, `
+`membicarakan kehidupan orang-orang kecil ini, bagaimana penampilan mereka, dan jenis kekuatan magis apa yang mereka miliki. `
+`...Dan apa yang kau lakukan?" `
+`"...Yah, aku belajar di perpustakaan dan membantah dengan menjelaskan bagaimana tabung Braun dibuat." `
+`"Saat ini, pernyataanmu dan pernyataan anak itu ada di pengadilan pada saat yang sama. `
+`...Kalau kau merasa pernyataaan lawanmu meyakinkan, `
+`mungkin terdengar seperti kebenaran bagimu. Mungkin terlihat seperti kebenaran bagimu. `
+`{i:Itulah tepatnya yang kau lihat}." `
 `"............" `
-`"At this moment, on Rokkenjima, witches and magic certainly may exist as truth. `
-`...However, until the moment that the cat's box is opened, that world is an uncertain wave function. `
-`The entire situation can be explained by both sides at the same time. `
-`However, there is one truth." `
-`"That set of truths shrinks with observation, `
-`and countless truths are weeded out to become one truth. `
-`It is like when, in court, `
-`the judge hands down his judgement. `
-`The two truths from the prosecutor's and the defense's claims... `
-`are reduced in number by the judgement and become one." `
-`"......To say it in your words, `
-`...this island right now is the world right before looking into a Braun tube, right...? `
-`Therefore, the science theory and the magic theory cannot be denied. `
-`And since they cannot be denied-" `
-`"Both can exist as truth. `
-`Therefore, both witches and magic can exist. `
-`...However, at the same time, your opinion of denial also exists as truth." `
-`"......It is a world where two conflicting things can exist at once. `
-`And, it is a world where conflicting truths cannot disprove each other. `
-`......Have you managed to understand...?" `
-`".........In other words, `
-`...no matter how much awesome magic Beato shows me, `
-`...it's only a claim of a "magical theory", and it doesn't disprove my position." `
-`"So, 'no matter what kind of magic Beato shows me in this world, `
-`it cannot become proof that magic exists'." `
-`"That's right. `
-`That child might even try to explain an apple falling from a tree with magic, `
-`perhaps by shaking her staff and magically plucking the apple, `
-`then claiming to be the thing that made it drop down to the earth." `
-`"However, that would be nothing more than another claim. `
-`None of your opponent's claims can prevent you from making yours. `
-`...In that sense, this world is quite "impartial" to both sides." `
-`"......I...get it... `
-`...Still, `
-`by that argument, if I show a sound argument with my "science theory", `
-`and it collides head on with her "magic theory", I also can't win against her. `
-`On top of that, the final judgement won't come until we peek into the Braun tube." `
-`"......Where is the Braun tube in this world? `
-`...Because it exists, there should be no reason for us to argue. `
-`...Why don't we just get along and peek into the Braun tube?" `
-`"If there really is a tiny person in there, it's my complete loss. `
-`Otherwise, it's my victory. `
-`...Why do we have to hold this debate without looking into the Braun tube?" `
-`"That itself is the "game" you are being challenged to. `
-`Maybe, instead of a court, I should use chess as an example. `
-`There, victory and loss are not determined by a judge. `
-`You who fight will decide it yourselves." `
-`"...Can you win an argument with an opponent in a screwed up world, where multiple truths can exist at the same time?" `
-`"In actual fact, didn't you lose an argument and surrender like this...?" `
+`"Saat ini, di Rokkenjima, penyihir dan sihir mungkin benar-benar ada sebagai kebenaran. `
+`...Tapi, hingga saat kotak kucing dibuka, dunia itu adalah fungsi gelombang yang tidak pasti. `
+`Seluruh situasi dapat dijelaskan oleh kedua belah pihak secara bersamaan. `
+`Tapi, ada satu kebenaran." `
+`"Kumpulan kebenaran itu menyusut dengan pengamatan, `
+`dan kebenaran-kebenaran yang tak terhitung jumlahnya disingkirkan untuk menjadi satu kebenaran. `
+`Hal itu seperti ketika, di pengadilan, `
+`hakim menjatuhkan putusannya. `
+`Dua kebenaran dari pernyataan jaksa penuntut dan pembela... `
+`jumlahnya berkurang oleh keputusan dan menjadi satu." `
+`"......Jadi, kalau dari kata-katamu itu, `
+`...pulau ini saat ini adalah dunia sebelum melihat ke dalam tabung Braun, kan...? `
+`Makanya, teori sains dan teori sihir tidak bisa dibantah. `
+`Dan karena keduanya tidak bisa dibantah-" `
+`"Keduanya bisa ada sebagai kebenaran. `
+`Oleh karena itu, baik penyihir maupun sihir dapat ada. `
+`...Tapi, pada saat yang sama, pendapat penolakanmu juga ada sebagai kebenaran." `
+`"......Ini adalah dunia di mana dua hal yang bertentangan dapat ada secara bersamaan. `
+`Dan, ini adalah dunia di mana kebenaran yang bertentangan tidak dapat saling membantah. `
+`......Apakah kau paham...?" `
+`".........Dengan kata lain, `
+`...seberapa hebatpun sihir yang ditunjukkan Beato kepadaku, `
+`...itu hanyalah pernyataan dari sebuah "teori sihir", dan tidak membantah posisiku." `
+`"Jadi, 'tak peduli jenis sihir apa yang Beato tunjukkan padaku di dunia ini, `
+`itu tidak bisa menjadi bukti kalau sihir itu ada'." `
+`"Benar. `
+`Anak itu mungkin akan mencoba menjelaskan apel yang jatuh dari pohon dengan sihir, `
+`mungkin dengan mengguncang tongkatnya dan secara ajaib memetik apel itu, `
+`lalu menyatakan dirinya sebagai penyebab apel itu jatuh ke bumi." `
+`"Tapi, itu hanyalah pernyataan lain. `
+`Tidak ada pernyataan lawanmu yang dapat mencegahmu membuat pernyataan sendiri. `
+`...Dalam hal itu, dunia ini cukup "netral" bagi kedua belah pihak." `
+`"......Aku... mengerti... `
+`...Tetap saja, `
+`dengan argumen itu, jika aku menunjukkan argumen yang kuat dengan "teori sains" ku, `
+`dan bertabrakan langsung dengan "teori sihir" miliknya, aku juga tidak bisa mengalahkannya. `
+`Di atas itu, keputusan akhir tidak akan datang sampai kita melihat ke dalam tabung Braun." `
+`"......Di mana tabung Braun di dunia ini? `
+`...Karena itu ada, seharusnya tidak ada alasan bagi kita untuk berdebat. `
+`...Mengapa kita tidak bersatu dan melihat ke dalam tabung Braun?" `
+`"Kalau memang ada orang kecil di dalamnya, itu kekalahan total bagiku. `
+`Kalau tidak, itu kemenanganku. `
+`...Mengapa kita harus membahas ini tanpa melihat ke dalam tabung Braun?" `
+`"Itu sendiri adalah "permainan" yang kau dihadapkan padanya. `
+`Mungkin, daripada menggunakan pengadilan, sebaiknya aku menggunakan catur sebagai contoh. `
+`Di sana, kemenangan dan kekalahan tidak ditentukan oleh hakim. `
+`Kalian yang bertarunglah yang akan menentukannya sendiri." `
+`"...Bisakah kau menang dalam perdebatan dengan lawan di dunia yang kacau, di mana kebenaran yang berbeda bisa ada secara bersamaan?" `
+`"Faktanya, bukankah kau kalah dalam perdebatan dan menyerah seperti ini...?" `
 `".........Heh. `
 `...Heheheh." `
-`"That is all the advice I can give you now. `
-`If you wish, I can occasionally offer you counsel." `
-`"...Sure. `
-`Thanks, that really helps. `
-`...I'll avenge you." `
-`"Hohohoh, thank you. `
-`I look forward to it." `
-`"What's your name?" `
-`"...{f:5:Beatrice} used to be my name, but now that I have surrendered it, I do not have a name. `
-`......So, I shall take a temporary name. `
+`"Itulah semua nasihat yang bisa aku berikan padamu sekarang. `
+`Kalau kau mau, aku bisa sesekali memberikan nasihat padamu." `
+`"...Tentu. `
+`Terima kasih, itu benar-benar membantu. `
+`...Aku akan membalaskan dendammu." `
+`"Hohohoh, terima kasih. `
+`Aku menantikannya." `
+`"Siapa namamu?" `
+`"...{f:5:Beatrice} dulu adalah namaku, tapi sekarang setelah aku menyerahkannya, aku tidak punya nama. `
+`......Jadi, aku akan mengambil nama sementara. `
 `...{f:5:Virgilius}. `
-`...No, `
-`how about {f:5:Virgilia}?" `
+`...Tidak, `
+`bagaimana dengan {f:5:Virgilia}?" `
 `"{f:5:Virgilia}. `
-`Like Valkyria? `
-`Wasn't that a name for goddesses that show up in myths?" `
-`"No. `
-`It means the guide who leads the way to {f:5:Beatrice}. `
-`...I will guide you to that child, who waits at the summit of Mount Purgatory. `
-`It ought to be a fitting name for such a guide." `
-`"Who would've guessed I'd accept help from a witch when I'm trying to deny witches. `
-`...I see. `
-`If this is a contradictory world where different claims can exist at the same time, I guess that's cool. `
-`...Ihihi, it's almost funny." `
-`"I am borrowing that child's words, but you truly are like a phoenix. `
-`...Your will to fight has already been revived. `
-`...Come, if your heart is prepared, return to your opponent, `
-`...return to the chessboard where that child is seated. `
-`...I look forward to seeing how far you can fight with my disciple." `
-`"Yeah, watch it. `
-`......I won't listen to her babbling anymore. `
-`I'll coolly fight to the end. `
-`I definitely won't get provoked by her any longer." `
-`"Then let us return. `
-`To the seat of the battle." `
+`Seperti Valkyria? `
+`Bukankah itu nama untuk dewi-dewi yang muncul dalam mitos?" `
+`"Tidak. `
+`Artinya pemandu yang menuntun jalan menuju {f:5:Beatrice}. `
+`...Aku akan membimbingmu ke anak itu, yang menunggu di puncak Gunung Purgatory. `
+`Itu seharusnya nama yang pantas untuk seorang pemandu seperti itu." `
+`"Siapa sangka aku akan menerima bantuan dari seorang penyihir saat aku berusaha menolak penyihir. `
+`...Aku mengerti. `
+`Jika ini adalah dunia yang kontradiktif di mana pernyataan yang berbeda dapat ada pada saat yang sama, kurasa itu keren. `
+`...Ihihi, hampir lucu." `
+`"Aku meminjam kata-kata anak itu, tapi kau benar-benar seperti burung phoenix. `
+`...Kemauanmu untuk bertarung sudah bangkit kembali. `
+`...Nah, kalau hatimu sudah siap, kembalilah ke lawanmu, `
+`...kembalilah ke papan catur di mana anak itu duduk. `
+`...Aku penasaran melihat sejauh mana kau bisa bertarung dengan muridku." `
+`"Ya, hati-hati. `
+`......Aku tidak akan mendengarkan omong kosongnya lagi. `
+`Aku akan bertarung dengan tenang hingga akhir. `
+`Aku pasti tidak akan terpancing olehnya lagi." `
+`"Mari kita kembali. `
+`Ke tempat pertempuran." `
 `"...O-Oh, Battler...! `
-`Where did you run off to? `
-`*cackle*! `
-`And I thought losers never came back for more." `
-`"...Sorry to keep you waiting. `
-`I've cooled my head a little." `
-`"And? `
-`Did you think of a response to that pleasant, thrilling, refreshing, highly acclaimed, wonderful fantasy battle between Teacher and meeeeeeee? `
-`Isn't that impossible to explain without fantasy? `
+`Kemana kamu pergi? `
+`*terkekeh*! `
+`Aki kira pecundang tidak pernah kembali untuk lebih." `
+`"...Maaf telah membuatmu menunggu. `
+`Aku sudah menenangkan diri sedikit." `
+`"Dan? `
+`Apakah kau sudah memikirkan jawaban untuk pertarungan fantasi yang menyenangkan, mendebarkan, menyegarkan, sangat dipuji, dan luar biasa antara Guru dan akuuuuuuuu? `
+`Bukankah itu tidak mungkin dijelaskan tanpa fantasi? `
 `Hihhyahhahahahahahahahahahahahaah?!" `
-`"...Milady, `
-`didn't you just promise to be kind and act more gracefully?" `
-`"Ahhyahahahahaha, oh no, oh no. `
-`I just got in such a good mood when I saw Battler's face, you see? `
-`Look, look, look, how are you gonna respond to that battle just now, Battler? `
+`"...Nyonya, `
+`bukankah anda baru saja berjanji untuk bersikap baik dan lebih anggun?" `
+`"Ahhyahahahahaha, oh tidak, oh tidak. `
+`Aku jadi sangat senang saat melihat wajah Battler. `
+`Lihat, lihat, lihat, bagaimana kau akan menanggapi pertarungan tadi, Battler? `
 `Hmmmmmm?" `
 `"............ `
-`...Battle? `
-`What battle?" `
-`"...Whaat?" `
-`"In this rose garden, `
-`where do you see those spears, `
-`and towers you made lying around? `
-`......They aren't here, are they? `
-`...In other words, it's just like the inside of a Braun tube." `
-`"...The inside of a Braun tube?? `
-`*cackle* What in the world are you talking about now...?" `
-`"At this very moment, `
-`there's nothing at all in the rose garden. `
-`Towers may have been sprouting with magic until a short while ago. `
-`However, that's only the case until we see what's inside the Braun tube. `
-`...That magical battle is nothing more than your interpretation, your claim. `
-`The fact that there's absolutely nothing to see here now proves it." `
-`"This is how I argue back about that witch's battle just now. `
-`Right now, there isn't anything here, which proves that nothing happened...!" `
+`...Pertarungan? `
+`Pertarungan apa?" `
+`"...Apa?" `
+`"Di taman mawar ini, `
+`di mana kau melihat tombak-tombak itu, `
+`dan menara yang kau buat berserakan di sini? `
+`......Mereka tidak ada di sini, kan? `
+`...Dengan kata lain, ini seperti bagian dalam tabung Braun." `
+`"...Bagian dalam tabung Braun?? `
+`*terkekeh* Apa yang kau bicarakan sekarang...?" `
+`"Pada saat ini, `
+`tidak ada apa-apa di taman mawar. `
+`Menara-menara mungkin tumbuh dengan sihir hingga beberapa saat yang lalu. `
+`Tapi, itu hanya berlaku hingga kita melihat apa yang ada di dalam tabung Braun. `
+`...Menurut pernyataanmu, pertempuran sihir itu hanyalah penafsiranmu. `
+`Fakta kalau tidak ada apa-apa yang bisa dilihat di sini sekarang membuktikannya." `
+`"Begitulah caraku membantah tentang pertempuran penyihir tadi. `
+`Saat ini, tidak ada apa-apa di sini, yang membuktikan kalau tidak ada yang terjadi...!" `
 `"......... `
 `...Hahaha, hahahahaha! `
-`Come now, of course I can't make a huge mess when it's only the first twilight, and I am rather fond of that rose garden, you see? `
-`To prevent any damage, I had the fight occur inside a barrier. `
-`So it's only natural that it wouldn't have any influence on reality." `
-`"...That's your claim? `
-`Well, I guess that works." `
-`"However! `
-`At this point in time, there is nothing in the rose garden. `
-`So nothing stands in the way of my claim that there was no magic done here!!" `
-`"W-Wait, wait, can you deny my magic with a mess like that?! `
-`It is impossible to prove that magic "does not exist"! `
-`It's a "Devil's Proof"!!" `
-`"At this point in time, this garden is the truth! `
-`The instant you look inside, the tiny people inside the Braun tube will vanish. `
-`And there are no traces of magic here at all! `
-`So that battle between you witches "did not take place"!!" `
-`"Wh- `
-`What the... `
-`Th-that counter...?! `
-`That power, `
-`...c-could it be...?!" `
-`"...Have you forgotten, Milady? `
-`It is the Multi-layered Worlds Reduction Technique. `
-`The power of a Finite Witch, the counter to the power of an Endless Witch. `
-`Only an Endless Witch can perceive it, and it is most effective against such a witch." `
-`"Sch-Schrodinger's cat box?! `
-`......Th-That old hag of a witch... What an uncalled-for hint!!" `
-`"We've lost time. `
-`Including the five servants and Grandfather, there are six corpses! `
-`Let me check the scene. `
-`I've been trudging along wasting time. `
-`From now on, I'll speed things up, okay?" `
-`"Take a seat, {f:5:Beatrice}!! `
-`It's finally the first twilight, isn't it? Let's start the real thing. `
-`Show me what you've got!!!" `
+`Ayolah, saat ini baru senja pertama tentu saja aku tidak bisa membuat kekacauan besar, dan aku cukup menyukai taman mawar itu loh. `
+`Untuk mencegah kerusakan, aku membuat pertarungan terjadi di dalam penghalang. `
+`Jadi wajar saja jika hal itu tidak berpengaruh pada kenyataan." `
+`"...Itu pernyataanmu? `
+`Yah, kurasa itu masuk akal." `
+`"Tapi! `
+`Saat ini, tidak ada apa-apa di taman mawar. `
+`Jadi tidak ada yang menghalangi pernyataanku kalau tidak ada sihir yang dilakukan di sini!!" `
+`"Tunggu, tunggu, memangnya kau bisa membantah sihirku dengan kekacauan seperti itu?! `
+`Mustahil membuktikan sihir "tidak ada"! `
+`Ini adalah "Devil's Proof"!!" `
+`"Saat ini, taman ini adalah kebenaran! `
+`Begitu kau melihat ke dalamnya, orang-orang kecil di dalam tabung Braun akan menghilang. `
+`Dan tidak ada jejak sihir sama sekali di sini! `
+`Jadi pertempuran antara kalian para penyihir "tidak pernah terjadi"!!" `
+`"Apa- `
+`Apa-apaan... `
+`D-dengan balasan itu...?! `
+`Kekuatan itu, `
+`...m-mungkinkah...?!" `
+`"...Apakah anda lupa, Nyonya? `
+`Itu adalah Teknik Pengurangan Dunia Berlapis. `
+`Kekuatan Penyihir Terbatas, penangkal kekuatan Penyihir Tak Terbatas. `
+`Hanya Penyihir Tak Berbatas yang dapat merasakannya, dan teknik ini paling efektif melawan penyihir semacam itu." `
+`"Kotak Kucing Schrodinger?! `
+`......Si penyihir tua itu... Apa maksudnya memberi petunjuk seperti itu!!" `
+`"Tidak ada waktu lagi. `
+`Termasuk lima pelayan dan Kakek, ada enam mayat! `
+`Biarkan aku memeriksa lokasi. `
+`Aku sudah membuang-buang waktu. `
+`Mulai sekarang, aku akan mempercepat segala sesuatunya." `
+`"Duduklah, {f:5:Beatrice}!! `
+`Akhirnya senja pertama, kan? Mari mulai yang sesungguhnya. `
+`Tunjukkan apa yang kau punya!!!" `
