@@ -1,483 +1,483 @@
-`"You idiot!! `
-`Isn't it obvious?!! `
-`It'll be fun to kill her and see your face twist in pain, why else?!! `
+`"Dasar idiot!! `
+`Bukankah itu sudah jelas?!! `
+`Akan menyenangkan membunuhnya dan melihat wajahmu terdistorsi oleh rasa sakit, memangnya untuk apa lagi?!! `
 `Gahyahahahahahahaha!!" `
-`"Look, look, don't turn your eyes away, look at it. `
-`Look, look, look! `
-`It's magic, it's furniture, no matter how much you try to deny me and magic, look, look, look, look, look! `
+`"Lihat, lihat, jangan alihkan pandanganmu, lihat itu. `
+`Lihat, lihat, lihat! `
+`Itu sihir, itu furniture, sekeras apa pun kau menyangkal diriku dan sihir, lihat, lihat, lihat, LIHAT, LIHAT! `
 `Gyahhahhahahaha!!" `
-`"Sorry, Battleer. `
-`It was pretty fun. `
-`Sure, I just did what Teacher told me, but look how great it turned out! `
-`Apparently, if you start out all hostile and needlessly brutal, then turn incompetent and soft at just the right moment, you can spark a huge bump on your affection meter, ri-ght? `
+`"Maaf ya, Battler. `
+`Itu cukup menyenangkan. `
+`Tetap saja, aku hanya melakukan apa yang Guru perintahkan, tapi lihat hasilnya betapa hebatnya! `
+`Ternyata, kalau kau memulai dengan sikap bermusuhan dan kebrutalan yang berlebihan, lalu berubah jadi tidak kompeten dan lembek di momen yang pas, kau bisa memicu lonjakan besar di meteran afeksi, be-nar, kan? `
 `Kyahahahahahaah!!" `
-`That lonely tone...was the desolate sound of the wind blowing by. `
-`The glittering rose petals on these bushes...were all golden. `
-`The cloud of gold butterflies that had once danced through this golden rose garden like fluttering rose petals... `
-`was no longer anywhere to be seen... `
-`The master of the Golden Land is the Golden Witch, {f:5:Beatrice}. `
-`She might be called inhumane and cruel. `
-`Arrogant and outrageous. `
-`Or perhaps...naive and simple. `
-`That laugh of hers, which lost its grace more and more the longer it continued, ......could no longer be heard. `
-`The Golden Witch {f:5:Beatrice}... `
-`sat like a doll, resting in a deck chair adorned as beautifully as the golden rose garden itself. `
-`...She wasn't relaxing there. `
-`Her eyes were empty. `
-`She didn't respond to any questions. `
-`Even so, she was not permitted to sleep. `
-`{f:5:Beatrice} sat like a doll... `
-`Her hair was down, and {f:5:Virgilia} was carefully tending to it with a comb. `
-`The usual Beato would surely `
-`have spent this time complaining about this and that regarding her hairstyle. `
-`...However, she made no response, showed no reaction. `
-`So it really only looked like {f:5:Virgilia} was combing the golden hair of a large doll... `
-`There was a table alongside them. `
-`On it sat a chessboard, ...along with a jumble of black and white pieces locked in a closely-fought battle. `
-`However, this setup looked somehow different from normal chess. `
-`...Maybe the game was similar, though not identical. `
-`And on the other side, ...sitting back in his chair as he contemplated his next move, was a young man. `
-`...No, perhaps it wasn't his next move he contemplated. `
-`Every once in a while, he would change the positions of the pieces, reconsidering the situation after every change. `
-`Maybe he was reconstructing previous games, trying to discover the thought process behind the moves that had been made. `
-`In the past, `
-`Kinzo, the Ushiromiya Family Head, once said that learning chessboard arrangements was like taking a journey through the thoughts of the old masters. `
-`Ushiromiya Battler...was on a journey. `
-`A search for the thought process...that had led the Golden Witch to create this arrangement and make these moves. `
-`Battler took a black piece that should have been moved forward...and returned it to its original place, sighing deeply. `
-`Battler's pieces were white. `
-`However, on this chessboard, the black encampment was on Battler's side. `
-`He was reconstructing that arrangement, trying to play Beato's role... `
-`"...The more I do this, the less I understand your moves." `
-`Even Battler...didn't expect that Beato would respond to that statement. `
-`Or rather...he was pretending to talk to himself, `
-`...thinking there might still be some chance of her responding. `
-`Beato's eyes...reflected nothing. `
-`And her mouth told nothing. `
+`Nada kesepian itu...adalah suara sunyi angin yang berhembus lewat. `
+`Kelopak mawar berkilauan di semak-semak ini...semuanya berwarna emas. `
+`Awan kupu-kupu emas yang dulu menari di taman mawar emas ini seperti kelopak mawar yang beterbangan... `
+`kini sudah tak terlihat di mana pun... `
+`Tuan dari Tanah Emas adalah Penyihir Emas, {f:5:Beatrice}. `
+`Dia mungkin disebut tak berperikemanusiaan dan kejam. `
+`Sombong dan keterlaluan. `
+`Atau mungkin...naif dan sederhana. `
+`Tawa miliknya itu, yang semakin lama semakin kehilangan keanggunannya seiring berjalannya waktu, ......kini tak lagi terdengar. `
+`Penyihir Emas {f:5:Beatrice}... `
+`duduk seperti boneka, bersandar di kursi dek yang dihias seindah taman mawar emas itu sendiri. `
+`...Dia tidak sedang bersantai. `
+`Matanya kosong. `
+`Dia tidak menanggapi pertanyaan apa pun. `
+`Meski begitu, dia tidak diizinkan untuk tidur. `
+`{f:5:Beatrice} duduk seperti boneka... `
+`Rambutnya terurai, dan {f:5:Virgilia} dengan hati-hati merawatnya menggunakan sisir. `
+`Beato yang biasanya pasti `
+`akan menghabiskan waktu ini dengan mengeluh tentang ini dan itu soal gaya rambutnya. `
+`...Namun, dia tidak memberi respons, tidak menunjukkan reaksi apa pun. `
+`Jadi, yang terlihat hanyalah {f:5:Virgilia} sedang menyisir rambut emas sebuah boneka besar... `
+`Di samping mereka ada sebuah meja. `
+`Di atasnya terdapat papan catur, ...bersama tumpukan bidak hitam dan putih yang terlibat dalam pertarungan sengit. `
+`Namun, susunan ini tampak agak berbeda dari catur biasa. `
+`...Mungkin permainannya mirip, tapi tidak sepenuhnya sama. `
+`Dan di sisi seberangnya, ...bersandar di kursinya sambil memikirkan langkah berikutnya, duduklah seorang pemuda. `
+`...Tidak, mungkin bukan langkah berikutnya yang dia pikirkan. `
+`Sesekali, dia akan mengubah posisi bidak-bidak itu, meninjau ulang situasi setiap kali terjadi perubahan. `
+`Mungkin dia sedang merekonstruksi permainan-permainan sebelumnya, mencoba menemukan proses berpikir di balik langkah-langkah yang telah dibuat. `
+`Di masa lalu, `
+`Kinzo, Kepala Keluarga Ushiromiya, pernah mengatakan bahwa mempelajari susunan papan catur itu seperti melakukan perjalanan menembus pikiran para maestro terdahulu. `
+`Ushiromiya Battler...sedang melakukan sebuah perjalanan. `
+`Sebuah pencarian atas proses berpikir...yang telah mendorong Penyihir Emas menciptakan susunan ini dan membuat langkah-langkah tersebut. `
+`Battler mengambil sebuah bidak hitam yang seharusnya digerakkan maju...lalu mengembalikannya ke posisi semula sambil menghela napas dalam-dalam. `
+`Bidak Battler berwarna putih. `
+`Namun, di papan ini, kubu hitam berada di sisi Battler. `
+`Dia sedang merekonstruksi susunan itu, mencoba memainkan peran Beato... `
+`"...Semakin kulakukan ini, semakin aku tak mengerti langkah-langkahmu." `
+`Bahkan Battler...tidak menyangka Beato akan menanggapi pernyataan itu. `
+`Atau lebih tepatnya...dia hanya berpura-pura berbicara pada dirinya sendiri, `
+`...berharap masih ada sedikit kemungkinan bahwa dia akan merespons. `
+`Mata Beato...tidak memantulkan apa pun. `
+`Dan mulutnya tidak menyampaikan apa pun. `
 `"....................." `
-`After begging him to kill her, `
-`...the Golden Witch had become a corpse that had given up on life. `
-`She wasn't sleeping. `
-`...She couldn't step down from this game and was therefore forbidden sleep. `
-`So, those words must have reached her ears. `
-`However, ...they probably hadn't reached her heart. `
-`The Golden Witch would not sneer at Battler's moves, nor would she praise them or belittle them. `
-`By now, ...{f:5:Beatrice} was nothing more than a living doll. `
-`Even so, she would glance at him every once in a while. It would be an empty glance, but a glance nonetheless. `
-`Sometimes, she would seem to make some sort of gesture... or even move her lips. `
-`However, her movements never managed to communicate anything to Battler... `
-`"How did you decide on this move in this situation? `
-`...I don't get it at all. `
-`I don't understand your moves." `
+`Setelah memohon padanya untuk membunuhnya, `
+`...Penyihir Emas telah menjadi sesosok mayat yang menyerah pada kehidupan. `
+`Dia tidak sedang tidur. `
+`...Dia tidak bisa turun dari permainan ini dan karena itu dilarang untuk tidur. `
+`Jadi, kata-kata itu pasti telah sampai ke telinganya. `
+`Namun, ...barangkali kata-kata itu tidak pernah sampai ke hatinya. `
+`Penyihir Emas tidak akan mencibir langkah Battler, juga tidak akan memujinya atau meremehkannya. `
+`Kini, ...{f:5:Beatrice} tak lebih dari sekadar boneka hidup. `
+`Meski begitu, sesekali dia akan melirik ke arahnya. Tatapan itu kosong, tapi tetap saja sebuah tatapan. `
+`Kadang-kadang, dia tampak membuat semacam gerakan...atau bahkan menggerakkan bibirnya. `
+`Namun, gerakan-gerakannya tak pernah berhasil menyampaikan apa pun kepada Battler... `
+`"Bagaimana kau memutuskan langkah ini dalam situasi seperti ini? `
+`...Aku sama sekali tak mengerti. `
+`Aku tidak memahami langkah-langkahmu." `
 `".................." `
 `"...Beato, `
-`Battler-kun is talking to you..." `
+`Battler-kun sedang berbicara padamu..." `
 `".................." `
-`"...Say something. `
-`Giggle, or guffaw, or something. `
-`...Even use that shrill laugh of yours, if you want." `
-`...Can you believe it...? `
-`That shrill laugh of Beato's...will never be heard again. `
-`However, even if she couldn't answer, his voice surely reached her. `
-`...That was what Battler believed as he said these words. `
-`So he said it again... `
-`"How did you decide on this move in this situation? `
-`I don't get it at all. `
-`I don't understand your moves." `
+`"...Katakan sesuatu. `
+`Tertawalah kecil, atau terbahaklah, atau apa saja. `
+`...Bahkan gunakan tawa melengkingmu itu, kalau kau mau." `
+`...Bisakah kau percaya...? `
+`Tawa melengking milik Beato itu...tak akan pernah terdengar lagi. `
+`Namun, meski dia tak bisa menjawab, suaranya pasti sampai kepadanya. `
+`...Itulah yang Battler yakini saat dia mengucapkan kata-kata ini. `
+`Maka dia mengatakannya lagi... `
+`"Bagaimana kau memutuskan langkah ini dalam situasi seperti ini? `
+`Aku sama sekali tak mengerti. `
+`Aku tidak memahami langkah-langkahmu." `
 `"............ `
-`...So, you don't understand what this child is thinking?" `
-`{f:5:Virgilia} answered in her disciple's stead. `
-`Up to this point, she had done her best to avoid speaking for Beato. `
-`After all, there was a chance that Beato would respond in some way, and {f:5:Virgilia} didn't want to be the one to steal that chance. `
-`...So, Battler was going to have to bear with this silence... `
-`...until Beato herself answered. `
-`{f:5:Virgilia} could no longer bear to watch Battler like this... `
-`Besides, Battler also wanted to hear what {f:5:Virgilia} had to say. `
-`He believed that conversation would reach Beato's heart... `
-`"Yep. `
-`I don't have a clue. `
-`...The more I try standing in Beato's shoes and moving the pieces like this, the less I understand." `
-`A serial murder following an epitaph. `
-`With that as a victory condition, I tried reconstructing the games from the witch's side, `
-`...but I never ended up making the moves Beato did. `
-`In those games, I could find several incomprehensible moves that clearly worked against that victory condition... `
-`"...I don't get it at all. `
-`This journey through her thoughts is just too rugged." `
-`"Even so, you won't give up, will you?" `
-`"I won't. `
-`......I promised." `
+`...Jadi, kau tidak mengerti apa yang sedang dipikirkan anak ini?" `
+`{f:5:Virgilia} menjawab mewakili muridnya. `
+`Sampai titik ini, dia telah berusaha sebaik mungkin untuk tidak berbicara menggantikan Beato. `
+`Bagaimanapun, masih ada kemungkinan Beato akan merespons dengan caranya sendiri, dan {f:5:Virgilia} tidak ingin menjadi orang yang merebut kesempatan itu. `
+`...Jadi, Battler harus menahan diri menghadapi keheningan ini... `
+`...sampai Beato sendiri menjawab. `
+`{f:5:Virgilia} tak lagi sanggup melihat Battler seperti ini... `
+`Lagipula, Battler juga ingin mendengar apa yang ingin disampaikan {f:5:Virgilia}. `
+`Dia percaya bahwa percakapan itu akan mencapai hati Beato... `
+`"Ya. `
+`Aku benar-benar tak punya petunjuk. `
+`...Semakin aku mencoba berdiri di posisi Beato dan menggerakkan bidak seperti ini, semakin aku tak mengerti." `
+`Pembunuhan berantai yang mengikuti sebuah epitaf. `
+`Dengan itu sebagai syarat kemenangan, aku mencoba merekonstruksi permainan dari sisi penyihir, `
+`...namun aku tak pernah berakhir membuat langkah-langkah yang Beato buat. `
+`Dalam permainan-permainan itu, aku menemukan beberapa langkah yang tak bisa kupahami dan jelas-jelas bertentangan dengan syarat kemenangan tersebut... `
+`"...Aku benar-benar tak mengerti. `
+`Perjalanan menelusuri pikirannya ini terlalu terjal." `
+`"Meski begitu, kau tak akan menyerah, bukan?" `
+`"Aku tidak akan. `
+`......Aku sudah berjanji." `
 `{a:c: `
-`Kill...me. `
-`......Let me die......} `
-`"I promised to let her die peacefully. `
-`......And I'm the only one who can do it." `
-`...Beato's right ankle was bound with a heavy, cold, steel shackle. `
-`It wasn't tied to anything, so it didn't restrict her movement. `
-`However, it symbolized restriction. `
-`It was a visualization of the bonds...that prevented her from leaving the game until she either won or lost... `
-`And, ...the shackle was probably hurting her. `
-`The mercilessly cold shackle... `
-`tormented her over and over inside her waking dream. `
+`Bunuh...aku. `
+`......Biarkan aku mati......} `
+`"Aku berjanji akan membiarkannya mati dengan tenang. `
+`......Dan hanya aku satu-satunya yang bisa melakukannya." `
+`...Pergelangan kaki kanan Beato terikat dengan sebuah belenggu baja yang berat dan dingin. `
+`Belenggu itu tidak terikat pada apa pun, jadi tidak membatasi gerakannya. `
+`Namun, itu melambangkan keterikatan. `
+`Itu adalah visualisasi dari belenggu...yang mencegahnya meninggalkan permainan ini sampai dia menang atau kalah... `
+`Dan, ...belenggu itu mungkin sedang menyakitinya. `
+`Belenggu yang dinginnya kejam itu... `
+`menyiksanya berulang kali di dalam mimpi terjaganya. `
 `".........Ghh.........ah..." `
-`So, there was never any sign of relief in her empty expression. `
-`Her eyelids would sometimes tremble like she was having a nightmare, ...and every once in a while, she would let out a pained gasp. `
-`Unless I win, `
-`...Beato will never be released from the curse that prevents her from sleeping peacefully... `
-`"...Are you sure you want to be doing this? `
-`It seems the 5th game has already started." `
+`Karena itu, tak pernah ada tanda kelegaan di ekspresi kosongnya. `
+`Kelopak matanya kadang bergetar seolah dia mengalami mimpi buruk, ...dan sesekali dia mengeluarkan desahan kesakitan. `
+`Kecuali aku menang, `
+`...Beato tak akan pernah dibebaskan dari kutukan yang mencegahnya tidur dengan tenang... `
+`"...Apakah kau yakin ingin melakukan ini? `
+`Sepertinya permainan ke-5 sudah dimulai." `
 `"............ `
-`...Not interested." `
-`Why should I take part in any game unless Beato is my opponent...? `
-`If that's the only alternative, `
-`then it's a much better use of my time to reconstruct previous games while taking a journey in search of Beato's thought process... `
-`"I'll be the next Game Master. `
-`Any objections? `
-`You've got none, right?" `
-`"...I've got nothing but objections. `
-`Beato conceded the fight and is unconscious. `
-`Isn't this a loss by default and "game over" for her...?" `
-`"I'll admit a lot's happened to Beato, and she's basically been KO'ed for now. `
-`But that doesn't mean she's lost the will to fight. `
-`That's why I'm acting as her assistant. `
-`Get it?" `
-`Beato was lying down on a deck chair, almost as though she was sleeping. `
-`However, she wasn't sleeping, `
-`...and she wasn't awake either. `
-`She was nothing more than a living doll that had given up on victory, who had asked Battler to perform her last rites, `
-`and who had surrendered everything... `
-`Of course, if everyone just sat around, the next game...the 5th game would never be made ready. `
-`So, {f:5:Lambdadelta} had succeeded Beato as the next Game Master `
-`and announced that she'd prepare the next game. `
-`"Quit messing around. `
-`This is a game between me and Beato. `
-`I don't know who you two are, but I'm not gonna let you carry on without us." `
-`"No one asked for your opinion. `
-`What'll you do, Bern? `
-`Accept my challenge? Or not?" `
+`...Tidak tertarik." `
+`Mengapa aku harus ikut permainan apa pun jika Beato bukan lawanku...? `
+`Jika itu satu-satunya alternatif, `
+`maka jauh lebih baik menggunakan waktuku untuk merekonstruksi permainan-permainan sebelumnya sambil melakukan perjalanan mencari proses berpikir Beato... `
+`"Aku akan menjadi Game Master berikutnya. `
+`Ada keberatan? `
+`Kau tidak punya, kan?" `
+`"...Aku punya keberatan penuh. `
+`Beato telah menyerah dan tidak sadarkan diri. `
+`Bukankah ini kekalahan otomatis dan 'game over' baginya...?" `
+`"Aku mengakui banyak hal telah terjadi pada Beato, dan untuk saat ini dia pada dasarnya KO. `
+`Tapi itu tidak berarti dia kehilangan keinginan untuk bertarung. `
+`Itulah sebabnya aku bertindak sebagai asistennya. `
+`Mengerti?" `
+`Beato berbaring di kursi dek, hampir seperti sedang tidur. `
+`Namun, dia tidak tidur, `
+`...dan dia juga tidak terjaga. `
+`Dia tak lebih dari boneka hidup yang telah menyerah pada kemenangan, yang telah meminta Battler untuk melaksanakan ritus terakhirnya, `
+`dan yang telah menyerahkan segalanya... `
+`Tentu saja, jika semua orang hanya duduk-duduk, permainan berikutnya...permainan ke-5 tidak akan pernah siap. `
+`Jadi, {f:5:Lambdadelta} telah menggantikan Beato sebagai Game Master berikutnya `
+`dan mengumumkan bahwa dia akan menyiapkan permainan selanjutnya. `
+`"Jangan bercanda. `
+`Ini adalah permainan antara aku dan Beato. `
+`Aku tidak tahu siapa kalian berdua, tapi jangan seenaknya melanjutkan tanpa kami." `
+`"Tak seorang pun meminta pendapatmu. `
+`Apa yang akan kau lakukan, Bern? `
+`Menerima tantanganku? Atau tidak?" `
 `"............ `
-`...Sure. `
-`Go ahead and inherit her role." `
-`"The hell... Quit messing around! `
-`I don't know who you people are, but I'm not gonna let you ignore Beato and me and just carry on by yourselves!" `
-`"Hey, take it easy. `
-`Okay, sure, a new player means you'll face new kinds of moves. `
-`I'm sure you'll see a lot of stuff that confuses you, `
-`but even that might lead to some big hints, get it?" `
-`"Who cares!! `
-`Quit saying whatever you want and deciding everything on your own!!" `
-`"......Beato's game has repeated four times, and you still don't understand anything, right? `
-`In that case, I expect that swapping out opponents might lead to some huge hints." `
-`"That's none of your business! `
-`This is our game! Beato prepared it, and she designated me to be her opponent. `
-`I don't know what hole you two crept out of, but I don't want you screwing things up!" `
-`"......In that case, wake Beato up and make her get the next game ready. `
-`Can you...?" `
-`"...B-Beato won't be getting up for a while. `
-`Anyway, we don't even need to have another game. `
-`The four games she's already laid out are more than enough!" `
-`"And even if we do have some fifth game, there's no reason it shouldn't just be a puzzle Beato lays out and I take on. `
-`There's absolutely no reason for you two to butt in!" `
-`Battler couldn't hide his irritation at the two witches called {f:5:Lambdadelta} and {f:5:Bernkastel}, `
-`who had shown up well after the game's start, and who were now trying to take charge on their own... `
-`It looked like these witches were of an even higher rank than Beato... `
-`So high, in fact, that even Beato's teacher, {f:5:Virgilia}, couldn't even come close. `
-`Battler had the feeling he'd seen these two several times before. `
-`However, this was the first time he'd known their names and spoken to them directly. `
-`"You can't get the next game ready without waking Beato. `
-`That's why I'll prepare the next game!" `
-`"We aren't so patient `
-`that we're willing to wait forever for Beato to regain consciousness. `
-`Right, Bern?" `
-`"......I don't like boredom. `
-`It really ticks me off." `
-`"We really don't give a damn whether you're bored or not." `
-`"Come on now. `
-`Leave everything to this <perfect> {f:5:Lambdadelta}-sama, okay? `
-`I'll take over as the Game Master. `
-`{f:5:Don't worry}, I won't play with too much "absolute perfection". `
-`{i:Just like Beato}, I'll set up plenty of incomprehensible fakes, clues, and bonus hints. `
-`I'll make this game a huge hint that'll help you understand Beato's world even better, okay?" `
-`Letting my voiceless emotions explode, ...I slammed the table hard. `
-`The two witches didn't flinch at all. `
-`...One grinned. `
-`The other looked indifferent, as though nothing had happened. `
-`The two of them just stared at me silently. `
-`...As though they were reproaching me. `
-`"What's this? `
-`Not satisfied? `
-`Are you saying you'll step down from my 5th game? `
-`Isn't that a loss by default?" `
-`"......Battler won't step down. `
-`Of course he'll participate in the 5th game." `
-`"Don't just decide that yourself!! `
-`I'm not gonna play along with you two. `
-`I don't give a shit!" `
+`...Baik. `
+`Silakan ambil alih perannya." `
+`"Apa-apaan... Jangan bercanda! `
+`Aku tidak tahu siapa kalian, tapi aku tidak akan membiarkan kalian mengabaikan Beato dan aku, lalu melanjutkan sendiri!" `
+`"Hei, tenanglah. `
+`Tentu saja, pemain baru berarti kau akan menghadapi jenis langkah yang baru. `
+`Aku yakin kau akan melihat banyak hal yang membingungkanmu, `
+`tapi bahkan itu bisa mengarah pada petunjuk besar, mengerti?" `
+`"Peduli setan!! `
+`Berhenti bicara seenaknya dan memutuskan segalanya sendiri!!" `
+`"......Permainan Beato sudah terulang empat kali, dan kau masih belum mengerti apa pun, bukan? `
+`Dalam kasus itu, mungkin mengganti lawan bisa menghasilkan petunjuk yang besar." `
+`"Itu bukan urusanmu! `
+`Ini permainan kami! Beato yang menyiapkannya, dan dia menunjukku sebagai lawannya. `
+`Aku tidak tahu dari lubang mana kalian berdua merayap keluar, tapi aku tidak ingin kalian mengacaukan semuanya!" `
+`"......Kalau begitu, bangunkan Beato dan suruh dia menyiapkan permainan berikutnya. `
+`Bisa...?" `
+`"...B-Beato tidak akan bangun untuk sementara waktu. `
+`Lagipula, kita bahkan tidak perlu permainan lain. `
+`Empat permainan yang sudah dia susun itu sudah lebih dari cukup!" `
+`"Dan bahkan jika ada permainan kelima, itu cukup jika Beato yang mengajukannya dan menantangku. `
+`Kalian tidak ada hubungannya sama sekali!" `
+`Battler tidak bisa menyembunyikan kejengkelannya terhadap dua penyihir bernama {f:5:Lambdadelta} dan {f:5:Bernkastel}, `
+`yang muncul jauh setelah permainan dimulai, dan kini mencoba mengambil alih segalanya sesuka hati... `
+`Tampaknya penyihir-penyihir ini memiliki peringkat yang bahkan lebih tinggi dari Beato... `
+`Begitu tinggi, sampai-sampai guru Beato, {f:5:Virgilia}, pun tidak bisa mendekat. `
+`Battler merasa seolah pernah melihat mereka berdua beberapa kali sebelumnya. `
+`Namun, ini adalah pertama kalinya dia mengetahui nama mereka dan berbicara langsung dengan mereka. `
+`"Kalian tidak bisa menyiapkan permainan berikutnya tanpa membangunkan Beato. `
+`Itulah sebabnya aku yang akan menyiapkan permainan berikutnya!" `
+`"Kami itu `
+`tidak cukup sabar untuk terus menunggu Beato yang entah kapan akan sadar kembali. `
+`Benar, Bern?" `
+`"......Aku tidak suka kebosanan. `
+`Itu benar-benar membuatku kesal." `
+`"Kami benar-benar tidak peduli apakah kau bosan atau tidak." `
+`"Ayolah. `
+`Serahkan saja semuanya pada {f:5:Lambdadelta}-sama yang <sempurna> ini, oke? `
+`Aku akan mengambil alih sebagai Game Master. `
+`{f:5:Jangan khawatir}, aku tidak akan bermain dengan terlalu banyak 'kesempurnaan absolut'. `
+`{i:Sama seperti Beato}, aku akan menyiapkan banyak kepalsuan yang tak bisa dipahami, petunjuk, dan bonus hint. `
+`Aku akan membuat permainan ini menjadi petunjuk besar yang akan membantumu memahami dunia Beato dengan jauh lebih baik, oke?" `
+`Membiarkan emosiku yang tak bersuara meledak, ...aku menghantam meja itu dengan keras. `
+`Kedua penyihir itu sama sekali tidak bergeming. `
+`...Yang satu menyeringai. `
+`Yang satunya lagi tampak tak acuh, seolah tak terjadi apa-apa. `
+`Mereka berdua hanya menatapku dalam diam. `
+`...Seakan-akan mereka sedang menyalahkanku. `
+`"Apa ini? `
+`Tidak puas? `
+`Apa kau bilang akan mundur dari permainan ke-5 milikku? `
+`Bukankah itu kekalahan otomatis?" `
+`"......Battler tidak akan mundur. `
+`Tentu saja dia akan ikut dalam permainan ke-5." `
+`"Jangan memutuskan sendiri!! `
+`Aku tidak akan ikut permainan kalian berdua. `
+`Aku tidak peduli!" `
 `"Hmmm... `
-`...Then it really is a loss by default, right...? `
-`The witch side wins this game. `
-`Is it really okay to end this with the Humans surrendering...?" `
-`"......If you step down, the game will end with your loss by default, get it? `
-`......If you wanna guarantee that your lonely sister always meets with miserable circumstances in an endless number of worlds, `
-`that option is indeed open to you." `
-`When {f:5:Bernkastel} mentioned Ange, ......Battler's expression changed instantly. `
-`"...Y-You bastard, `
-`don't you dare talk about Ange so lightly..." `
-`"......Because you have an ally in me, {f:5:Bernkastel}, the Witch of Miracles, `
-`...there exists the possibility of a miracle in which Ange's family comes home to her. `
-`Well, if you do throw that chance away and guarantee that Ange's endless futures all end in sorrow, that might be pretty interesting too." `
-`I vaguely understood what she was saying. `
-`Until I win in Beato's game, I'll remain trapped in this bizarre world. `
-`And if I abandon that victory, ...then most certainly, my parents and I will never return to Ange. `
-`For Ange's sake, ...even though I know that the witches are toying with me, `
-`I must keep on fighting... `
-`"Nng, ......d-dammit......" `
-`"......What's wrong? `
-`You look unsatisfied. `
-`Have you already forgotten how angry you were...when your sister was turned to mincemeat...? `
-`You know, that spectacle where she was torn to bits, ripped to pieces by countless red-hot pliers. `
-`You'd better watch more closely next time, okay...?" `
-`{f:5:Bernkastel} pointed the palm of her right hand upwards. `
-`...As she did, a pale light gathered there, ......and some kind of blue-glowing crystal appeared there. `
-`...A scene was reflected on its sharp surface, `
-`...but it wasn't the scene that surrounded them now. `
-`If you looked deep into that crystal, ...that Fragment, `
-`then you would probably learn what was reflected on there. `
-`If you stared at it, `
-`then you'd surely see the end Ange finally reached......after waiting 12 years and giving up everything for the sake of her beloved brother. `
-`......The scene of her death throes...as her entire body was torn to bits while she still lived. `
-`"...D-Damn...you......!" `
-`Without thinking, he grabbed at her collar, `
-`but as soon as he touched that which made up her form, it disappeared like foam on the waves. `
-`Then, as naturally as though she'd been there from the beginning, `
-`{f:5:Bernkastel} was leaning against a distant wall. `
-`"......If you step down from the game, `
-`this'll become not just a Fragment, but a definite reality. `
-`I won't be the one to create that future. `
-`You'll do it yourself. `
-`...So decide, okay? `
-`Figure out what you wanna do with your beloved little sister's future." `
-`Battler's fists shook with anger, `
-`...but even if he swung them down, he wouldn't be able to hit {f:5:Bernkastel}. `
-`This witch was like a phantom, or a cat who wouldn't even let someone pet her if she didn't wish for it. `
-`And, ...she was telling the truth. `
-`For Ange's sake, I can't step down from this fight. `
-`Even if these unpleasant witches hijack the game board. `
+`...Kalau begitu memang kekalahan otomatis, ya...? `
+`Sisi Penyihir memenangkan permainan ini. `
+`Apa benar tidak masalah mengakhiri ini dengan Sisi Manusia menyerah...?" `
+`"......Kalau kau mundur, permainan akan berakhir dengan kekalahan otomatis bagimu, mengerti? `
+`......Jika kau ingin menjamin bahwa adik perempuan kesayanganmu `
+`selalu menemui nasib menyedihkan di dunia-dunia yang tak terhitung jumlahnya, itu juga salah satu pilihan." `
+`Saat {f:5:Bernkastel} menyebut nama Ange, ......ekspresi Battler langsung berubah. `
+`"...B-Bangsat kau, `
+`jangan berani-beraninya menyebut Ange dengan enteng..." `
+`"......Karena kau memiliki sekutu sepertiku, Penyihir Keajaiban, {f:5:Bernkastel}, `
+`...ada kemungkinan terjadinya sebuah keajaiban di mana keluarga Ange kembali kepadanya. `
+`Tapi yah, kalau kau malah membuang kesempatan itu dan menjamin bahwa masa depan Ange yang tak berujung semuanya berakhir dalam kesialan, itu juga terdengar cukup menarik." `
+`Aku samar-samar mengerti apa yang dia maksud. `
+`Sampai aku menang dalam permainan Beato, aku akan tetap terperangkap di dunia aneh ini. `
+`Dan jika aku melepaskan kemenangan itu, ...maka sudah pasti, aku dan orang tuaku tak akan pernah kembali kepada Ange. `
+`Demi Ange, ...meski aku tahu para penyihir ini sedang mempermainkanku, `
+`aku harus terus bertarung... `
+`"Nng, ......sialan......" `
+`"......Ada apa? `
+`Kau terlihat tidak puas. `
+`Apa kau sudah lupa betapa marahnya dirimu...saat adikmu dicincang habis...? `
+`Kau tahu, tontonan ketika tubuhnya dicabik-cabik, dirobek berkeping-keping oleh tang penjepit yang memerah membara. `
+`Lebih baik kau perhatikan dengan lebih saksama lain kali, oke...?" `
+`{f:5:Bernkastel} mengangkat telapak tangan kanannya ke atas. `
+`...Seiring itu, cahaya pucat berkumpul di sana, ......dan sebuah kristal bercahaya biru muncul. `
+`...Sebuah adegan terpantul di permukaannya yang tajam, `
+`...namun itu bukan pemandangan yang ada di sekitar mereka sekarang. `
+`Jika kau menatap lebih dalam ke dalam kristal itu, ...Fragmen itu, `
+`maka mungkin kau akan mengetahui apa yang terpantul di sana. `
+`Jika kau terus menatapnya, `
+`maka kau pasti akan melihat akhir yang akhirnya dicapai Ange......setelah menunggu selama 12 tahun dan mengorbankan segalanya demi kakak tercintanya. `
+`......Adegan sakaratul mautnya...saat seluruh tubuhnya dicabik-cabik selagi dia masih hidup. `
+`"...S-Sialan...kau......!" `
+`Tanpa berpikir, dia meraih kerah bajunya, `
+`namun begitu tangannya menyentuh sesuatu yang membentuk wujudnya, itu lenyap seperti buih di atas ombak. `
+`Lalu, senatural seolah dia memang sudah berada di sana sejak awal, `
+`{f:5:Bernkastel} bersandar pada dinding yang jauh. `
+`"......Jika kau mundur dari permainan, `
+`ini bukan lagi sekadar Fragmen, melainkan akan menjadi kenyataan pasti. `
+`Bukan aku yang akan menciptakan masa depan itu. `
+`Kau sendirilah yang melakukannya. `
+`...Jadi tentukanlah, oke? `
+`Pikirkan apa yang ingin kau lakukan dengan masa depan adik perempuan kesayanganmu." `
+`Tinju Battler bergetar karena amarah, `
+`...namun sekalipun dia mengayunkannya, dia tak akan bisa mengenai {f:5:Bernkastel}. `
+`Penyihir ini seperti bayangan, atau seekor kucing yang tak akan membiarkan siapa pun menyentuhnya jika dia tak menginginkannya. `
+`Dan, ...dia mengatakan kebenaran. `
+`Demi Ange, aku tak bisa mundur dari pertarungan ini. `
+`Sekalipun para penyihir menyebalkan ini merebut papan permainan. `
 `"Heheheheheh. `
-`That's just like you, Bern. `
-`You're even heartless when you threaten people. `
-`...That's how it is, Battleeer. `
-`You aren't allowed to step down from the game board. `
-`You and Beato are nothing more than pieces on the board that exist to distract us from our boredom. `
-`...Even your incomprehensible anger and irritation make for a wonderful treat to satisfy us." `
-`"Well, what you're doing now only makes for a cheap snack though." `
-`"......Like those curry-flavored potato wafers that sell for 30 yen a pair." `
-`""*giggle*giggle*, ahhahahahahahaha...!!"" `
-`"Y-You damn...witches..." `
-`"......*giggle* `
-`Fight for Ange's sake, okay? `
-`And for Beato's too, right...?" `
-`In a way that was admonishing...or perhaps babying, `
-`...like the headache you get after eating something too sweet, {f:5:Bernkastel} tormented Battler and smiled. `
-`By now, the host of this tea party, Beato, was absent. `
-`...The guest witches were already making themselves at home. `
-`"...What'll you do, Ushiromiya Battleer? `
-`Will you surrender to fate...?" `
+`Itu benar-benar seperti dirimu, Bern. `
+`Bahkan saat mengancam orang pun kau tetap tak berperasaan. `
+`...Begitulah adanya, Battleeer. `
+`Kau tidak diizinkan mundur dari papan permainan. `
+`Kau dan Beato tak lebih dari bidak di papan yang ada untuk mengusir kebosanan kami. `
+`...Bahkan kemarahan dan kejengkelanmu yang tak bisa kupahami pun menjadi hidangan yang lezat bagi kami." `
+`"Yah, apa yang kau lakukan sekarang ini cuma jadi camilan murahan saja." `
+`"......Seperti wafer kentang rasa kari yang dijual 30 yen sepasang." `
+`""*cekikik*cekikik*, ahhahahahahahaha...!!"" `
+`"K-Kalian...penyihir sialan..." `
+`"......*cekikik* `
+`Bertarunglah demi Ange, oke? `
+`Dan demi Beato juga, kan...?" `
+`Dengan cara yang menegur...atau mungkin memperlakukan seperti anak kecil, `
+`...seperti sakit kepala setelah memakan sesuatu yang terlalu manis, {f:5:Bernkastel} menyiksa Battler sambil tersenyum. `
+`Kini, tuan rumah pesta teh ini, Beato, tidak hadir. `
+`...Para penyihir tamu sudah bertingkah seolah rumah sendiri. `
+`"...Apa yang akan kau lakukan, Ushiromiya Battleer? `
+`Akan menyerah pada takdir...?" `
 `".................." `
-`"Just step down. `
-`You've had enough of being toyed with as a witch's piece, right? `
-`Heheheheh, it sure is tough being one of Bern's pieces. `
-`I'm sure she'll use you and throw you away just like she did with Ange. `
+`"Tinggal mundur saja. `
+`Kau sudah cukup dipermainkan sebagai bidak penyihir, kan? `
+`Heheheheh, memang berat jadi salah satu bidak Bern. `
+`Aku yakin dia akan memanfaatkanmu lalu membuangmu, sama seperti yang dia lakukan pada Ange. `
 `Geheheheheh!" `
-`"I'm not giving you the option of stepping down. `
-`...Keep fighting for the sake of your sister's future. `
-`I'm your ally. `
-`Until you win, I'll support you so you can reach that future. `
-`For all eternity, until I get bored. `
-`...*giggle*giggle*." `
-`I can't let her provocation and cajolery rile me up... `
-`These witches know I get mad easily, and they're trying to take advantage of that... `
-`...Battler withstood it all...and finally relaxed his clenched fists. `
-`"......If you wanna start this 5th game of yours, ...go ahead and do it. `
-`Do whatever you want." `
-`"Yes, I will do whatever I want. `
-`...Hey, where are you going?" `
-`Even though Battler acknowledged this 5th game, he turned his back on them, `
-`much to {f:5:Lambdadelta}'s surprise. `
-`"If you're gonna be Beato's substitute, `
-`...then I'm sure that {f:5:Bernkastel} witch over there can stand in for me if she wants." `
-`"......Not a bad idea. `
-`Better than a loss by default." `
-`"What the heck?! `
-`Are you gonna just ignore this Episode 5 that I put so much effort into making?! `
-`Rude, ruuude!" `
-`"...Battler says he's going to take a break for a while. `
-`Until he comes back, I'll be his substitute. `
-`How's that sound...? Battler...?" `
-`"......You do that." `
+`"Aku tidak memberimu pilihan untuk mundur. `
+`...Teruslah bertarung demi masa depan adikmu. `
+`Aku sekutumu. `
+`Sampai kau menang, aku akan mendukungmu agar kau bisa mencapai masa depan itu. `
+`Untuk selamanya, sampai aku bosan. `
+`...*cekikik*cekikik*." `
+`Aku tidak boleh terpancing oleh provokasi dan bujukan mereka... `
+`Para penyihir ini tahu aku mudah marah, dan mereka mencoba memanfaatkannya... `
+`...Battler menahan semuanya...dan akhirnya merilekskan tinjunya yang terkepal. `
+`"......Kalau kau mau memulai permainan ke-5 milikmu itu, ...silakan saja. `
+`Lakukan sesukamu." `
+`"Ya, aku akan melakukan sesukaku. `
+`...Hei, mau ke mana kau?" `
+`Meski Battler mengakui permainan ke-5 ini, dia membelakangi mereka, `
+`yang sangat mengejutkan {f:5:Lambdadelta}. `
+`"Kalau kau akan jadi pengganti Beato, `
+`...maka aku yakin penyihir {f:5:Bernkastel} di sana bisa menggantikanku kalau dia mau." `
+`"......Bukan ide yang buruk. `
+`Lebih baik daripada kalah otomatis." `
+`"Apa-apaan ini?! `
+`Kau akan mengabaikan Episode 5 yang sudah susah payah kubuat ini?! `
+`Kasar, kasaaar!" `
+`"...Battler bilang dia akan beristirahat sebentar. `
+`Sampai dia kembali, aku akan menjadi penggantinya. `
+`Bagaimana menurutmu...? Battler...?" `
+`"......Lakukan itu." `
 `"............" `
-`"...What's wrong, Lambda? `
-`So, you'll refuse to play if it's against me, instead of that fool Battler...?" `
+`"...Ada apa, Lambda? `
+`Jadi, kau akan menolak bermain kalau lawannya aku, bukan Battler bodoh itu...?" `
 `"Ehheheheheh!! `
-`Of course not{p:0:♪} `
-`I'm glad I get to play with you, Bern! `
-`Come on, let's play, let's play! `
-`Let's play together in {f:5:Lambdadelta}-sama's super <hyper> and <cute> Episode 5!" `
-`"......This technically is a world Beato created. `
-`You aren't going to ruin the atmosphere of the story, are you...?" `
-`"Don't worry about that. `
-`I'm really good at reading between the lines for that sort of stuff. `
-`I made sure to use a Beato-ish atmosphere to make a tale that's even more interesting." `
-`"Battler, make sure you come back as soon as your break's over, okay? `
-`It'd be a shame to miss this. `
-`I've set up plenty of bonus hints that'll get you closer to Beato's secrets{p:0:♪}" `
-`"...Or at least that's what it'll look like, when it's actually filled with misdirection that makes stuff more and more confusing. `
-`Wait, hey, Battleer! Why aren't you listening when a witch is talking?!" `
-`Without answering, Battler disappeared into the darkness. `
-`After shrugging and cackling, `
-`the witches immediately started playing with the game board they had stolen from Beato...... `
-`"Can those witches really understand Beato's game?" `
-`"...Since they're using the same game board, they cannot do anything that this child cannot do. `
-`However, they can do things that this child wouldn't do." `
+`Tentu saja tidak{p:0:♪} `
+`Aku senang bisa bermain denganmu, Bern! `
+`Ayo, bermainlah, bermainlah! `
+`Mari kita bermain bersama di Episode 5 super <hyper> dan <imut> milik {f:5:Lambdadelta}-sama!" `
+`"......Secara teknis ini adalah dunia yang diciptakan Beato. `
+`Kau tidak akan merusak suasana ceritanya, kan...?" `
+`"Jangan khawatir soal itu. `
+`Aku sangat pandai membaca maksud tersembunyi untuk hal-hal seperti itu. `
+`Aku memastikan menggunakan suasana ala Beato untuk membuat kisah yang bahkan lebih menarik." `
+`"Battler, pastikan kau kembali begitu istirahatmu selesai, oke? `
+`Sayang sekali kalau kau melewatkan ini. `
+`Aku sudah menyiapkan banyak bonus hint yang akan membawamu lebih dekat pada rahasia Beato{p:0:♪}" `
+`"...Atau setidaknya, begitulah kelihatannya, padahal sebenarnya dipenuhi oleh pengalihan yang membuat segalanya makin membingungkan. `
+`Tunggu, hei, Battleer! Kenapa kau tidak mendengarkan saat penyihir sedang bicara?!" `
+`Tanpa menjawab, Battler menghilang ke dalam kegelapan. `
+`Setelah mengangkat bahu dan terkekeh, `
+`para penyihir itu segera mulai memainkan papan permainan yang mereka rebut dari Beato...... `
+`"Apa para penyihir itu benar-benar bisa memahami permainan Beato?" `
+`"...Karena mereka menggunakan papan permainan yang sama, mereka tidak bisa melakukan apa pun yang tidak bisa dilakukan anak ini. `
+`Namun, mereka bisa melakukan hal-hal yang tidak akan dilakukan anak ini." `
 `"......... `
-`...What do you mean, things she wouldn't do?" `
-`"The materials of chess exist so that you can play chess. `
-`You "cannot" use them to play cards. `
-`However, when it comes to throwing chess pieces at your opponent and scribbling on the board, `
-`...such things are not impossible to do. `
-`However, that would be blasphemy against the game of chess, `
-`so people "choose not to" do that." `
+`...Apa maksudmu dengan hal-hal yang tidak akan dia lakukan?" `
+`"Perlengkapan catur ada untuk memainkan catur. `
+`Kau 'tidak bisa' menggunakannya untuk bermain kartu. `
+`Namun, jika soal melempar bidak catur ke lawan dan mencoret-coret papan, `
+`...hal-hal seperti itu sebenarnya bukan mustahil. `
+`Namun, itu adalah penghujatan terhadap permainan catur, `
+`jadi orang-orang 'memilih untuk tidak' melakukannya." `
 `".................." `
-`That definitely...wouldn't be chess anymore. `
-`Beato's eyes seemed to cloud slightly with sadness. `
-`"......Damn them. `
-`......This game's between me and Beato. `
-`...I won't let anyone else defile it." `
-`At that time, gold butterflies gathered and Ronove appeared, holding a tea set with black tea. `
-`"Would you like some more tea?" `
-`"......If you wouldn't mind." `
-`"Certainly. `
-`...So, `
-`how goes this journey of yours in search of Milady's thoughts?" `
-`"I don't have a clue, but I'm enjoying it." `
-`"However, ...are you sure about this? `
-`Is it truly all right for you to relax here?" `
-`"...You mean that game those witches just started all by themselves?" `
-`"Indeed. `
-`Just now, when I went to serve them some tea, the murders of the first twilight had already taken place, `
-`and it seemed as though the next murder would occur shortly." `
-`When Beato and I were playing, `
-`the game would be paused whenever someone left their seats. `
-`...However, those witches wouldn't pause that game just because I wasn't around... `
-`".........Ronove, did you see their game?" `
-`"Just a part of it." `
-`"How was it?" `
-`Ronove lifted the pot high with an elegant gesture as he poured the black tea. `
-`After finishing that, he finally spoke. `
-`He gave us his impressions of it. `
-`"It...did not have love." `
-`"...What do you mean, love?" `
-`"My apologies. `
-`That is how a woman might put it. `
-`...As a man, `
-`...one might call it dishonorable." `
-`I understood what those words meant. `
-`When I met {f:5:Virgilia}'s eyes, she shook her head slightly and stared at the floor... `
-`"......I believe it resembles Milady's games greatly, on the surface. `
-`However, its foundation is quite different." `
-`"Does it go against the rules of Beato's game?" `
-`"No, it does not. `
-`{f:5:Lambdadelta}-sama actually does understand the rules of Milady's game very well. `
-`...However..." `
+`Itu jelas...bukan catur lagi. `
+`Mata Beato tampak sedikit berkabut oleh kesedihan. `
+`"......Sialan mereka. `
+`......Permainan ini antara aku dan Beato. `
+`...Aku tidak akan membiarkan siapa pun menodainya." `
+`Saat itu, kupu-kupu emas berkumpul dan Ronove muncul, membawa set teh berisi teh hitam. `
+`"Apakah Anda ingin tambahan teh?" `
+`"......Kalau tidak merepotkan." `
+`"Tentu saja. `
+`...Jadi, `
+`bagaimana perjalanan Anda dalam mencari pemikiran Nyonya?" `
+`"Aku tidak punya petunjuk, tapi aku menikmatinya." `
+`"Namun, ...apakah Anda yakin dengan ini? `
+`Apa benar tidak apa-apa bagi Anda untuk bersantai di sini?" `
+`"...Maksudmu permainan yang baru saja dimulai para penyihir itu?" `
+`"Benar. `
+`Baru saja, ketika saya pergi menyajikan teh kepada mereka, pembunuhan senja pertama sudah terjadi, `
+`dan tampaknya pembunuhan berikutnya akan segera menyusul." `
+`Saat Beato dan aku bermain, `
+`permainan akan dijeda setiap kali salah satu dari kami meninggalkan tempat duduk. `
+`...Namun, para penyihir itu tidak akan menjeda permainan hanya karena aku tidak ada... `
+`".........Ronove, kau melihat permainan mereka?" `
+`"Hanya sebagian." `
+`"Bagaimana menurutmu?" `
+`Ronove mengangkat teko tinggi-tinggi dengan gerakan elegan saat menuangkan teh hitam. `
+`Setelah selesai, barulah dia berbicara. `
+`Dia menyampaikan kesannya. `
+`"Permainan itu...tidak memiliki cinta." `
+`"...Apa maksudmu dengan cinta?" `
+`"Maafkan saya. `
+`Itulah cara seorang wanita mungkin mengatakannya. `
+`...Sebagai seorang pria, `
+`...seseorang mungkin menyebutnya tidak terhormat." `
+`Aku mengerti maksud kata-kata itu. `
+`Saat aku menatap mata {f:5:Virgilia}, dia menggelengkan kepala pelan dan menunduk menatap lantai... `
+`"......Menurut saya, di permukaan permainan itu sangat menyerupai permainan Nyonya. `
+`Namun, fondasinya sangat berbeda." `
+`"Apakah itu melanggar aturan permainan Beato?" `
+`"Tidak, tidak melanggar. `
+`{f:5:Lambdadelta}-sama sebenarnya sangat memahami aturan permainan Nyonya. `
+`...Namun..." `
 `"..............." `
-`Battler stood up. `
-`There was no need to make Ronove say any more. `
+`Battler berdiri. `
+`Tak perlu lagi Ronove melanjutkan. `
 `"Battler-kun..." `
-`"...Sorry, Ronove. `
-`I know you went to all the trouble of pouring this for me, but tea isn't what I need." `
-`"So, you will go after all?" `
-`"Yeah. `
-`...We don't need any outsiders in our game." `
-`...These guys weren't even here in the beginning. `
-`Because I've been loafing about, crazier and crazier witches have been introduced, `
-`...and now they've hijacked this game between me and {f:5:Beatrice}. `
-`"I've gotta take it back. `
-`...Right now, I'm supposed to be the one taking care of Beato's game board. `
-`...That means I can't just sit around here." `
-`"......Thank you. `
-`I wanted to let this child hear those words." `
-`"I'm sure she hears them. `
-`......Milady is simply unable to answer." `
-`Beato lay there silently, like a living doll with dull eyes... `
-`The game board she had created herself had been hijacked by incomprehensible people... and was being turned into a mess... `
-`If I was designated to be her opponent... `
-`...Then Beato must have created this game for me. `
-`I've...got to take it back. `
-`"...Wait here. `
-`I'll go and take it back." `
+`"...Maaf, Ronove. `
+`Aku tahu kau sudah repot-repot menuangkan ini untukku, tapi yang kubutuhkan bukanlah teh." `
+`"Jadi, Anda akan pergi juga?" `
+`"Ya. `
+`...Kami tidak butuh orang luar dalam permainan kami." `
+`...Mereka ini bahkan tidak ada sejak awal. `
+`Karena aku bersantai terlalu lama, penyihir-penyihir yang makin gila pun bermunculan, `
+`...dan sekarang mereka merebut permainan antara aku dan {f:5:Beatrice}. `
+`"Aku harus merebutnya kembali. `
+`...Sekarang, seharusnya akulah yang menjaga papan permainan Beato. `
+`...Artinya aku tidak bisa hanya duduk diam di sini." `
+`"......Terima kasih. `
+`Saya ingin anak ini mendengar kata-kata itu." `
+`"Aku yakin dia mendengarnya. `
+`......Nyonya hanya tidak mampu menjawab." `
+`Beato terbaring diam, seperti boneka hidup bermata kosong... `
+`Papan permainan yang dia ciptakan sendiri telah direbut oleh orang-orang yang tak bisa kupahami...dan diubah menjadi kekacauan... `
+`Jika aku ditunjuk sebagai lawannya... `
+`...Maka Beato pasti menciptakan permainan ini untukku. `
+`Aku harus...merebutnya kembali. `
+`"...Tunggu di sini. `
+`Aku akan pergi merebutnya kembali." `
 `"....................." `
-`Of course, Beato didn't respond in any way. `
-`...That's right. `
-`If she can't respond, ...then I have to protect it in her place. `
-`"I'll be right back. `
+`Tentu saja, Beato tidak merespons dengan cara apa pun. `
+`...Benar. `
+`Jika dia tidak bisa merespons, ...maka akulah yang harus melindunginya sebagai gantinya. `
+`"Aku akan segera kembali. `
 `......{f:5:Virgilia}, Ronove. `
-`...I'm counting on you two to look after this golden sleeping beauty." `
-`"Yes. Leave it to us." `
-`"...See you later, Battler-kun. `
-`And please, `
-`...in the game without this child, try to find some part of her. `
-`If you can, `
-`...then even if this child is absent, it will mean you have fought with her." `
-`"......You're right. `
+`…Tolong jaga Sang Putri Tidur Emas itu." `
+`"Baik. Serahkan pada kami." `
+`"...Sampai jumpa lagi, Battler-kun. `
+`Dan tolong, `
+`...di permainan tanpa anak ini, cobalah temukan bagian dirinya. `
+`Jika kau bisa, `
+`...maka meski anak ini tak hadir, itu berarti kau telah bertarung bersamanya." `
+`"......Kau benar. `
 `...Aaah, `
-`...it's all useless. `
-`What am I doing?" `
-`Let's go. `
-`...And let's take it back. `
-`"Sorry to keep you waiting, witches!! `
-`My break is over!!" `
-`When he faced the jet-black heavens and yelled this, `
-`the whole world shattered, as though it were made out of thin glass. `
-`Then, ...as though it had been that way since the beginning, `
-`......it transformed into that smoking room where Battler had fought Beato so many times, ...and which the two witches had now hijacked. `
-`"What do you think you're doing? `
-`You're only coming back now? `
-`It's way too late! `
-`Not only has the game reached the second day, it's already at the finale, get it?!" `
-`"......You never showed up, so I just advanced things on my own." `
-`Yeah, like you even waited for me in the first place... `
-`"Bern was waaay more skillful and thrilling than you were. Right?!" `
-`"Shut up. `
-`I'm the player. `
-`You substitute witches can just take a step back now." `
-`"......Well, I don't really mind if you join in starting now, but there's probably no need for you anymore." `
-`"Seriously. `
-`After all, we're already at the climax! `
-`After this, Bern will probably corner me and win." `
-`"What the hell......?!" `
-`"......Nothing wrong with that, is there? `
-`Why don't we let him watch the final endgame?" `
-`"Of course. `
-`Come on over, Ushiromiya Battler. `
-`It's almost completely over, but here's the <cute> and <elegant> game I made! `
+`...semuanya sia-sia. `
+`Apa yang sedang kulakukan?" `
+`Ayo pergi. `
+`...Dan mari kita rebut kembali. `
+`"Maaf membuat kalian menunggu, para penyihir!! `
+`Istirahatku sudah selesai!!" `
+`Saat dia menghadapi langit hitam legam dan berteriak demikian, `
+`seluruh dunia retak, seolah terbuat dari kaca tipis. `
+`Lalu, ...seolah memang sudah begitu sejak awal, `
+`......dunia itu berubah menjadi ruang merokok, tempat Battler berkali-kali bertarung melawan Beato, ...dan yang kini telah direbut oleh dua penyihir itu. `
+`"Apa yang kau pikirkan? `
+`Baru kembali sekarang? `
+`Sudah terlambat! `
+`Bukan hanya permainan sudah memasuki hari kedua, tapi sudah sampai klimaks, mengerti?!" `
+`"......Kau tidak pernah muncul, jadi aku melanjutkannya sendiri." `
+`Ya, seolah kau memang menungguku sejak awal... `
+`"Bern jauuuh lebih terampil dan mendebarkan dibanding dirimu, kan?!" `
+`"Diam. `
+`Aku pemainnya. `
+`Kalian penyihir pengganti bisa mundur sekarang." `
+`"......Yah, aku tidak keberatan jika kau ikut mulai sekarang, tapi sepertinya kau sudah tidak dibutuhkan lagi." `
+`"Serius. `
+`Lagipula, kita sudah berada di klimaks! `
+`Setelah ini, Bern mungkin akan memojokkanku dan menang." `
+`"Apa-apaan ini......?!" `
+`"......Tidak ada yang salah dengan itu, bukan? `
+`Kenapa tidak kita biarkan dia menonton akhir permainan?" `
+`"Tentu saja. `
+`Silakan mendekat, Ushiromiya Battler. `
+`Hampir sepenuhnya selesai, tapi inilah permainan <imut> dan <anggun> yang kubuat! `
 `Episode 5. `
-`End of the `
-`Golden Witch! `
-`Right now, no humans exist on this island except for those in this parlor. `
-`And, with one exception, it has been shown that none of them have committed murder. `
-`And, the culprit is among these people. `
-`"......Whoa, whoa. `
-`...That means...it's conclusive, isn't it...?" `
-`"Unless the culprit is a witch who committed murder with magic, that is..." `
-`"...It was you?! `
-`You killed George, killed my husband?! `
-`Why?!! `
-`Whyyyyyyyyyyyyyyyy?!!" `
-`"...I-I didn't kill anyone...! `
-`I-I...d-didn't...!!" `
+`Akhir dari `
+`Penyihir Emas! `
+`Saat ini, tidak ada manusia yang tersisa di pulau ini selain mereka yang ada di ruang tamu ini. `
+`Dan, dengan satu pengecualian, telah dibuktikan bahwa tidak satu pun dari mereka melakukan pembunuhan. `
+`Dan, pelakunya ada di antara orang-orang ini. `
+`"......Whoa, tunggu. `
+`...Itu berarti...sudah pasti, bukan...?" `
+`"Kecuali pelakunya adalah penyihir yang melakukan pembunuhan dengan sihir..." `
+`"...Itu kau?! `
+`Kau membunuh George, membunuh suamiku?! `
+`Kenapa?!! `
+`Kenapaaaaaaaaaaaaa?!!" `
+`"...A-Aku tidak membunuh siapa pun...! `
+`A-Aku...t-tidak...!!" `
 `"..............." `
-`In a panic, and with a voice that was far from calm, `
-`......in a manner that was, to put it coldly, unsightly, ...Aunt Natsuhi denied the suspicion placed upon her... `
-`However, ......there was no longer any way around it... `
-`{i:She} stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time. `
-`"...You're the culprit, `
+`Dalam kepanikan, dengan suara yang jauh dari tenang, `
+`......dengan cara yang, jika dikatakan dingin, tidak pantas dilihat, ...Bibi Natsuhi menyangkal kecurigaan yang diarahkan kepadanya... `
+`Namun, ......sudah tidak ada jalan untuk menghindarinya lagi... `
+`{i:Dia} berdiri, ...menyibakkan rambut panjangnya, menunjuk Bibi Natsuhi, dan mengatakannya sekali lagi. `
+`"...Andalah pelakunya, `
 `Ushiromiya Natsuhi-san." `

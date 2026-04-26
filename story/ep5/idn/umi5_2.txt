@@ -1,857 +1,857 @@
-`The rose garden was truly splendid this year. `
-`The roses were blooming like crazy, as if competing with each other. `
-`In that rose garden, Kinzo, Kanon, and Natsuhi could be seen... `
-`"Once again, the flowers have grown wonderfully this year. `
-`It must be the result of your care." `
-`"......Thank you very much. `
-`The weather just happened to be good this year." `
-`"Thanks to your care, the garden is even more beautiful than usual. `
-`Good work." `
-`"Thank you very much..." `
-`"If today weren't so special, `
-`...we might have been able to admire the roses while enjoying some black tea." `
-`Kinzo shrugged. `
-`Today was the family conference. `
-`...When it came to the other siblings' businesses, none of the news had been good. `
-`On the contrary, those siblings probably planned to turn the conversation to the topic of Kinzo's remaining life... `
-`and hold a quiet feud over the inheritance. `
-`"...Those people are quite unpleasant. `
-`By the way, what about Krauss? `
-`Is that debt repayment plan of his proceeding well?" `
-`"It does seem to be a realistic plan. `
-`......However, it's a plan on quite a large scale, and it doesn't seem to be bearing fruit quite as well as he expected." `
-`"If possible, I would have hoped to have that resolved before today's family conference." `
-`"...Yes. `
-`My apologies." `
-`"Are you sure you're okay, Kinzo? `
-`Casually walking around in a place like that?" `
-`How had she gotten up there? `
-`...Well, it's fairly pointless to wonder about that sort of thing when you're dealing with a witch. `
-`{f:5:Beatrice} was casually sitting on the roof of the arbor, `
-`almost as though she had been basking in the sun. `
-`"Those relatives are like a massive lump of the magic-resisting toxin, and they'll be intruding in on us. `
-`If you bump into them, your soul will evaporate in a instant." `
+`Taman mawar benar-benar tampak megah tahun ini. `
+`Mawar-mawar bermekaran dengan liar, seakan saling berlomba satu sama lain. `
+`Di taman mawar itu, Kinzo, Kanon, dan Natsuhi terlihat berdiri bersama... `
+`"Sekali lagi, bunga-bunga tumbuh dengan sangat indah tahun ini. `
+`Pasti ini hasil dari perawatanmu." `
+`"......Terima kasih banyak. `
+`Cuacanya kebetulan memang bagus tahun ini." `
+`"Berkat perawatanmu, taman ini terlihat lebih indah dari biasanya. `
+`Kerja yang bagus." `
+`"Terima kasih banyak..." `
+`"Kalau hari ini bukan hari yang begitu istimewa, `
+`...mungkin kita bisa menikmati mawar-mawar ini sambil minum teh hitam." `
+`Kinzo mengangkat bahu. `
+`Hari ini adalah konferensi keluarga. `
+`...Soal bisnis saudara-saudaranya yang lain, tak satu pun membawa kabar baik. `
+`Sebaliknya, para saudara itu mungkin berencana mengarahkan pembicaraan pada sisa hidup Kinzo... `
+`dan menggelar perseteruan sunyi soal warisan. `
+`"...Orang-orang itu benar-benar tidak menyenangkan. `
+`Ngomong-ngomong, bagaimana dengan Krauss? `
+`Apakah rencana pelunasan utangnya berjalan dengan baik?" `
+`"Sepertinya memang rencana yang realistis. `
+`......Namun, skalanya cukup besar, dan tampaknya hasilnya belum sesuai harapannya." `
+`"Kalau memungkinkan, aku berharap semua itu sudah beres sebelum konferensi keluarga hari ini." `
+`"...Ya. `
+`Mohon maaf." `
+`"Apa kau yakin baik-baik saja, Kinzo? `
+`Berjalan santai di tempat seperti itu?" `
+`Bagaimana bisa sampai ke atas sana? `
+`...Yah, tak ada gunanya memikirkan hal semacam itu saat berhadapan dengan penyihir. `
+`{f:5:Beatrice} sedang duduk santai di atap gazebo, `
+`seolah-olah sedang berjemur. `
+`"Para kerabat itu seperti gumpalan besar racun penangkal sihir, dan mereka akan menyusup ke wilayah kita. `
+`Kalau sampai bersentuhan dengan mereka, jiwamu akan menguap dalam sekejap." `
 `"Hmph. `
-`I am already dead. `
-`Evaporating would be no detriment." `
-`"...We can't have that happen. `
-`Please, for the sake of the Ushiromiya family, lend us your strength just a little longer." `
+`Aku sudah mati. `
+`Menguap pun bukan kerugian." `
+`"...Itu tidak boleh terjadi. `
+`Tolong, demi keluarga Ushiromiya, pinjamkan kekuatanmu sedikit lebih lama." `
 `"Natsuhi, `
-`it seems the boat carrying the relatives has left the harbor. `
-`Perhaps it's about time to bring an end to this walk of yours." `
-`"...Is that so? `
-`Thank you. `
-`...Please return to the study, Father." `
-`"My, my... `
-`How tiresome, to go back inside when the weather is this perfect." `
-`"Don't grumble, Kinzo. `
-`Right now, you're nothing more than a ghost I gave life to. `
-`It'll be troublesome for both me and Natsuhi if you're scattered away by the toxin. `
-`Just be a good boy, shut yourself away in the study, and wrap a blanket around yourself or something. `
+`tampaknya kapal yang membawa para kerabat sudah meninggalkan pelabuhan. `
+`Mungkin sudah waktunya mengakhiri jalan-jalanmu ini." `
+`"...Begitu ya? `
+`Terima kasih. `
+`...Silakan kembali ke ruang kerja, Ayah." `
+`"Ya ampun... `
+`Sungguh merepotkan harus kembali ke dalam saat cuacanya sesempurna ini." `
+`"Jangan mengeluh, Kinzo. `
+`Sekarang, kau tak lebih dari roh yang kuberi kehidupan. `
+`Akan merepotkan baik bagiku maupun Natsuhi jika kau tercerai-berai oleh racun itu. `
+`Jadilah anak baik, mengurung diri saja di ruang kerja, dan selimuti dirimu dengan selimut atau semacamnya. `
 `*cackle*cackle*!" `
 `"Hmph. `
-`...Merely receiving the chance to enjoy these roses after death makes me an extremely fortunate man. `
-`I understand. `
-`I shall return to the study." `
-`"But I would like some black tea. `
-`Kanon, tell Genji to bring me some. `
-`Perhaps some Marco Polo would do well today." `
-`"...Certainly." `
-`"Then let us go our separate ways. `
+`...Mendapat kesempatan menikmati mawar-mawar ini setelah kematian saja sudah membuatku sangat beruntung. `
+`Aku mengerti. `
+`Aku akan kembali ke ruang kerja." `
+`"Tapi aku ingin teh hitam. `
+`Kanon, katakan pada Genji untuk membawakannya. `
+`Mungkin Marco Polo cocok untuk hari ini." `
+`"...Baik." `
+`"Kalau begitu, mari kita berpisah. `
 `Natsuhi, `
-`...you must conduct the family conference splendidly in my absence." `
-`"Of course, Father. `
-`He can't say it in front of them, but my husband is already the Ushiromiya Family Head. `
-`And, I will do all I can to ensure that I don't embarrass him as his wife." `
-`"...Compared to Krauss, who's had a stomachache since this morning, you are so very composed, Natsuhi. `
-`...My son is quite hopeless." `
-`"My husband is talented in his own way. `
-`Supporting him where he's weak is my duty as his wife." `
-`"Indeed. `
-`Carry out your task with precision. `
-`I will make sure to stay shut away, so that I don't get in the way of this farce." `
+`...kau harus memimpin konferensi keluarga ini dengan gemilang tanpa kehadiranku." `
+`"Tentu, Ayah. `
+`Walau tak bisa mengatakannya di depan mereka, suamiku sudah menjadi Kepala Keluarga Ushiromiya. `
+`Dan aku akan melakukan segala yang aku bisa agar tidak mempermalukannya sebagai seorang istri." `
+`"...Dibandingkan Krauss yang sejak pagi mengeluh sakit perut, kau terlihat sangat tenang, Natsuhi. `
+`...Anakku benar-benar tak bisa diandalkan." `
+`"Suamiku memiliki bakat dengan caranya sendiri. `
+`Menopangnya di bagian yang lemah adalah tugasku sebagai istri." `
+`"Benar. `
+`Laksanakan tugasmu dengan presisi. `
+`Aku akan memastikan diri tetap mengurung diri, agar tidak mengganggu sandiwara ini." `
 `"Kanon, `
-`go with Father to the study. `
-`And then have Genji prepare some black tea." `
-`"I'm not so senile that I need your help to stand up. `
-`Here I go..." `
-`Refusing Kanon's attempt to lend him a hand, Kinzo rose from the flower bed he had been sitting on. `
-`The retired Head left everything in Natsuhi's hands and returned to the study at a gentle pace... `
-`"...You're looking well. `
-`You possess a sense of dignity reminiscent of Kinzo's deceased wife." `
-`"On the off-chance that the magic-resisting toxin does reach Father, `
-`...will the magic dissolve in an instant?" `
-`"Indeed. `
-`In the blink of an eye. `
-`...I can vanish whenever I please, `
-`but if someone already dead such as Kinzo loses his form, he'll be instantly tossed away like dust by the winds of the sun. `
-`You must take care." `
-`"Yes. `
-`I understand." `
-`"......You may have talent as a witch. `
-`The magic-resisting toxin has been building up in your system over the years, `
-`and yet you are still able to understand magic. `
-`...If you and I had met during your youth, you might have become a powerful witch by now." `
-`"I am the wife of Ushiromiya Krauss, the Family Head. `
-`I would become even a witch or a demon to protect his honor. `
-`...I am deeply grateful for the power of your magic. `
-`I wouldn't have been able to protect the honor of the Ushiromiya family without you." `
-`"Let's discuss that at another time. `
-`I'd like to enjoy it with just the two of us women drinking tea." `
-`"A friend of mine who went to Sri Lanka sent me some black tea with a wonderful rose fragrance." `
-`"Hoh, you mean Dimbula. `
-`That isn't bad. `
-`Then you should also have some patis on the side. `
-`...You must serve me some as a reward if I manage to trick everyone for this entire family conference. `
-`It's a promise." `
-`"Understood. `
-`I promise. `
-`Then, I'll see you later." `
-`"Yes, later." `
-`The witch made her body crumble into the rustling winds, became gold flower petals, and scattered into thin air. `
-`Natsuhi watched her go, then turned on her heels and headed for the mansion. `
-`And then there were none left in the rose garden... `
-`"Oookay then. `
-`It's <break time>. `
-`Got any complaints so far?" `
-`"......None at all. `
-`If you have to pee, why not just go and do it...?" `
-`"What a rude thing to say. `
-`{p:1:Kinzo is already dead}, right? `
-`But he's walking around and talking, isn't he? `
-`Doesn't that mean this is magic?!" `
-`"Of course, I doubt this move would work on you after all this time, Bern. `
-`...But what about you, Battler? `
-`Isn't this weird? `
-`Don't you have to accept the existence of the magic that revived Kinzo? `
+`temani Ayah ke ruang kerja. `
+`Lalu suruh Genji menyiapkan teh hitam." `
+`"Aku belum setua itu sampai perlu bantuanmu untuk berdiri. `
+`Baiklah, aku pergi..." `
+`Menolak uluran tangan Kanon, Kinzo bangkit dari hamparan bunga tempat duduknya. `
+`Sang Kepala Keluarga yang telah pensiun menyerahkan segalanya pada Natsuhi dan kembali ke ruang kerja dengan langkah tenang... `
+`"...Penampilanmu terlihat baik. `
+`Kau memiliki wibawa yang mengingatkanku pada mendiang istri Kinzo." `
+`"Seandainya racun penangkal sihir itu sampai menyentuh Ayah, `
+`...apakah sihir akan lenyap seketika?" `
+`"Benar. `
+`Dalam sekejap mata. `
+`...Aku bisa menghilang kapan pun aku mau, `
+`namun jika seseorang yang sudah mati seperti Kinzo kehilangan wujudnya, keberadaannya akan langsung tersapu seperti debu oleh angin matahari. `
+`Kau harus berhati-hati." `
+`"Ya. `
+`Aku mengerti." `
+`"......Kau mungkin memiliki bakat sebagai penyihir. `
+`Racun penangkal sihir telah menumpuk dalam tubuhmu selama bertahun-tahun, `
+`namun kau masih mampu memahami sihir. `
+`...Jika kita bertemu saat kau masih muda, mungkin sekarang kau sudah menjadi penyihir yang sangat kuat." `
+`"Aku adalah istri dari Ushiromiya Krauss, Kepala Keluarga. `
+`Aku akan menjadi penyihir atau iblis sekalipun demi melindungi kehormatannya. `
+`...Aku sangat berterima kasih atas kekuatan sihirmu. `
+`Tanpamu, aku takkan mampu menjaga kehormatan keluarga Ushiromiya." `
+`"Kita bicarakan itu lain waktu. `
+`Aku ingin menikmatinya hanya berdua sebagai sesama wanita sambil minum teh." `
+`"Seorang temanku yang pergi ke Sri Lanka mengirimkan teh hitam dengan aroma mawar yang luar biasa." `
+`"Hoh, maksudmu Dimbula. `
+`Itu tidak buruk. `
+`Kalau begitu, kau juga harus menyiapkan patis sebagai pendamping. `
+`...Kau harus menyajikannya sebagai hadiah jika aku berhasil menipu semua orang sepanjang konferensi keluarga ini. `
+`Itu janji." `
+`"Dimengerti. `
+`Aku berjanji. `
+`Kalau begitu, sampai jumpa nanti." `
+`"Ya, sampai nanti." `
+`Sang penyihir membuat tubuhnya runtuh bersama desau angin, berubah menjadi kelopak bunga emas, lalu menghilang di udara. `
+`Natsuhi menatap kepergiannya, lalu berbalik dan melangkah menuju mansion. `
+`Dan akhirnya, tak seorang pun tersisa di taman mawar... `
+`"Baiklah kalau begitu. `
+`Ini <waktu istirahat>. `
+`Ada keluhan sejauh ini?" `
+`"......Tidak ada. `
+`Kalau mau buang air kecil, kenapa tidak pergi saja...?" `
+`"Sungguh ucapan yang kasar. `
+`{p:1:Kinzo sudah mati}, bukan? `
+`Tapi Kinzo berjalan-jalan dan berbicara, bukan? `
+`Bukankah itu berarti ini sihir?!" `
+`"Tentu saja, setelah selama ini, aku ragu trik ini akan mempan padamu, Bern. `
+`...Tapi bagaimana denganmu, Battler? `
+`Tidakkah ini aneh? `
+`Bukankah kau harus mengakui keberadaan sihir yang menghidupkan kembali Kinzo? `
 `Hahhihhyahhahaaaah!" `
-`"...If you're trying to imitate Beato, `
-`it's pissing me off, so stop it right now." `
+`"...Kalau kau mencoba meniru Beato, `
+`itu membuatku muak, jadi hentikan sekarang juga." `
 `"*giggle*! `
-`Figured it out?! `
-`Then come on, how are you gonna answer, Battler? `
-`Kinzo was just out for a stroll. `
-`Why not act like you always do and start holding your head, crying "THIS MAKES NO SENSE!!"...? `
-`C'mon, use that old "IT'S ALL USELESS" catch phrase, and then gimme one of your classic nonsensical counterarguments." `
-`"There's no way a human who's supposed to be dead could be walking around, right? `
-`Is this all because of some unknown virus called the Rokkenjima Syndrome that causes mass delusions? `
-`Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?! `
-`Or is it all because a mysterious secret organization called the Mountain Dogs made an as-of-yet undiscovered drug called Purupuru Pikopuyo which causes mass delusions?!! `
-`Let me hear tons of this wonderful crap, `
+`Sudah tahu jawabannya?! `
+`Kalau begitu, ayo, bagaimana jawabanmu, Battler? `
+`Kinzo hanya berjalan-jalan santai. `
+`Kenapa tidak bertingkah seperti biasanya dan mulai memegangi kepala sambil berteriak "INI TIDAK MASUK AKAL!!"...? `
+`Ayo, pakai jurus lamamu "SEMUA INI SIA-SIA", lalu lontarkan satu bantahan omong kosong andalanmu." `
+`"Tidak mungkin manusia yang seharusnya sudah mati bisa berjalan-jalan, kan? `
+`Apa ini semua karena virus tak dikenal bernama Sindrom Rokkenjima yang menyebabkan delusi massal? `
+`Atau karena sisik dari jenis kupu-kupu misterius yang hanya hidup di Rokkenjima bersifat halusinogen?! `
+`Atau semua ini karena organisasi rahasia misterius bernama Mountain Dogs menciptakan obat yang belum ditemukan bernama Purupuru Pikopuyo yang menyebabkan delusi massal?!! `
+`Biar kudengar banyak omong kosong indah itu, `
 `kyaaahahahaahahahahahahahahahahahahahaha!!" `
-`"......Just shut up. `
-`This isn't even a problem." `
-`{p:1:Grandfather is dead at this point in time}. `
-`There's no way he exists. `
-`"The only reason he's able to act like he's alive like this... `
-`is because of Aunt Natsuhi's lie, her attempt to make it through the family conference while hiding Grandfather's death." `
+`"......Diam saja. `
+`Ini bahkan bukan masalah." `
+`{p:1:Kakek sudah mati pada titik waktu ini}. `
+`Tak mungkin keberadaannya nyata. `
+`"Satu-satunya alasan kenapa kakek bisa bertingkah seolah masih hidup seperti ini... `
+`adalah karena Bibi Natsuhi berbohong, berusaha melewati konferensi keluarga sambil menyembunyikan kematian kakek." `
 `"Oh? `
-`It's Natsuhi's lie?! `
-`You can revive the dead by lying? `
-`Wouldn't that make it Natsuhi's magic?" `
-`"This world is like a Braun tube before you've looked in it. `
-`...It's the world of the cat box before you open it. `
-`As long as Aunt Natsuhi says she took a walk with Grandfather, and as long as no one can confirm that it's a lie, `
-`it's possible to display "Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi's reality. `
-`That means it's possible for Grandfather to appear." `
+`Ini kebohongan Natsuhi?! `
+`Orang mati bisa hidup kembali hanya dengan berbohong? `
+`Bukankah itu berarti sihir Natsuhi?" `
+`"Dunia ini seperti tabung Braun sebelum kau melihat ke dalamnya. `
+`...Ini adalah dunia kotak kucing sebelum kau membukanya. `
+`Selama Bibi Natsuhi mengatakan bahwa berjalan-jalan bersama kakek, dan selama tak ada yang bisa memastikan itu kebohongan, `
+`"Bibi Natsuhi berjalan-jalan di taman mawar bersama kakek" bisa ditampilkan sebagai realitas versi Natsuhi. `
+`Itu berarti kakek bisa muncul." `
 `*clap*, *clap*, *clap*... `
-`That extremely unflattering applause was coming from {f:5:Bernkastel}. `
-`"...Bravo. `
-`.........You're much calmer without Beato around." `
-`"Quiet. `
-`You shut up too." `
-`"Wait a second, Battler. `
-`According to your theory, sure, it might really be possible for Kinzo to appear if Natsuhi's the only person there. `
-`If Natsuhi claims to have observed Kinzo in a world with no one except Natsuhi in it, then no one can deny it, right?" `
-`"But Kanon was in the same place, and he was also looking at Kinzo, right? `
-`How would you explain that?" `
-`"...That's no problem at all. `
-`Kanon-kun is a servant who works for the Ushiromiya family. `
-`...Aunt Natsuhi probably ordered him to keep to her story, so that she could hide Grandfather's death. `
-`...Because of that, Kanon can see Grandfather even though he shouldn't exist, just like Aunt Natsuhi can." `
-`".........Too bad, Lambda. `
-`Battler isn't gonna fall for that kind of child's play anymore." `
-`"Seems so. `
-`...Well, this is nothing more than an opening, before the game's really started. `
-`Like an aperitif before a meal." `
-`"......An appetizer at a bar. `
-`Green tea at a sushi restaurant." `
-`"Shut up. `
-`So, we aren't gonna get anywhere unless I say it again in blue text, huh?" `
-`"Looks like it. `
-`Would you mind?" `
+`Tepuk tangan yang sama sekali tidak menyenangkan itu datang dari {f:5:Bernkastel}. `
+`"...Brilian. `
+`.........Kau jauh lebih tenang tanpa Beato di sekitarmu." `
+`"Diam. `
+`Kau juga tutup mulut." `
+`"Tunggu sebentar, Battler. `
+`Menurut teorimu, memang benar, Kinzo bisa muncul kalau hanya Natsuhi yang ada di sana. `
+`Kalau Natsuhi mengklaim telah mengamati Kinzo di dunia yang hanya berisi Natsuhi sendiri, maka tak ada yang bisa menyangkalnya, benar?" `
+`"Tapi Kanon berada di tempat yang sama, dan juga melihat Kinzo, bukan? `
+`Bagaimana kau menjelaskan itu?" `
+`"...Itu sama sekali bukan masalah. `
+`Kanon-kun adalah pelayan yang bekerja untuk keluarga Ushiromiya. `
+`...Bibi Natsuhi kemungkinan memerintahkannya untuk menyamakan cerita, agar bisa menyembunyikan kematian kakek. `
+`...Karena itu, Kanon bisa melihat kakek meskipun seharusnya tidak ada, sama seperti Bibi Natsuhi." `
+`".........Sayang sekali, Lambda. `
+`Battler tidak akan terjebak permainan anak-anak seperti itu lagi." `
+`"Kelihatannya begitu. `
+`...Yah, ini tak lebih dari pembuka sebelum permainan benar-benar dimulai. `
+`Seperti aperitif sebelum makan." `
+`"......Camilan pembuka di bar. `
+`Teh hijau di restoran sushi." `
+`"Diam. `
+`Jadi, kita tidak akan sampai ke mana-mana kecuali aku mengatakannya lagi dengan teks biru, ya?" `
+`"Sepertinya begitu. `
+`Keberatan?" `
 `"......... `
 `...... `
-`{p:2:The reason Grandfather is strolling around like nothing happened even though he's already dead... `
-`is that people who want to make it seem as though he's alive created an illusion of him. `
-`People who think the same way can share in that illusion. `
-`Then, they'll talk as though Grandfather actually exists and was with them until a second ago. `
-`That's why he's strolling around like it's perfectly natural.}" `
+`{p:2:Alasan kakek bisa berjalan-jalan seolah tak terjadi apa-apa meskipun sudah mati... `
+`adalah karena orang-orang yang ingin membuatnya terlihat seakan masih hidup menciptakan ilusi tentang dirinya. `
+`Orang-orang yang berpikiran sama bisa berbagi ilusi itu. `
+`Lalu, mereka berbicara seolah kakek benar-benar ada dan baru saja bersama mereka. `
+`Itulah sebabnya kakek bisa berjalan-jalan dengan begitu alami.}" `
 `" `
-`"{p:2:Because of this, the illusion of Grandfather is unable to appear in front of people who aren't in on this with Aunt Natsuhi.} `
-`{p:2:That's why they made up the story of him shutting himself away in his study and refusing to come out.}" `
-`In the games before now, Grandfather has always locked himself up in his study. `
-`We never met him directly. `
-`However, some people said things that made us think he was locked up in his study in a bad mood, `
-`such as claiming to have met him only a short while ago. `
-`We blindly accepted their statements and believed that Grandfather was in the study. `
+`"{p:2:Karena itu, ilusi tentang kakek tidak bisa muncul di hadapan orang-orang yang tidak terlibat dalam kebohongan bersama Bibi Natsuhi.} `
+`{p:2:Itulah alasan mereka mengarang cerita bahwa kakek mengurung diri di ruang kerja dan menolak keluar.}" `
+`Dalam permainan-permainan sebelumnya, kakek selalu mengunci diri di ruang kerja. `
+`Kami tidak pernah bertemu langsung dengannya. `
+`Namun, beberapa orang mengatakan hal-hal yang membuat kami percaya kakek mengurung diri di ruang kerja dalam suasana hati yang buruk, `
+`seperti mengaku baru saja bertemu dengannya. `
+`Kami menerima pernyataan itu begitu saja dan mempercayai bahwa kakek berada di ruang kerja. `
 `{a:c: `
-`{i:That's why it was possible for an illusion of Grandfather to exist in the study}.} `
-`That's right, in the games before now, `
-`the only people who met Grandfather were Uncle Krauss, Aunt Natsuhi, `
-`and the servants. `
-`{p:2:Because they all stuck to the same story, `
-`an illusion of Grandfather was able to exist on this island, making it seem like he was alive}. `
-`"...You even showed us a scene at the beginning of this game, `
-`where Aunt Natsuhi convinced Doctor Nanjo and the rest to cover up Grandfather's death. `
-`...I'm not gonna fall for a cheap trick like that after all this time." `
-`"......Well, not bad. `
-`But I was hoping for the unknown drug Purupuru Pikopuyo." `
-`"There's no way he'd say something so ridiculous, right...? `
-`After all, supposing that such a thing exists would be just as bad as surrendering to the fantasy genre. `
-`...Whether it's a virus or a drug or an illness, anything that hasn't been discovered yet is in violation of Knox's 4th commandment." `
-`"...What do you mean, 4th commandment?" `
-`"Knox's 4th. `
-`It is forbidden for unknown drugs or difficult to understand scientific devices to be used. `
-`......The rule states that such things can't be used during a murder." `
-`"What the hell... `
-`Unknown drug X and unknown scientific device X should be the best kinds of weapons to use when fighting against a witch..." `
-`"......That's what I'm talking about. `
-`All of those violate the rules of a proper mystery. `
-`Supposing an unknown virus, `
-`an unknown drug, `
-`...an unknown sickness, or an unknown XXX was used puts it totally in the fantasy genre. `
-`My condolences. `
-`If that was your theory, then it's "game over" for you. `
+`{i:Itulah sebabnya ilusi tentang kakek bisa ada di dalam ruang kerja}.} `
+`Benar, dalam permainan-permainan sebelumnya, `
+`Satu-satunya orang yang bertemu dengan Kakek hanyalah Paman Krauss, Bibi Natsuhi, `
+`dan para pelayan. `
+`{p:2:Karena mereka semua berpegang pada cerita yang sama, `
+`sebuah ilusi tentang Kakek bisa ada di pulau ini, membuatnya seolah-olah masih hidup}. `
+`"...Kau bahkan memperlihatkan adegan di awal permainan ini, `
+`di mana Bibi Natsuhi meyakinkan Dokter Nanjo dan yang lainnya untuk menutupi kematian Kakek. `
+`...Aku tidak akan tertipu trik murahan seperti itu lagi setelah sejauh ini." `
+`"......Yah, tidak buruk. `
+`Tapi aku sebenarnya berharap pada obat misterius Purupuru Pikopuyo." `
+`"Tak mungkin dia mengatakan sesuatu yang sekonyol itu, kan...? `
+`Lagipula, menganggap hal semacam itu ada sama saja dengan menyerah pada genre fantasi. `
+`...Entah itu virus, obat, atau penyakit, apa pun yang belum ditemukan melanggar Perintah Keempat Knox." `
+`"...Apa maksudmu Perintah Keempat?" `
+`"Perintah Keempat Knox. `
+`Dilarang menggunakan obat yang tidak dikenal atau perangkat ilmiah yang sulit dipahami. `
+`......Aturan itu menyatakan bahwa hal-hal semacam itu tidak boleh digunakan dalam pembunuhan." `
+`"Apa-apaan... `
+`Obat misterius X dan perangkat ilmiah misterius X seharusnya jadi senjata terbaik untuk melawan penyihir..." `
+`"......Itulah maksudku. `
+`Semua itu melanggar aturan misteri yang semestinya. `
+`Mengasumsikan adanya virus tak dikenal, `
+`obat tak dikenal, `
+`...penyakit tak dikenal, atau XXX tak dikenal sepenuhnya memasukkan semuanya ke genre fantasi. `
+`Turut berduka. `
+`Kalau itu teorimu, maka ini sudah 'game over' untukmu. `
 `*giggle*giggle*." `
 `"......H-Hey... `
-`What are you talking about...?" `
-`"You think you've been fighting in direct opposition to Beato. `
-`But that's not actually true. `
-`You haven't been in direct opposition. `
-`You've been fighting along with her from a slightly different angle." `
-`"All this playing detective you've done hasn't been fantasy vs mystery. `
-`It's only been fantasy vs anti-fantasy." `
-`"...I don't have a clue what you're talking about. `
-`...But there's one thing I do get. `
-`......It sounds like you're saying there's something wrong with my fighting style." `
-`"......We're fighting to kill the fantasy known as the Illusion of the Witch. `
-`That means interpreting this tale `
-`as a {i:proper mystery}. `
-`In other words, from the very start, we have to ignore any and all elements that violate the taboos of the mystery genre." `
-`"I-Ignore, you say......?" `
-`"For example, several closed room murders have occurred in the games before now, right?" `
-`"...Y-Yeah." `
-`At every single crime scene, `
-`you enthusiastically check with Beato to make sure there are no hidden doors, right? `
-`Then that leads to a flashy bunch of red truths weaving together all over the place, `
-`almost as though that itself is the battle. `
-`I call that a waste of time. `
-`After all, it's clearly specified in Knox's 3rd. `
-`"It is forbidden for hidden passages to exist." `
-`In the mystery genre, hidden passages {i:mustn't exist}. `
-`So, if you wanna interpret everything as a proper mystery, `
-`entering this whole debate over whether there are hidden doors or not means you've lost from the beginning, see...? `
-`After all, {i:there aren't any}. `
-`As soon as you suspect that they might exist, it's already "game over" for you. `
-`In other words, you assume you can't start theory-building, just because no one's yet proven that hidden doors don't exist at the crime scene. `
-`That's why I call you naive and a failure at the mystery genre. `
-`You've already lost once you start thinking that. `
-`You thought you were waging a fight to interpret everything like a mystery novel, right...? `
-`Then you've got to follow the conventions of the mystery genre. `
+`Apa yang sedang kau bicarakan...?" `
+`"Kau pikir selama ini kau bertarung berlawanan langsung dengan Beato. `
+`Padahal itu tidak sepenuhnya benar. `
+`Kau tidak benar-benar berlawanan langsung. `
+`Kau bertarung bersamanya, hanya dari sudut yang sedikit berbeda." `
+`"Semua permainan detektif yang kau lakukan bukanlah fantasi vs misteri. `
+`Itu hanya fantasi vs anti-fantasi." `
+`"...Aku sama sekali tidak mengerti apa yang kau bicarakan. `
+`...Tapi ada satu hal yang kupahami. `
+`......Kedengarannya kau bilang caraku bertarung itu salah." `
+`"......Kita bertarung untuk membunuh fantasi yang dikenal sebagai Ilusi Penyihir. `
+`Itu berarti menafsirkan kisah ini `
+`sebagai sebuah {i:misteri yang semestinya}. `
+`Dengan kata lain, sejak awal kita harus mengabaikan semua elemen yang melanggar tabu genre misteri." `
+`"M-Mengabaikan, katamu......?" `
+`"Contohnya, beberapa pembunuhan ruang tertutup telah terjadi di permainan-permainan sebelumnya, benar?" `
+`"...Y-Ya." `
+`Di setiap TKP, `
+`kau selalu bersemangat memeriksa bersama Beato untuk memastikan tidak ada pintu tersembunyi, bukan? `
+`Lalu muncullah rentetan kebenaran merah yang mencolok di mana-mana, `
+`seolah-olah itulah pertarungannya sendiri. `
+`Menurutku itu hanya buang-buang waktu. `
+`Lagipula, hal itu sudah jelas tertulis dalam Perintah Ketiga Knox. `
+`"Dilarang adanya lorong atau jalan tersembunyi." `
+`Dalam genre misteri, lorong tersembunyi {i:tidak boleh ada}. `
+`Jadi, kalau kau ingin menafsirkan segalanya sebagai misteri yang semestinya, `
+`begitu kau mulai berdebat soal ada atau tidaknya pintu tersembunyi, kau sudah kalah sejak awal, paham...? `
+`Lagipula, {i:memang tidak ada}. `
+`Begitu kau mulai mencurigai kemungkinan keberadaannya, itu sudah 'game over' bagimu. `
+`Dengan kata lain, kau menganggap tak bisa mulai membangun teori hanya karena belum ada yang membuktikan bahwa pintu tersembunyi tidak ada di TKP. `
+`Itulah sebabnya aku menyebutmu naif dan gagal memahami genre misteri. `
+`Kau sudah kalah sejak mulai berpikir seperti itu. `
+`Kau mengira sedang bertarung untuk menafsirkan semuanya seperti novel misteri, bukan...? `
+`Kalau begitu, kau harus mengikuti kaidah genre misteri. `
 `...*giggle*giggle*giggle*giggle*, hihihihihihihihihihihihyahhahhahahahahahahahahahahahahahaha...!! `
 `"*cough* `
-`......Well, that's it in a nutshell. `
-`Hidden doors must not exist at any of the crime scenes. `
-`That means any time spent asking whether they exist or not is wasted." `
-`"...I think I know what you're talking about. `
-`I've heard about it somewhere. `
-`Is this like the ten basic rules for mystery novels or something?" `
-`"Yeah, that's right. `
-`They're the ten wedges for drilling witches brandished by Knox, the peerless archbishop of witch hunting. `
-`Those are the true weapons with which to fight and defeat the fantasy known as the Illusion of the Witch head on. `
-`...It's just like you, Bern, `
-`to bring in such a troublesome weapon. `
-`That's the fantasy genre's archenemy." `
+`......Yah, singkatnya begitu. `
+`Pintu tersembunyi tidak boleh ada di TKP mana pun. `
+`Artinya, setiap waktu yang dihabiskan untuk mempertanyakan keberadaannya adalah sia-sia." `
+`"...Kurasa aku tahu apa yang kau maksud. `
+`Aku pernah mendengarnya di suatu tempat. `
+`Ini seperti sepuluh aturan dasar novel misteri atau semacamnya?" `
+`"Ya, benar. `
+`Itulah sepuluh pasak untuk mengebor penyihir yang diacungkan oleh Knox, sang uskup agung perburuan penyihir yang tiada tanding. `
+`Itulah senjata sejati untuk melawan dan mengalahkan fantasi yang disebut Ilusi Penyihir secara langsung. `
+`...Memang sangat khas dirimu, Bern, `
+`membawa senjata yang merepotkan seperti itu. `
+`Itulah musuh bebuyutan genre fantasi." `
 `"............ `
-`So, you'll deny the existence of hidden doors right from the start, without even investigating the crime scene... `
-`That sounds more like fantasy to me..." `
-`"Lambda, who's in charge of the witch's side, is fantasy. `
-`I'm the one who's fighting her, mystery. `
-`What are you? `
-`You're just barely anti-fantasy, doing nothing but dodging over and over and denying fantasy. `
-`You're opposed to absolutely everything, but you can't make any counter-proposals. `
-`You're like a politician from some country. `
+`Jadi, kau akan menolak keberadaan pintu tersembunyi sejak awal, bahkan tanpa menyelidiki TKP... `
+`Bagiku, itu terdengar lebih seperti fantasi..." `
+`"Lambda, yang memegang peran pihak penyihir, adalah fantasi. `
+`Aku yang melawannya adalah misteri. `
+`Lalu kau apa? `
+`Kau cuma anti-fantasi setengah-setengah, tak melakukan apa pun selain terus mengelak dan menyangkal fantasi. `
+`Kau menentang segalanya, tapi tak bisa mengajukan satu pun tandingan. `
+`Kau seperti politisi dari negara entah mana. `
 `*giggle*giggle*." `
-`"Shut up. `
-`I didn't come here to speak gibberish with you two. `
-`Continue the story right now...!!" `
-`"...Be quiet. `
-`That sleeping princess behind you looks like she's in pain, doesn't she?" `
-`When he turned around, he saw Beato's living corpse resting in a chair... `
-`However, sweat glistened all over her body, and it felt like she was breathing a little harder than normal. `
-`...She looked as though she was suffering from a high fever. `
+`"Diam. `
+`Aku tidak datang ke sini untuk mendengarkan ocehan tak masuk akal kalian berdua. `
+`Lanjutkan ceritanya sekarang juga...!!" `
+`"...Tenanglah. `
+`Putri tidur di belakangmu itu terlihat sedang kesakitan, bukan?" `
+`Saat menoleh, yang terlihat adalah mayat hidup Beato yang terbaring di kursi... `
+`Namun, keringat mengilap di seluruh tubuhnya, dan napasnya terasa sedikit lebih berat dari biasanya. `
+`...Wajahnya tampak seperti sedang menderita demam tinggi. `
 `"Beato, `
-`...what's wrong, ...are you okay...?" `
-`"What do you mean, is she okay? `
-`You sure do say some weird things. `
-`...Aren't you fighting to kill this girl?" `
+`...ada apa, ...apa kau baik-baik saja...?" `
+`"Apa maksudmu baik-baik saja? `
+`Kau benar-benar mengatakan hal yang aneh. `
+`...Bukankah kau sedang bertarung untuk membunuh gadis ini?" `
 `"..............." `
-`"We've rewound this 5th game for your benefit, `
-`but right now, Bern has done a good job cornering her opponent and is about to break through the Illusion of the Witch. `
-`...Her existence has been almost completely denied. `
-`It's only natural that she's suffering." `
-`"......Just now, `
-`even you smashed the Illusion of the Witch by saying there's no way Kinzo exists. `
-`......Here's the proof that your attack reached Beato. `
-`This agony of hers." `
+`"Kita memutar ulang permainan kelima ini demi kepentinganmu, `
+`dan sekarang Bern sudah berhasil menekan lawannya dan hampir menembus Ilusi Penyihir. `
+`...Keberadaannya hampir sepenuhnya disangkal. `
+`Wajar saja kalau penderitaannya makin parah." `
+`"......Barusan, `
+`bahkan kau sendiri menghancurkan Ilusi Penyihir dengan mengatakan tak mungkin Kinzo ada. `
+`......Inilah buktinya bahwa seranganmu sampai ke Beato. `
+`Rasa sakit yang dirasakannya ini." `
 `"..............." `
-`...I tried to at least wipe away the sweat on Beato's forehead with a handkerchief. `
-`It's true I promised Beato that I'd let her die. `
-`But it was supposed to happen...peacefully. `
-`I wasn't planning to make her suffer first. `
-`...My goal isn't to make the sleeping Beato suffer like this before killing her... `
-`As if they had seen right through to my mixed feelings, `
-`the two witches grinned... `
-`"Dad only overheard because you kept yelling about the inheritance, right, Aneki?" `
-`"It isn't my fault, it was just an unlucky coincidence, okay?! `
-`He just happened to be in the corridor and heard... It was an accident, I tell you, an accident...!" `
-`"Could you two give it a rest...? `
-`Just call it our bad luck this time and give it up. `
-`If you leave a man alone, his mood'll pop right back to normal." `
-`"Hopefully Father's feelings weren't hurt so much that he writes up some strange will." `
-`The relatives took a deep breath and fell silent... `
-`"Hey! You can't jump around either, Maria! `
-`What'll you do if Ange-chan falls?!" `
-`"......Sorry to keep you waiting. `
-`The boat is ready." `
-`"Okay, let's go. `
-`Won't get anywhere by complainin' now." `
-`"We eagerly await your return to this island." `
-`Natsuhi was sitting on a bench in the rose garden, looking completely worn out. `
-`However, when she noticed that Kanon and Kumasawa were coming back, she immediately sat up straight, regaining the dignity of the Head's wife. `
-`"...Did the boat leave?" `
-`"Yes. `
-`It departed just a minute ago." `
-`"I see. `
-`Good job seeing them off. `
-`...What is my husband doing?" `
-`"He returned to his room a short while ago. `
-`He is resting." `
-`Since the previous day, Krauss had been almost overwhelmed by anxiety over the thought that Kinzo's death might be discovered. `
-`When the family conference ended, his weariness must have suddenly gotten ahold of him. `
-`...However, the way he had refused to let even a sliver of his true intentions slip out... `
-`and the manner in which he had managed to act as though everything was normal...showed that Krauss's nerve was nothing to sneeze at. `
-`"......How was it? `
-`Did they seem to notice anything suspicious about Father...?" `
-`"Not at all. `
-`Eva-sama and the rest were having a big ruckus over how the Master overheard them talking about the inheritance. Right? `
-`Wasn't their panicking just priceless?" `
-`"Yes. `
-`They were quite shaken up." `
-`"But Kumasawa, you really are quite an actress. `
-`The way you acted all panicked in the corridor made it seem like Father really was there." `
-`"......Kumasawa-san is quite talented at that sort of thing." `
-`"Oooh, come now, I don't deserve such praise. `
+`...Setidaknya aku mencoba menyeka keringat di dahi Beato dengan saputangan. `
+`Memang benar aku berjanji akan membiarkannya mati. `
+`Tapi seharusnya itu terjadi...dengan tenang. `
+`Aku tidak berniat membuatnya menderita terlebih dahulu. `
+`...Tujuanku bukan membuat Beato yang tertidur menderita seperti ini sebelum membunuhnya... `
+`Seolah mampu menembus perasaan bercampur adukku, `
+`kedua penyihir itu tersenyum lebar... `
+`"Ayah hanya mendengar karena kalian terus berteriak soal warisan, kan, Aneki?" `
+`"Bukan salahku, itu cuma kebetulan sial, tahu?! `
+`Kebetulan Ayah sedang di koridor dan mendengar... Itu kecelakaan, kubilang, kecelakaan...!" `
+`"Kalian berdua bisa berhenti tidak...? `
+`Anggap saja kali ini kita sedang sial dan sudahi saja. `
+`Kalau seorang pria dibiarkan sendiri, suasana hatinya akan cepat pulih." `
+`"Semoga saja perasaan Ayah tidak terluka sampai menulis surat wasiat yang aneh." `
+`Para kerabat menarik napas panjang dan terdiam... `
+`"Hei! Kau juga tidak boleh meloncat-loncat, Maria! `
+`Bagaimana kalau Ange-chan jatuh?!" `
+`"......Maaf membuat kalian menunggu. `
+`Perahu sudah siap." `
+`"Baik, ayo berangkat. `
+`Mengeluh sekarang juga tidak akan mengubah apa pun." `
+`"Kami menantikan kepulangan kalian ke pulau ini." `
+`Natsuhi duduk di bangku taman mawar, terlihat benar-benar kelelahan. `
+`Namun, saat menyadari Kanon dan Kumasawa kembali, dia segera duduk tegak, memulihkan wibawa sebagai istri Kepala Keluarga. `
+`"...Apakah perahunya sudah berangkat?" `
+`"Ya. `
+`Baru saja berangkat satu menit yang lalu." `
+`"Begitu ya. `
+`Terima kasih sudah mengantar mereka. `
+`...Apa yang sedang dilakukan suamiku?" `
+`"Beliau kembali ke kamarnya beberapa saat yang lalu. `
+`Sedang beristirahat." `
+`Sejak hari sebelumnya, Krauss hampir tenggelam dalam kecemasan memikirkan kemungkinan kematian Kinzo terbongkar. `
+`Saat konferensi keluarga berakhir, kelelahan pasti langsung menyerangnya. `
+`...Namun, caranya menahan agar tidak sedikit pun niat aslinya terlihat... `
+`dan sikapnya yang mampu berpura-pura seolah semuanya normal...menunjukkan bahwa mental Krauss tidak bisa diremehkan. `
+`"......Bagaimana hasilnya? `
+`Apakah mereka terlihat mencurigai sesuatu tentang Ayah...?" `
+`"Sama sekali tidak. `
+`Eva-sama dan yang lain malah ribut besar soal Tuan yang memergoki mereka membicarakan warisan, bukan? `
+`Kepanikan mereka benar-benar pemandangan yang tak ternilai." `
+`"Benar. `
+`Mereka terlihat sangat terguncang." `
+`"Tapi Kumasawa, kemampuan aktingmu benar-benar hebat. `
+`Cara panikmu di koridor membuatnya terasa seolah Ayah benar-benar ada di sana." `
+`"......Kumasawa-san memang sangat berbakat dalam hal seperti itu." `
+`"Aduh, jangan begitu, aku tak pantas menerima pujian sebesar itu. `
 `Hohohohoh." `
 `"*giggle* `
-`I always have to give Genji strict orders not to easily swallow your stories when you call in sick." `
-`"Now that's just too harsh, Madam. `
+`Aku selalu harus memberi perintah tegas pada Genji agar tidak mudah mempercayai ceritamu saat kau menelepon dan bilang sakit." `
+`"Itu terlalu kejam, Nyonya. `
 `Ohohohohoh..." `
-`"You really did a good job. `
-`Both of you, as well as Genji and Shannon, `
-`will get your pay for a month's worth of past vacation time, as well as five extra days, just as promised. `
-`Consider this is a confidential benefit. `
-`Talk with Genji when you collect your pay so that the other servants don't find out." `
-`"Sure, we understand. `
-`Right?" `
+`"Kalian benar-benar melakukan pekerjaan dengan baik. `
+`Kalian berdua, juga Genji dan Shannon, `
+`akan menerima gaji pengganti libur sebulan penuh yang lalu, ditambah lima hari ekstra, sesuai janji. `
+`Anggap ini sebagai tunjangan rahasia. `
+`Bicarakan dengan Genji saat mengambil gaji agar para pelayan lain tidak mengetahuinya." `
+`"Tentu, kami mengerti. `
+`Benar?" `
 `"......Kumasawa-san, `
-`your voice is too loud." `
-`"Ooh, not good, not good, ...hohohoh." `
-`"Good point. `
-`Let's leave it at that for the time being. `
-`We should all return to our regular duties. `
-`That's right, I've had Gohda prepare some special tea. `
-`Tell him to serve it." `
-`Natsuhi let them know she wanted to be left alone for a while, `
-`so she could drink some black tea in the rose garden. `
-`The black tea that had been carried all the way to the bench... `
-`was the Sri Lankan tea "Dimbula" that she had promised Beato, along with some patis... `
-`Sitting on either side of this snack, staring at it curiously, the wife of the Head and her witch could be seen. `
-`"...So this is patis... `
-`I just assumed it would be some kind of baked sweet..." `
-`Apparently Natsuhi, not realizing that it had a curry-like spicy flavor, had started choking after putting it in her mouth. `
-`To describe it in Japanese terms, it was like fried dumplings stuffed with mashed, curry-flavored potatoes. `
-`As a household dish, it would probably be pretty popular with the kids. `
-`However, it was something of a shock to Natsuhi, who expected that a treat to go with tea would be sweet. `
-`"Didn't you know? `
-`Dimbula always goes with this. `
-`Black tea always goes with cookies. `
-`Oh, but chocolate is good too. `
-`You must have sweet bean jelly with Japanese tea, although salted konbu also works. `
-`Chinese tea goes with Chinese dumplings. `
-`Though I like moon cakes too." `
-`"...I'm surprised. `
-`You know a lot about various cultures, don't you?" `
-`"Well, I haven't been living a thousand years for nothing. `
-`I've tried refined teas from all over the world. `
-`Perhaps you could call it a journey through the world of tea." `
-`"That does seem like it would be a wonderful way to travel the world. `
-`Before today, I never knew that one could enjoy tea like this. `
-`I will treasure this experience." `
-`"I cannot leave Rokkenjima. `
-`This is the only way I can travel. `
-`What about you? `
-`I'm sure you've elegantly traveled the world like any wealthy wife might." `
-`".........Before Jessica was born, my husband took me to many countries. `
-`Before marrying, I never once traveled overseas, so each time was a fresh and new experience." `
+`suaramu terlalu keras." `
+`"Aduh, tidak baik, tidak baik, ...hohohoh." `
+`"Benar juga. `
+`Untuk sementara, cukup sampai di sini. `
+`Kita semua harus kembali ke tugas masing-masing. `
+`Oh ya, aku sudah menyuruh Gohda menyiapkan teh spesial. `
+`Suruh dia menyajikannya." `
+`Natsuhi memberi tahu bahwa dirinya ingin ditinggal sendirian sebentar, `
+`agar bisa menikmati teh hitam di taman mawar. `
+`Teh hitam yang dibawa sampai ke bangku taman itu... `
+`adalah teh Sri Lanka "Dimbula" yang telah dijanjikannya pada Beato, lengkap dengan patis... `
+`Duduk berhadapan di sisi kudapan itu, menatapnya dengan penuh rasa ingin tahu, tampak istri Kepala Keluarga dan penyihirnya. `
+`"...Jadi ini patis... `
+`Aku mengira ini semacam kue panggang manis..." `
+`Tampaknya Natsuhi, tanpa menyadari rasanya yang pedas mirip kari, langsung tersedak begitu memasukkannya ke mulut. `
+`Kalau digambarkan dengan istilah Jepang, rasanya seperti pangsit goreng berisi kentang tumbuk berbumbu kari. `
+`Sebagai hidangan rumahan, kemungkinan besar anak-anak akan menyukainya. `
+`Namun, bagi Natsuhi yang mengira pendamping teh pasti manis, ini terasa cukup mengejutkan. `
+`"Kau tidak tahu? `
+`Dimbula selalu cocok dengan ini. `
+`Teh hitam selalu cocok dengan kue kering. `
+`Oh, tapi cokelat juga enak. `
+`Teh Jepang harus ditemani yokan kacang manis, meski kombu asin juga cocok. `
+`Teh Cina cocok dengan pangsit Cina. `
+`Walaupun aku juga suka kue bulan." `
+`"...Aku terkejut. `
+`Pengetahuanmu tentang berbagai budaya luas sekali, bukan?" `
+`"Yah, seribu tahun hidup tidak berlalu sia-sia. `
+`Aku sudah mencicipi teh-teh pilihan dari seluruh dunia. `
+`Mungkin bisa disebut perjalanan menjelajahi dunia lewat teh." `
+`"Itu terdengar seperti cara yang sangat indah untuk menjelajahi dunia. `
+`Sebelum hari ini, aku tidak pernah tahu bahwa teh bisa dinikmati seperti ini. `
+`"Aku akan menghargai pengalaman ini." `
+`"Aku tidak bisa meninggalkan Rokkenjima. `
+`Ini satu-satunya cara bagiku untuk bepergian. `
+`Bagaimana denganmu? `
+`Aku yakin kau telah berkeliling dunia dengan anggun, seperti istri orang kaya pada umumnya." `
+`".........Sebelum Jessica lahir, suamiku membawaku ke banyak negara. `
+`Sebelum menikah, aku tidak pernah sekalipun bepergian ke luar negeri, jadi setiap perjalanan terasa segar dan baru bagiku." `
 `"...Hmph. `
-`Sounds like you were also born into a very rigid family." `
+`Sepertinya kau juga terlahir dalam keluarga yang sangat kaku." `
 `"............ `
-`...It was strict, but they gave me a wonderful upbringing. `
-`It would be rude to my father and mother to call that rigid." `
-`"That's a pretty eloquent way to call it rigid. *cackle*." `
-`Krauss might have pitied Natsuhi. `
-`Or, he might have wanted to take her away from the rigid Ushiromiya family for a little bit and let her rest. `
-`...Or, he might simply have wanted to take his wife around countries he knew well, to show off everything he knew. `
-`"Unlike Father, my husband is fond of Asian nations. `
+`...Memang ketat, tetapi mereka memberiku pendidikan yang luar biasa. `
+`Akan tidak sopan kepada ayah dan ibuku jika menyebutnya kaku." `
+`"Itu cara yang cukup fasih untuk menyebutnya kaku. *cackle*." `
+`Krauss mungkin merasa kasihan pada Natsuhi. `
+`Atau, mungkin dia ingin membawanya menjauh sejenak dari keluarga Ushiromiya yang kaku dan membiarkannya beristirahat. `
+`...Atau, mungkin dia hanya ingin membawa istrinya berkeliling negara-negara yang ia kenal dengan baik, untuk memamerkan semua yang ia ketahui. `
+`"Tidak seperti Ayah, suamiku menyukai negara-negara Asia. `
 `Hong Kong, Taiwan, Korea, Thailand. `
-`I think we also went to Malaysia." `
+`Sepertinya kami juga pergi ke Malaysia." `
 `"*cackle*cackle* `
-`That Krauss... Was he trying to rebel against Kinzo's Western tastes? `
-`But Asia is good too. `
-`After all, the Japanese are strongly influenced by the West. `
-`When they think of foreign countries, only Western ones come to mind. `
-`But you mustn't forget the East." `
-`"I myself knew a few things about the West, but I knew very little about the East... `
-`I seem to recall my husband making fun of me now and then during our travels." `
-`Beato subtly peered into Natsuhi's heart, as the latter grumbled that the trips had all been very tiring. `
-`"Are you listening? `
-`This is called an areca nut. `
-`It's a popular luxury food item around here." `
-`It looked like a small, round, gourd-like nut that had been smashed, with cucumber wedged in it. `
-`At a glance, it looked as though it would probably taste like pickles. `
-`"I-I see. `
-`So I just bite it here...?" `
-`As she tried to bite the one her husband was holding, he suddenly moved it away. `
-`...It felt kind of embarrassing, like she was a fish after some bait. `
-`"Whoa, wait up. `
-`You have to eat it a certain way. `
-`Yes, you are supposed to bite it. `
-`Bite it. `
-`Chew it. `
-`But don't swallow it." `
-`"Huh? `
-`Even though you bite and chew it, you can't swallow it?" `
-`"Yes. `
-`Bite and chew. `
-`Don't swallow. `
-`And don't drink the juice. `
-`It'll make your stomach hurt." `
-`"I-I don't understand... `
-`Why would you eat something like that??" `
-`"Think of it as something like gum. `
-`Chew it and enjoy the flavor. `
-`Then take the scraps you've bitten and the juice and spit it out into a paper cup like this." `
-`"...D-Dear, `
-`the inside of your mouth is bright red...! `
-`Wipe it off, wipe it off. `
-`...Eeek!" `
-`Even her favorite handkerchief, which she had wiped Krauss's mouth with, had bright red marks on it. `
-`Something that's poisonous if eaten or drunk, and it makes the inside of your mouth so bright red, `
-`and having to spit something out after you've put it in your mouth, ...how indecent! `
-`...Thinking this, Natsuhi adamantly refused Krauss's invitation. `
-`"No way, no way, I don't need any, I don't need any...!" `
-`"This is a cross-cultural experience. `
-`What's the point of traveling if we don't do things that can only be done here?" `
-`Krauss kept chewing, ignoring the fact that even his lips were being colored bright red. `
-`"Father likes these too. `
-`He must have ordered them long ago, because he used to chew away at them on the mansion's terrace. `
-`Although it seems he stopped ever since you arrived." `
-`"Look here, Father, the person you respect even more than me, enjoyed these all the time. `
-`Look, look, don't be shy, take some." `
-`"No, no, stop it, stop it, deeeear!" `
-`...During travel, Krauss had the innocence of a child. `
-`He didn't even conceal his jealousy of the respect Natsuhi normally gave Kinzo. `
-`Just being able to see that side of her husband made traveling all the way to another country worthwhile... `
-`Krauss urged her even harder to bite it, `
-`but Natsuhi, undaunted, ran from place to place and finally yelled that he was being too pushy. `
-`Krauss was miffed the whole bus ride. `
-`What a child, to let a little thing like this get him down, `
-`Natsuhi thought exasperatedly. `
-`Then, a native tour guide in the bus took out one of those areca nuts and started explaining about it. `
-`It had apparently been a beloved luxury item in these parts since ancient times, similar to tobacco. `
-`Just like in Natsuhi's case, it was starting to be disliked by young people and was becoming obsolete. `
-`...Furthermore, it was treated as a good luck charm in this area... `
-`and was known as a symbol for couples. `
-`She looked at her husband's face. `
-`......He turned away abruptly, but it looked like his cheeks had gotten a little red... `
-`"So, `
-`you then leaned on your husband and held his hand, did you?! `
-`What the heck, you and your husband share a pretty pure love, don't you?! `
-`Did you get all fired up? `
-`You know, like, that night{p:0:♪} `
+`Dasar Krauss... Apakah dia mencoba memberontak terhadap selera Barat Kinzo? `
+`Tapi Asia juga bagus. `
+`Lagipula, orang Jepang sangat dipengaruhi oleh Barat. `
+`Ketika memikirkan negara asing, yang terlintas hanyalah negara-negara Barat. `
+`Namun, jangan sampai melupakan Timur." `
+`"Aku sendiri mengetahui beberapa hal tentang Barat, tetapi sangat sedikit tentang Timur... `
+`Aku ingat suamiku sering mengejekku selama perjalanan kami." `
+`Beato mengintip ke dalam hati Natsuhi secara halus, sementara yang terakhir menggerutu bahwa semua perjalanan itu terasa sangat melelahkan. `
+`"Apa kau mendengarkan? `
+`Ini disebut buah pinang. `
+`Ini adalah makanan mewah yang populer di sekitar sini." `
+`Bentuknya seperti kacang kecil bulat menyerupai labu yang dihancurkan, dengan irisan mentimun terselip di dalamnya. `
+`Sekilas, tampak seolah rasanya akan seperti acar. `
+`"A-Aku mengerti. `
+`Jadi aku tinggal menggigitnya di sini...?" `
+`Saat ia mencoba menggigit yang dipegang suaminya, suaminya tiba-tiba menariknya menjauh. `
+`...Rasanya agak memalukan, seperti ikan yang mengejar umpan. `
+`"Whoa, tunggu dulu. `
+`Kau harus memakannya dengan cara tertentu. `
+`Ya, kau memang harus menggigitnya. `
+`Gigit. `
+`Kunyah. `
+`Tapi jangan ditelan." `
+`"Hah? `
+`Meskipun digigit dan dikunyah, tidak boleh ditelan?" `
+`"Benar. `
+`Gigit dan kunyah. `
+`Jangan ditelan. `
+`Dan jangan minum sarinya. `
+`Itu akan membuat perutmu sakit." `
+`"A-Aku tidak mengerti... `
+`Kenapa orang mau memakan sesuatu seperti itu??" `
+`"Anggap saja seperti permen karet. `
+`Kunyah dan nikmati rasanya. `
+`Lalu sisa yang telah kau gigit dan sarinya diludahkan ke dalam cangkir kertas seperti ini." `
+`"...S-Sayang, `
+`bagian dalam mulutmu merah menyala...! `
+`Lap, lap itu. `
+`...Iiiih!" `
+`Bahkan sapu tangan kesayangannya, yang ia gunakan untuk mengelap mulut Krauss, ikut ternoda warna merah menyala. `
+`Sesuatu yang beracun jika dimakan atau diminum, membuat bagian dalam mulut menjadi merah terang, `
+`dan harus meludahkan sesuatu setelah memasukkannya ke dalam mulut, ...betapa tidak senonohnya! `
+`...Memikirkan hal itu, Natsuhi dengan tegas menolak ajakan Krauss. `
+`"Tidak mau, tidak mau, aku tidak perlu, aku tidak perlu...!" `
+`"Ini adalah pengalaman lintas budaya. `
+`Apa gunanya bepergian jika kita tidak melakukan hal-hal yang hanya bisa dilakukan di sini?" `
+`Krauss terus mengunyah, mengabaikan kenyataan bahwa bahkan bibirnya pun diwarnai merah terang. `
+`"Ayah juga menyukai ini. `
+`Dia pasti sudah memesannya sejak lama, karena dulu dia sering mengunyahnya di teras mansion. `
+`Meskipun sepertinya dia berhenti sejak kau datang." `
+`"Lihat ini, Ayah, orang yang kau hormati bahkan lebih dari aku, sangat menikmatinya. `
+`Ayo, ayo, jangan malu, ambil saja." `
+`"Tidak, tidak, hentikan, hentikan, sa-saaayang!" `
+`...Saat bepergian, Krauss memiliki kepolosan seorang anak kecil. `
+`Dia bahkan tidak menyembunyikan rasa cemburunya terhadap rasa hormat yang biasanya diberikan Natsuhi kepada Kinzo. `
+`Hanya dengan melihat sisi suaminya seperti itu saja sudah membuat perjalanan ke negara lain terasa berharga... `
+`Krauss semakin mendesaknya untuk menggigitnya, `
+`namun Natsuhi, tak gentar, berlari ke sana kemari dan akhirnya berteriak bahwa dia terlalu memaksa. `
+`Krauss cemberut sepanjang perjalanan bus. `
+`Sungguh seperti anak kecil, hanya karena hal sepele seperti ini saja sudah merajuk, `
+`pikir Natsuhi dengan jengkel. `
+`Lalu, seorang pemandu wisata lokal di dalam bus mengeluarkan salah satu buah pinang itu dan mulai menjelaskannya. `
+`Ternyata itu adalah barang mewah kesayangan di daerah ini sejak zaman kuno, mirip dengan tembakau. `
+`Sama seperti kasus Natsuhi, barang itu mulai tidak disukai oleh kaum muda dan perlahan ditinggalkan. `
+`...Selain itu, benda itu juga diperlakukan sebagai jimat keberuntungan di daerah ini... `
+`dan dikenal sebagai simbol bagi pasangan. `
+`Ia menatap wajah suaminya. `
+`......Ia tiba-tiba memalingkan wajah, namun tampaknya pipinya sedikit memerah... `
+`"Jadi, `
+`kau lalu bersandar pada suamimu dan menggenggam tangannya, ya?! `
+`Apa-apaan, kau dan suamimu ternyata memiliki cinta yang cukup murni, bukan?! `
+`Apa kau jadi bersemangat? `
+`Kau tahu, seperti malam itu{p:0:♪} `
 `Kiiihihihihihihi!!" `
-`Red-faced and avoiding Beato's eye, Natsuhi tried to hide her embarrassment by swallowing the patis whole, `
-`chewing with her cheeks puffed out like a blowfish. `
-`Beato said "Yep, this is the best snack anyone could have with tea" `
-`and nodded several times, a broad smile on her face... `
-`"However, that's only how it was when we were newlyweds. `
-`Right now, I cannot even leave Rokkenjima. `
-`I'm a bird in a cage." `
-`"Well, it's the same for me. `
-`I can keep dying, but I just can't escape Rokkenjima. `
-`I'm also a bird in a cage." `
-`"I don't know much about you, and I won't pry. `
-`...However, I do see that you face circumstances not to be taken lightly." `
-`"I have no desire to act like the chief prisoner here. `
-`Let's be friendly as fellow birds in this cage. `
-`I've taken a liking to you." `
-`"Really? `
-`Thank you." `
-`"The instructions and orders you gave the servants for this family conference were superb. `
-`You took everything from where Kinzo would be and when, what he did, and what he left behind, `
-`and put it all together splendidly without any contradictions. `
-`That detailed written plan of yours had the same beauty as a high-level magic circle." `
-`To make it look like Kinzo actually existed and was living life his own way, `
-`she had written his schedule for the day down to the finest detail and made the servants follow it to the letter. `
-`When did he meet whom and where, and what did he leave them? `
-`When did he do what and where, and what changed? `
-`As a result, even though the relatives never saw Kinzo even once, `
-`they hadn't suspected in the slightest that he hadn't been there. `
-`Eva and the rest truly believed that Kinzo had just happened to be walking through the hall when he heard them talking about the inheritance and went into a rage. `
-`Everything had gone just as Natsuhi's plan had predicted, down to the finest detail. `
-`And the cooperation by the servants had also worked smoothly, down to the finest detail... `
-`"We had to stop this secret from getting out no matter the cost. `
-`That's why I double-checked the plan thoroughly." `
-`"Your willpower and attention to detail summoned success with certainty. `
-`...As a witch, it seems that you're in Lady {f:5:Lambdadelta}'s camp. `
-`At your current level, as soon as you become self-aware of that as magic, you will be worthy of calling yourself a witch apprentice." `
-`"If you call something like that magic, then that would make Kumasawa the witch of feigned illnesses. `
-`It's only on busy days that she calls us to say she's taking the day off because of her bad back. `
-`Like every year's family conference, for example." `
-`"Oh, no, you've got Kumasawa completely wrong there. `
-`She's a witch of a much, much higher level. `
-`If you knew what she really was, it'd shock you! `
+`Dengan wajah merah dan menghindari tatapan Beato, Natsuhi mencoba menyembunyikan rasa malunya dengan menelan patis bulat-bulat, `
+`mengunyahnya dengan pipi mengembung seperti ikan buntal. `
+`Beato berkata, "Yep, ini camilan terbaik yang bisa dinikmati dengan teh," `
+`dan mengangguk berkali-kali dengan senyum lebar di wajahnya... `
+`"Namun, itu hanya terjadi saat kami masih pengantin baru. `
+`Sekarang, aku bahkan tidak bisa meninggalkan Rokkenjima. `
+`Aku adalah burung dalam sangkar." `
+`"Yah, sama denganku. `
+`Aku bisa terus mati, tapi tetap saja tidak bisa melarikan diri dari Rokkenjima. `
+`Aku juga burung dalam sangkar." `
+`"Aku tidak tahu banyak tentang dirimu, dan aku tidak akan mencampuri. `
+`...Namun, aku bisa melihat bahwa kau menghadapi keadaan yang tidak bisa dianggap remeh." `
+`"Aku tidak berniat bertingkah seperti kepala tahanan di sini. `
+`Mari berteman sebagai sesama burung dalam sangkar ini. `
+`Aku menyukaimu." `
+`"Benarkah? `
+`Terima kasih." `
+`"Instruksi dan perintah yang kau berikan kepada para pelayan untuk konferensi keluarga ini sungguh luar biasa. `
+`Kau mengambil segalanya dari posisi Kinzo seharusnya berada dan kapan, apa yang ia lakukan, dan apa yang ia tinggalkan, `
+`lalu menyusunnya dengan sempurna tanpa kontradiksi sedikit pun. `
+`Rencana tertulis yang sangat rinci itu memiliki keindahan yang sama seperti lingkaran sihir tingkat tinggi." `
+`Agar terlihat seolah-olah Kinzo benar-benar ada dan menjalani hidupnya dengan caranya sendiri, `
+`ia menuliskan jadwal hariannya hingga ke detail paling halus dan membuat para pelayan mengikutinya dengan tepat. `
+`Kapan ia bertemu siapa dan di mana, dan apa yang ia tinggalkan untuk mereka? `
+`Kapan ia melakukan apa dan di mana, dan apa yang berubah? `
+`Hasilnya, meskipun para kerabat tidak pernah sekalipun melihat Kinzo, `
+`mereka sama sekali tidak mencurigai bahwa ia tidak ada di sana. `
+`Eva dan yang lainnya benar-benar percaya bahwa Kinzo kebetulan sedang berjalan di lorong ketika mendengar mereka membicarakan warisan lalu menjadi murka. `
+`Semuanya berjalan persis seperti yang telah diprediksi oleh rencana Natsuhi, hingga ke detail paling halus. `
+`Dan kerja sama para pelayan pun berlangsung mulus, hingga ke detail paling halus... `
+`"Kami harus menghentikan rahasia ini agar tidak bocor dengan cara apa pun. `
+`Itulah sebabnya aku memeriksa ulang rencana itu dengan sangat teliti." `
+`"Kemauanmu yang kuat dan perhatianmu pada detail memanggil keberhasilan dengan kepastian. `
+`...Sebagai seorang penyihir, tampaknya kau berada di kubu Lady {f:5:Lambdadelta}. `
+`Pada tingkatmu saat ini, begitu kau menyadari hal itu sebagai sihir, kau sudah pantas menyebut dirimu murid penyihir." `
+`"Jika menyebut hal seperti itu sebagai sihir, maka itu akan menjadikan Kumasawa sebagai penyihir penyakit pura-pura. `
+`Hanya pada hari-hari sibuk saja ia menelepon kami untuk mengatakan bahwa ia libur karena punggungnya sakit. `
+`Seperti konferensi keluarga tahunan ini, misalnya." `
+`"Oh, tidak, kau benar-benar salah paham tentang Kumasawa. `
+`Dia adalah penyihir dengan tingkat yang jauh, jauh lebih tinggi. `
+`Jika kau tahu apa dirinya sebenarnya, itu akan mengejutkanmu! `
 `*cackle*cackle*!" `
-`Watching these two have their pleasant chat... `
-`was another pair with steam rising from their black tea. `
-`However, this second pair was in a world that the first couldn't see, where golden roses bloomed. `
-`"...Ronove was kind enough to make us some of that Dimbula tea too." `
+`Menyaksikan dua orang ini mengobrol dengan menyenangkan... `
+`ada sepasang lainnya dengan uap mengepul dari teh hitam mereka. `
+`Namun, pasangan kedua ini berada di dunia yang tidak bisa dilihat oleh yang pertama, tempat mawar emas bermekaran. `
+`"...Ronove cukup baik hati untuk membuatkan kami teh Dimbula itu juga." `
 `"..................Nn..." `
-`It felt as though Beato muttered something. `
-`For the first time, it felt as though something had gotten through to her. `
-`Surely, she had taken an interest in the black tea and felt like drinking it... `
-`Thinking this, Battler took Beato's cup and her hand, making her hold the cup... `
+`Rasanya Beato bergumam sesuatu. `
+`Untuk pertama kalinya, terasa seolah ada sesuatu yang sampai kepadanya. `
+`Pasti, ia tertarik pada teh hitam itu dan ingin meminumnya... `
+`Memikirkan hal itu, Battler mengambil cangkir Beato dan tangannya, membuatnya memegang cangkir itu... `
 `"............Nng, ........." `
-`Beato's eyes trembled sadly, and her fingers shook. `
-`Almost as though she couldn't even move her fingers as she wanted to... `
-`...and was mourning the fact that she could no longer enjoy the tea she had once loved by her own power... `
-`That's how she looked... `
-`So Battler put his hand on Beato's, grabbed hold of the tea cup, and lifted it to her lips... `
-`......Then, ...though it was only a single mouthful, ...Beato sipped. `
-`The days they'd had been locked in a killing-fest with red swords and blue wedges... `
-`already seemed like the distant past. `
-`Now, not only was Beato unable to do that, ...it was even difficult for her to make her body do as she pleased. `
-`Even just drinking a mouthful of black tea like this was hard... `
-`"...How is it? `
-`That rose aroma makes for a great black tea. `
-`Do you like it...?" `
+`Mata Beato bergetar sedih, dan jari-jarinya gemetar. `
+`Seolah-olah ia bahkan tidak bisa menggerakkan jarinya sesuka hatinya... `
+`...dan sedang meratapi kenyataan bahwa ia tidak lagi bisa menikmati teh yang dulu ia cintai dengan kekuatannya sendiri... `
+`Begitulah penampilannya... `
+`Maka Battler meletakkan tangannya di atas tangan Beato, menggenggam cangkir teh itu, dan mengangkatnya ke bibirnya... `
+`......Lalu, ...meskipun hanya seteguk, ...Beato menyesapnya. `
+`Hari-hari ketika mereka terkurung dalam pesta pembantaian dengan pedang merah dan baji biru... `
+`sudah terasa seperti masa lalu yang sangat jauh. `
+`Kini, bukan hanya Beato tidak mampu melakukan itu, ...bahkan untuk membuat tubuhnya bergerak sesuai keinginannya pun sulit. `
+`Sekadar meminum seteguk teh hitam seperti ini saja sudah berat... `
+`"...Bagaimana rasanya? `
+`Aroma mawar itu membuat teh hitam yang luar biasa. `
+`Apa kau menyukainya...?" `
 `"..............." `
-`Of course, `
-`......Beato didn't respond. `
-`"...What happened to you...? `
-`...Is this...another strategy? `
-`Are you pretending to be in a slump so you can shock me later?" `
+`Tentu saja, `
+`......Beato tidak menjawab. `
+`"...Apa yang terjadi padamu...? `
+`...Apakah ini...strategi lain? `
+`Apa kau berpura-pura terpuruk agar bisa mengejutkanku nanti?" `
 `".................." `
-`"...If that's what you're after, the same trick won't work again, so give it a rest. `
-`...I can't get fired up with you like this." `
+`"...Jika itu yang kau incar, trik yang sama tidak akan berhasil lagi, jadi hentikan saja. `
+`...Aku tidak bisa bersemangat denganmu seperti ini." `
 `".................." `
-`"Hey. `
-`...Isn't it about time for you to start laughing loudly, saying "Caught you, dumbass!" or something? `
-`Any kind of joke stops being funny if you drag it out too much. `
-`Especially if it's a rehash." `
+`"Hei. `
+`...Bukankah sudah waktunya kau mulai tertawa keras sambil berkata, "Kena kau, bodoh!" atau semacamnya? `
+`Lelucon apa pun akan berhenti lucu jika kau menyeretnya terlalu lama. `
+`Terutama jika itu pengulangan." `
 `"..............." `
-`"Laugh. `
-`Just like you're cackling over there as you drink with Aunt Natsuhi." `
+`"Tertawalah. `
+`Seperti kau terkekeh di sana saat minum bersama Bibi Natsuhi." `
 `"..........................." `
 `"..............." `
 `"...............................................................................................................................................................{0}..." `
-`"............Can't you at least grin...?" `
-`"Never again. `
-`This child will never laugh again." `
-`Those sudden words...were exceedingly cruel. `
-`"How can you say that for sure?! `
-`Don't you try to take Beato's right to laugh away from her." `
-`"...Oh, should I say it in red then...?" `
-`I shook my head furiously. `
-`Then, with an expression that didn't reveal her thoughts in the slightest, {f:5:Bernkastel} spoke while looking at Beato's face. `
-`...And the word she used was completely incomprehensible to me. `
+`"............Tidak bisakah kau setidaknya menyeringai...?" `
+`"Tak akan pernah lagi. `
+`Anak ini tidak akan pernah tertawa lagi." `
+`Kata-kata mendadak itu...sangat kejam. `
+`"Bagaimana kau bisa yakin mengatakan itu?! `
+`Jangan kau coba merampas hak Beato untuk tertawa darinya." `
+`"...Oh, haruskah kukatakan dengan merah...?" `
+`Aku menggelengkan kepala dengan keras. `
+`Lalu, dengan ekspresi yang sama sekali tidak memperlihatkan pikirannya, {f:5:Bernkastel} berbicara sambil menatap wajah Beato. `
+`...Dan kata yang ia gunakan sama sekali tidak bisa kupahami. `
 `{a:c: `
-`"Congratulations."} `
-`"......For what?" `
-`"Beato is like this as a result of your victory." `
-`"......What are you talking about...?" `
-`"You said something interesting in a previous game. `
-`You said this would be torture where you both torment each other. `
-`That was right. `
-`It's torture for Beato as well. `
-`And, you won that torture game. `
-`...That's why Beato's soul was killed, why she became a doll-like corpse." `
-`"Are you saying...I did this to Beato?" `
-`"The battle ends when one of you loses the will to try and win. `
-`...As far as the battle between you and Beato goes, that was already concluded in the previous game. `
-`Well, it probably happened without you noticing though." `
-`"......In that case, why hasn't the game ended, if I've already won? `
-`...Why is this game still continuing?" `
-`"The shackle attached to that girl's ankle. `
-`...That's a rule Lambda made." `
-`Even if {f:5:Beatrice} tries to yield or gets discouraged or gives up, `
-`she isn't capable of stepping down from the game. `
-`...That's the rule. `
-`Or maybe it's a curse. `
-`"In the past, `
-`I supported you when it looked like you were gonna give in. `
-`Though you probably couldn't perceive it, `
-`I assisted you by giving you hints and making things go your way. `
-`That's why you're able to be here now. `
-`......Remember? Remember how I saved you?" `
-`{f:5:Bernkastel} stared at me... `
-`...It's true I wasn't aware of it, `
-`...but just maybe, `
-`...I was saved by her. `
-`"In the same way, Lambda is supporting Beato. `
-`And this time, Beato is on the verge of giving in. `
-`That's why Lambda's been giving her support this round, to keep her from giving in. `
-`That's what the shackle is. `
-`By refusing to let her resign, she's rescued Beato within the game." `
-`"...Rescued her from what?" `
-`"Normally, there are only two ways for this game to end. `
-`Either one side will accept defeat and resign, `
-`or one side will win the game with a checkmate. `
-`Beato was about to collide with the first way. `
-`That's why Lambda crushed that chance and managed to just barely avoid losing. `
-`By the rules of this game, that's an impressive bit of support." `
-`So, the only way this game can end now...is if I win. `
-`At the very least, until I do win, `
-`this witch called {f:5:Lambdadelta} can probably try to buy time for Beato to make a comeback. `
-`But, ...that'll just prolong Beato's suffering even more... `
-`Neither of us want that. `
-`Both Beato and I fought with all we had, trying to win. `
-`The game repeated several times because we were both giving it everything we could muster. `
-`Then, that one time, `
-`we confronted each other head on with all of our strength. `
-`And......Beato acknowledged her loss. `
-`She said she wanted me to end this game...and entrusted everything to me. `
-`So, {f:5:Bernkastel}'s words are the truth. `
-`She said it's my fault Beato's become a living corpse. `
-`...That's true. `
-`But it's something both of us wanted. `
-`"Our match has already been resolved. `
-`...Even so, the game won't end. `
-`That's why Beato put her trust in me. `
-`She told me to win quickly and end this game." `
+`"Selamat."} `
+`"......Untuk apa?" `
+`"Beato menjadi seperti ini sebagai hasil dari kemenanganmu." `
+`"......Apa yang kau bicarakan...?" `
+`"Kau mengatakan sesuatu yang menarik di permainan sebelumnya. `
+`Kau berkata bahwa ini akan menjadi penyiksaan di mana kalian berdua saling menyiksa. `
+`Itu benar. `
+`Ini juga penyiksaan bagi Beato. `
+`Dan, kau memenangkan permainan penyiksaan itu. `
+`...Itulah sebabnya jiwa Beato terbunuh, mengapa ia menjadi mayat seperti boneka." `
+`"Apa maksudmu... aku yang melakukan ini pada Beato?" `
+`"Pertarungan berakhir ketika salah satu dari kalian kehilangan kehendak untuk mencoba menang. `
+`...Sejauh menyangkut pertarungan antara kau dan Beato, itu sebenarnya sudah berakhir di permainan sebelumnya. `
+`Yah, mungkin saja itu terjadi tanpa kau sadari." `
+`"......Kalau begitu, kenapa permainannya belum berakhir, jika aku sudah menang? `
+`...Kenapa permainan ini masih berlanjut?" `
+`"Belenggu yang terpasang di pergelangan kaki gadis itu. `
+`...Itu adalah aturan yang dibuat Lambda." `
+`Bahkan jika {f:5:Beatrice} mencoba menyerah, patah semangat, atau putus asa, `
+`dia tidak mampu mengundurkan diri dari permainan ini. `
+`...Itulah aturannya. `
+`Atau mungkin itu kutukan. `
+`"Di masa lalu, `
+`aku mendukungmu ketika kau tampak akan menyerah. `
+`Meskipun kau mungkin tidak bisa merasakannya, `
+`aku membantumu dengan memberi petunjuk dan membuat segalanya berjalan sesuai keinginanmu. `
+`Itulah sebabnya kau bisa berada di sini sekarang. `
+`......Ingat? Ingat bagaimana aku menyelamatkanmu?" `
+`{f:5:Bernkastel} menatapku... `
+`...Memang benar aku tidak menyadarinya, `
+`...namun mungkin saja, `
+`...aku telah diselamatkan olehnya. `
+`"Dengan cara yang sama, Lambda mendukung Beato. `
+`Dan kali ini, Beato berada di ambang menyerah. `
+`Itulah sebabnya Lambda memberinya dukungan di putaran ini, agar dia tidak menyerah. `
+`Itulah arti dari belenggu itu. `
+`Dengan menolak membiarkannya mundur, dia menyelamatkan Beato di dalam permainan." `
+`"...Menyelamatkannya dari apa?" `
+`"Biasanya, hanya ada dua cara permainan ini berakhir. `
+`Entah salah satu pihak menerima kekalahan dan mengundurkan diri, `
+`atau salah satu pihak memenangkan permainan dengan skakmat. `
+`Beato hampir saja bertabrakan dengan cara yang pertama. `
+`Itulah sebabnya Lambda menghancurkan kemungkinan itu dan nyaris saja menghindari kekalahan. `
+`Menurut aturan permainan ini, itu adalah bentuk dukungan yang mengesankan." `
+`Jadi, satu-satunya cara permainan ini bisa berakhir sekarang...adalah jika aku menang. `
+`Setidaknya, sampai aku benar-benar menang, `
+`penyihir bernama {f:5:Lambdadelta} ini mungkin akan terus mencoba membeli waktu agar Beato bisa bangkit kembali. `
+`Namun, ...itu hanya akan memperpanjang penderitaan Beato lebih lama lagi... `
+`Tak satu pun dari kami menginginkan itu. `
+`Baik Beato maupun aku bertarung dengan segenap kemampuan kami, berusaha untuk menang. `
+`Permainan ini berulang beberapa kali karena kami berdua memberikan segalanya yang kami miliki. `
+`Lalu, pada suatu saat itu, `
+`kami saling berhadapan secara langsung dengan seluruh kekuatan kami. `
+`Dan......Beato mengakui kekalahannya. `
+`Dia berkata ingin aku mengakhiri permainan ini...dan mempercayakan segalanya kepadaku. `
+`Jadi, kata-kata {f:5:Bernkastel} adalah kebenaran. `
+`Dia mengatakan bahwa ini salahku hingga Beato menjadi mayat hidup. `
+`...Itu benar. `
+`Namun, itu adalah sesuatu yang kami berdua inginkan. `
+`"Pertandingan kami sudah diputuskan. `
+`...Meski begitu, permainan ini tidak akan berakhir. `
+`Itulah sebabnya Beato menaruh kepercayaannya padaku. `
+`Dia memintaku untuk menang dengan cepat dan mengakhiri permainan ini." `
 `"............" `
-`Now that the game's been resolved, letting it continue any further means endless torture for Beato. `
-`......Nothing more than a nightmare. `
-`I've gotta give her a perfect checkmate, end this game in the truest sense, `
-`...and let her rest in peace... `
-`For that reason, I'll keep fighting. `
-`But by continuing the game, Beato's eternal torture will continue. `
-`It felt as though I could only let her sleep peacefully by slowly strangling her to death... `
-`"......I'm starting to feel like truth doesn't matter anymore. `
-`...As long as Beato's satisfied, who cares what happens in the game? `
-`Beato resigned. `
-`I'll abandon the truth of the Illusion of the Witch and return home with my family. `
-`......Is there anything wrong with that?" `
-`If only {f:5:Lambdadelta} hadn't placed the curse of that shackle on her, this battle would be over already. `
-`......That's why I found it detestable. `
-`This game, which I can't finish without tormenting Beato more, `
-`...is detestable. `
-`"...Whaat's this? `
-`Beato's starting to look like she's in pain every time you get closer to the truth, so you're suddenly going easy on her...? `
-`Then go easy on her as much as you can. `
-`And why don't you just let Beato win while you're at it? `
-`Then your little sister can have a lonely, tragic future forced on her endlessly." `
-`"That's not how it is...... `
+`Sekarang setelah permainan ini diputuskan, membiarkannya terus berjalan berarti penyiksaan tanpa akhir bagi Beato. `
+`......Tak lebih dari mimpi buruk. `
+`Aku harus memberinya skakmat yang sempurna, mengakhiri permainan ini dalam arti yang sesungguhnya, `
+`...dan membiarkannya beristirahat dengan damai... `
+`Karena itu, aku akan terus bertarung. `
+`Namun dengan melanjutkan permainan ini, penyiksaan abadi Beato akan terus berlanjut. `
+`Rasanya seolah aku hanya bisa membiarkannya tidur dengan damai dengan cara perlahan-lahan mencekiknya sampai mati... `
+`"......Aku mulai merasa kebenaran sudah tidak penting lagi. `
+`...Selama Beato merasa puas, siapa peduli apa yang terjadi dalam permainan ini? `
+`Beato telah menyerah. `
+`Aku akan meninggalkan kebenaran Ilusi Penyihir dan kembali ke rumah bersama keluargaku. `
+`......Apa ada yang salah dengan itu?" `
+`Seandainya {f:5:Lambdadelta} tidak menaruh kutukan belenggu itu padanya, pertarungan ini pasti sudah berakhir. `
+`......Itulah sebabnya aku merasa jijik. `
+`Permainan ini, yang tak bisa kuselesaikan tanpa menyiksa Beato lebih jauh, `
+`...adalah sesuatu yang menjijikkan. `
+`"...A-apa ini? `
+`Setiap kali kau mendekati kebenaran, Beato mulai terlihat kesakitan, jadi kau tiba-tiba bersikap lunak padanya...? `
+`Kalau begitu, bersikap lunaklah sepuasmu. `
+`Dan kenapa sekalian saja tidak membiarkan Beato menang? `
+`Dengan begitu, adik perempuanmu bisa dipaksa menjalani masa depan yang sepi dan tragis tanpa akhir." `
+`"Bukan begitu...... `
 `........." `
-`...That's right... `
-`I have to return for Ange's sake as well. `
-`I know this isn't the time to start feeling compassion for Beato. `
-`"In that case, make sure you kill her. `
-`Kill this witch without fail." `
+`...Benar... `
+`Aku juga harus kembali demi Ange. `
+`Aku tahu ini bukan saatnya merasa iba pada Beato. `
+`"Kalau begitu, pastikan kau membunuhnya. `
+`Bunuh penyihir ini tanpa gagal." `
 `"....................." `
-`Even though Beato was right there, `
-`{f:5:Bernkastel} spoke without holding back... `
-`"Your goal is to kill this woman. `
-`......In the last game, you said it at Beato's request. `
-`You said "I'll kill you"." `
-`"......Yeah, that may be true, `
-`but that doesn't mean you get to complain about it." `
-`"Did you know? `
-`When you tear one of your fingernails out, it's better to do it in one go. `
-`...Pulling it out like you do... `
-`timidly, twisting and slow...hurts much, much more. `
-`What you're doing sounds much more like torture to me." `
+`Meskipun Beato ada tepat di sana, `
+`{f:5:Bernkastel} berbicara tanpa menahan diri... `
+`"Tujuanmu adalah membunuh perempuan ini. `
+`......Di permainan terakhir, kau mengatakannya atas permintaan Beato. `
+`Kau berkata, 'Aku akan membunuhmu'." `
+`"......Ya, mungkin itu benar, `
+`tapi itu tidak berarti kau berhak mengeluh tentangnya." `
+`"Tahukah kau? `
+`Saat mencabut salah satu kuku jari, lebih baik melakukannya dalam satu tarikan. `
+`...Menariknya seperti yang kau lakukan sekarang... `
+`ragu-ragu, memutar, dan lambat...itu jauh, jauh lebih menyakitkan. `
+`Apa yang kau lakukan terdengar jauh lebih seperti penyiksaan bagiku." `
 `"............" `
-`"If you have any compassion, kill her all at once. `
-`That's how killing works." `
-`"That's none of your business. `
-`I'm the one who gets to decide how to perform her last rites. `
-`You and that {f:5:Lambdadelta} witch have nothing to do with this. `
-`I'll kill her. `
-`I won't let anyone else do it." `
-`"......As long as you don't lose that willpower. `
-`I'm betting on you. `
-`Okay? `
-`Make sure you don't forget. `
-`"{p:1:Unless this game is resolved, you will never be released}. `
-`You won't be allowed to abandon this game either." `
-`"...I get it." `
-`"I know what Lambda's after. `
-`She wants to make you lose your will to fight just like Beato, `
-`to make you a pair of living dolls, to keep this world in perpetual equilibrium. `
-`...You don't want that, do you? `
-`I wouldn't like it either." `
-`"Why should I give a damn about what you want? `
-`Still, I won't throw this game away. `
-`I won't abandon my responsibility to fight against Beato." `
-`"I'm glad our goals are the same. `
-`So, you'll be able to kill this child without any hesitation, right?" `
+`"Jika kau punya sedikit belas kasihan, bunuhlah dia sekaligus. `
+`Begitulah cara membunuh." `
+`"Itu bukan urusanmu. `
+`Akulah yang berhak memutuskan bagaimana melakukan ritus terakhirnya. `
+`Kau dan penyihir {f:5:Lambdadelta} itu tidak ada hubungannya dengan ini. `
+`Akulah yang akan membunuhnya. `
+`Aku tidak akan membiarkan orang lain melakukannya." `
+`"......Selama kau tidak kehilangan tekad itu. `
+`Aku bertaruh padamu. `
+`Oke? `
+`Pastikan kau tidak lupa. `
+`"{p:1:Selama permainan ini belum diselesaikan, kau tidak akan pernah dibebaskan}. `
+`Kau juga tidak akan diizinkan meninggalkan permainan ini." `
+`"...Aku mengerti." `
+`"Aku tahu apa yang Lambda inginkan. `
+`Dia ingin membuatmu kehilangan kehendak untuk bertarung seperti Beato, `
+`menjadikan kalian sepasang boneka hidup, menjaga dunia ini dalam keseimbangan abadi. `
+`...Kau tidak menginginkan itu, bukan? `
+`Aku juga tidak menyukainya." `
+`"Kenapa aku harus peduli dengan apa yang kau inginkan? `
+`Namun, aku tidak akan membuang permainan ini. `
+`Aku tidak akan meninggalkan tanggung jawabku untuk bertarung melawan Beato." `
+`"Aku senang tujuan kita sama. `
+`Jadi, kau akan bisa membunuh anak ini tanpa ragu sedikit pun, bukan?" `
 `"....................." `
-`".........That's right." `
+`".........Benar." `
 `"....................." `
-`I have no way of knowing whether those words eased her pain or hurt her. `
-`...But I can tell by the dull tingling in my chest... `
-`that I surely believe I've hurt her. `
-`I have no way of knowing what the silent Beato feels. `
-`...If I think I've hurt her, `
-`...does that mean she's actually been hurt? `
-`And, if I didn't think I'd hurt her, `
-`would that mean no one's gotten hurt because of me? `
+`Aku tidak punya cara untuk mengetahui apakah kata-kata itu meringankan penderitaannya atau justru melukainya. `
+`...Namun aku bisa merasakan dari denyutan tumpul di dadaku... `
+`bahwa aku yakin telah melukainya. `
+`Aku tidak punya cara untuk mengetahui apa yang dirasakan Beato yang terdiam itu. `
+`...Jika aku merasa telah melukainya, `
+`...apakah itu berarti dia benar-benar terluka? `
+`Dan jika aku tidak merasa telah melukainya, `
+`apakah itu berarti tak seorang pun terluka oleh perbuatanku? `
 `.................. `
-`"...So, `
-`about that Beato who's drinking tea over there with Natsuhi. `
-`You can handle that, right...?" `
-`"Yeah... `
-`...No problem." `
-`"It's the same as it was with Kinzo. `
-`{f:5:Beatrice} doesn't exist. `
-`This is a fake illusion of a witch that Natsuhi created, since she believes she was borrowing a witch's power when she thought up a brilliant plan to overcome hardship. `
-`It only looks like they're drinking together `
-`because {f:5:Lambdadelta}, who's the Game Master and {i:the one telling the story}, interpreted it that way." `
-`"If you could stare at this scene without a fragment of love for Natsuhi, you wouldn't see an illusion like that. `
-`...That's why with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence." `
-`Without love, it cannot be "seen". `
-`Because love is lacking, it cannot be "seen". `
-`"You're looking at a daydream Natsuhi's showing us. `
-`...{f:5:Beatrice} doesn't exist there." `
+`"...Jadi, `
+`tentang Beato yang sedang minum teh di sana bersama Natsuhi. `
+`Kau bisa menangani itu, kan...?" `
+`"Ya... `
+`...Tidak masalah." `
+`"Ini sama seperti Kinzo dulu. `
+`{f:5:Beatrice} tidak ada. `
+`Ini adalah ilusi palsu tentang penyihir yang diciptakan Natsuhi, karena ia percaya dirinya meminjam kekuatan penyihir saat memikirkan rencana brilian untuk mengatasi kesulitan. `
+`Mereka terlihat seolah sedang minum bersama `
+`karena {f:5:Lambdadelta}, sang Game Master dan {i:pendongeng}, menafsirkannya seperti itu." `
+`"Jika kau bisa menatap adegan ini tanpa sedikit pun cinta pada Natsuhi, kau tidak akan melihat ilusi seperti itu. `
+`...Itulah sebabnya, dengan mataku, yang kulihat hanyalah Natsuhi sendirian, meminum tehnya dalam keheningan." `
+`Tanpa cinta, ia tidak bisa "terlihat". `
+`Karena cinta tidak ada, ia tidak bisa "terlihat". `
+`"Kau sedang melihat lamunan siang yang diperlihatkan Natsuhi pada kita. `
+`...{f:5:Beatrice} tidak ada di sana." `
 `"............Ugh......" `
-`Beato mumbled softly. `
-`...It was a small voice that made it sound like she was in pain. `
-`The thorn of {f:5:Bernkastel}'s truth had stabbed into her chest. `
-`"...Yeah, that's probably true. `
-`I think your theory's right. `
-`But don't say that in front of Beato." `
-`"It doesn't matter where I say it. `
-`This is Beato's world we're in." `
-`"...Also, it's not like I'm protecting Beato, `
-`but it's still possible Aunt Natsuhi really is drinking tea with some unknown person X, who calls themselves {f:5:Beatrice}. `
-`This scene takes place a year before everything. `
-`The number of people on the island on this day has never been shown with the red truth." `
-`".........Sure. `
-`Even Lambda hasn't said anything in red about the number of people on Rokkenjima on this day." `
-`"In that case, `
-`it's possible for Aunt Natsuhi to claim that she really did drink tea with a woman calling herself {f:5:Beatrice}. `
-`Just like I can't deny your theory, you can't deny mine. `
-`That means you can't say for sure whether the Beato there is an illusion or not." `
-`"......Oh, is this cat box theory? `
-`That might've worked on Beato, but it won't work on me." `
-`"Why not?" `
+`Beato bergumam pelan. `
+`...Itu suara kecil yang membuatnya terdengar kesakitan. `
+`Duri kebenaran {f:5:Bernkastel} telah menusuk ke dadanya. `
+`"...Ya, itu mungkin benar. `
+`Kurasa teorimu benar. `
+`Namun jangan katakan itu di depan Beato." `
+`"Tidak masalah aku mengatakannya di mana. `
+`Ini adalah dunia Beato tempat kita berada." `
+`"...Lagipula, bukan berarti aku melindungi Beato, `
+`namun masih mungkin bahwa Bibi Natsuhi benar-benar sedang minum teh dengan seseorang tak dikenal X, yang menyebut dirinya {f:5:Beatrice}. `
+`Adegan ini terjadi setahun sebelum semuanya. `
+`Jumlah orang di pulau ini pada hari itu tidak pernah ditunjukkan dengan kebenaran merah." `
+`".........Tentu saja. `
+`Bahkan Lambda pun belum mengatakan apa pun dengan merah tentang jumlah orang di Rokkenjima pada hari itu." `
+`"Kalau begitu, `
+`masih mungkin bagi Bibi Natsuhi untuk mengklaim bahwa dia benar-benar minum teh bersama seorang wanita yang menamakan dirinya {f:5:Beatrice}. `
+`Seperti aku tidak bisa menyangkal teorimu, kau pun tidak bisa menyangkal teoriku. `
+`Itu berarti kau tidak bisa memastikan apakah Beato di sana adalah ilusi atau bukan." `
+`"......Oh, ini teori kotak kucing? `
+`Itu mungkin berhasil pada Beato, tapi tidak akan berhasil padaku." `
+`"Kenapa tidak?" `
 `" `
-`{p:1:After all, Natsuhi is drinking tea all by herself right there}." `
-`There was a violent sound of glass breaking, `
-`...and the Beato who laughed happily and cracked jokes about Natsuhi's newlywed years... `
-`was erased. `
-`...A lonely wind blew, `
-`...and the one person who remained on the bench drinking tea with a tired expression... `
-`...was Aunt Natsuhi, all by herself...... `
+`{p:1:Lagipula, Natsuhi sedang minum teh sendirian di sana}." `
+`Terdengar suara kaca pecah yang keras, `
+`...dan Beato yang tertawa bahagia dan melontarkan lelucon tentang masa pengantin baru Natsuhi... `
+`lenyap. `
+`...Angin sepi berembus, `
+`...dan satu-satunya orang yang tersisa di bangku, meminum teh dengan ekspresi lelah... `
+`...adalah Bibi Natsuhi, sendirian...... `
 `".........Nng, ggh..............." `
-`Beato...groaned. `
-`I could see clearly that she was in anguish. `
-`Another illusion of the witch had been smashed, ...drawing Beato towards death. `
-`...In short, this is what the battle to let Beato rest in peace is all about... `
-`A second ago, {f:5:Bernkastel} likened our fight to the torture of tearing fingernails out. `
-`If I have to tear them out anyway, `
-`...then my last bit of compassion towards Beato should be to minimize that pain. `
-`In other words, ...even if I want to minimize her pain, I still have to cause it. `
-`I have to accept...that look of anguish on her face... `
-`And at the same time, `
-`...I realized what a merciless thing the red truth was. `
-`...Right now, in this rose garden, there's no one except Aunt Natsuhi. `
-`In other words, there are no observers except for Aunt Natsuhi. `
-`So, if that lone observer were to say that she'd had some tea with Beato, `
-`...no one should be able to refute that. `
-`...If there's something no one can deny, ...doesn't that mean it's truth? `
-`Aunt Natsuhi is enjoying the roses and drinking tea together with Beato. `
-`...How could anyone have the right to mercilessly trample that pleasant moment...? `
-`"......The red truth is like a blade." `
+`Beato...merintih. `
+`Aku bisa melihat dengan jelas bahwa dia sedang menderita. `
+`Ilusi penyihir lainnya telah dihancurkan, ...menarik Beato semakin dekat pada kematian. `
+`...Singkatnya, inilah makna pertarungan untuk membiarkan Beato beristirahat dengan damai... `
+`Sesaat yang lalu, {f:5:Bernkastel} menyamakan pertarungan kami dengan penyiksaan mencabut kuku. `
+`Jika aku harus mencabutnya juga, `
+`...maka sisa belas kasih terakhirku pada Beato adalah meminimalkan rasa sakit itu. `
+`Dengan kata lain, ...meskipun aku ingin meminimalkan penderitaannya, aku tetap harus menyebabkannya. `
+`Aku harus menerima...raut penderitaan di wajahnya itu... `
+`Dan pada saat yang sama, `
+`...aku menyadari betapa kejamnya kebenaran merah itu. `
+`...Saat ini, di taman mawar ini, tidak ada siapa pun selain Bibi Natsuhi. `
+`Dengan kata lain, tidak ada pengamat selain Bibi Natsuhi. `
+`Jadi, jika pengamat tunggal itu mengatakan bahwa dia telah minum teh bersama Beato, `
+`...seharusnya tak seorang pun bisa menyangkalnya. `
+`...Jika ada sesuatu yang tak bisa disangkal oleh siapa pun, ...bukankah itu berarti itu adalah kebenaran? `
+`Bibi Natsuhi sedang menikmati mawar dan minum teh bersama Beato. `
+`...Bagaimana mungkin ada orang yang berhak dengan kejam menginjak-injak momen menyenangkan itu...? `
+`"......Kebenaran merah itu seperti sebuah pisau." `
 `"..............." `
-`"In a battle with a witch, it's a blade that sometimes tears your theories apart, but sometimes becomes a weapon you can fight back with." `
-`"...I know. `
-`So what?" `
-`"Don't use it without reason." `
+`"Dalam pertarungan melawan penyihir, itu adalah pisau yang terkadang merobek teorimu, namun terkadang menjadi senjata untuk melawan." `
+`"...Aku tahu. `
+`Lalu kenapa?" `
+`"Jangan gunakan tanpa alasan." `
 `"........." `
-`"A blade is a tool if you use it when you're supposed to, `
-`...but it's a weapon if you use it out of malice." `
-`True enough, Aunt Natsuhi wasn't really drinking tea with a witch. `
-`However, saying that with the red truth probably has nothing to do with our game. `
-`Our game is the tale of October 1986. `
-`The two days of the crime give us more than enough time to injure each other, with our red and blue blades glistening. `
-`"This isn't about the Illusion of the Witch. `
-`...It's about Aunt Natsuhi's privacy. `
-`How could anyone have the right to expose that?" `
+`"Pisau adalah alat jika kau menggunakannya pada saat yang tepat, `
+`...namun menjadi senjata jika kau menggunakannya dengan niat jahat." `
+`Memang benar, Bibi Natsuhi sebenarnya tidak minum teh bersama penyihir. `
+`Namun, mengatakan hal itu dengan kebenaran merah mungkin tidak ada hubungannya dengan permainan kami. `
+`Permainan kami adalah kisah Oktober 1986. `
+`Dua hari kejahatan itu memberi kami waktu lebih dari cukup untuk saling melukai, dengan bilah merah dan biru kami berkilau. `
+`"Ini bukan tentang Ilusi Penyihir. `
+`...Ini tentang privasi Bibi Natsuhi. `
+`Bagaimana mungkin ada orang yang berhak mengungkapkannya?" `
 `"............ `
-`...Do you want to acknowledge that a witch actually existed here and drank tea with Natsuhi? `
-`Weren't you trying to deny the existence of witches?" `
-`"...That's right, if we're talking about our game, the two-day period from October 4th to October 5th in 1986. `
-`But I have no desire to question whether or not witches exist outside that game board." `
-`"In the first place, the Devil's Proof argument makes it impossible to deny the existence of witches. `
-`And, according to the rules of this game, saying something like what you did in red is a forbidden move that leads to a stalemate. `
-`You can't deny the existence of witches, not even with the red truth." `
-`".........True. `
-`...I never thought I'd hear you talk so glibly about witches existing. `
-`.........Not bad, Lambda. `
-`You've done a good job getting Battler stuck between his human culprit theory and the idea that witches existing wouldn't be so bad." `
-`"She really excels at controlling Human hearts. `
-`...Looks like I'd better start helping you out even more." `
-`"I really couldn't care less about you two. `
-`Disappear. `
-`This game is between Beato and me. `
-`We're gonna keep this game to ourselves." `
-`".........No way." `
-`"What...?" `
-`"After all, `
-`I'm enjoying this game too. `
+`...Apa kau ingin mengakui bahwa penyihir benar-benar ada di sini dan minum teh bersama Natsuhi? `
+`Bukankah kau berusaha menyangkal keberadaan penyihir?" `
+`"...Benar, jika kita berbicara tentang permainan kita, periode dua hari dari 4 Oktober hingga 5 Oktober 1986. `
+`Namun aku tidak berniat mempertanyakan apakah penyihir ada atau tidak di luar papan permainan itu." `
+`"Lagipula, argumen Bukti Iblis membuat mustahil untuk menyangkal keberadaan penyihir. `
+`Dan, menurut aturan permainan ini, mengatakan hal seperti yang kau katakan dengan merah adalah langkah terlarang yang berujung pada jalan buntu. `
+`Kau tidak bisa menyangkal keberadaan penyihir, bahkan dengan kebenaran merah." `
+`".........Benar. `
+`...Tak kusangka aku akan mendengar kau berbicara begitu enteng tentang keberadaan penyihir. `
+`.........Tidak buruk, Lambda. `
+`Kau berhasil dengan baik membuat Battler terjepit di antara teori pelaku manusia dan gagasan bahwa keberadaan penyihir mungkin tidak terlalu buruk." `
+`"Dia memang sangat piawai mengendalikan hati manusia. `
+`...Sepertinya aku harus mulai membantumu lebih banyak lagi." `
+`"Aku sama sekali tidak peduli dengan kalian berdua. `
+`Menghilanglah. `
+`Permainan ini adalah antara Beato dan aku. `
+`Kami akan menjalankan permainan ini hanya untuk kami berdua." `
+`".........Tidak mau." `
+`"Apa...?" `
+`"Lagipula, `
+`aku juga menikmati permainan ini. `
 `......*giggle*giggle*giggle*giggle* Hahahahahahahahahahahahahahaha......" `
-`{f:5:Bernkastel} disappeared, leaving only that unpleasant laugh behind. `
+`{f:5:Bernkastel} menghilang, meninggalkan hanya tawa tidak menyenangkan itu. `
 `"..............." `
-`After that, all that remained was Natsuhi, sipping tea all alone, `
-`...Beato, her hand still on the tea cup as she stared blankly at the surface of the liquid, `
-`...and me. `
-`"...{f:5:Bernkastel} and {f:5:Lambdadelta}... `
-`...{f:5:Virgilia} called them your friends, but... `
-`...you really should choose your friends more carefully. `
-`Or wait, maybe they actually make a good match with an ill-natured person like you..." `
+`Setelah itu, yang tersisa hanyalah Natsuhi, menyesap teh sendirian, `
+`...Beato, dengan tangannya masih memegang cangkir teh sambil menatap kosong permukaan cairannya, `
+`...dan aku. `
+`"...{f:5:Bernkastel} dan {f:5:Lambdadelta}... `
+`...{f:5:Virgilia} menyebut mereka temanmu, tapi... `
+`...sebaiknya kau lebih berhati-hati memilih temanmu. `
+`Atau tunggu, mungkin mereka memang cocok dengan orang berwatak buruk sepertimu..." `
 `"..............." `
 `"........." `
-`Beato didn't answer. `
-`Battler took Beato's hand, made her hold the cup again, and brought it to her lips. `
-`......Beato made a quiet sound in her throat and drank another gulp... `
-`Then, Natsuhi's lonely teatime ended. `
-`...That truth, which was Natsuhi's alone and observed by no one else, had been defiled. `
-`In Natsuhi's world, surely... `
-`...that tea party, which had been peaceful despite her annoyance at Beato for making fun of her too much, came to an end, and the two of them parted ways. `
-`However, in Natsuhi's exposed truth, ...she was all alone. `
-`Natsuhi tottered away. `
-`...On the bench, only a single person's cup remained... `
+`Beato tidak menjawab. `
+`Battler meraih tangan Beato, membuatnya kembali memegang cangkir, dan membawanya ke bibirnya. `
+`......Beato mengeluarkan suara lirih di tenggorokannya dan meminum satu tegukan lagi... `
+`Lalu, waktu minum teh Natsuhi yang sepi pun berakhir. `
+`...Kebenaran itu, yang hanya milik Natsuhi dan tidak diamati oleh siapa pun selain dirinya, telah ternodai. `
+`Di dunia Natsuhi, pastilah... `
+`...pesta teh itu, yang tetap damai meski ia kesal karena Beato terlalu sering mengejeknya, telah berakhir, dan keduanya pun berpisah. `
+`Namun, dalam kebenaran Natsuhi yang telah tersingkap, ...dia sendirian. `
+`Natsuhi berjalan tertatih-tatih pergi. `
+`...Di bangku itu, hanya satu cangkir milik satu orang yang tersisa... `
