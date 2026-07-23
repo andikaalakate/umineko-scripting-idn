@@ -124,7 +124,7 @@
 `Lagipula, baris pertama menyebutkan kampung halaman tercintanya. `
 `...Shannon, kau sering menuangkan alkohol untuk Kakek, kan? `
 `Pernahkah dia bercerita tentang masa lalunya?" `
-`"...Grandmaster hampir tidak pernah bicara soal masa lalunya. `
+`"...Tuan Besar hampir tidak pernah bicara soal masa lalunya. `
 `...Namun, dia membicarakan Gempa Besar Kanto seolah-olah itu cerita orang lain, `
 `jadi mungkin saat itu dia tinggal jauh dari wilayah Kanto." `
 `"Keluarga Ushiromiya mungkin tinggal di Odawara, tapi tidak semua cabang keluarga tinggal di sana. `
@@ -285,7 +285,7 @@
 `Seram juga ya..." `
 `"Ah, `
 `...tapi tidak ada yang perlu ditakuti. `
-`{f:5:Beatrice}-sama adalah penguasa lain dari mansion ini, terpisah dari Grandmaster. `
+`{f:5:Beatrice}-sama adalah penguasa lain dari mansion ini, terpisah dari Tuan Besar. `
 `Jadi, tidak perlu takut secara berlebihan. Kalau anda menghormatinya, katanya dia tidak akan melakukan hal buruk." `
 `"Namun, dia bisa sangat menyeramkan kalau kamu tidak menghormatinya, kan?" `
 `"...Benar. `

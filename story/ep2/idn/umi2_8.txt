@@ -274,8 +274,8 @@
 `...Aku tidak tahu." `
 `Itu jawaban yang aneh. `
 `Tidak terdengar seperti dia mengatakan kalau ingatannya kabur. `
-`"...Bagi kami pelayan, {f:5:Beatrice}-sama adalah Grandmaster kedua di villa ini. `
-`...Beberapa orang mengatakan kita menyebarkan itu karena pengaruh Grandmaster, `
+`"...Bagi kami pelayan, {f:5:Beatrice}-sama adalah Tuan Besar kedua di villa ini. `
+`...Beberapa orang mengatakan kita menyebarkan itu karena pengaruh Tuan Besar, `
 `...bahkan ketika aku mulai bekerja disini, cerita tentang {f:5:Beatrice}-sama sudah dibisikkan." `
 `"Aku dengar tentang itu sebelumnya. `
 `...Jika kamu tidak menghormati nya, kamu akan dikutuk, dan setidaknya satu pelayan telah benar-benar terkena kecelakaan, kan?" `

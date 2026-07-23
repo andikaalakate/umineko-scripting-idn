@@ -47,7 +47,7 @@
 `"...Sangat menyenangkan! `
 `Malam yang sangat indah. `
 `Hehahahahahahaha...!!" `
-`"......Grandmaster, {f:5:Beatrice}-sama. `
+`"......Tuan Besar, {f:5:Beatrice}-sama. `
 `Segera tiba waktunya untuk pesta." `
 `"Sudah? `
 `...Cepat juga. `
@@ -74,7 +74,7 @@
 `Kalian berdua, tunggu di bawah tangga. `
 `Genji, kerja bagus, telah mensiapkan gaunnya." `
 `"...Tepat. `
-`......Kalau begitu, Grandmaster." `
+`......Kalau begitu, Tuan Besar." `
 `"Kami akan pergi duluan. `
 `...{f:5:Beatrice}, Aku akan melihatmu nanti." `
 `"Ya." `

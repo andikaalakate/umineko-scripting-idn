@@ -6,7 +6,7 @@
 `Ekspresi di wajahnya saat dia menatap ke luar jendela...adalah senyuman, seolah-olah lawannya dalam permainan catur baru saja membuat langkah hebat. `
 `...Sulit membayangkan ekspresi seperti itu bisa muncul pada seorang ayah yang telah kehilangan banyak anak sekaligus. `
 `"...Gohda dan Kanon mengikuti perintah Rosa-sama dan pergi untuk menelepon polisi. `
-`Setelah itu, dia memerintahkan kami untuk mengikuti perintahmu, Grandmaster... `
+`Setelah itu, dia memerintahkan kami untuk mengikuti perintahmu, Tuan Besar... `
 `...Apa yang harus kami lakukan?" `
 `"......Pulau ini telah terputus dari dunia nyata. `
 `Menelepon tidak ada gunanya." `
@@ -34,7 +34,7 @@
 `Kamu telah melayaniku dengan baik sampai hari ini." `
 `"K-Kata-kata anda terlalu baik bagiku, `
 `...tapi, umm......" `
-`"......kami adalah furnitur yang telah bersumpah akan melayani Grandmaster. `
+`"......kami adalah furnitur yang telah bersumpah akan melayani Tuan Besar. `
 `...Kami berdiri siap untuk melayani anda kapan pun. `
 `...Sampai akhir." `
 `"...... `
@@ -59,8 +59,8 @@
 `......Membaca catatan kehidupan lama dari abad-abad yang lalu bisa sangat menghibur, ...untuk menjelajahi pikiran para penulis itu. `
 `......Jadi, haruskah catatan hidupku menuntun orang-orang di masa depan untuk melakukan perjalanan mencari pikiranku? `
 `...Hmph." `
-`Untuk sesaat, Grandmaster merenungkan dari mana harus memulai, berjalan mondar-mandir di seluruh ruangan dengan tangan di belakang punggungnya... `
-`"Grandmaster, `
+`Untuk sesaat, Tuan Besar merenungkan dari mana harus memulai, berjalan mondar-mandir di seluruh ruangan dengan tangan di belakang punggungnya... `
+`"Tuan Besar, `
 `......ini." `
 `"Ah, ya. `
 `Terima kasih, temanku. `
@@ -188,7 +188,7 @@
 `...Tapi, seperti yang semua orang tahu, `
 `Ayah bukanlah umat beragama yang religius, terbukti dari kecintaannya pada sihir hitam.. `
 `...Aku belum pernah mendengar dia datang ke sini untuk berdoa kepada Tuhan." `
-`"...Sejauh yang saya tahu, Grandmaster tidak pernah datang ke sini. `
+`"...Sejauh yang saya tahu, Tuan Besar tidak pernah datang ke sini. `
 `Kami bahkan menyebut ini "kapel yang disegel", ...dan, umm, `
 `Saya merasa tempat ini menakutkan, seperti rumah hantu." `
 `"Meskipun Ayah sendiri tidak pernah memasukinya, entah kenapa, dia menyuruh para pelayan untuk membersihkannya beberapa kali setahun. `
@@ -234,7 +234,7 @@
 `Menjumlahkan semua jari di kedua tangan pun masih jauh dari cukup. `
 `Benar-benar mustahil kecuali keajaiban terjadi." `
 `"...Tentu. `
-`Ini sangat mengingatkan pada Grandmaster Kinzo yang dulu, yang selalu senang memakai perjudian sebagai kiasan setiap kali ada kesempatan." `
+`Ini sangat mengingatkan pada Tuan Besar Kinzo yang dulu, yang selalu senang memakai perjudian sebagai kiasan setiap kali ada kesempatan." `
 `"Hei, tunggu dulu, semua orang bisa membacanya kan? `
 `Tolong jelasin artinya padaku juga." `
 `"Kihihihihihihi. `
@@ -261,7 +261,7 @@
 `...Terlepas dari apakah dia benar-benar penyihir atau tidak, ada rumor kalau {f:5:Beatrice} pernah ada beberapa dekade lalu... `
 `dan dia adalah selingkuhan Kakek." `
 `"Ini cuma bayanganku saja, `
-`...tapi mungkin Grandmaster benar-benar mencintai {f:5:Beatrice}-sama. `
+`...tapi mungkin Tuan Besar benar-benar mencintai {f:5:Beatrice}-sama. `
 `Hanya saja, karena ia sudah menikah, mereka tidak bisa bersatu.." `
 `"...Begitu. `
 `......Kalau {f:5:Beatrice} meninggal dan bisa dibangkitkan lewat sihir sebuah keajaiban, maka sekarang, setelah Nenek tiada, beliau bisa menikahinya secara terbuka. `
@@ -315,7 +315,7 @@
 `...Dan ekspresi Maria barusan mirip sekali dengan itu... `
 `"...U-Um, ya, itu benar. `
 `Kuncinya hanya ada satu. `
-`Itu kunci untuk kapel berharga milik Grandmaster, jadi hanya ada satu, tanpa duplikat. `
+`Itu kunci untuk kapel berharga milik Tuan Besar, jadi hanya ada satu, tanpa duplikat. `
 `...Biasanya disimpan dengan aman di kotak kunci ruang pelayan, tapi..." `
 `"Benar. `
 `Dan Genji-san bilang kunci itu hilang. `

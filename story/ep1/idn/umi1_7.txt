@@ -486,12 +486,12 @@
 `Saat Battler-sama pertama kali menemukannya, dia sudah memegang payung putih." `
 `"Maaf, tapi bukan aku juga..." `
 `".........Kalau begitu, kau tidak berpikir bahwa itu... `
-`...Grandmaster?" `
+`...Tuan Besar?" `
 `Baik di ruang makan maupun di sini, semua orang sudah menyatakan bahwa mereka bukan pelakunya. `
 `...Itu berarti tinggal Kinzo saja, tapi... `
 `"Mungkin dia sedang berjalan-jalan di koridor karena suatu alasan... `
 `dan kebetulan melihat Maria-sama di taman mawar tanpa payung..." `
-`"............Grandmaster... `
+`"............Tuan Besar... `
 `tidak terlalu menyukai Maria-sama." `
 `"Aku setuju. `
 `............Aku tidak bisa membayangkan dia akan repot-repot turun tangga membawa payung hanya demi Maria-sama." `
@@ -526,15 +526,15 @@
 `apakah {f:5:Beatrice}-sama... `
 `...benar-benar telah kembali?" `
 `".........Aku tidak tahu." `
-`"...Apa saya harus memberitahu Grandmaster?" `
+`"...Apa saya harus memberitahu Tuan Besar?" `
 `"Tidak perlu. `
-`.........Kalau beliau memang sudah kembali, cepat atau lambat dia akan muncul di hadapan Grandmaster dengan sendirinya. `
+`.........Kalau beliau memang sudah kembali, cepat atau lambat dia akan muncul di hadapan Tuan Besar dengan sendirinya. `
 `.........Selain itu, dia adalah sosok yang sulit ditebak. `
-`Melapor pada Grandmaster hanya untuk mengetahui bahwa dia tidak muncul pun akan sia-sia..." `
-`"...............Apa ini berarti upacara Grandmaster telah dimulai?" `
+`Melapor pada Tuan Besar hanya untuk mengetahui bahwa dia tidak muncul pun akan sia-sia..." `
+`"...............Apa ini berarti upacara Tuan Besar telah dimulai?" `
 `"...Mungkin saja. `
 `Namun, itu tak ada hubungannya dengan furnitur seperti kita. `
-`......Kita harus terus membalas kebaikan yang telah kita terima dari Grandmaster... sampai akhir kita." `
+`......Kita harus terus membalas kebaikan yang telah kita terima dari Tuan Besar... sampai akhir kita." `
 `"......Ya. `
 `...Itulah tugas... `
 `...seorang furnitur." `

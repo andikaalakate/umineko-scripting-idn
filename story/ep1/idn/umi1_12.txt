@@ -128,7 +128,7 @@
 `"...Battler-sama, `
 `......saya tidak berharap anda langsung percaya, `
 `...tetapi {f:5:Beatrice}-sama memang ada. `
-`...Beliau adalah orang sungguhan, yang memberikan sejumlah besar emas kepada Grandmaster dan yang bekerja di sisinya selama bertahun-tahun." `
+`...Beliau adalah orang sungguhan, yang memberikan sejumlah besar emas kepada Tuan Besar dan yang bekerja di sisinya selama bertahun-tahun." `
 `"Hah...? `
 `Ah, ayolah... `
 `Apa Kakek membayarmu untuk mengulang semua yang ia katakan...?" `
@@ -141,7 +141,7 @@
 `...Kalau kalian benar-benar serius, tentu aku akan menerimanya dengan buruk. `
 `.........Jadi, kalian mengatakan bahwa seseorang bernama {f:5:Beatrice} benar-benar ada?" `
 `"...Ya. `
-`Beliau telah bekerja untuk Grandmaster sejak sebelum rumah ini dibangun di pulau ini. `
+`Beliau telah bekerja untuk Tuan Besar sejak sebelum rumah ini dibangun di pulau ini. `
 `...Kemungkinan besar dia sudah bekerja untuknya bahkan lebih lama dariku." `
 `"Lihatlah, ternyata teori Kyrie-san meleset... `
 `...Kakek benar-benar punya seorang kepercayaan bernama {f:5:Beatrice}. `
@@ -167,7 +167,7 @@
 `"{f:5:Beatrice}-sama tidak punya tubuh. `
 `...Karena itu, kecuali {f:5:Beatrice}-sama menghendakinya, orang biasa seperti kita tidak akan bisa melihat wujudnya." `
 `"Aku pernah mendengar bahwa potret itu menunjukkan seperti apa {f:5:Beatrice}-sama saat ia masih memiliki wujud manusia... `
-`...Sepertinya Grandmaster begitu merindukan sosok itu, hingga ia sering berdiri di depan potret tersebut... `
+`...Sepertinya Tuan Besar begitu merindukan sosok itu, hingga ia sering berdiri di depan potret tersebut... `
 `...Hohohoh..." `
 `"{f:5:Beatrice}-sama terkadang menampakkan diri dengan mengubah wujudnya menjadi kupu-kupu berkilauan. `
 `...Dalam kesempatan langka kau melihatnya di suatu tempat di dalam rumah ini, ada aturan bahwa kau sama sekali tidak boleh mengejarnya. `
@@ -553,7 +553,7 @@
 `dia memang mengatakan itu. `
 `Persis sama dengan apa yang baru saja kudengar. `
 `"Ah, ...tapi tidak ada yang perlu ditakuti. `
-`{f:5:Beatrice}-sama adalah penguasa lain di mansion ini, terpisah dari Grandmaster. `
+`{f:5:Beatrice}-sama adalah penguasa lain di mansion ini, terpisah dari Tuan Besar. `
 `Jadi, tidak perlu takut secara berlebihan. Kalau kau menghormatinya, kudengar dia tidak akan melakukan hal buruk." `
 `"Namun, dia bisa sangat menakutkan kalau tidak dihormati, kan?" `
 `"...Benar. `
@@ -822,12 +822,12 @@
 `Atau tidak? `
 `Genji-san, ketika kau merenovasi ruang kerja Ayah, kau pasti mengawasi konstruksinya. `
 `Aku tidak akan membiarkanmu bilang tidak tahu." `
-`"......Tidak ada hal semacam itu di ruang kerja Grandmaster." `
+`"......Tidak ada hal semacam itu di ruang kerja Tuan Besar." `
 `"Kau yakin? `
 `Bagaimana dengan Kanon-kun, orang yang diizinkan memakai Elang Bersayap Satu?" `
 `"...Itu benar. `
 `Saya yakin. `
-`...Tidak ada pintu tersembunyi semacam itu di ruang kerja Grandmaster." `
+`...Tidak ada pintu tersembunyi semacam itu di ruang kerja Tuan Besar." `
 `"Kumasawa-san?" `
 `"...T-Tidak, saya tidak pernah mendengar hal semacam itu..." `
 `"Bagaimana dengan Dokter Nanjo? Kau punya hubungan dekat dengan Ayah." `

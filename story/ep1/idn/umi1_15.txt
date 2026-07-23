@@ -188,17 +188,17 @@
 `Saya tau satu tempat yang tidak bisa dimasuki, bahkan dengan gantungan kunci pelayan." `
 `"Di mana itu?" `
 `"...Itu adalah `
-`Ruang kerja Grandmaster." `
+`Ruang kerja Tuan Besar." `
 `"A-Aku menentangnya!! `
 `Aku bahkan tidak mau memikirkan masuk ke ruang mengerikan Kakek!" `
 `"Berapa banyak kunci yang bisa membuka ruangan itu?" `
 `"...Ada dua. `
 `Saya selalu membawa satu secara personal. `
-`Yang lain dipegang oleh Grandmaster sendiri, tapi barusan, saya menemukan ini di mayat di ruang boiler..." `
+`Yang lain dipegang oleh Tuan Besar sendiri, tapi barusan, saya menemukan ini di mayat di ruang boiler..." `
 `Genji-san mengambil saputangan dari saku dan membukanya, memperlihatkan kepada kami kunci ruang kerja yang terbakar dan kotor. `
 `Lalu, dia menunjukkannya bersama dengan kuncinya sendiri, yang pernah dipinjamkannya ke Natsuhi. `
 `"...Biasanya, harusnya menyerahkan master keys itu kepada polisi, `
-`...tetapi karena perintah Grandmaster untuk menjaga keamanan ruang kerja, saya pinjam dulu kunci itu." `
+`...tetapi karena perintah Tuan Besar untuk menjaga keamanan ruang kerja, saya pinjam dulu kunci itu." `
 `"......Begitu ya... `
 `Itu berarti ruang kerja Kinzo-san adalah satu-satunya tempat di mana kita bisa aman..." `
 `"...Sepertinya begitu. `
@@ -506,7 +506,7 @@
 `"Sepertinya masuk akal. `
 `.........Dengan surat ini, sekarang kita tau kalau penulis surat tadi malam adalah pelakunya. `
 `...Kupikir amplop yang identik lebih penting daripada apa yang tertulis di sini." `
-`"......Tidak diragukan lagi, ini adalah jenis amplop dan lilin segel yang digunakan Grandmaster." `
+`"......Tidak diragukan lagi, ini adalah jenis amplop dan lilin segel yang digunakan Tuan Besar." `
 `"...Ooooohh... `
 `Saya tidak tau apa yang sedang terjadi lagi... `
 `Ini pertama kalinya saya melihat hal seperti ini sejak saya mulai bekerja untuk keluarga Ushiromiya..." `
@@ -556,7 +556,7 @@
 `"......Topik yang kotor, tapi alasan termudah untuk diterima. `
 `...Bagaimana menurutmu, Genji?" `
 `"............... `
-`......Grandmaster pasti memiliki perasaan cinta yang mendalam padanya. `
+`......Tuan Besar pasti memiliki perasaan cinta yang mendalam padanya. `
 `Tidak diragukan lagi dia lebih peduli padanya daripada pada mendiang istrinya." `
 `"...Siapa sebenarnya orang yang disebut {f:5:Beatrice} ini?! `
 `Dan apa yang dia lakukan sekarang?!" `
@@ -564,9 +564,9 @@
 `...Saya dengar kalau beliau meninggal sebelum rumah besar ini selesai." `
 `"Dia sudah mati...?" `
 `"...Ya. `
-`...Grandmaster sangat terpukul oleh kesedihannya, `
+`...Tuan Besar sangat terpukul oleh kesedihannya, `
 `......dan dia mencurahkan dirinya pada seni sihir hitam sebagai cara untuk menghidupkannya kembali. `
-`...Grandmaster mencintai {f:5:Beatrice}-sama dari lubuk hatinya yang paling dalam. `
+`...Tuan Besar mencintai {f:5:Beatrice}-sama dari lubuk hatinya yang paling dalam. `
 `...Kegilaan itulah yang mendorongnya melakukan semua yang kalian lihat di sini." `
 `Saat Genji-san mengatakan ini, dia merentangkan tangannya, seakan-akan meminta kami melihat ruangan ini, dipenuhi tanda-tanda kegilaan Kakek. `
 `...Kami semua terdiam tanpa kata. `
@@ -581,7 +581,7 @@
 `obat-obatan, `
 `...semuanya. `
 `...Semua itu ada hanya karena dia ingin menghidupkan kembali wajah seorang wanita yang telah meninggalkan dunia ini lebih dari 30 taun lalu... `
-`"......Grandmaster hanya sekali bercerita pada saya tentang kisah {f:5:Beatrice}-sama, ketika dia sangat mabuk. `
+`"......Tuan Besar hanya sekali bercerita pada saya tentang kisah {f:5:Beatrice}-sama, ketika dia sangat mabuk. `
 `......Meskipun saya sudah lupa detailnya. `
 `......Itu... `
 `cinta yang dalam, begitu dalam, cukup membuat seorang wanita sepertiku iri." `
@@ -840,7 +840,7 @@
 `"...Genji, `
 `...mungkinkah hal seperti itu...?!" `
 `"......Saya tidak tau. `
-`...Grandmaster adalah seorang pria yang terkadang punya kebijaksanaan untuk melihat seribu taun ke depan. `
+`...Tuan Besar adalah seorang pria yang terkadang punya kebijaksanaan untuk melihat seribu taun ke depan. `
 `Namun, ada kalanya itu terlihat tidak lebih dari kegilaan bagi orang biasa seperti saya..." `
 `"Oke, haruskah kita anggap itu "ya"?! `
 `Bagaimana menurutmu, Kumasawa-san?!" `
@@ -974,7 +974,7 @@
 `"......Genji, `
 `kau adalah bawahan nomor satu Kakek. `
 `...Apakah {f:5:Beatrice} hanyalah ilusi yang kau tunjukkan pada Ayah, denganmu sebagai pelakunya?!" `
-`"......Jika dengan mencurigai saya, anda mengakuinya sebagai pelayan terbaik Grandmaster, `
+`"......Jika dengan mencurigai saya, anda mengakuinya sebagai pelayan terbaik Tuan Besar, `
 `...maka saya menganggapnya kehormatan besar, tak peduli keadaannya. `
 `......Namun, bukan saya yang meletakkan surat itu." `
 `"Kau berharap kami begitu saja percaya itu?!! `
@@ -1139,7 +1139,7 @@
 `...Aku sudah berencana kalau, setelah Ayah meninggal, aku akan memberimu penghargaan atas kerja kerasmu selama bertaun-taun dan membiarkanmu pensiun. `
 `......Memperlakukanmu seperti ini... `
 `...membuatku merasa malu dari lubuk hatiku......" `
-`"Saya sudah menerima kemurahan hati Grandmaster. `
+`"Saya sudah menerima kemurahan hati Tuan Besar. `
 `...Semua yang telah saya lakukan sampai hari ini adalah sebagai balasan untuk itu. `
 `......Tolong, jangan risaukan hal itu." `
 `"...Kalau begitu, ...mari semuanya? `

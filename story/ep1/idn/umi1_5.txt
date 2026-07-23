@@ -271,7 +271,7 @@
 ` Dia terpesona."`
 `"Ya, memang begitulah dia.`
 ` ...{f:5:Beatrice}-sama sangat cantik.`
-` Pasti dia memesona {ruby:Tuan Besar:Grandmaster}."`
+` Pasti dia memesona Tuan Besar."`
 `"Ahahahaha.`
 ` Selain teori penyandang dana, ada juga teori bahwa dia cinta pertama Kakek.`
 ` ...Bagaimanapun, meski sudah beberapa dekade sejak bertemu, sampai sekarang dia istimewa di hatinya.`
@@ -910,12 +910,12 @@
 ` ...Kenapa Kinzo-san menulis sesuatu yang begitu provokatif, ya?"`
 `Nanjo menatap potret {f:5:Beatrice}.`
 `{n}......Sebenarnya pandangannya tertuju pada piring berisi epitaf di bawah potret.`
-`"...............Aku tidak mampu memahami pikiran {ruby:Tuan Besar:Grandmaster}.`
+`"...............Aku tidak mampu memahami pikiran Tuan Besar.`
 ` Kurasa sangat dalam."`
 `"......Seingatku, setiap kali Kinzo-san bermain catur, dia selalu membuat langkah berdasarkan perhitungan jauh ke depan.`
 ` Ya, terkadang bahkan langkah yang tidak bisa dipahami.`
 ` ......Bagi orang biasa sepertiku, mustahil menembus apa pun yang dia rencanakan..."`
-`"Secara pribadi aku menduga ini semacam wasiat dari {ruby:Tuan Besar:Grandmaster}.`
+`"Secara pribadi aku menduga ini semacam wasiat dari Tuan Besar.`
 ` .........Kemungkinan besar dia bermaksud mempercayakan aset dan kepemimpinan keluarga pada siapa pun yang berhasil memahaminya."`
 `"......Berharap bahaya jika orang luar seperti aku memecahkannya...`
 `akan memaksa keempat saudara itu bekerja sama memecahkan teka-teki.`
@@ -926,7 +926,7 @@
 `...Tapi Nanjo dan Genji sama-sama tahu ini satu-satunya hal yang mustahil terjadi.`
 `Inilah dua orang yang paling lama berhubungan dengan Kinzo, lebih dipercaya daripada kerabat sedarahnya sendiri,`
 ` bahkan mereka pun tidak bisa menebak motif sebenarnya Kinzo...`
-`"......{ruby:Tuan Besar:Grandmaster} selalu mengatakan hak untuk menantang teka-teki ini diberikan pada semua orang, baik anggota keluarga maupun bukan.`
+`"......Tuan Besar selalu mengatakan hak untuk menantang teka-teki ini diberikan pada semua orang, baik anggota keluarga maupun bukan.`
 ` ......Bagaimana denganmu, Dokter Nanjo?"`
 `"Tidak, tidak......Terlalu sulit dipahami untuk orang tua pikun sepertiku."`
 `"......Sebenarnya, aku pernah menuliskan epitaf ini di buku catatanku.`
@@ -934,7 +934,7 @@
 `...hahaha, sungguh sulit.`
 ` Aku yakin ini akan terus memberiku hiburan sepanjang sisa hidupku.`
 ` Bagaimana denganmu, Genji-san?"`
-`".........Aku hanya furnitur yang melayani {ruby:Tuan Besar:Grandmaster}.`
+`".........Aku hanya furnitur yang melayani Tuan Besar.`
 ` Emas dan aset tidak berguna bagiku."`
 `"Wah, wah, kau sungguh rendah hati.`
 ` ...Mungkin itulah mengapa Kinzo-san sangat mempercayaimu."`

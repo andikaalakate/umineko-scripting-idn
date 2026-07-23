@@ -194,7 +194,7 @@
 ` Kamu terlihat sehat."`
 `"Terima kasih, aku cukup baik...`
 ` ......Dan kamu, Battler-sama, kulihat sudah menjadi pemuda yang luar biasa.`
-` .........Bahkan bisa kukatakan kamu agak mirip {ruby:Tuan Besar:Grandmaster} saat muda."`
+` .........Bahkan bisa kukatakan kamu agak mirip Tuan Besar saat muda."`
 `"Aku mirip Kakek?`
 ` Kalau begitu berarti Kakek cukup populer saat muda, ihihi!"`
 `".........Dari sini, aku akan menggantikan Shannon dan menemani kalian.`
@@ -230,7 +230,7 @@
 `"Kalau ingatanku tidak salah,`
 ` ......itu sekitar tahun sebelum lalu."`
 `"............Anda benar.`
-` Pada April tahun sebelum lalu, {ruby:Tuan Besar:Grandmaster} memajang lukisan ini, yang dia perintahkan untuk dilukis oleh seorang seniman beberapa waktu sebelumnya."`
+` Pada April tahun sebelum lalu, Tuan Besar memajang lukisan ini, yang dia perintahkan untuk dilukis oleh seorang seniman beberapa waktu sebelumnya."`
 `"Kakek yang melakukan itu?`
 ` Jadi, dia sengaja menyuruh orang melukisnya..."`
 `Potret itu menggambarkan seorang wanita dalam gaun elegan, yang memberikan kesan kecanggihan, dan yang tampaknya cocok dengan gaya Barat rumah besar ini.`
@@ -289,7 +289,7 @@
 ` Itu sebabnya dia bilang dia menyuruh lukisan itu dibuat—agar kami mengerti."`
 `".........Hmpf, bikin merinding."`
 `"........................Nyonya.`
-` ...Bagi {ruby:Tuan Besar:Grandmaster}, ini potret penting.`
+` ...Bagi Tuan Besar, ini potret penting.`
 ` ......Aku harus meminta dengan sangat agar kamu tidak mengatakan hal seperti itu di depannya."`
 `".........Aku tahu itu.`
 ` Kamu tidak bisa membuatku mengatakannya bahkan jika memohon."`
@@ -397,7 +397,7 @@
 `......Tidak ada jalan lain.`
 `{n}Tidak ada yang bisa dilakukan selain menunggu tuan rumah datang.`
 `Ketika aku melirik jam, sudah hampir dua puluh menit lewat dari pukul dua belas...`
-`{ruby:Tuan Besar:Grandmaster} rumah kepala Ushiromiya, Ushiromiya Kinzo ({p:0:金蔵}).`
+`Tuan Besar rumah kepala Ushiromiya, Ushiromiya Kinzo ({p:0:金蔵}).`
 `{n}Dia ada di sana, di ruang belajarnya.`
 `Jam menunjukkan tengah hari, tapi dia bahkan tidak berusaha untuk bangkit.`
 `Dengan kacamata baca di wajahnya, dia menumpuk buku-buku kuno dengan sampul rumit satu di atas yang lain di sampingnya, tenggelam dalam membacanya.`
@@ -433,7 +433,7 @@
 ` Siapkan absint setanku!`
 ` Bisikan peri hijau tidak sampai lagi kepadaku!!`
 ` Aah, di mana Genji, panggil GenjiiIii!!!"`
-`...Di depan pintu, Krauss, Nanjo, dan Genji terus menunggu {ruby:Tuan Besar:Grandmaster}, yang tidak mau keluar.`
+`...Di depan pintu, Krauss, Nanjo, dan Genji terus menunggu Tuan Besar, yang tidak mau keluar.`
 `"Hmph...`
 ` ......Sepertinya dia benar-benar membenciku.`
 ` Suaraku tidak sampai lagi padanya."`
@@ -502,7 +502,7 @@
 ` .........Maaf."`
 `Nanjo memberikan anggukan kecil dan turun tangga...`
 `Genji mengantarnya, lalu mengetuk pintu ruang belajar.`
-`"..........{ruby:Tuan Besar:Grandmaster}.`
+`"..........Tuan Besar.`
 ` Ini Genji."`
 `"Genji!!`
 ` Mengapa kau membuatku menunggu begitu lama?!!`
@@ -551,7 +551,7 @@
 ` Keberhasilannya hanya diukur oleh perubahan suasana hati Kinzo ketika dia meminumnya, dan dia telah belajar cara membuatnya hanya setelah beberapa dekade.`
 `Genji meletakkan gelas di atas nampan, dan berjalan menuju Kinzo.`
 `{n}Kinzo sekarang menatap ke luar jendela.`
-`".........Seperti yang kau minta, {ruby:Tuan Besar:Grandmaster}."`
+`".........Seperti yang kau minta, Tuan Besar."`
 `"Terima kasih..."`
 `Kinzo telah mendapatkan kembali ketenangannya—sangat berbeda dengan pria yang baru saja berteriak, menjerit dan berteriak beberapa saat yang lalu.`
 `Di punggung pria itu berdiam martabat dan kecerdasan yang jelas hanya dari bagaimana dia memiringkan gelasnya dan memandang pemandangan di luar jendela.`
@@ -572,13 +572,13 @@
 `"Aku mencoba meniru ramuanmu, tapi bagaimanapun aku mencoba, aku tidak bisa meniru rasanya.`
 ` ......Cara kau membuatnya adalah kenikmatan murni."`
 `".........Terima kasih banyak.`
-` Itu adalah buah dari bimbinganmu, {ruby:Tuan Besar:Grandmaster}."`
+` Itu adalah buah dari bimbinganmu, Tuan Besar."`
 `"Hmph..."`
 `Kinzo tersenyum pada bawahannya yang setia yang menolak untuk mengesampingkan pangkat bahkan ketika diminta.`
 `Namun, dia tidak mengejeknya; itu santai, seperti senyuman pada kebiasaan buruk teman dekat yang tidak bisa dihilangkan.`
 `".........Kita sudah tua, kau dan aku.`
 ` Aku lupa usiaku sejak lama."`
-`"Bahwa aku diizinkan untuk hidup seperti ini sampai hari ini semuanya berkat kau, {ruby:Tuan Besar:Grandmaster}."`
+`"Bahwa aku diizinkan untuk hidup seperti ini sampai hari ini semuanya berkat kau, Tuan Besar."`
 `Kinzo memberikan senyuman tipis, seolah mengatakan dia tidak perlu pujian.`
 `".........Kau telah melayaniku dengan sangat baik selama bertahun-tahun.`
 ` ......Putra-putraku menyebutku eksentrik.`

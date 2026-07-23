@@ -217,7 +217,7 @@
 `...Kamarnya kosong." `  
 `"Apa-apaan... `  
 `Ke mana dia pergi di saat seperti ini...?!" `  
-`"......Maksud Anda, Grandmaster telah meninggalkan ruang kerjanya...?" `  
+`"......Maksud Anda, Tuan Besar telah meninggalkan ruang kerjanya...?" `  
 `"...Benar. Aku sendiri terkejut... `  
 `Kapan dia meninggalkan kamarnya, ya... `  
 `Apakah ada di antara kalian yang tahu?" `
@@ -226,7 +226,7 @@
 `.........Namun, sepertinya justru sebaliknya. `
 `Wajah mereka menunjukkan bahwa orang-orang yang paling mengenal Kinzo...menyadari lebih dari siapa pun betapa mustahilnya dia meninggalkan kamarnya. `
 `".........Bahkan kami tidak tahu." `
-`"...Seperti yang kalian semua tahu, di dalam ruang kerjanya, Grandmaster memiliki segalanya mulai dari tempat tidur sampai kamar mandi. `
+`"...Seperti yang kalian semua tahu, di dalam ruang kerjanya, Tuan Besar memiliki segalanya mulai dari tempat tidur sampai kamar mandi. `
 `Aku tidak bisa membayangkan dia meninggalkan ruangan itu kecuali untuk alasan yang sangat penting." `
 `"............Kalau begitu, apa? `
 `Bukankah wajar menganggap salah satu dari 'alasan penting' itu telah terjadi...?!" `
@@ -952,7 +952,7 @@
 `Aku ingat, ini senjata itu! `
 `Benar-benar membawa nostalgia. Itulah senjata yang ditembakkan Steve McQueen di Wanted: Alive or Dead!! `
 `Ayah benar-benar punya selera bagus...!" `
-`"......Itu adalah barang yang Grandmaster pesan khusus dari Amerika, dulu sekali. `
+`"......Itu adalah barang yang Tuan Besar pesan khusus dari Amerika, dulu sekali. `
 `...Seperti yang bisa kalian lihat, ini adalah senjata asli yang berfungsi, jadi tolong jangan beri tahu siapa pun tentang ini..." `
 `"Dia sangat menyukainya tepat setelah berhasil mendapatkannya. `
 `Sepertinya mekanisme yang mengeluarkan selongsong peluru lebih menarik baginya daripada menembak, dan dia sering memainkannya di hutan. `

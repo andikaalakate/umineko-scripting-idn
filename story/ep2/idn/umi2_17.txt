@@ -41,12 +41,12 @@
 `"............... `
 `Aku hanya...tidak kuat jika tidak minum. `
 `...Aku bahkan tidak bisa merasakan alkohol..." `
-`"...Kamu seperti Grandmaster. `
-`Benar, darah Grandmaster mengalir kuat di dalam dirimu..." `
+`"...Kamu seperti Tuan Besar. `
+`Benar, darah Tuan Besar mengalir kuat di dalam dirimu..." `
 `"Maksudmu Kakek, sang peminum berat, minum untuk melupakan kesedihannya selama ini...? `
 `Pertama kali aku mendengar itu." `
 `......Setelah kecelakaan mengerikan, `
-`kehidupan Grandmaster... `
+`kehidupan Tuan Besar... `
 `hanya tersisa untuk penebusan dosanya." `
 `"...Apa yang kamu tahu?" `
 `"......Upacara {f:5:Beatrice} telah selesai ketika senja kesembilan berakhir. `
@@ -55,8 +55,8 @@
 `Seketika mabukku hilang. `
 `Aku menurunkan kakiku dari meja dan mendengarkan apa yang akan dikatakan Genji... `
 `"Battler-sama, `
-`...Aku akan membawamu ke ruang kerja Grandmaster. `
-`...Mungkin akan lebih baik mendengar langsung dari Grandmaster dan..." `
+`...Aku akan membawamu ke ruang kerja Tuan Besar. `
+`...Mungkin akan lebih baik mendengar langsung dari Tuan Besar dan..." `
 `"Dari Kakek...dan...? `
 `H-Hei, apa maksudmu...?!!" `
 `"...Ayo, ke sini. `
@@ -90,7 +90,7 @@
 `...Tidak peduli seberapa berat untuk menerimanya. `
 `".........Ya. `
 `...Bahkan jika iblis atau penyihir muncul, ...Aku siap." `
-`"......Benar, anda seperti Grandmaster saat muda. `
+`"......Benar, anda seperti Tuan Besar saat muda. `
 `...Battler-sama, rajinlah belajar. `
 `Di masa depan, anda pasti memiliki ambisi yang besar. `
 `Dan ketika saatnya tiba, pastikan anda tidak akan pernah menyesal karena kurangnya belajar dan berlatih." `
@@ -101,7 +101,7 @@
 `Genji-san mengambil kunci emas dengan ukiran elegan dari kantungnya. `
 `Kunci utama ada di Bibi Rosa, tapi dia menyimpan kunci ke ruang kerja ini di kantungnya. `
 `Dia memasukkannya ke lubang kunci, ......dan membuat suara klik yang keras. `
-`"......Grandmaster, `
+`"......Tuan Besar, `
 `Ini aku, Genji. `
 `Aku telah membawa Battler-sama." `
 `Tidak ada balasan, tapi tampaknya izin untuk masuk ke dalam telah diberikan... `
@@ -123,7 +123,7 @@
 `......Aku bisa melihat punggung Kakek. `
 `Ada seseorang di depan Kakek. `
 `...Dia dalam bayangan, jadi aku tidak bisa melihat dengan jelas... `
-`"...Grandmaster, `
+`"...Tuan Besar, `
 `Aku telah membawa Battler-sama." `
 `"......Battler, ya? `
 `Aku sibuk berpikir sekarang... `
@@ -157,7 +157,7 @@
 `"Genji, `
 `sajikan beberapa alkohol untuk Battler. `
 `Apa minuman keras yang cocok untuk orang ini...?" `
-`"...Yang Grandmaster sukai sejak muda." `
+`"...Yang Tuan Besar sukai sejak muda." `
 `"Bagus, bagus, sajikanlah. `
 `...Kerja bagus kamu datang kesini, Ushiromiya Battler. `
 `Pertama, duduklah. `

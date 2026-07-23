@@ -496,7 +496,7 @@
 ` dan mudah tersinggung seperti biasa."`
 `"Artinya, tahun ini lagi bad mood seperti biasa.`
 ` ......Dan hanya Genji-san yang bisa merawatnya?"`
-`"Tampaknya {ruby:Tuan Besar:Grandmaster} hanya mau membuka hati pada Genji-san.`
+`"Tampaknya Tuan Besar hanya mau membuka hati pada Genji-san.`
 ` Belakangan, orang kecil seperti kami tidak bisa bertemu..."`
 `"Dia mengurung diri di ruang belajarnya lagi, mungkin hanya melakukan sihir hitam anehnya.`
 ` Hobi dia urusannya sendiri, tapi ketika baunya menyebar, sangat mengganggu.`
@@ -883,7 +883,7 @@
 `Dan juga, ...meski buruk, mereka tidak disukai Nyonya Natsuhi...`
 `Tentu dalam hal pengalaman, Nyonya sudah lebih lama di keluarga.`
 `Tapi.........aku juga harus bersimpati pada Nyonya.`
-`...{ruby:Tuan Besar:Grandmaster} memang kejam...`
+`...Tuan Besar memang kejam...`
 `Mengapa dia tidak menyadari keinginan sepelenya akan membuat Nyonya merasa inferior...`
 `......Sebenarnya, di dalam hati Nyonya tahu tidak ada alasan memperlakukan mereka berdua kasar...`
 `...Tapi hati punya alasan yang tidak dimengerti akal...`
