@@ -1,658 +1,658 @@
-`I had planned on taking a nap, ...but the boat really was shaking bad. `
-`I gave up on sleeping and went up onto the deck. `
-`There, I was welcomed by the shining sun and a strong sea breeze... `
-`Amakusa had been doing some stretches on the deck. `
-`...He must have a lot of time on his hands too. `
-`After all, it'll be several more hours before we reach Niijima. `
-`It would only have taken a couple dozen minutes by airplane, but there was the chance that the Niijima airport was under the Sumadera family's web. `
-`The harbor would probably be the same. `
-`For that reason, I had obtained a boat that would let me land while avoiding the harbor, no questions asked. `
-`I'd bumped into a cheery boat captain, `
-`treated him generously, and he had decided to help me out, amused... `
-`"Still gonna be a while?" `
-`"I just asked the captain, and it sounds like it'll take a full two hours more. `
-`Well, beggars can't be choosers." `
-`"......The weather sure is nice. `
-`Feels like I'll burn." `
-`"Going to read on the deck? `
-`You'll damage your book." `
-`Amakusa apparently thought this because I was clutching Maria onee-chan's diary under my arm. `
-`I'd been reading it half asleep, which was why I'd come back up still clutching it. `
-`"How's it going? `
-`Think you'll be able to find the truth of Rokkenjima from Maria-san's diary?" `
-`"......Who knows. `
-`No matter how much I investigate what happened on that island, it won't make for anything more than a theory. `
-`There's no truth written in the message bottle or Onee-chan's diary, just a fairy tale with a witch walking around. `
-`...I'm stuck." `
-`"Looks like you've got nothing to look forward to except questioning those involved on Niijima." `
-`"I imagine the Witch Hunters have showered them with questions over and over, so I'm pretty sure I won't find any new facts." `
+`Aku ingin tidur, ...tapi kapalnya sangat bergetar. `
+`Aku bangkit dan pergi ke deck. `
+`Di sana, Aku disambut oleh sinar matahari dan hembusan angin yang kencang... `
+`Amakusa sedang melakukan peregangan. `
+`...Dia pasti punya banyak waktu luang. `
+`Lagi pula, masih ada beberapa jam lagi sampai tiba di Niijima. `
+`Jika menggunakan pesawat hanya memerlukan beberapa menit, tapi bisa saja bandara Niijima sudah berada dalam pantauan keluarga Sumaderaa. `
+`Pelabuhan mungkin juga sama. `
+`Karena itu, Aku mendapatkan kapal yang akan menghindari pelabuhan, tanpa banyak tanya. `
+`Aku bertemu dengan kapten yang ramah, `
+`memperlakukannya dengan baik, dan dia memutuskan untuk menolongku, lucu... `
+`"Masih lama?" `
+`"Aku baru saja bertanya pada kapten, dan kedengarannya akan memakan dua jam lagi. `
+`Yah, pengemis tidak bisa memilih." `
+`"......Cuacanya bagus. `
+`Rasanya aku akan terbakar." `
+`"Membaca di deck? `
+`Bukumu akan rusak." `
+`Amakusa mungkin berpikir begitu karena aku memegang buku harian Maria onee-chan. `
+`Aku tertidur saat membacanya, itulah mengapa aku masih memegangnya. `
+`"Bagaimana? `
+`Apakah kamu bisa menemukan kebenaran Rokkenjima melalui buku harian Maria-san?" `
+`"......Mungkin. `
+`Sebanyak apa pun aku mencoba mencari apa yang terjadi di pulau itu, itu hanyalah teori. `
+`Tidak ada kebenaran yang tertulis di botol atau buku harian Onee-chan, hanya dongeng tentang penyihir. `
+`...Aku buntu." `
+`"Tampaknya yang kamu nantikan hanya mempertanyakan orang-orang yang terlibat dengan Niijima." `
+`"Aku membayangkan para pemburu penyihir menyiram mereka dengan pertanyaan terus menerus, jadi aku sangat yakin tidak akan menemukan fakta baru lagi." `
 `"Hehhaha...! `
-`So even though your hopes are that low, you're willing to spend a half-day trip on a boat to go to Niijima anyway! Talk about fickle." `
-`"......It's like a journey of self-satisfaction, so that I can say "I investigated". `
-`I'm not so naive as to seriously think that the truth of 12 years ago will be revealed." `
-`"And when you're done with your self-satisfaction trip, what'll you do next?" `
-`"Who knows. `
-`I haven't thought about it. `
-`......I'll go to Niijima, ask some people who were involved. `
-`...Then, after going to Rokkenjima in the end and leaving some flowers, my journey will be over." `
-`......Several days have already passed since this journey began. `
-`After being told by {f:5:Bernkastel} on the roof of that building to search for the truth of 12 years ago, `
-`I'd left on a journey like trying to grasp a cloud. `
-`At the time, I felt as though I'd experienced something mystical...and had the feeling that I might be able to grasp some kind of miracle at the end of this journey. `
-`...But after several days passed, my excitement died down. `
-`On that day, when I stood on the roof of that skyscraper, my heart was completely cornered and dead. `
-`...So I'd wanted from the bottom of my heart to be released from the cage of my body and rise into the sky... `
-`and had crossed the fence in order to die. `
-`Maybe experiencing the desire to die and actually stepping forwards, throwing my body down... `
-`caused some kind of mystical experience inside my head, making me think I had received a message from a witch. `
-`......The excitement from my jump lessened over time, and the more I came back to my senses, the more this journey lost its meaning. `
-`But I didn't even consider suspending this journey just because of that. `
-`If I stop this journey, it'll mean acknowledging that the message from that witch was an illusion. `
-`And I felt as though that meant throwing away the promise the witch made... `
-`and any chance that someone from my family might come back. `
-`So, because it was hard to believe that those events were an illusion, I've continued on my journey. `
-`I don't seriously believe that this journey will change anything. `
-`...It's even up to me when to end this journey. `
-`It's up to me to choose where the final destination is. `
-`In the end, this journey is only for my self-satisfaction... `
-`"......Self-satisfaction, huh? `
-`It sounds bad when you say it, but I think that's actually what life is all about." `
+`Meskipun harapanmu rendah, kamu tidak apa-apa menghabiskan setengah hari perjalanan di kapal untuk pergi ke Niijima! sangat plin-plan." `
+`"......Ini seperti perjalanan untuk kepuasan diriku, jadi aku bisa mengatakan "Aku telah mencari". `
+`Aku tidak senaif itu untuk berpikir kalau kebenaran 12 tahun yang lalu akan terungkap." `
+`"Dan ketika perjalananmu ini selesai, apa yang akan kamu lakukan?" `
+`"Entahlah. `
+`Aku belum memikirkannya. `
+`......Aku akan pergi ke Niijima, bertanya pada mereka yang terlibat. `
+`...Lalu, pergi ke Rokkenjima dan meninggalkan bunga, dengan begitu perjalananku akan berakhir." `
+`......Beberapa hari telah berlalu sejak perjalanan ini dimulai. `
+`Setelah {f:5:Bernkastel} mengatakan saat di atap bangunan untuk mencari kebenaran 12 tahun yang lalu, `
+`Aku memulai perjalananku seolah mencoba menggapai awan. `
+`Saat itu, Aku merasa mengalami sesuatu yang ajaib...dan merasa kalau aku mungkin bisa menggapai beberapa kejaiban di akhir perjalanan ini. `
+`...Tapi setelah beberapa hari, semangatku padam. `
+`Hari itu, ketika aku berdiri di atap gedung pencakar langit, hatiku terpojok dan mati. `
+`...Jadi di dalam lubuk hatiku aku ingin terlepas dari sangkar tubuh ini dan terbang ke langit... `
+`dan melewati pagar itu untuk mati. `
+`Mungkin mengalami keinginan untuk mati dan benar-benar melangkah maju, melemparkan tubuhku ke bawah... `
+`membuatku mengalami sesuatu yang terasa ajaib, membuatku berpikir kalau aku menerima pesan dari penyihir. `
+`......Kebahagiaan yang kurasakan setelah melompat perlahan menghilang, dan semakin aku kembali tersadar, perjalanan ini semakin tidak bermakna. `
+`Tapi aku tidak berpikir untuk menghentikan perjalanan ini. `
+`Jika aku menghentikan perjalanan ini, artinya aku mengakui pesan dari penyihir itu hanyalah ilusi. `
+`Dan itu artinya melanggar janji pada penyihir tersebut... `
+`dan kemungkinan kalau salah satu keluargaku mungkin kembali. `
+`Jadi, karena susah untuk mempercayai kalau kejadian itu hanyalah ilusi, aku melanjutkan perjalananku. `
+`Aku tidak sepenuhnya percaya perjalanan ini akan mengubah apapun. `
+`...terserahku kapan perjalanan ini akan berakhir. `
+`Terserahku untuk memilih di mana tujuan akhir. `
+`Jadi, perjalanan ini hanya untuk kepuasan diriku... `
+`"......Kepuasan dirimu, huh? `
+`Terdengar jelek ketika kamu menyebutnya, tapi menurutku itulah tujuan dari kehidupan." `
 `"...Oh? `
-`If that's the answer you've reached after hovering over the line between life and death in the mercenary business, that's probably pretty deep." `
-`"Don't take it so lightly. `
-`What I'm trying to say...is that the only one who can acknowledge you in this world is you yourself." `
-`Amakusa continued stretching as he spoke. `
-`In an irritatingly fresh way. `
-`Hearing it told to me as though from a teacher made me instinctively want to resist, but what he was saying was extremely sensible. `
+`Jika itu adalah jawaban yang kamu dapatkan setelah melalui garis kehidupan dan kematian, mungkin itu cukup dalam." `
+`"Bukan begitu saja. `
+`Maksudku adalah...satu-satunya yang bisa mengakui keberadaanmu di dunia ini hanyalah dirimu sendiri." `
+`Amakusa melanjutkan peregangannya. `
+`Dengan cara yang menyebalkan. `
+`Mendengar penjelasannya seolah dijelaskan oleh guru membuatku ingin menolak, tetapi apa yang dikatakannya masuk akal. `
 `"......... `
-`...That may be true. `
-`People work hard when they want to be acknowledged by someone. `
-`...In most cases, that someone is their parents. `
-`Children learn how to work hard because they want to be praised by their parents. `
-`......Although that's why I never learned." `
-`"Sorry, that's not how I meant it. `
-`...What I'm trying to say is that there's nothing wrong with self-satisfaction. `
-`No matter who praises you, it's meaningless unless you can accept it. `
-`...Turning it around, even if no one praises you, that doesn't matter as long as you can accept it." `
-`"......Self-satisfaction tends to contradict a desire to improve oneself, so we're usually taught that it's bad. `
-`Somehow, your argument seems like a pretty fresh take on it, Amakusa." `
-`"The anguish of the human world comes when you want someone to acknowledge you, but you don't know what it is you should be striving for. `
-`I had a time like that too. `
-`I wanted to be acknowledged by someone, but I didn't know what I wanted them to acknowledge about me. `
-`And since I didn't know what to strive for or how far I should go to be acknowledged, `
-`I did a lot of crazy things." `
-`"And the answer you reached...was self-satisfaction?" `
-`"It sounds bad, but that's how it is. `
-`Rich is the one who is content with what they are, they say." `
-`"......If I'm satisfied with my life, it doesn't matter what other people say. `
-`It's the same for your life, and for this journey. `
-`No one has any right to criticize you other than you yourself, Ange-san." `
-`"You're the only one who determines the meaning and results of your journey. `
-`If it's been a meaningful journey for you, then that's more than enough." `
+`...Mungkin benar. `
+`Orang-orang bekerja sangat keras ketika mereka ingin diakui seseorang. `
+`...Biasanya, seseorang itu adalah orang tuanya. `
+`Anak-anak belajar caranya bekerja keras karena mereka ingin dipuji oleh orang tuanya. `
+`......Itulah mengapa aku tidak pernah mempelajarinya." `
+`"Maaf, bukan begitu maksudku. `
+`...Tidak ada salahnya dengan kepuasan dirimu. `
+`Siapa pun yang memujimu, tidak akan berguna sampai kamu bisa menerima pujian itu. `
+`...Sebaliknya, bahkan jika tidak ada yang memujimu, tidak akan masalah selama kamu bisa menerima keadaan itu." `
+`"......Bertentangan dengan keinginan untuk berkembang, jadi kita diajarkan kalau itu buruk. `
+`Entah bagaimana, argumenmu memberikan sudut pandang yang baru, Amakusa." `
+`"Penderitaan di dunia manusia datang ketika kamu ingin seseorang untuk mengakuimu, tetapi kamu tidak tahu apa yang seharusnya diperjuangkan. `
+`Aku pernah seperti itu. `
+`Aku ingin diakui oleh seseorang, tapi aku tidak tahu apa yang sebenarnya ingin mereka lihat dariku. `
+`Dan karena aku tidak tahu apa yang harus kuperjuangkan atau sejauh apa sampai aku diakui, `
+`Aku melakukan banyak hal gila." `
+`"Dan jawaban yang kamu capai...adalah kepuasan diri?" `
+`"Terdengar buruk, tapi begitulah. `
+`Kata mereka, Orang kaya itu adalah mereka yang bahagia dengan apa yang mereka miliki." `
+`"......Jika aku puas dengan kehidupanku, aku tidak peduli apa yang orang lain katakan. `
+`Begitu juga dengan hidupmu, dan untuk perjalan ini. `
+`Tidak ada yang berhak menilaimu kecuali dirimu sendiri, Ange-san." `
+`"Kamulah yang menentukan makna dan hasil dari perjalananmu. `
+`Jika perjalanan ini bermakna bagimu, maka itu lebih dari cukup." `
 `"......... `
-`......I always did take you for a flippant ladies man, but you really do say weird things every once in a while. `
-`I'll bet you think saying stuff like that will make you popular." `
-`"Of course not, of course not. `
-`That's not how I meant it at all. `
-`......Looks like you want to be alone. `
-`I'll head over to see the boat captain. `
-`Please, take it easy." `
-`Amakusa apparently decided I was in a bad mood. `
-`...Although I didn't feel that way myself. `
-`Or, he might have finished a set of stretches and wanted to cool off in the shade. `
-`The sea winds were strong, but not enough to cool the rays of the sun. `
-`Amakusa disappeared. `
-`Only I remained. `
-`"......Self-satisfaction is life itself, huh?" `
-`"That's just boring. `
-`Life is nothing without greed." `
-`I noticed that Mammon had suddenly appeared, her abundant hair fluttering over by the prow of the ship. `
-`"It's true that a life of greed would be fun. `
-`But unlike you, Humans have a limited life-span. `
-`If greed is eternal, that means a person will have desires even in the last moment before they die. `
-`Having desires means there's something that you want. `
-`Something you don't have, some way you aren't complete." `
-`"...I'm sure it's tough to die when you can't think of your life as being a full one. `
-`So I'm sure self-satisfaction is necessary." `
-`"......I see. `
-`Because of the existence of a life span, you have to compromise like that? `
-`All of my masters had very long life spans, so I've never thought of it." `
-`"I wonder if Humans live for the purpose of becoming satisfied. `
-`...If so, it's probably easiest to live without desires. `
-`...I see, so that's why greed is one of the seven deadly sins." `
-`"*giggle* `
-`Your praise honors me." `
-`Apparently that counted as a compliment in Mammon's eyes. `
-`She turned and gave a graceful bow. `
+`......Aku selalu menganggapmu playboy yang aneh, tapi terkadang kamu mengatakan hal yang aneh. `
+`Aku yakin saat kamu mengatakannya kamu berpikir itu membuatmu keren." `
+`"Tidak, tentu saja tidak. `
+`Bukan begitu maksudku. `
+`......Tampaknya kamu ingin sendiri. `
+`Aku akan pergi mencari kapten. `
+`Ayolah, santai saja." `
+`Amakusa berpikir suasana hatiku sedang buruk. `
+`...Walaupun aku tidak merasa begitu. `
+`Atau, dia mungkin telah selesai melakukan peregangan dan ingin menenangkan dirinya. `
+`Angin laut sangat kencang, tapi tidak cukup untuk mendinginkan sinar matahari ini. `
+`Amakusa menghilang. `
+`Hanya aku sendiri. `
+`"......Kepuasan diri adalah bagian dari kehidupan itu sendiri, huh?" `
+`"Aneh. `
+`Tanpa keserakahan hidup tidak ada apa-apanya." `
+`Aku menyadari kalau Mammon tiba-tiba muncul, rambutnya yang panjang terkibas-kibas oleh angin di depan kapal. `
+`"Benar jika hidup dengan keserakahan menyenangkan. `
+`Tapi tidak seperti dirimu, Manusia memiliki umur yang terbatas. `
+`Jika keserakahan abadi, di saat sebelum kematiannya tiba maka seseorang akan tetap memiliki keinginan. `
+`Memiliki keinginan artinya kamu menginginkan sesuatu. `
+`Sesuatu itu artinya yang tidak kamu punya, artinya kamu belum selesai dengan hidup ini." `
+`"...Aku yakin sangat susah untuk menerima kematian ketika kamu merasa hidupmu belum terasa cukup. `
+`Jadi aku percaya kalau kepuasan diri itu penting." `
+`"......Begitu. `
+`Karena adanya batasan usia, kamu harus menerimanya seperti itu? `
+`Semua tuanku memiliki umur yang panjang, jadi aku tidak pernah memikirkan itu." `
+`"Aku penasaran apakah tujuan hidup manusia adalah kepuasan. `
+`...Maka, lebih gampang untuk hidup tanpa memiliki rasa keinginan. `
+`...Aku mengerti, itulah mengapa keserakahan termasuk dalam tujuh dosa besar." `
+`"*kekeh* `
+`Aku menghargai pujianmu." `
+`Tampaknya bagi Mammon itu merupakan pujian. `
+`Dia berbalik dan membungkuk dengan elegan. `
 `"Ange-sama, `
-`do Humans live so that they can find satisfaction at the moment of their deaths?" `
-`"...Wouldn't it be pretty tough if you felt you were lacking something when you died?" `
-`"If so, then Humans live only so that they can meet a satisfying death. `
-`They live so that they can have a better death. `
-`They live so that they can die." `
-`......This kid's saying something pretty incredible. `
-`...I see, as I'd expect from a demon stake. `
-`However, it might be the truth. `
-`Humans suffer because they aren't satisfied...and live only to find satisfaction. `
-`In other words, that might be the same as a desire to die satisfied. `
-`"I can't counter that. `
-`...People live in order to be satisfied. `
-`And they hope to die that way. `
-`So, it's really painful when you don't know how to find that satisfaction." `
-`"Just how can you find something like that? `
-`In a Human's life." `
-`"......By being acknowledged. `
-`By hearing someone say "You are happy"." `
-`"If it doesn't matter who acknowledges them, then I'll do it." `
-`"Yeah, that's the problem. `
-`......People don't know who needs to acknowledge them." `
-`"So, searching for this person who can acknowledge them is the journey of their life? `
+`apakah Manusia hidup sehingga mereka bisa merasakan kepuasan saat kematiannya tiba?" `
+`"...Akankah sulit untuk mati ketika kamu merasa masih ada yang kurang dalam hidupmu?" `
+`"Jika begitu, maka Manusia hidup hanya untuk mencari kematian yang memuaskan. `
+`Mereka hidup agar mereka mendapatkan kematian yang lebih baik. `
+`Mereka hidup agar mereka bisa mati." `
+`......Ucapan anak ini sangat bagus. `
+`...Aku paham, seperti yang kuduga dari pasak iblis. `
+`Namun, itu mungkin kebenaran. `
+`Manusia menderita karena mereka tidak puas...dan hidup hanya untuk menemukan kepuasan. `
+`Dengan kata lain, mungkin sama saja seperti keinginan untuk mati dengan kepuasan. `
+`"Aku tidak bisa membantah itu. `
+`...Manusia hidup untuk merasa puas. `
+`Dan mereka berharap mati seperti itu. `
+`Jadi, benar-benar menyakitkan ketika kamu tidak tahu cara untuk menemukan kepuasan." `
+`"Bagaimana juga kamu bisa menemukannya? `
+`Di kehidupan manusia." `
+`"......Dengan diakui. `
+`Dengan mendengar saat seseorang mengatakan "Kamu bahagia"." `
+`"Jika tidak peduli siapa yang mengakui mereka, maka aku akan mengakuinya." `
+`"Ya, itu masalahnya. `
+`......Manusia tidak tahu siapa yang harus mengakui mereka." `
+`"Jadi, mencari orang yang cocok untuk mengakui mereka merupakan perjalanan hidupnya? `
 `Hmmmm." `
-`"It sounds strange. `
-`Whether you're acknowledged or not, it supposedly doesn't change your circumstances. `
-`...And yet, if you are acknowledged, you will be satisfied, while if you aren't, then you won't. `
-`...It's almost like the blue bird. `
-`...Because you can't notice the blue bird even though it's already in the cage, you have to go out on a journey searching everywhere." `
-`"What the heck. `
+`"Kedengarannya aneh. `
+`Entah kamu diakui atau tidak, seharusnya tidak mengubah kehidupanmu. `
+`...Tetapi, jika kamu diakui, kamu akan terpuaskan, saat kamu tidak diakui, maka kamu tidak terpuaskan. `
+`...Sama seperti burung biru. `
+`...Karena kamu tidak bisa melihat meskipun burung biru itu sudah ada di dalam sangkar, jadi malah pergi jauh mencarinya ke mana-mana." `
+`"Apa. `
 `Kyahhahaha. `
-`Human lives sure are stupid." `
-`"That's right. `
-`Amakusa said something really good. `
-`...Rich is the one who is content with what they are, ...was it? `
-`I don't know where that proverb came from, but it's deep. `
-`...Basically, if you can't find enough satisfaction unless someone else acknowledges you, that's the same as not acknowledging yourself. `
-`...The ultimate in self-fulfillment is acknowledging yourself." `
-`"That's right. `
-`Because, if you can "know" that you're fully satisfied, there's no need to be acknowledged by anyone. `
-`Just by taking notice of the small things, the Humans' foolish journey of life can be ended easily. `
-`You can spend the rest of your life playing and having a good time. `
-`A Human's life is so ridiculous, kyahhahahaha!" `
-`Mammon's choice of words was bad, but it was surely the truth. `
-`If most of a Human's life is a journey with the hopes that someone will acknowledge them, `
-`so that they can achieve a satisfied death... `
-`......Then when they realize that the person doing the acknowledging isn't someone else, but they themselves, that pointless journey can end. `
-`Humans who have ended that journey can probably spend the rest of their lives as they wish, with their heads held high. `
-`How noble, how praiseworthy would that be... `
-`"You know, `
-`it seems Amakusa's on pretty bad terms with his parents. `
-`...That makes sense. `
-`Any decent parents would want him to get the hell out of the trade he's in." `
-`"Does that really matter though? `
-`As long as it's fun for the person in question." `
-`"......Exactly. `
-`That's what it comes down to in the end. `
-`Criticism formed by the observations of other people doesn't matter. `
-`If your existence is firmly acknowledged by you yourself, that's enough. `
-`...If you can live with confidence in yourself, you'll surely be able to accept and be satisfied with any kind of lifestyle." `
-`"I'm sure Amakusa will eventually eat a stray bullet on the battlefield and get seriously injured. `
-`...He might even die. `
-`But I don't think he'd view that as something unfair. `
-`I'm sure he'd cackle about how that's also part of life." `
-`"What a great way to live. `
-`I could fall for the guy." `
-`"...Pitiful Humans who can't acknowledge themselves... `
-`wander about searching for that their whole lives, and without anything being accepted, they do nothing but grumble and die while still unsatisfied. `
-`...How pitiful. `
-`Compared to people whose lives drag on without any purpose, `
-`Amakusa is more likely to eventually die by the roadside, but I think he's much more noble for living his life with his head held high." `
-`"Aren't the winners in life those who achieve enlightenment? `
-`If they can do that even a little sooner, they'll be able to live that much more of their life effectively." `
-`......With Mammon's words, `
-`...I finally accepted a certain fact. `
-`In the past, ...I've called that girl unusual, a little strange. `
-`However, `
-`...that wasn't true. `
-`All she did was keep her head held high... `
-`...and finish that journey faster than anyone else. `
-`".........Maybe that's what made Maria onee-chan...so amazing. `
-`When she was at the age where she might or might not enter the first year of elementary school, she had already reached that point." `
-`For people like us, looking at her life from the outside, it wasn't something we'd call blessed. `
-`But even though days like that were engraved in her diary, `
-`...they always finished up by saying that it was a happy day. `
-`Even though the part of her mother that didn't love her daughter came and went, `
-`she believed that her mother loved her. `
-`The mother's love that didn't exist, she created herself, filling her world with love. `
-`Others might observe her as an unsatisfied, pitiful girl, `
-`...but she herself acknowledged that she was satisfied. `
-`And so, she was happy that way. `
-`It's easy to observe that as something pitiable and sad. `
-`But to her, that was an outsider's opinion, so it didn't matter. `
-`"Whether or not it was happy for her"...was the only important thing. `
-`It's just like how, when people who live in the city point to the lifestyles of those in rural areas, `
-`and mourn their inconvenience and feel sympathy for them, it's really none of their business. `
-`If those who live there are satisfied with what they have, that's more than enough. `
-`"......I've finally noticed something. `
-`I noticed it just now. `
-`...I did something horrible to Maria onee-chan. `
-`......And to you all and Sakutarou as well, on that day." `
+`Kehidupan manusia itu bodoh." `
+`"Benar. `
+`Perkataan Amakusa sangat bagus. `
+`...Orang kaya adalah mereka yang bahagia dengan apa yang mereka miliki, ...kan? `
+`Aku tidak tahu dari mana mazmur itu berasal, tapi itu dalam sekali. `
+`...Jadi, jika kepuasanmu itu cukup saat seseorang mengakuimu, sama saja seperti tidak mengakui diri sendiri. `
+`...Puncak dari kepuasan diri adalah menerima dan mengakui diri sendiri." `
+`"Itu benar. `
+`Karena, jika kamu bisa "tahu" kalau kamu sepenuhnya terpuaskan, maka tidak butuh pengakuan dari orang lain. `
+`Cukup dengan memaknai hal kecil, perjalanan hidup manusia yang bodoh bisa berakhir dengan gampang. `
+`Kamu bisa menghabiskan sisa hidupmu untuk bermain dan menikmati waktumu. `
+`Hidup manusia sangat konyol, kyahhahahaha!" `
+`Pemilihan kata Mammon buruk, tapi itulah kebenarannya. `
+`Jika banyaknya perjalanan hidup manusia adalah berharap diakui oleh seseorang, `
+`sehingga mereka bisa mencapai kematian yang memuaskan... `
+`......Ketika mereka menyadari orang yang mengakuinya bukan siapa-siapa, tapi diri mereka sendiri, petualangan yang tak berarti itu bisa berakhir. `
+`Manusia yang mengakhiri perjalanan itu mungkin bisa menghabiskan sisa hidup mereka sesukanya, dengan bangga. `
+`Sangat baik, layak dipuji... `
+`"Kamu tahu, `
+`tampaknya hubungan Amakusa dengan orang tuanya sangat buruk . `
+`...Itu masuk akal. `
+`Orang tua yang normal pasti ingin dia keluar dari apa yang dia lakukan sekarang." `
+`"Apakah itu penting? `
+`Selama dia senang melakukannya." `
+`"......Benar. `
+`Ujung-ujungnya seperti itu. `
+`Kritik yang dibentuk berdasarkan pengamatan orang lain itu tidak penting. `
+`Jika kehadiranmu diakui oleh dirimu sendiri, itu cukup. `
+`...Jika kamu bisa hidup dengan percaya pada dirimu, kamu pasti dapat menerima dan puas dengan gaya hidup apa pun itu." `
+`"Aku yakin Amakusa akan terkena peluru di pertempuran dan terluka parah. `
+`...Mungkin dia akan mati. `
+`Tapi aku rasa dia tidak akan menganggapnya tidak adil. `
+`Aku yakin dia akan tersenyum karena itu bagian dari hidupnya." `
+`"Sebuah cara yang bagus untuk menjalani kehidupan. `
+`Aku bisa jatuh cinta padanya." `
+`"...Manusia menyedihkan yang tidak bisa mengakui dirinya... `
+`mereka menghabiskan hidup mereka mencari hal itu, dan karena tak ada yang mereka terima, mereka hanya mengeluh dan mati dalam keadaan yang tak pernah puas. `
+`...Sangat menyedihkan. `
+`Dibandingkan mereka yang hidupnya mengalir tanpa tujuan, `
+`Amakusa kemungkinan mati di pinggir jalan, tapi dia lebih mulia menjalani hidupnya dengan penuh keyakinan." `
+`"Bukankah pemenang di kehidupan adalah mereka yang mencapai pencerahan? `
+`Jika mereka bisa mencapainya lebih awal, mereka akan menjalani hidup mereka lebih efektif." `
+`......Dengan perkataan Mammon, `
+`...Aku akhirnya menerima fakta. `
+`Di masa lalu, ...Aku menyebut gadis itu aneh, sedikit aneh. `
+`Namun, `
+`...itu tidak benar. `
+`Yang dia lakukan adalah percaya pada dirinya... `
+`...dan menyelesaikan perjalanan itu lebih cepat dari orang biasanya. `
+`".........Mungkin itu yang membuat Maria onee-chan...sangat luar biasa. `
+`Ketika dia berada di umur yang sudah belum masuk SD kelas 1, dia sudah mencapai pemahaman itu." `
+`Bagi kita, yang melihat hidupnya dari luar, dia bukanlah orang yang hidupnya enak. `
+`Meskipun hari-hari itu tertulis di bukunya, `
+`...dia selalu menyelesaikannya dengan mengatakan itu adalah hari yang bahagia. `
+`Walaupun sisi ibunya yang tidak menyukai putrinya kadang datang dan pergi begitu saja, `
+`dia tetap percaya kalau ibunya mencintainya. `
+`Kasih sayang ibu yang sebenarnya tidak ada itu, dia ciptakan sendiri, mengisi dunianya dengan cinta. `
+`Orang lain mungkin mengatakan kalau hidupnya tidak memuaskan, gadis yang menyedihkan, `
+`...tapi dirinya sendiri mengakui kalau dia puas. `
+`Dengan begitu, dia bahagia. `
+`Sangat gampang untuk mengatakan itu sebagai sesuatu yang menyedihkan. `
+`Tapi baginya, itu hanyalah tanggapan orang luar, jadi itu tidak penting. `
+`"Apakah dia bahagia atau tidak"...hanya itu yang terpenting. `
+`Seperti, orang yang hidup di kota membandingkan gaya hidupnya dengan orang desa, `
+`lalu mengeluhkan dan bersimpati atas keterbatasan hidup mereka, bukanlah hal yang penting. `
+`Jika mereka yang hidup di sana puas dengan keadaannya, itu lebih dari cukup. `
+`"......Aku akhirnya menyadari sesuatu. `
+`Aku baru saja menyadarinya. `
+`...Aku melakukan hal yang buruk kepada Maria onee-chan. `
+`......Pada kalian semua dan Sakutarou juga, di hari itu." `
 `"............" `
-`"Whether magic exists...or not. `
-`...That's not up to other people to decide. `
-`It's up to you yourself. `
-`Whether magic exists to Maria onee-chan is a problem for Maria onee-chan to decide, not me." `
-`"...And yet, when I was young, on that day, I said it. `
-`By saying there was no way magic exists, ...I hurt her." `
-`The fact that magic doesn't exist in my eyes...matters in my world. `
-`But denying it even in Onee-chan's world for that reason was totally misguided. `
-`"Mariage Sorcière is the Witches' Alliance Maria onee-chan created. `
-`I was invited into it...and told to become a witch with them." `
-`"Thinking it a new, interesting game, I went along with that for a while. `
-`...But, because of the cruelty of youth, `
-`I got tired of it half-way through. `
-`And, ...I tore her pure heart apart with sharp words." `
-`"...At that time, we must've gotten into a huge fight. `
-`I forgot about it right away, but she couldn't forget about it. `
-`...After all, to her, magic was a natural power that really existed, `
-`and she believed that she'd be able to share it with me." `
-`"...To Maria onee-chan, `
-`magic is a power that can interpret the world as blessed...no, which can truly make everything blessed. `
-`She just wanted to share that with me too. `
-`The young me tore that feeling apart. `
-`...So, she closed herself up in a shell, assuming that she wouldn't be able to share her magic with anyone." `
-`"......If that's true, then Lady {f:5:Maria}'s journey through life wasn't over after all. `
-`If she'd been able to accept herself, then there'd be no need to collapse just because you denied her, Ange-sama." `
-`"Onee-chan was young. `
-`She still hadn't reached a philosophical viewpoint like Amakusa. `
-`...Yeah, now I understand... `
-`That's why the witches' alliance called Mariage Sorcière was necessary." `
-`——An alliance where each acknowledges that the other is a witch. `
-`"...That's right, I'm pretty sure that was the first article in the agreement of Mariage Sorcière. `
-`...Witches of the alliance would acknowledge each other and respect each other. `
-`That's the deepest and only meaning of the witches' alliance..." `
-`Maria onee-chan wanted to share with me the secret laws to make the world happy, called magic. `
-`But I was young. `
-`And she was too. `
-`...I hurt her with innocent cruelty. `
-`"......On that day, I said...cruel things. `
-`To you all and Sakutarou. `
-`I said there was no way you exist." `
-`"How rude. `
-`We acknowledge that we exist ourselves. `
-`We're not like Humans, with their souls half-asleep. `
-`..."I think, therefore I am". `
-`Whether you acknowledge or deny magic, the existence of the magic called the Seven Stakes of Purgatory...is a fact. `
-`...As long as we acknowledge it ourselves, to borrow your words." `
-`"It truly would be violence for another person like me to deny it. `
-`......I'm sure that'd be like having your true mother yell "I wish you had never been born"... `
-`no, "Disappear"." `
-`...Even after being slammed by all those words, `
-`...Maria onee-chan's magic... `
-`...made her believe in her mother's love. `
-`Sakutarou, her magic friend, always encouraged her. `
-`...He kept saying that her mother loved her, that she was coming home late because of her work, `
-`and that she would definitely bring back a present... `
-`Even after Maria learned that her mother's work wasn't really the cause, magic allowed her to continue believing. `
-`And by believing that her mother loved her, by acknowledging herself, `
-`she filled her world with love and peace and serenity, ...establishing it completely. `
-`"What happened 12 years ago, ...what happened to my family... `
-`...This was never...a journey to search for that." `
-`"......Then what kind of journey is this?" `
-`"It was a journey...to apologize to Maria onee-chan for what happened that day." `
+`"Apakah sihir itu ada...atau tidak. `
+`...Bukan orang lain yang menentukannya. `
+`Tetapi kamu sendiri yang menentukannya. `
+`Apakah sihir itu ada bagi Maria onee-chan hanya Maria onee-chan yang menentukannya, bukan aku." `
+`"...Tetapi, ketika aku masih kecil, di hari itu, aku mengatakannya. `
+`Dengan mengatakan tidak mungkin sihir itu ada, ...aku menyakitinya." `
+`Fakta bahwa sihir tidak hadir bagiku...hanya penting bagi duniaku. `
+`Tapi menolaknya di dunia Onee-chan merupakan kesalahan. `
+`"Mariage Sorcière adalah Aliansi Penyihir yang diciptakan oleh Maria onee-chan. `
+`Aku diundang ke aliansinya...dan diminta untuk menjadi penyihir seperti mereka." `
+`"Karena itu hal yang baru, menarik, aku ikut saja untuk sementara. `
+`...Tapi, karena kekejaman diriku dulu, `
+`Aku menyerah di pertengahan jalan. `
+`Dan, ...Menghancurkan perasaannya dengan ucapanku." `
+`"...Saat itu, kami terlibat dalam pertengkaran. `
+`Setelah itu aku langsung melupakannya, tapi dia tidak bisa melupakannya. `
+`...Lagi pula, baginya, sihir merupakan kekuatan yang benar-benar ada, `
+`dan dia percaya dapat membagikan sihir itu denganku." `
+`"...Bagi Maria onee-chan, `
+`sihir adalah kekuatan yang bisa membuat dunia menjadi tempat yang lebih baik...tidak, sihir bisa membuat segalanya menjadi baik. `
+`Dia hanya ingin membagikan Kebahagiaan itu denganku. `
+`Diriku saat itu menghancurkan perasaannya. `
+`...Jadi, dia mengurung dirinya di dalam sebuah cangkang, berpikir kalau sihir itu tidak akan bisa dibagikan kepada siapa pun." `
+`"......Jika itu benar, maka perjalanan hidup nona {f:5:Maria} masih belum berakhir. `
+`Jika dia dapat menerima dirinya, seharusnya tidak perlu tersakiti hanya karena kamu menolaknya, Ange-sama." `
+`"Onee-chan masih kecil. `
+`Dia belum mencapai pemahaman tentang filosofi Amakusa. `
+`...Ya, sekarang aku mengerti... `
+`Itulah mengapa Aliansi Penyihir yang disebut Mariage Sorcière penting." `
+`——Sebuah Aliansi di mana mereka saling mengakui bahwa dirinya adalah penyihir. `
+`"...Benar, aku yakin itu adalah aturan pertama dalam Mariage Sorcière. `
+`...Aliansi Penyihir akan mengakui satu sama lain dan menghormati satu sama lain. `
+`Itu adalah makna satu-satunya dan yang paling penting..." `
+`Maria onee-chan ingin membagikan suatu rahasia agar membuat dunia ini bahagia, yang disebut sihir. `
+`Tapi aku masih terlalu polos. `
+`Dan begitu juga dengannya. `
+`...Aku melukainya. `
+`"......Di hari itu, Aku mengatakan...hal yang kejam. `
+`Kepada kalian semua dan Sakutarou. `
+`Aku mengatakan kalau kalian tidak mungkin ada." `
+`"Sangat kasar. `
+`Kami sendiri mengakui kalau kami ada. `
+`Kami tidak seperti Manusia, mereka memiliki jiwa mereka yang setengah tertidur. `
+`..."Aku berpikir, maka aku ada". `
+`Entah kamu menerima atau menolak sihir, kehadiran sihir yang disebut Tujuh Pasak Api Penyucian...benar adanya. `
+`...Selama kami mengakui diri kami sendiri, seperti yang kamu katakan." `
+`"Sangat kasar jika orang lain sepertiku menolak itu. `
+`......Sama seperti ibu kandungmu yang mengatakan "Aku harap aku tidak pernah melahirkanmu "... `
+`tidak, "Menghilang"." `
+`...Bahkan setelah dihantam dengan perkataan itu, `
+`...Sihir Maria onee-chan... `
+`...membuatnya percaya pada kasih ibunya. `
+`Sakutarou, teman sihirnya, selalu menyemangatinya. `
+`...Dia terus mengatakan kalau ibunya mencintainya, ibunya pulang terlambat karena bekerja, `
+`dan dia akan kembali dengan hadiah... `
+`Bahkan setelah Maria mengetahui kalau bekerja bukanlah alasannya pulang terlambat, sihir mengizinkannya untuk terus memercayainya. `
+`Dan dengan percaya bahwa ibunya mencintainya, dengan mengakuinya sendiri, `
+`dia mengisi dunianya dengan cinta dan kedamaian dan ketenangan, ...menjadikan dunianya seperti itu. `
+`"Apa yang terjadi 12 tahun yang lalu, ...apa yang terjadi kepada keluargaku... `
+`...Perjalanan ini...bukan untuk mencari tahu itu." `
+`"......Terus perjalanan ini untuk apa?" `
+`"Perjalanan ini...untuk meminta maaf kepada Maria onee-chan." `
 `"............" `
-`"I don't know why, but that's what I think. `
-`...If I hadn't hurt her, `
-`......the incident 12 years ago might not have occurred. `
-`...That's what I think." `
-`I have no basis for it. `
-`I don't have a clue how hurting Onee-chan could be connected with that mysterious incident several years later. `
-`But, for some reason, I can't imagine that there's no connection. `
-`A witch caused that incident. `
-`And the culprit is the Golden Witch, {f:5:Beatrice}. `
-`And {f:5:Beatrice} was part of the Mariage Sorcière Alliance of Witches. `
-`I horribly hurt the other witch of that alliance. `
-`I hurt her with the thought that magic doesn't exist. `
-`......So, several years later, a crime caused by a witch occurred, `
-`and a two-day period that couldn't be explained with anything but magic was thrust in my face, thanks to the message bottle. `
-`"...There's no way I wasn't involved somehow. `
-`......I don't get it. `
-`It could be coincidence, or it could be fate. `
-`......For some reason, I've starting thinking like that on this journey." `
-`"And what's your basis for it?" `
-`"I have none. `
-`I just think it's true." `
+`"Aku tidak tahu kenapa, tapi itu yang kupikirkan. `
+`...Jika aku tidak melukainya, `
+`......insiden 12 tahun yang lalu mungkin tidak akan pernah terjadi. `
+`...Begitulah pemikiranku." `
+`Atas dasar apa pemikiran itu aku tidak tahu. `
+`Aku tidak tahu mengapa melukai Onee-chan ada hubungannya dengan insiden itu. `
+`Tapi, karena beberapa alasan, aku tidak bisa berpikir kalau itu tidak ada hubungannya. `
+`Penyihir menyebabkan insiden tersebut. `
+`Dan pelakunya adalah Penyihir Emas, {f:5:Beatrice}. `
+`Dan {f:5:Beatrice} adalah bagian dari Mariage Sorcière Aliansi Penyihir. `
+`Aku melukai penyihir lain yang ada di aliansi itu. `
+`Aku melukainya dengan berpikir sihir tidak ada. `
+`......Jadi, beberapa tahun kemudian, terjadi kejahatan yang dilakukan oleh penyihir, `
+`dan dua hari itu tidak bisa dijelaskan kecuali dengan sihir, berkat surat di botol. `
+`"...Tidak mungkin aku tidak ikut terlibat. `
+`......Aku tidak paham. `
+`Bisa aja kebetulan, ada mungkin takdir. `
+`......Entah mengapa, aku berpikir seperti itu." `
+`"Atas dasar apa?" `
+`"Tidak ada. `
+`Menurutku itu benar." `
 `"Hmmmm... `
-`The Japanese sure are interesting. `
-`Even when they're the victim, they feel as though they did something wrong and apologize for no reason. `
-`...I could understand if you said "I hate {f:5:Beatrice} for stealing my family!" or something, `
-`but you really are weird, feeling guilty for no reason and apologizing." `
-`"Of course I hate {f:5:Beatrice}. `
-`I couldn't continue this journey without that feeling. `
-`But it's okay to choose yet another purpose for this journey. `
-`There's nothing wrong with adding on a goal of apologizing for past sins, in addition to getting revenge on a witch for what happened 12 years ago. `
-`I can at least go to Rokkenjima, apologize for my reckless remarks, and offer flowers." `
-`"...No, ......there's something better than flowers. `
-`And I think that would be more fitting for Onee-chan." `
-`I stood up, not minding that the sea breeze scattered my hair, and concentrated my mind... `
-`I lifted my palm up to the height of my head...and imagined a vast space... `
+`Orang Jepang sangat menarik. `
+`Bahkan saat mereka menjadi korban, mereka merasa bersalah dan meminta maaf tanpa alasan yang jelas. `
+`...Aku mengerti jika kamu mengatakan "Aku benci {f:5:Beatrice} karena merenggut keluargaku!" atau apalah, `
+`tapi kamu sangat aneh, entah mengapa merasa bersalah dan meminta maaf." `
+`"Tentu aku membenci {f:5:Beatrice}. `
+`Aku tidak bisa melanjutkan perjalanan ini tanpa perasaan itu. `
+`Tapi tidak apa-apa jika aku memilih menambahkan tujuan lagi untuk perjalanan ini. `
+`Tidak ada salahnya menambahkan permintaan maaf untuk dosa di masa lalu, sebagai tambahan untuk membalas dendam kepada penyihir tentang apa yang terjadi 12 tahun yang lalu. `
+`Setidaknya aku bisa pergi ke Rokkenjima, meminta maaf karena ucapanku, dan memberi bunga." `
+`"...Tidak, ......ada yang lebih baik dibandingkan bunga. `
+`Dan itu lebih cocok untuk Onee-chan." `
+`Aku berdiri, tidak memedulikan angin laut yang mengenai rambutku, dan berkonsentrasi... `
+`Aku mengangkat telapak tanganku ke atas kepalaku...dan membayangkan ruang yang luas... `
 `"......Ange-sama, ........." `
-`"...Be quiet. `
+`"...Diam. `
 `......... `
-`...Come, arise. `
-`...I am the witch apprentice, {f:5:Ange Beatrice}. `
-`...I was excommunicated, but I was once a member of the same alliance, and you are the dearly-missed furniture who played with me. `
-`Answer to my call......" `
-`It was hard to tell in the middle of the day, but a faint blue light gathered around the palm of my hand. `
-`......Then, `
-`......Sakutarou's form was revived. `
-`It truly did bring back memories, that figure. `
-`His cute ears, his bright-red muffler. `
-`...It came off easily, so Onee-chan faithfully re-wrapped it all the time, didn't she...? `
+`...Ayo, bangkit. `
+`...Aku adalah murid penyihir, {f:5:Ange Beatrice}. `
+`...Aku diasingkan, tapi aku pernah menjadi anggota dari aliansi, dan kamu furnitur yang sangat kurindukan. `
+`Jawablah panggilanku......" `
+`Sulit untuk dilihat di siang hari, tapi cahaya biru berkumpul di telapak tanganku. `
+`......Lalu, `
+`......Wujud Sakutarou muncul kembali. `
+`Wujud itu, membuatku rindu. `
+`Telinganya yang lucu, syalnya berwarna merah. `
+`...Sangat gampang terlepas, jadi Onee-chan selalu memakaikannya lagi, kan...? `
 `"...Sakutaro, `
-`...do you recognize us? `
-`Do you know who we are...?" `
+`...apakah kamu mengenal kami? `
+`Apakah kamu tahu siapa kami...?" `
 `‘...Uryu...? `
 `Uryu...? `
 `Mammon...? `
 `Ange......?’ `
-`With a sleepy face, as though waking up from a long slumber, Sakutarou looked all around him as he spoke. `
-`"It's been a long time, ...Sakutarou. `
-`I'm pretty sure this is the first time I've summoned you with my own power. `
-`...And now, I'm the only one who can summon you." `
+`Dengan wajah yang mengantuk, seolah bangun dari tidur yang panjang, Sakutarou melihat ke sekelilingnya. `
+`"Sudah lama sekali, ...Sakutarou. `
+`Aku yakin ini pertama kalinya aku memanggilmu dengan kekuatanku sendiri. `
+`...Dan sekarang, hanya aku yang bisa memanggilmu." `
 `‘.........Uryu...’ `
-`Those words might have been a bit cruel. `
-`Sakutarou's face clouded over... `
-`"In the past, I denied you. `
-`......Now that I've summoned you, `
-`...it means I've accepted your existence." `
-`‘......Are you sure...? `
-`Is it really all right...for me to be summoned into Ange's world...?’ `
-`His eyes were a bit frightened. `
-`...It was only natural. `
-`I, who had played with him like a friend before, `
-`had suddenly denied him and tried to burn him with the magic-resisting toxin. `
-`It was only natural that he was scared... `
-`"I apologize... `
-`for that day. `
-`......To you too, Mammon. `
-`And to the rest of you." `
-`At some point, ...the rest of the Seven Sisters had gathered on the deck. `
-`No, they're always there. `
-`Always by my side. `
-`As long as I acknowledge that it's okay for them to be there, they'll always appear. `
-`"You certainly do exist. `
+`Perkataan itu mungkin sedikit kejam. `
+`Wajah Sakutarou kebingungan... `
+`"Dulu, aku menolakmu. `
+`......Sekarang aku telah memanggilmu, `
+`...artinya aku menerima kehadiranmu." `
+`‘......Apa kamu yakin...? `
+`Tidak apa-apa...jika aku dipanggil ke dunia Ange...?’ `
+`Matanya sedikit takut. `
+`...Wajar saja. `
+`Aku, yang bermain seperti teman baginya, `
+`telah menolak dan mencoba membakarnya dengan anti sihir. `
+`Wajar saja dia takut... `
+`"Aku minta maaf... `
+`di hari itu. `
+`......Padamu juga, Mammon. `
+`Dan kalian semua." `
+`Tiba-tiba, ...Tujuh Saudari lainnya berkumpul di deck. `
+`Tidak, mereka selalu di sana. `
+`Selalu di sisiku. `
+`Selama aku tidak apa-apa mereka di sana, maka mereka akan selalu ada. `
+`"Kamu benar-benar ada. `
 `Lucifer. `
-`And Leviathan. `
-`And Satan. `
-`And Belphegor. `
-`And Mammon. `
-`And Beelzebub. `
-`And Asmodeus. `
-`...And Sakutarou too." `
-`"...Are you sure? `
-`You're one challenging {f:5:Beatrice}-sama, Ange-sama. `
-`...Is it okay for one in a position of denying witches to acknowledge us?" `
-`"As to whether magic exists or not in my world, sorry, but let me put that on hold. `
-`It's not like I myself acknowledged the existence of magic." `
-`"...But then, doesn't that contradict the fact...that you're acknowledging us?" `
-`"It's because magic exists for people who believe. `
-`Even if I don't. `
-`If someone believes, then magic will exist in the human world." `
-`"That fact won't change in the slightest whether I believe in magic or not. `
-`No, it mustn't change. `
-`That person just had to hold their head up high and believe in their own magic. `
-`I acknowledge that. `
-`So, it wouldn't be strange at all for all of you to exist." `
-`"......Quite a play on words, ...but it's an interesting interpretation." `
-`"What you're saying, Ange-sama, is probably a Devil's Proof." `
-`"A Devil's Proof...?" `
-`"Right?! `
-`To prove the existence of demons, you just need to find one." `
-`"But it's impossible to deny the existence of demons." `
+`Dan Leviathan. `
+`Dan Satan. `
+`Dan Belphegor. `
+`Dan Mammon. `
+`Dan Beelzebub. `
+`Dan Asmodeus. `
+`...Dan Sakutarou juga." `
+`"...Apa kamu yakin? `
+`Kamu menentang {f:5:Beatrice}-sama, Ange-sama. `
+`...Apakah tidak apa-apa bagi mereka yang menolak penyihir mengakui kita" `
+`"Tentang apakah sihir ada atau tidak di duniaku, maaf, tapi aku akan menundanya. `
+`Ini tidak seperti aku mengakui kehadiran sihir." `
+`"...Lalu, bukankah itu mengontradiksi...kalau kamu mengakui kami?" `
+`"Itu karena sihir ada bagi mereka yang percaya. `
+`Bahkan kalau aku tidak percaya. `
+`Dan orang lain percaya, maka sihir akan tetap ada di dunia manusia." `
+`"Fakta itu tidak akan berubah jika aku memercayai sihir atau pun tidak. `
+`Tidak, itu tidak boleh berubah. `
+`Orang itu hanya perlu menegakkan kepalanya dan percaya dengan sihirnya sendiri. `
+`Aku mengakui itu. `
+`Jadi, tidak akan aneh jika kalian semua ada." `
+`"......Permainan kata yang bagus, ...tapi itu intrepretasi yang bagus." `
+`"Apa yang kamu katakan, Ange-sama, mungkin Devil's Proof." `
+`"Devil's Proof...?" `
+`"Benar?! `
+`Untuk membuktikan kehadiran iblis, kamu hanya perlu menemukan satu iblis." `
+`"Tapi mustahil untuk menolak kehadiran iblis." `
 `"Kyahha! `
-`And we're here. `
-`That means that whether Ange-sama believes in magic or not, our existence is unshakable." `
+`Dan kita di sini. `
+`Artinya entah Ange-sama percaya dengan sihir atau tidak, kehadiran kita tidak tergoyahkan." `
 `‘...Uryu? `
-`The magic-resisting toxin... `
-`...is disappearing... `
-`...from Ange...’ `
-`"Y-You're right... `
-`...Even though you're in a position of denying magic, ...why...?" `
-`"That's probably... `
-`...because I learned what it means to respect and acknowledge. `
-`Right now, ...I might be able... `
-`to understand the depths of Maria onee-chan's...and {f:5:Beatrice}'s magic." `
-`In the past, I didn't believe in things like magic. `
-`Thinking something like that couldn't exist, I acted like I was closing my eyes tightly and couldn't see anything. `
-`But now, I'm different. `
-`I get the feeling I can look right at the thing called magic...and close in on its true nature... `
-`"...How frustrating. `
-`It's truly rare to find a Human so free of the magic-resisting toxin in this day and age. `
-`And she has such an uncommon genius for being a witch..." `
-`"That's right. `
-`...If Ange-sama tried to become a witch right now, `
-`...she could grow to be a Great Witch, maybe even at {f:5:Beatrice}-sama's level." `
-`"Even so, she has acknowledged our existence and is our master. `
-`...Most likely, Ange-sama will be our final master. `
-`Let us think of this as our final service, and apply ourselves to the fullest." `
+`Anti sihir... `
+`...menghilang... `
+`...dari Ange...’ `
+`"K-kamu benar... `
+`...Walaupun posisimu sekarang menolak sihir, ...mengapa...?" `
+`"Mungkin... `
+`...aku belajar arti dari menghormati dan mengakui. `
+`Sekarang, ...Aku mungkin bisa... `
+`untuk mengerti kedalaman sihir Maria onee-chan's...dan {f:5:Beatrice}." `
+`Dulu, aku tidak percaya dengan sihir. `
+`Berpikir kalau sesuatu seperti itu tidak ada, aku menutup mataku erat-erat dan tidak bisa melihat apa pun. `
+`Sekarang, aku berbeda. `
+`Aku merasa aku bisa melihat sihir dengan benar...dan mendekati makna sebenarnya... `
+`"...Menyebalkan. `
+`Sangat langkah untuk menemukan Manusia yang terbebas dari anti sihir di hari dan zaman ini. `
+`Dan dia memiliki bakat menjadi penyihir..." `
+`"Benar. `
+`...Jika Ange-sama sekarang menjadi penyihir, `
+`...dia bisa berkembang menjadi Penyihir yang Hebat, mungkin setingkat dengan {f:5:Beatrice}-sama." `
+`"Meski begitu, dia telah mengakui kehadiran dan merupakan pemimpin kita. `
+`...Tampaknya, Ange-sama akan menjadi tuan terakhir kita. `
+`Anggap ini sebagai tugas terakhir kami, dan memberikan semua tenaga kita." `
 `"...Ble-ah. `
-`But I just can't staaand that Ange-sama still doesn't believe in magic herself." `
-`"...Ange-sama, please believe in magic toooo. `
-`It feels like a waste to finally have a master and have it not be a wiiitch." `
-`"Even though you have outstanding talent that could make you one of the greatest of witches, your goal is to attack witches. `
-`It's so frustrating. `
-`...Well, even so, that's your life, the way you live, `
-`and in the world where you've decided that, there's nothing we can do to complain." `
-`"Thanks for understanding me. `
-`Yeah, whether magic exists {i:to me} or not, `
-`that's up to me to decide. `
-`Regardless of whether magic actually does exist somewhere in the world or not." `
-`When I think about it, this world is so vast...and yet so small. `
-`Billions of people live on the earth. `
-`But I probably won't meet even 1% of those people. `
-`Even so, I will speak of a world. `
-`"My world", which doesn't know even 1% of the world. `
-`"I'm not qualified to deny the laws of a world I don't know. `
-`...So just because magic doesn't exist in my world, I can't deny that magic exists in a world I don't know. `
-`That makes it a true Devil's Proof. `
-`No, maybe it's more like "When in Rome, do as the Romans do"." `
-`I can be confident in the world I know. `
-`So even if that's denied by a complete stranger who doesn't know a thing about my world, that's nothing to worry about. `
-`And in the same way, I've got no right to deny a world I don't know... `
-`just because I don't know about it. `
-`"Therefore, `
-`regardless of whether there's magic in my world or not, `
-`...I can't deny the magic Maria onee-chan taught me." `
+`Tapi aku tidak bisaaaaa kalau Ange-sama masih tidak memercayai sihir." `
+`"...Ange-sama, kumohon percaya sihir jugaaa. `
+`Sayang sekali rasanya memiliki tuan dan bukan seorang penyiiihir." `
+`"Walau pun kamu memiliki bakat yang hebat untuk menjadi salah satu penyihir terhebat, tujuanmu adalah menyerang penyihir. `
+`Sangat menyebalkan. `
+`...Yah, walau begitu, itu hidupmu, caramu menjalani hidup, `
+`dan dia dunia di mana kamu memilih caramu untuk menjalani hidup, kami tidak bisa protes." `
+`"Terima kasih karena telah mengerti. `
+`Ya, entah sihir itu ada {i:bagiku} atau tidak, `
+`aku yang menentukannya. `
+`Terlepas apakah sihir benar-benar ada di dunia ini atau tidak." `
+`Ketika aku memikirkannya, dunia ini terlalu luas...dan terlalu kecil. `
+`Ada miliaran orang hidup di bumi. `
+`Mungkin aku belum bertemu 1% dari miliaran itu. `
+`Walau begitu, aku akan menggunakan kata dunia. `
+`"Duniaku", yang tidak mengetahui 1% pun dunia ini. `
+`"Aku tidak layak menolak hukum dunia yang tidak kuketahui. `
+`...Hanya karena sihir tidak ada di duniaku, aku tidak bisa menolak kehadiran sihir di dunia lain. `
+`Itu menjadi Devil's Proof sepenuhnya. `
+`Tidak, mungkin lebih seperti "Saat di Roma, lakukan seperti orang Roma"." `
+`Aku bisa yakin di dunia yang aku tahu. `
+`Sehingga  jika itu ditolak oleh seseorang yang tidak mengetahui dunia ku sama sekali, tidak ada yang perlu dikhawatirkan. `
+`Dan hal yang sama, aku tidak berhak menolak dunia yang tidak kuketahui... `
+`hanya karena aku tidak tahu. `
+`"Karena itu, `
+`terlepas apakah sihir itu ada di dunia ku atau tidak, `
+`...Aku tidak bisa menolak sihir yang diajarkan Maria onee-chan." `
 `‘Uryu! `
-`After all, even if you've never seen it, `
-`...magic exists!’ `
-`"Yes. `
-`That's why, as I've already said, `
-`...you friends of the witches' alliance, Mariage Sorcière, `
-`can't be denied by me or anyone else." `
-`I proclaimed that most important part again. `
-`......Even though the sea breeze and the crashing of the waves were noisy, it was a time of silence. `
-`Both Sakutarou and the Seven Sisters of Purgatory...reflected upon my words. `
-`And, probably, I did too. `
-`Does magic exist? `
-`Do witches exist? `
-`While ignoring what the answer would be for my own world, ...I acknowledged their existence. That contradiction was what I'd proclaimed so boldly. `
-`‘Thank you, ...Ange.’ `
-`"If you'll acknowledge that much, can't you acknowledge witches too...? `
-`...No, that was a foolish question. `
-`You already have a clear answer to it." `
-`"Sorry. `
-`Though, I do acknowledge that witches might exist somewhere in this world. `
-`But that doesn't shake my world." `
-`"...You won't acknowledge witches or magic. `
-`You'll definitely expose the truth of Rokkenjima. `
-`...Right?" `
-`"Yes. `
-`That's my world. `
-`Even if a real witch exists, I won't acknowledge it in my world. `
-`No matter how much that witch tries to convince me." `
-`"Your position is to attack witches, Ange-sama. `
-`...And I understand well that you haven't the slightest wavering in that feeling. `
-`We are your furniture, the Seven Sisters of Purgatory...! `
-`We will always be by your side. `
-`We'll always be waiting for the day that we can be useful...!" `
-`"Although, since you don't believe in magic, we can never be anything more than people to talk to." `
-`"That's enough for now. `
-`We've been left room to exist. `
-`For that alone, we should thank and acknowledge Ange-sama." `
-`"In short! `
-`All of us!" `
-`‘Are all together again... `
+`Lagi pula, bahkan jika kamu tidak pernah melihatnya, `
+`...sihir itu ada!’ `
+`"Ya. `
+`Itulah mengapa, seperti yang kukatakan, `
+`...Penyihir aliansi, Mariage Sorcière, `
+`tidak bisa ditolak oleh aku atau siapa pun." `
+`Aku menyatakan itulah hal yang paling penting. `
+`......Meskipun angin laut dan gemuruh ombak terdengar riuh, saat itu terasa sunyi. `
+`Sakutarou dan Ketujuh Saudari Api Penyucian...memikirkan perkataanku. `
+`Dan, mungkin, aku juga. `
+`Apakah sihir ada? `
+`Apakah penyihir ada? `
+`Dengan mengabaikan jawaban dari duniaku, ...aku mengakui kehadiran mereka. Kontradiksi itu yang aku katakan dengan tegas. `
+`Terima kasih, ...Ange.’ `
+`"Kalau kamu mengakui sihir, mengapa tidak mengakui penyihir juga...? `
+`...Tidak, itu pertanyaan bodoh. `
+`Kamu sudah tahu jawabannya." `
+`"Maaf. `
+`Meski begitu, aku mengakui penyihir mungkin ada di suatu tempat. `
+`Tapi itu tidak menggoyahkan duniaku." `
+`"...Kamu tidak akan mengakui sihir atau penyihir. `
+`Kamu pasti bisa mengungkap kebenaran di Rokkenjima. `
+`...Benar?" `
+`"Ya. `
+`Itulah duniaku. `
+`Bahkan jika penyihir sungguhan ada, aku tidak akan mengakuinya di duniaku. `
+`Tidak peduli sesusah apa mereka mencoba." `
+`"posisimu adalah melawan penyihir, Ange-sama. `
+`...Dan aku paham kalau kamu sama sekali tidak memiliki rasa ragu. `
+`Kami adalah furniturmu, Tujuh Saudari Api Penyucian...! `
+`Kami akan selalu ada di sisimu. `
+`Kami akan selalu menunggu hari di mana kami akan berguna...!" `
+`"Meski begitu, karena kamu tidak percaya pada sihir, kita tidak akan bisa menjadi lebih dari teman bicara saja." `
+`"Itu cukup untuk sekarang. `
+`Kami masih diberikan ruang untuk tetap ada. `
+`Karena itu, kami harus berterima kasih dan menghargai Ange-sama." `
+`"Singkatnya! `
+`Kita semua!" `
+`Bersama kembali... `
 `Uryu-!!’ `
 `"Kya-h!! `
 `Sakutaro-! `
-`Let me squeeze youuuuuuuuu-!!" `
-`When Sakutarou was overcome with emotion and tears came to his eyes, the Seven Sisters closed in and mobbed him. `
-`...They were also celebrating a long-missed reunion. `
-`If their existence is permitted, they're definitely capable of existing here. `
-`No, even if I don't permit it, they can exist. `
-`Because I acknowledged them, they {i:showed their reuinon's joy} to me as well. `
-`As I watched over that scene, ......I reflected over what this journey of mine meant. `
-`"......I wonder if everyone will forgive me this way." `
-`"You've done enough. `
-`We are furniture. `
-`Just being summoned, `
-`just being allowed to be by your side makes us happy." `
+`Biarkan aku memelukmuuuuuuuuu-!!" `
+`Ketika Sakutarou terharu dan air mata menetes, Tujuh Saudari itu mendekat dan mengerumuninya. `
+`...Mereka juga merayakan pertemuan kembalinya. `
+`Jika kehadiran mereka diizinkan, mereka bisa ada di sini. `
+`Tidak, bahkan jika aku tidak mengizinkan, mereka masih bisa ada. `
+`Karena aku mengakui mereka, mereka {i:menunjukkan kebahagiaan atas reuni mereka} padaku juga. `
+`Saat aku melihat itu, ......aku merenungkan arti dari perjalananku ini. `
+`"......Aku tidak tahu apakah semuanya bakal memaafkanku." `
+`"Sudah cukup. `
+`Kami adalah furnitur. `
+`Dipanggil, `
+`Diizinkan berada di sisimu saja sudah cukup untuk membuat kami bahagia.." `
 `‘Uryu...! `
-`Ange, thank you very much...!’ `
-`"...Come to think of it, why was I able to summon Sakutarou? `
-`...No, it's the other way around. `
-`Why wasn't Onee-chan able to summon Sakutarou?" `
-`Maria onee-chan had despaired, thinking that Sakutarou had died. `
-`Which meant she hadn't been able to summon him like this anymore. `
-`In the past, Onee-chan said it was more advantageous in a summoning to have a vessel. `
-`However, a vessel is like training wheels, and it shouldn't be absolutely necessary. `
-`...In other words, even if the stuffed animal lion that was Sakutarou's vessel didn't exist, it should've be possible to summon him. `
-`...No, when you put it like that, `
-`it's even a little doubtful whether summoned things can be limited by life and death. `
-`Moreover, Sakutarou should have been an especially important friend to Maria onee-chan. `
-`She should've been able to strive hard to summon him one more time. `
-`It certainly was sad that the original stuffed animal vessel had been torn apart, `
-`but why did he "die" and become impossible to summon again...? `
-`‘...That's because... `
-`...at that time, Maria saw my stuffed animal torn... `
-`and {i:decided} `
-`that I'd died.’ `
-`"It's the same as the existence of magic. `
-`...If Sakutarou has died in Lady {f:5:Maria}'s world, `
-`then he can't exist in her world." `
+`Ange, terima kasih banyak...!’ `
+`"...Pikirkanlah, mengapa aku bisa memanggil Sakutarou? `
+`...Tidak, justru sebaliknya. `
+`Mengapa Onee-chan tidak dapat memanggil Sakutarou?" `
+`Maria onee-chan putus asa, mengira Sakutarou telah mati. `
+`Artinya dia tidak bisa memanggilnya lagi. `
+`Dulu, Onee-chan mengatakan dalam memanggil lebih menguntungkan jika mereka memiliki wadah. `
+`Namun, wadah itu seperti alat bantu, dan tidak sepenuhnya diperlukan. `
+`...Dengan kata lain, bahkan jika boneka singa yang menjadi wadah Sakutarou tidak ada, seharusnya masih mungkin untuk memanggilnya. `
+`...Tidak, kalau dibilang begitu, `
+`justru lebih meragukan apakah pemanggilan dibatasi oleh kehidupan dan kematian. `
+`Selain itu, Sakutarou seharusnya teman yang penting bagi Maria onee-chan. `
+`Dia seharusnya bisa berusaha untuk memanggilnya. `
+`Memang menyedihkan boneka singa yang menjadi wadahnya telah hancur, `
+`tapi mengapa dia "mati" dan mustahil untuk dipanggil lagi...? `
+`‘...Karena... `
+`...saat itu, Maria melihat bonekaku hancur... `
+`dan {i:memutuskan} `
+`kalau aku telah mati.’ `
+`"Sama seperti kehadiran sihir. `
+`...Jika Sakutarou telah mati di dunia Nona {f:5:Maria}, `
+`maka dia tidak bisa ada di dunianya." `
 `‘......Uryu...’ `
-`The shock of having her beloved stuffed animal torn apart... `
-`had left a wound in her heart serious enough to prevent her from summoning her irreplaceable close friend. `
-`{i:In Maria onee‐chan's eyes}, Sakutarou had died. `
-`So even if Sakutarou can exist like this to me, he cannot exist before her. `
-`‘I...was always with Maria... `
-`...When Maria cried, I was always right beside her, telling her not to cry... `
-`...But my form, my voice, ...nothing of me will reach Maria now...’ `
-`Sakutarou hung his head, looking sad. `
-`"...After that incident, the nature of Mariage Sorcière rapidly began to change. `
-`Before then, the alliance was a peaceful thing. `
-`But after that incident, it grew full of shadier things, focusing on how to curse people you hate. `
-`...Onee-chan's diary began to show a clear change." `
-`A diary is a mirror that reflects one's heart as it is. `
-`It probably showed the personality called Maria die...... `
-`and be reborn as the evil witch personality, {f:5:Maria}. `
-`When she buried that diary in hatred and sadness, ...her heart surely wasn't satisfied. `
-`Because it wasn't satisfied, she had to bury it with hatred and sadness. `
-`And while still unsatisfied, she met with death. `
-`...I wonder if her unsatisfied soul has a hole opened in its chest from sadness even now... `
-`and continually wanders, dripping tears down and calling Sakutarou's name... `
+`Perasaan terkejut saat mengetahui boneka singanya hancur... `
+`meninggalkan luka mendalam di hatinya yang mencegahnya memanggil temannya yang tak tergantikan. `
+`{i:Di mata Maria onee‐chan}, Sakutarou telah mati. `
+`Bahkan jika Sakutarou bisa muncul seperti ini denganku, dia tidak bisa muncul bagi Maria. `
+`Aku...selalu bersama Maria... `
+`...Ketika Maria menangis, aku selalu ada di sisinya, menyuruhnya untuk berhenti menangis... `
+`...Tapi wujudku, suaraku, ...tidak akan meraih Maria sekarang...’ `
+`Sakutarou menundukkan kepalanya, tampak sedih. `
+`"...Setelah kejadian itu, sifat dari Mariage Sorcière berubah dengan cepat. `
+`Sebelumnya, aliansi adalah hal yang sempurna. `
+`Tapi setelah kejadian itu, dipenuhi oleh hal kelam, berfokus untuk mengutuk orang yang dibenci. `
+`...Buku harian Onee-chan mulai menunjukkan perubahan yang jelas." `
+`Buku harian adalah cermin yang merefleksikan isi hati sang penulis. `
+`Mungkin itu menunjukkan kepribadian yang bernama Maria telah meninggal...... `
+`dan terlahir kembali sebagai penyihir jahat, {f:5:Maria}. `
+`Ketika ia mengubur buku harian itu dalam kebencian dan kesedihan, ...hatinya tentu saja tak merasa puas. `
+`Karena tidak puas, dia harsu menguburnya dengan kebencian dan kesedihan. `
+`Dan saat dia masih merasa tidak puas, dia berjumpa dengan kematian. `
+`...Aku penasaran apakah jiwanya yang tidak terpuaskan memiliki lubang di dada yang berasal dari kesedihannya sampai sekarang... `
+`dan terus mencari, meneteskan air mata dan memanggil nama Sakutarou... `
 `............ `
-`"......Onee-chan...needs you." `
+`"......Onee-chan...membutuhkanmu." `
 `‘Uryu......’ `
-`"What can I do to revive you in Maria onee-chan's world? `
-`If I can learn that method, I'll be able to save Onee-chan. `
-`...That's the method of atonement I've been given. `
-`What can be done to revive Sakutarou?" `
-`‘...To Maria, my vessel had a very important meaning...’ `
-`"The vessel. `
-`...In other words, if we could revive the lion stuffed animal..." `
-`‘But... `
-`...Mama Rosa made my stuffed animal herself, so only she could make it...’ `
-`Even inside the diary, Maria onee-chan had asked this of {f:5:Beatrice}...and was refused for that reason. `
-`The magical significance of a stuffed animal being unique and handmade is very large. `
-`Then, if we could make the same thing once more... `
-`But Aunt Rosa is already gone from this world. `
-`We can't make the same thing again. `
-`"...Was there ever another identical stuffed animal made, or anything like that?" `
-`"He's a stuffed animal made to be Lady {f:5:Maria}'s birthday present...and is the only one of his kind in the world. `
-`...A handmade and unique vessel. `
-`That's why it conceals a great magical power. `
-`And, ...if lost, it cannot be obtained again. `
-`It won't revive..." `
+`"Apa yang bisa kulakukan untuk menghidupkanmu kembali di dunia Maria onee-chan? `
+`Jika aku bisa mempelajari caranya, aku akan bisa menyelamatkan Onee-chan. `
+`...Itu penebusan yang bisa kuberikan. `
+`Apa yang harus dilakukan untuk menghidupakn kembali Sakutarou?" `
+`‘...Bagi Maria, wadahku memiliki makna yang spesial...’ `
+`"Wadah. `
+`...Dengan kata lain, jika kita bisa menghidupkan kembali boneka singa itu..." `
+`Tapi... `
+`...Mama Rosa membuat boneka itu sendiri, jadi hanya dia yang bisa membuatnya...’ `
+`Bahkan di dalam buku hariannya, Maria onee-chan meminta ini pada {f:5:Beatrice}...dan menolak karena alasan itu. `
+`Makna sihir dari boneka binatang yang dibuat dengan tangan dan penting sangatlah berharga. `
+`Maka, jika kita bisa membuat hal yang sama... `
+`Tapi Bibi Rosa sudah tiada di dunia ini. `
+`Kita tidak bisa membuat boneka yang sama lagi. `
+`"...Apakah ada boneka hewan yang sama, atau yang mirip?" `
+`"Dia adalah boneka yang di buat untuk hadiah ulang tahun {f:5:Maria}...dan hanya satu di dunia ini. `
+`...Wadah buatan tangan. `
+`Itulah mengapa ia memiliki kekuatan sihir yang hebat. `
+`Dan, ...jika sudah tidak ada, maka tidak bisa didapatkan lagi. `
+`Tidak akan hidup kembali..." `
 `‘......Uryu......’ `
-`...Because she knew that, `
-`Maria onee-chan watched that stuffed animal, which was unique in that world, get torn apart, `
-`......and despaired. `
-`Because it was the only one of its kind in the world, `
-`and she couldn't permit a compromise such as buying another one, ...she had despaired from the bottom of her heart... `
-`"...But Sakutarou is right here. `
-`Even without a vessel, he's here. `
-`Because I acknowledge that, he certainly exists in my world. `
-`......Even if Maria onee-chan doesn't acknowledge him, that cannot be denied. `
-`Right...?" `
-`"Logically, that's true, `
-`...but I think using the same logic to make Lady {f:5:Maria} accept him could be difficult." `
+`...Karena dia tahu itu, `
+`Maria onee-chan melihat boneka hewan itu, yang hanya ada satu-satunya di dunia, hancur, `
+`......dan menjadi putus asa. `
+`Karena hanya ada satu di dunia ini, `
+`dia tidak terima jika harus membeli yang lain, ...dan dia menjadi putus asa... `
+`"...Tapi Sakutarou di sini. `
+`Bahkan tanpa wadah, dia di sini. `
+`Karena aku mengakui itu, dia ada di duniaku. `
+`......Bahkan jika Maria onee-chan tidak mengakuinya, itu tidak bisa disangkal. `
+`Benar...?" `
+`"Secara logika, benar, `
+`...tapi menggunakan logika yang sama untuk membuat Nona {f:5:Maria} menerimanya akan sulit." `
 `‘...Maria, `
-`...I'm not dead... `
-`I'm right here...... `
+`...Aku tidak mati... `
+`Aku di sini...... `
 `...Uryu...’ `
-`"I'm sure that on Rokkenjima, `
-`...I'll be able to be reunited with Maria onee-chan. `
-`And, ...no matter what, I'll revive the you that's inside Onee-chan...and let you be reunited." `
-`‘Can you do it...?’ `
-`"It'll probably be hard. `
-`...Just like how, after being invited into the witches' alliance, I rejected it without understanding what it meant, `
-`she might also reject your existence." `
-`"......But, I've got to do it. `
-`That's the only way I can atone for my sins." `
+`"Aku yakin di Rokkenjima, `
+`...Aku bisa bertemu kembali dengan Maria onee-chan. `
+`Dan, ...tidak peduli apa pun itu, aku akan menghidupkan yang berada di dalam Onee-chan...dan membuatmu bertemu kembali dengannya." `
+`‘Bisakah kamu melakukannya...?’ `
+`"Mungkin akan sulit. `
+`...Seperti, aku yang diajak di aliansi penyihir, lalu menolaknya tanpa mengerti arti sepenuhnya, `
+`dia mungkin menolak kehadiranmu juga." `
+`"......Tapi, aku harus melakukan itu. `
+`Hanya itu cara menebus dosaku." `
 `"......Ange-sama..." `
-`"What's waiting on Rokkenjima? `
-`And what will happen, what will be created? `
-`...Or maybe nothing will happen." `
+`"Apa yang menunggu di Rokkenjima? `
+`Dan apa yang terjadi, dan akan menjadi apa? `
+`...Atau mungkin tidak akan ada yang terjadi." `
 `‘............’ `
-`"That island, which was the beginning of everything, is the final destination of this journey. `
-`......You all are the furniture of a witch, so as your master, `
-`I have to {i:take you home}, to the witch's island, to Rokkenjima." `
-`Even though the rays of the sun had been so strong, at some point clouds had started to hang down. `
-`The spray that hit my cheek might not all have come from crashing waves. `
+`"Pulau itu, awal dari segalanya, merupakan tujuan akhir dari perjalanan ini. `
+`......Kalian semua adalah furnitur penyihir, jadi sebagai tuanmu, `
+`Aku harus {i:membawamu pulang}, ke pulau penyihir, Rokkenjima." `
+`Meskipun sinar matahari begitu terik, awan mulai menyelimuti langit. `
+`Percikan air yang mengenai pipiku mungkin tidak berasal dari ombak yang pecah. `
 `"Ange-san, `
-`looks like we're gonna get a bit of a shower. `
-`Maybe you'd better go below deck." `
-`Amakusa called out to me with an expression that said "Oh, you're still here?" `
-`When I looked up, I saw that the island's silhouette had gotten much larger. `
-`We might reach land very soon. `
-`I remembered that the weather report had mentioned scattered rains. `
-`The sky wasn't dark enough for rain clouds. `
-`It'll probably be just for a short time. `
-`Even though the rain was light enough not to be a pain... `
-`...Having rain start to fall as we approached the island felt like some kind of fate. `
-`It was raining on October 4, 1986 as well. `
-`I'm approaching the Rokkenjima of that day...and not just in distance... `
-`I went back down with Amakusa. `
-`He was carrying what looked like a really large and heavy golf bag. `
-`It was something Amakusa had brought back with him on a day when we'd split up. `
-`...I didn't inquire as to its contents, but it was hard to imagine that they were anything peaceful. `
-`"......I won't go so far as to ask what's inside, but it looks heavy." `
-`"Why are these things so darn heavy all the time? `
-`A French instructor taught me something interesting about that once. `
-`He said they should always be heavy. `
-`......After all, a human life is heavier than the world. `
-`So these should be even heavier." `
-`"......It'd be nice if you didn't need to use them." `
-`"That would be nice." `
-`Amakusa set the golf bag-like luggage down beside him. `
-`A two-propeller aircraft touched down on the runway. `
-`Considering the weather, it couldn't have been a pleasant flight. `
-`Everything after this flight had been suspended due to weather. `
-`Cutting through the drizzle as she traversed the runway, Sumadera Kasumi entered the lobby with two black-suits as guards. `
-`The four black-suits who had been waiting inside the lobby stood up and respectfully lowered their heads in salute. `
+`sepertinya bentar lagi hujan. `
+`Mungkin kamu harus pergi ke bawah deck." `
+`Amakusa memanggilku dengan ekspresi seolah mengatakan "Oh, masih di sini?" `
+`Ketika aku melihat ke depan, aku melihat bayangan pulau itu semakin besar. `
+`Kita mungkin akan sampai di daratan segera. `
+`Aku ingat ramalan cuaca mengatakan akan ada hujan. `
+`Langit belum cukup gelap untuk hujan turun. `
+`Mungkin hanya sebentar. `
+`Meskipun hujannya tidak mengganggu... `
+`...Hujan yang turun saat kami mendekati pulau itu terasa seperti takdir. `
+`Waktu itu hujan di October 4, 1986. `
+`Aku semakin mendekati Rokkenjima di hari itu...dan bukan hanya tentang jarak... `
+`Aku turun lagi bersama Amakusa. `
+`Dia membawa tas golf yang besar dan berat. `
+`Itu tas yang dibawa Amakusa ketika kami berpisah. `
+`...Aku tidak menanyakan isinya, tapi sulit untuk membayangkan kalau itu adalah hal yang baik. `
+`"......Aku tidak sepenasaran itu untuk menanyakan isinya, tapi tampaknya kelihatan berat." `
+`"Tapi mengapa itu sangat berat? `
+`Instruktur asal Prancis pernah mengajarkan sesuatu yang menarik tentang hal itu kepadaku. `
+`Dia bilang benda seperti ini seharusnya selalu terasa berat. `
+`......Karena nyawa manusia memiliki bobot yang lebih besar daripada dunia itu sendiri. `
+`Maka benda itu seharusnya terasa lebih berat." `
+`"......Akan lebih baik kalau kamu tidak menggunakannya." `
+`"Iya." `
+`Amakusa meletakkan tas yang mirip tas golf itu di sampingnya. `
+`Sebuah pesawat dengan dua baling-baling mendarat di jalur landasan. `
+`Berdasarkan cuacanya, pasti itu bukan penerbangan yang baik. `
+`Semua penerbangan setelah penerbangan itu telah ditunda. `
+`Menerobos gerimis saat melewati jalan landasan, Sumadera Kasumi memasuki lobi ditemani dua orang berpakaian hitam yang bertugas sebagai pengawal. `
+`Empat orang yang berpakaian hitam menunggu di dalam lobi berdiri dengan hormat dan menundukkan kepala mereka. `
 `"""Kasumi-sama...!!""" `
-`"Propeller planes certainly do shake... `
-`I wouldn't want to ride one again." `
-`"We have a car prepared! `
-`Please, this way." `
-`They got into two luxury cars that had been rented... `
-`"...Ange should be heading for Rokkenjima. `
-`A deserted island... How convenient. `
-`......You've arranged for some tools, I take it?" `
-`"Yes Ma'am...!" `
-`The black-suit in the passenger seat put a heavy bag that had been set by his feet onto his lap, `
-`opened the catch with a *click*, and showed Kasumi what was inside. `
-`Inside were several silver lumps of carefully wrapped aluminum foil. `
-`...He peeled one open to show her. `
-`A black, blunt automatic pistol peeked its face out... `
+`"Pesawat baling-baling memang sering goyang... `
+`Aku tidak ingin menaikinya lagi." `
+`"Kami telah menyiapkan mobil! `
+`Ayo, ke sini." `
+`Mereka masuk ke dua mobil mewah yang telah dirental... `
+`"...Ange seharusnya pergi ke Rokkenjima. `
+`Pulau terlantar... Sangat mudah. `
+`.....Kamu sudah menyiapkan alat-alatnya, kan?" `
+`"Ya Bu...!" `
+`Orang berseragam hitam yang duduk di kursi penumpang meletakkan tas berat yang ada di kakinya ke pangkuannya `
+`membuka ritsletingnya dengan bunyi *klik*, dan menunjukkan Kasumi apa isinya. `
+`Di dalamnya terdapat beberapa bongkahan perak yang dibungkus rapi dengan kertas aluminium. `
+`...Dia membuka salah satu bongkahan perak untuk menunjukkannya. `
+`Sebuah pistol otomatis, berwarna hitam dengan ujung tumpul terlihat... `

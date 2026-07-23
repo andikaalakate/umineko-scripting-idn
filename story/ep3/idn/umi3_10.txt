@@ -1,716 +1,716 @@
-`When being beseiged, your true enemy isn't so much the fear of an unseen culprit... `
-`as it is keeping such fears alive for long periods of time. `
-`Maria got bored and started complaining that she wanted to watch TV. `
-`There was no TV in the lobby, so she decided to return to the cousins' room on the second floor. `
-`The adults probably wanted to make sure Maria wasn't left on her own... `
-`They told all the children to go to the second floor cousins' room. `
-`George, who was grief-stricken by the loss of his fiancée, led the cousins up to the second floor without any resistance. `
-`At first, Nanjo had been reading a book in the lobby, `
-`but when he noticed the relatives looking like they wanted to discuss something sinister, `
-`he said "It seems I am in the way..." and returned to his room on the second floor. `
-`"......I'm starving. `
-`And if we just keep sitting around, we'll get sleepy too." `
-`"It's only natural. `
-`We didn't get any sleep at all last night." `
-`"...We will probably end up being barricaded here for a full 24 hours. `
-`It may be wiser to take naps in turn instead of over-stressing ourselves." `
-`"True. `
-`My husband and I will remain here, so I ask that anyone having trouble staying awake take it easy and rest." `
-`"Our opponent might be expecting that, right? `
-`Even if they couldn't defeat this many people, if that number shrinks enough, they may plan to use that moment to strike." `
-`"There are seven of us here, `
-`so we could take three-hour shifts in pairs. `
-`...Tomorrow morning's a long way off. `
-`We still have some energy now, but tonight's going to be tough." `
-`"Sure will. `
-`Anyone sleepy? `
-`Don't overdo it, and get some rest." `
-`Hideyoshi looked around at everyone to see who wanted to sleep first, but no one volunteered. `
-`...Everyone was just as tired, but no one was bold enough to go to sleep right away. `
-`...Their fear of the unknown culprit was just as strong as their sleepiness. `
-`"...Nobody? `
-`Well, don't overdo it, everyone." `
-`"If we get tired, we'll deal with it then. `
-`...I'll admit I'm sleepy, but I'm not in the mood now." `
-`As Eva spoke sharply, she reread the second letter from {f:5:Beatrice}, which had been found in the boiler room. `
-`{f:5:Beatrice} had sent them two letters, which had repeatedly told them to solve the riddle of the epitaph. `
-`And she'd even provoked them by saying she'd give up her assets and the Headship if they could solve it... `
-`Eva took out a notebook and opened it to a page with the epitaph copied onto it. `
-`"......Is this that epitaph?" `
-`"Yes. `
-`...I hate doing what the culprit says, `
-`but we do have time to waste. `
-`I think it's the perfect way to stave off boredom." `
-`"...Not a bad way to kill time. `
-`Why don't we challenge it together as siblings?" `
-`"...Can I borrow that? `
-`I'll rewrite it just a little larger. `
-`Natsuhi-san, do you have a slightly larger piece of paper?" `
-`"There should be paper in the servant room. `
-`I will bring some." `
-`Natsuhi immediately brought a blank B4 sheet of paper from the servant room. `
-`Kyrie borrowed Eva's notebook, wrote out the epitaph on the paper, and laid it out on the table. `
-`Then, everyone quickly peered down at it. `
-`...They automatically formed a crowd. `
-`"I've heard about it, `
-`...but, really, this is a tough riddle. `
-`I don't have a clue what it's talkin' about." `
-`"At one point, I also did my best to solve it, but I was just as clueless." `
-`"If you did know, you wouldn't have come all the way out here with a plan to make money. `
-`After all, it's 10 tons of gold we're talking about." `
-`"......This is the first time I've read through it seriously, but... `
-`roughly speaking, couldn't it be split into three parts?" `
-`"...I've been thinking this since last night, but you really are a good thinker, Kyrie-san. `
-`Perhaps you'll be able to easily solve this riddle that we couldn't." `
-`"Yeah. `
-`Kyrie's sharp. `
-`...She might find a more interesting take on it if she comes in without any confusing biases." `
-`"......That's right. `
+`Saat berada dalam situasi terdesak, musuh sesungguhnya bukanlah rasa takut akan pelaku yang tak terlihat... `
+`melainkan mempertahankan rasa takut tersebut dalam waktu yang lama. `
+`Maria mulai bosan dan mengeluh kalau dia ingin menonton TV. `
+`Tidak ada TV di lobi, jadi dia memutuskan untuk kembali ke kamar sepupu-sepupunya di lantai dua. `
+`Para orang dewasa mungkin ingin memastikan Maria tidak ditinggal sendirian... `
+`Mereka menyuruh semua anak-anak pergi ke kamar sepupu di lantai dua. `
+`George, yang sedang berduka karena kehilangan tunangannya, membawa para sepupu ke lantai dua tanpa perlawanan. `
+`Awalnya, Nanjo sedang membaca buku di lobi, `
+`tetapi ketika dia melihat para kerabat tampak ingin membicarakan sesuatu yang mencurigakan, `
+`dia berkata, "Sepertinya aku mengganggu..." dan kembali ke kamarnya di lantai dua. `
+`"......Aku lapar sekali. `
+`Dan kalau kita terus duduk-duduk saja, kita juga akan mengantuk." `
+`"Itu wajar saja. `
+`Kita sama sekali tidak tidur semalam." `
+`"...Kita mungkin akan terjebak di sini selama 24 jam penuh. `
+`Mungkin lebih baik untuk tidur sebentar bergantian daripada memaksakan diri." `
+`"Benar. `
+`Suamiku dan aku akan tetap di sini, jadi aku minta siapa pun yang kesulitan terjaga untuk bersantai dan istirahat." `
+`"Lawan kita mungkin sudah mengantisipasi hal itu, kan? `
+`Bahkan jika mereka tidak bisa mengalahkan orang sebanyak ini, jika jumlahnya berkurang cukup banyak, mereka mungkin berencana memanfaatkan saat itu untuk menyerang." `
+`"Ada tujuh orang di sini, `
+`jadi kita bisa bergantian bertugas selama tiga jam berpasangan. `
+`...Besok pagi masih lama. `
+`Kita masih punya tenaga sekarang, tapi malam ini akan berat." `
+`"Pasti. `
+`Ada yang mengantuk? `
+`Jangan dipaksakan, dan istirahatlah." `
+`Hideyoshi melihat sekeliling untuk melihat siapa yang ingin tidur lebih dulu, tapi tak ada yang mengajukan diri. `
+`...Semua orang sama-sama lelah, tapi tak ada yang berani langsung tidur. `
+`...Rasa takut mereka terhadap pelaku yang tak dikenal sama kuatnya dengan rasa kantuk mereka. `
+`"...Tidak ada? `
+`Baiklah, jangan berlebihan, semuanya." `
+`"Kalau kita lelah, kita akan mengatasinya nanti. `
+`...Aku akui aku mengantuk, tapi aku tidak semangat sekarang." `
+`Saat Eva berbicara dengan nada tajam, dia membaca ulang surat kedua dari {f:5:Beatrice}, yang ditemukan di ruang boiler. `
+`{f:5:Beatrice} sudah mengirimkan dua surat kepada mereka, yang berulang kali memerintahkan mereka untuk memecahkan teka-teki epitaf itu. `
+`Dan dia bahkan menghasut mereka dengan mengatakan akan menyerahkan asetnya dan jabatan Kepala Keluarga jika mereka bisa memecahkannya... `
+`Eva mengeluarkan sebuah buku catatan dan membukanya ke halaman yang berisi salinan epitaf tersebut. `
+`"......Apakah ini epitaf yang dimaksud?" `
+`"Ya. `
+`...Aku benci melakukan apa yang dikatakan pelaku, `
+`tapi kita memang punya waktu luang. `
+`Menurutku ini cara yang sempurna untuk mengusir kebosanan." `
+`"...Bukan cara yang buruk untuk menghabiskan waktu. `
+`Mengapa kita tidak menantangnya bersama sebagai saudara?" `
+`"...Bolehkah aku meminjam itu? `
+`Aku akan menuliskannya sedikit lebih besar. `
+`Natsuhi-san, apakah kau punya kertas yang sedikit lebih besar?" `
+`"Seharusnya ada kertas di ruang pelayan. `
+`Aku akan membawakannya." `
+`Natsuhi langsung mengambil selembar kertas B4 kosong dari ruang pelayan. `
+`Kyrie meminjam buku catatan Eva, menuliskan epitaf itu di atas kertas, lalu meletakkannya di atas meja. `
+`Kemudian, semua orang segera menunduk untuk melihatnya. `
+`...Mereka tanpa sadar berkumpul di sekitarnya. `
+`"Aku sudah dengar soal ini, `
+`...tapi, sungguh, ini teka-teki yang sulit. `
+`Aku sama sekali tidak mengerti apa yang dibicarakan di sini." `
+`"Dulu, aku juga berusaha keras memecahkannya, tapi aku sama bingungnya." `
+`"Kalau kau tau, kau tidak datang jauh-jauh ke sini dengan rencana untuk cari uang. `
+`Lagi pula, kita sedang membicarakan 10 ton emas." `
+`"......Ini pertama kalinya aku membacanya dengan serius, tapi... `
+`kasarnya, bukankah bisa dibagi menjadi tiga bagian?" `
+`"...Aku sudah memikirkannya sejak tadi malam, tapi kau benar-benar pemikir yang hebat, Kyrie-san. `
+`Mungkin kau bisa dengan mudah memecahkan teka-teki ini yang tidak bisa kami selesaikan." `
+`"Ya. `
+`Kyrie memang tajam. `
+`...Dia mungkin menemukan sudut pandang yang lebih menarik jika dia mendekatinya tanpa prasangka yang membingungkan." `
+`"......Benar. `
 `Kyrie-san, `
-`would you mind giving us your honest opinion after reading the epitaph?" `
-`"I doubt you'll find it useful. `
-`You all give me too much credit." `
-`"That's fine, just say whatever comes into your head. `
-`Let's hear your thoughts. `
-`...The hints you give always help me out when I'm worried." `
-`"Oh, so I have been helpful? `
-`It's nice to finally hear about this now." `
-`"Come ooon, don't I always thank you?" `
-`"You two sure are close. `
-`I'm jealous." `
-`"And the rest of us would also love to hear these hints of yours. `
-`We're just killing time anyway, so relax, okay?" `
-`Kyrie was disturbed at being praised so highly for something so strange. `
-`...But they had all the time in the world. `
-`Realizing that this was just a way to waste time, she decided to accept the role she'd been given... `
-`"...I'm sure I'll say something off the mark, but... `
-`well, I'll put forward my ideas." `
-`"Indeed. `
-`...What did you mean in the beginning, about how it could be divided into three parts, roughly speaking?" `
-`Well, ...I just mean what I said. `
-`I think that overall, the epitaph can be divided into three sections. `
-`First, there are the five lines up until "There sleeps the key to the gold". `
-`Up until this point is the first part, which directs you to the location of the key. `
-`And then there's the part formed by the 11 lines up until the tenth twilight, which refer to the location of the Golden Land itself. `
-`And the remaining six lines make up the part after the Golden Land has been reached. `
-`"I see. `
-`It can be divided into three parts about the key, the Golden Land, `
-`and the Golden Land's treasure." `
-`"Even we have been able to grasp that much. `
-`The three sections that refer to the key, the door, and the treasure." `
-`"...Nii-san, don't butt in any more than you have to! `
-`Let Kyrie-san speak her ideas freely." `
+`apakah kau keberatan memberi kami pendapat jujurmu setelah membaca epitaf itu?" `
+`"Aku ragu kalian akan menemukannya berguna. `
+`Kau terlalu memujiku." `
+`"Tidak apa-apa, katakan saja apa yang terlintas di pikiranmu. `
+`Mari dengar pemikiranmu. `
+`...Petunjuk yang kau berikan selalu membantuku saat aku khawatir." `
+`"Oh, jadi aku memang berguna? `
+`Senang akhirnya mendengar hal ini sekarang." `
+`"Ayolah, bukankah aku selalu berterima kasih padamu?" `
+`"Kalian berdua memang sangat dekat. `
+`Aku iri." `
+`"Dan kami yang lain juga ingin mendengar petunjuk-petunjukmu itu. `
+`Lagipula kami hanya menghabiskan waktu, jadi santai saja, oke?" `
+`Kyrie merasa canggung karena dipuji begitu tinggi untuk sesuatu yang aneh. `
+`...Tapi mereka punya waktu yang tak terbatas. `
+`Menyadari bahwa ini hanyalah cara untuk membuang-buang waktu, dia memutuskan untuk menerima peran yang diberikan padanya... `
+`"...Aku yakin aku akan mengatakan sesuatu yang melenceng, tapi... `
+`yah, akan aku utarakan pikiranku." `
+`"Benar. `
+`...Apa yang kau maksud tadi, tentang bagaimana itu bisa dibagi menjadi tiga bagian, secara kasar?" `
+`Yah, ...aku hanya mengatakannya saja. `
+`Menurutku, secara keseluruhan, epitaf itu bisa dibagi menjadi tiga bagian. `
+`Pertama, ada lima baris hingga "Di sana tertidur kunci emas". `
+`Sampai titik ini adalah bagian pertama, yang mengarahkanmu ke lokasi kunci. `
+`Lalu ada bagian yang terdiri dari 11 baris hingga senja kesepuluh, yang merujuk pada lokasi Taman Emas itu sendiri. `
+`Dan enam baris sisanya membentuk bagian setelah Taman Emas telah dicapai. `
+`"Aku mengerti. `
+`Bisa dibagi menjadi tiga bagian tentang kunci, Taman Emas, `
+`dan harta karun Taman Emas." `
+`"Bahkan kamipun sudah bisa memahami sejauh itu. `
+`Tiga bagian yang merujuk pada kunci, pintu, dan harta karun." `
+`"...Nii-san, jangan ikut campur lebih dari yang perlu! `
+`Biarkan Kyrie-san menyampaikan gagasannya dengan bebas." `
 `"Kyrie, `
-`please continue. `
-`...We see it the same way you do so far. `
-`So then?" `
-`"...I wonder about the meaning of that thing in the beginning, the "beloved hometown". `
-`Normally, that would refer to where Grandfather lived, right? `
-`Since Father went to all the trouble of telling us that it's beloved, we can imagine that it's a hometown he had strong feelings for. `
-`...Did Father come from Odawara?" `
-`"......Odawara is definitely where he was born, `
-`but I don't think that's the hometown he loved. `
-`I imagine all of us siblings have the same place in mind." `
-`"...Right. `
-`This probably isn't Odawara. `
-`From what I've heard, he had a very fun time as a youth." `
+`silakan lanjutkan. `
+`...Sejauh ini, kami sependapat denganmu. `
+`Lalu bagaimana?" `
+`"...Aku penasaran dengan makna hal di awal tadi, "kampung halaman tercinta". `
+`Biasanya, itu merujuk pada tempat Kakek tinggal, kan? `
+`Karena Ayah repot-repot memberitau kita kalau itu tempat yang dicintainya, bisa kita bayangkan kalau itu adalah kampung halaman yang sangat dia sayangi. `
+`...Apakah Ayah berasal dari Odawara?" `
+`"......Odawara memang tempat kelahirannya, `
+`tapi aku rasa itu bukan kampung halaman yang dia cintai. `
+`Aku rasa kita semua, sebagai saudara kandung, memikirkan tempat yang sama." `
+`"...Benar. `
+`Ini mungkin bukan Odawara. `
+`Dari apa yang kudengar, dia punya masa muda yang sangat menyenangkan." `
 `"Hahhaha. `
-`...Being made the Ushiromiya Family Head was probably Dad's greatest bit of misfortune in life." `
-`"...Probably. `
-`Father didn't actually want to become the Head." `
-`"So where is this place? `
-`Is there a river there where sweetfish swim?" `
-`"...Maybe there was at the time. `
-`There's been a lot of development there since then, and the sweetfish might have disappeared. `
-`It would be extremely difficult to investigate whether sweetfish were there during Grandfather's boyhood years." `
-`"And there probably isn't just a single river. `
-`I believe we all gave this a thorough investigation geographically. `
-`...You even went to the actual place to investigate directly, right, Eva?" `
-`"That was only as a vacation. `
-`...But, the townscape had changed completely since Father's time. `
-`After all, it was caught up in that war, wasn't it? `
-`By now, even precisely locating the place Father lived is impossible. `
-`...I imagine that if Father went there himself now, `
-`even he wouldn't be able to pick out the place he'd lived anymore." `
-`"Well, after all, those guys have also gone through a remarkable recovery..." `
-`"......Does the part about a sweetfish river bring any place name clearly to mind?" `
-`"Well, yeah. `
-`After all, they're sweetfish, right? `
-`People say they live in rivers with clean water, so there are countless rivers that might work. `
-`Any stream Dad innocently went sweetfish-fishing in was probably buried by the development later. `
-`It'd be different if we had a map from before the war or a person who knew a lot about how the area was before the war, but..." `
-`"...It probably isn't something like that." `
-`"What do you mean...?" `
-`"...Behold the sweetfish river running through my beloved hometown. `
-`You who seek the Golden Land, follow its path downstream in search of the key. `
-`...After these two lines, there's a single blank line. `
-`...Something is being presented with just these two lines. `
-`What if the next three lines continue based upon that something?" `
-`"What do you mean, something is being presented...?" `
-`"...I don't know. `
-`At any rate, what we can get from these two lines alone isn't something vague, like the question of which river it might be, `
-`but the clear presentation of the keyword "river"." `
-`"...It may be that this isn't a "river" with water flowing down it. `
-`...The "sweetfish river" might be some kind of metaphor. `
-`...What sort of impressions does the word "sweetfish" give?" `
-`"......Sweetfish are like salmon. `
-`They're freshwater fish, but they go out into the ocean right after they're born. `
-`When they get big, they go back to the river to live there, `
-`and then they spawn there and end their lives there. `
-`Well, they leave their home at one point, but when they get big, they come back and lay eggs. `
-`Might be able to link that to the idea of clan prosperity." `
+`...Menjadi Kepala Keluarga Ushiromiya mungkin adalah nasib sial terbesar Ayah dalam hidupnya." `
+`"...Mungkin. `
+`Ayah sebenarnya tidak ingin menjadi Kepala Keluarga." `
+`"Jadi di mana tempat itu? `
+`Apakah ada sungai di sana tempat ikan sweetfish berenang?" `
+`"...Mungkin dulu ada. `
+`Sejak itu banyak pembangunan di sana, dan ikan sweetfish mungkin sudah menghilang. `
+`Akan sangat sulit untuk menyelidiki apakah ikan sweetfish ada di sana pada masa kecil Kakek." `
+`"Dan mungkin tidak hanya ada satu sungai. `
+`Aku yakin kita semua sudah menyelidiki hal ini secara geografis dengan teliti. `
+`... Kau bahkan pergi ke tempat aslinya untuk menyelidiki langsung, kan, Eva?" `
+`"Itu hanya sebagai liburan. `
+`...Tapi, pemandangan kota sudah berubah total sejak zaman Ayah. `
+`Lagi pula, tempat itu terseret dalam perang itu, kan? `
+`Sekarang, bahkan menentukan lokasi tepat tempat Ayah tinggal pun mustahil. `
+`...Aku bayangkan kalau Ayah pergi ke sana sendiri sekarang, `
+`bahkan dia tidak akan bisa mengenali tempat yang pernah dia tinggali lagi." `
+`"Yah, bagaimanapun juga, orang-orang di sana juga telah mengalami pemulihan yang luar biasa..." `
+`"......Apakah bagian tentang sungai sweetfish itu mengingatkanmu pada nama tempat tertentu?" `
+`"Ya, memang. `
+`Lagi pula, mereka itu sweetfish, kan? `
+`Orang-orang bilang mereka hidup di sungai dengan air bersih, jadi ada banyak sekali sungai yang mungkin cocok. `
+`Setiap aliran sungai tempat Ayah pernah memancing sweetfish dengan santai kemungkinan besar sudah tertimbun oleh pembangunan setelahnya. `
+`Akan berbeda jika kita punya peta sebelum perang atau orang yang tau banyak tentang bagaimana daerah itu sebelum perang, tapi..." `
+`"...Mungkin bukan hal seperti itu." `
+`"Maksudmu...?" `
+`"...Lihatlah sungai sweetfish yang mengalir melalui kampung halamanku tercinta. `
+`Engkau yang mencari Taman Emas, ikutilah alirannya ke hilir untuk menemukan kuncinya. `
+`...Setelah dua baris ini, ada satu baris kosong. `
+`...Sesuatu disampaikan hanya dengan dua baris ini. `
+`Bagaimana jika tiga baris berikutnya berlanjut berdasarkan sesuatu itu?" `
+`"Apa maksudmu, sesuatu disampaikan...?" `
+`"...Aku tidak tau. `
+`Bagaimanapun, kita bisa tangkap dari kedua baris ini saja bukanlah sesuatu yang samar-samar, seperti pertanyaan sungai mana yang dimaksud, `
+`melainkan penyampaian yang jelas dari kata kunci "sungai".`
+`"...Mungkin saja ini bukanlah "sungai" yang dialiri air. `
+`...Mungkin "sungai sweetfish" itu adalah semacam metafora. `
+`...Kesan apa yang ditimbulkan oleh kata "sweetfish"?`
+`"......Sweetfish itu seperti salmon. `
+`Mereka adalah ikan air tawar, tapi mereka pergi ke laut segera setelah lahir. `
+`Ketika mereka sudah besar, mereka kembali ke sungai untuk tinggal di sana, `
+`lalu bertelur di sana dan mengakhiri hidup mereka di sana. `
+`Ya, mereka meninggalkan rumah mereka pada suatu saat, tapi ketika sudah besar, mereka kembali dan bertelur. `
+`Mungkin bisa dikaitkan dengan gagasan kemakmuran keluarga." `
 `"Oh? `
-`They're freshwater fish, but they can live in the ocean? `
-`I didn't know that. `
-`I figured river fish wouldn't be able to live in the sea." `
-`"And they are called sweetfish because they have a pleasant aroma. `
-`I have never eaten one, but I have heard they can be quite delicious when grilled with salt." `
-`"What's that, Natsuhi-san?! `
-`You've never eaten salt-grilled sweetfish?! `
-`They're delicious! `
-`You should try it sometime soon!" `
-`"It is a food for commoners. `
-`Hardly appropriate for your mouth." `
-`"...This is just my wild idea, `
-`...but the impression I get from a sweetfish river makes me suspect a family tree. `
-`The sweetfish go out into the ocean for a time, but they return to the river where they were born to spawn, right? `
-`......It reminds me of myself." `
-`"You're right. `
-`By this point, `
-`I can confess that I've sometimes suspected that it refers to you and Maria-chan." `
-`"I see. `
-`...If you follow the river downstream, you will find a village. `
-`If you go down the family tree, all you find is Maria's name ({p:0:真里亞}). Only her name has a "{ruby:ri/sato:{p:0:里}}", the character Father uses for village here." `
-`"Isn't that right?! `
-`...But as you all know, Father doesn't like Maria, `
-`and he almost never speaks with her. `
-`And, in the past, Father told me to give Maria a completely different name. `
-`I just decided to go with Maria on my own. `
-`Father was very mad about that. `
-`...Given that, `
-`it's very hard to imagine that he would reference Maria's name in his precious epitaph about who would succeed his wealth and inheritance." `
-`"Have you ever let Maria-chan read the epitaph?" `
-`"Uh, yes, of course. `
-`But it looked as though she didn't have a clue. `
-`...She didn't have a clue, and she kept going on about that same occult stuff, about how it was a resurrection ceremony for the witch." `
-`"......A connection between Father and Maria. `
-`...Certainly, they do share that occult hobby, but they never interacted. `
-`...I can't imagine that it refers to Maria either." `
-`"...What sticks out to me is how he went out of his way to add "beloved" to that first line. `
-`...Like you all said just now, `
-`if Father was reluctant about becoming the Ushiromiya Family Head, `
-`would he have fond memories for anything connected to that? `
-`...I don't think this can be Odawara, which represents the Ushiromiya Head Family." `
-`"...I believe this word "beloved" here at the beginning... `
-`must refer to a place full of very important memories to Father." `
+`Mereka ikan air tawar, tapi bisa hidup di laut? `
+`Aku tidak tau itu. `
+`Aku kira ikan sungai tidak bisa hidup di laut." `
+`"Dan mereka disebut sweetfish karena memiliki aroma yang sedap. `
+`Aku belum pernah memakannya, tapi aku dengar rasanya sangat lezat jika dipanggang dengan garam." `
+`"Apa itu, Natsuhi-san?! `
+`Kau belum pernah makan sweetfish panggang garam?! `
+`Rasanya enak sekali! `
+`Kau harus segera mencobanya!" `
+`"Itu makanan untuk orang biasa. `
+`Tidak pantas untuk mulutmu." `
+`"...Ini hanya ide gilaku, `
+`...tapi kesan yang aku dapatkan dari sungai sweetfish membuatku curiga ada silsilah keluarga. `
+`Ikan sweetfish pergi ke laut untuk sementara waktu, tapi mereka kembali ke sungai tempat mereka dilahirkan untuk bertelur, kan? `
+`...... Ini mengingatkanku pada diriku sendiri." `
+`"Kau benar. `
+`Pada titik ini, `
+`jujur saja kadang-kadang aku curiga itu merujuk padamu dan Maria-chan." `
+`"Begitu ya. `
+`...Saat menelusurinya, kau akan melihat sebuah desa. `
+`Jika kau menelusuri silsilah keluarga, yang kau temukan hanyalah nama Maria ({p:0:真里亞}). Hanya namanya yang memiliki "{ruby:ri/sato:{p:0:里}}", karakter yang digunakan Ayah untuk desa di sini." `
+`"Bukankah begitu?! `
+`...Tapi seperti yang kalian semua tau, Ayah tidak menyukai Maria, `
+`dan dia hampir tidak pernah berbicara dengannya. `
+`Dan, di dulu, Ayah menyuruhku memberi Maria nama yang sama sekali berbeda. `
+`Aku memutuskan sendiri untuk menggunakan nama Maria. `
+`Ayah sangat marah karena hal itu. `
+`...Mengingat hal itu, `
+`sangat sulit dibayangkan kalau dia akan menyebut nama Maria dalam epitaf berharganya tentang siapa yang akan mewarisi kekayaan dan warisannya." `
+`"Apakah kau pernah membiarkan Maria-chan membaca epitaf itu?" `
+`"Uh, ya, tentu saja. `
+`Tapi sepertinya dia sama sekali tidak mengerti. `
+`...Dia tidak mengerti, dan dia terus membicarakan hal-hal okultisme itu, tentang bagaimana itu adalah upacara kebangkitan untuk penyihir." `
+`"......Hubungan antara Ayah dan Maria. `
+`...Memang, mereka memang memiliki hobi okultisme yang sama, tapi mereka tidak pernah berinteraksi. `
+`...Aku juga tidak bisa membayangkan kalau itu merujuk pada Maria." `
+`"...Yang mencolok bagiku adalah bagaimana dia sengaja menambahkan kata "tercinta" pada baris pertama itu. `
+`...Seperti katamu tadi, `
+`jika Ayah enggan menjadi Kepala Keluarga Ushiromiya, `
+`apakah dia akan memiliki kenangan indah tentang hal-hal yang berkaitan dengan itu? `
+`...Aku rasa ini bukan Odawara, yang mewakili Keluarga Utama Ushiromiya." `
+`"...Aku yakin kata "tercinta" di awal ini... `
+`pasti merujuk pada tempat yang penuh dengan kenangan sangat penting bagi Ayah." `
 `"......Hmmmmmm. `
-`...Well, that's fine. `
-`It would be hard to pinpoint since we don't have even a trace of a map from that time, `
-`but at any rate, there were probably several rivers with sweetfish swimming in them near Dad's hometown during his youth." `
-`"That's if we're looking for a river with water flowing down it, right? `
-`And then? `
-`Go on, Kyrie-san." `
-`"...I don't really understand the three lines starting with "If you follow the river downstream, you will find a village". `
-`...It's probably linked to the two lines about the sweetfish river. `
-`I imagine it's something we'd understand automatically if we knew what the sweetfish river really was. `
-`...Until we figure that out, it's probably useless to try and solve those three lines any further." `
-`"So we're stuck unless we know what the "sweetfish river" really is... `
-`And there's no guarantee it even means a literal river. `
-`...Seriously. `
-`What's up with the sweetfish? `
-`Did Dad like to eat them? `
-`Or does it have some special meaning? `
-`Is it pointless to read too deeply into it?" `
-`"...If you don't have both a micro and a macro perspective, your field of vision grows narrow. `
-`...It might be better to be flexible and avoid thinking too deeply, `
-`focusing on an abstract image of a river where fish swim, or something that can flow... `
-`up or down." `
-`"Then, the answer behind the "sweetfish river" passes through the next three lines and makes its way to the "key to the Golden Land"..." `
-`"If you think about it this way, I wonder if it was a mistake to split it into three parts. `
-`There's actually four parts. `
-`..."Go down the sweetfish river", `
-`"find the key to the Golden Land", `
-`"journey to the Golden Land", `
-`and "the treasure of the Golden Land"." `
+`...Baiklah, tidak apa-apa. `
+`Akan sulit untuk menentukan lokasinya karena kita tidak memiliki jejak peta dari masa itu, `
+`tapi bagaimanapun juga, mungkin ada beberapa sungai dengan ikan sweetfish yang berenang di dalamnya di dekat kampung halaman Ayah saat masa mudanya." `
+`"Itu kalau kita mencari sungai dengan air yang mengalir ke hilir, kan? `
+`Lalu? `
+`Lanjutkan, Kyrie-san." `
+`"...Aku tidak benar-benar mengerti tiga baris yang dimulai dengan "Saat kau menelusurinya, kau akan melihat sebuah desa". `
+`...Mungkin itu terkait dengan dua baris tentang sungai sweetfish. `
+`Aku kira itu sesuatu yang akan kita pahami secara otomatis jika kita tau apa sebenarnya sungai sweetfish itu. `
+`...Sampai kita mengetahuinya, mungkin sia-sia mencoba memecahkan tiga baris itu lebih jauh." `
+`"Jadi kita terjebak kecuali kita tau apa sebenarnya "sungai sweetfish" itu... `
+`Dan tidak ada jaminan itu bahkan berarti sungai secara harfiah. `
+`...Serius. `
+`Ada apa dengan sweetfish? `
+`Apakah Ayah suka memakannya? `
+`Atau apakah itu memiliki makna khusus? `
+`Apakah sia-sia untuk menafsirkannya terlalu dalam?" `
+`"...Jika kau tidak memiliki perspektif mikro dan makro, cakupan pandangmu akan menyempit. `
+`...Mungkin lebih baik bersikap fleksibel dan menghindari berpikir terlalu dalam, `
+`fokus pada gambaran abstrak sungai tempat ikan berenang, atau sesuatu yang bisa mengalir... `
+`naik atau turun." `
+`"Lalu, jawaban di balik "sungai sweetfish" melewati tiga baris berikutnya dan menuju ke "kunci ke Taman Emas"..." `
+`"Jika dipikirkan seperti ini, aku jadi kepikiran apakah membaginya menjadi tiga bagian adalah kesalahan. `
+`Sebenarnya ada empat bagian. `
+`..."Turunlah ke sungai sweetfish", `
+`"temukan kunci ke Taman Emas", `
+`"perjalanan ke Taman Emas", `
+`dan "harta karun Taman Emas"." `
 `"Hmmm... `
-`...Truly intriguing. `
-`Well, you've gone this far. Would you mind continuing and telling us your opinion on the most central portion of the epitaph, `
-`up to the point when we reach the Golden Land on the tenth twilight?" `
-`"...That's the most symbolic...and also the most disturbing part." `
-`"Since the word "sacrifices" keeps coming up, `
-`I can't help but think it has something to do with Father's occult ceremonies... `
-`......How do you see it, Kyrie-san?" `
-`Kyrie recrossed her arms several times, `
-`peering into the paper with the epitaph copied onto it as though she was looking through it... `
+`...Sungguh menarik. `
+`Nah, kau sudah sejauh ini. Maukah kau melanjutkan dan memberi tahu kami pendapatmu tentang bagian paling sentral dari epitaf itu, `
+`sampai saat kita mencapai Taman Emas pada senja kesepuluh?" `
+`"...Itu bagian yang paling simbolis...dan juga yang paling mengganggu." `
+`"Karena kata "pengorbanan" terus muncul, `
+`menurutku itu ada hubungannya dengan upacara-upacara okultisme Ayah... `
+`......Bagaimana menurutmu, Kyrie-san?" `
+`Kyrie menyilangkan tangannya beberapa kali, `
+`menatap kertas yang berisi salinan epitaf itu seolah-olah dia sedang menembus kertas itu... `
 `"......... `
-`......This is...very difficult. `
-`...It starts with "the one who obtains the key", `
-`so you probably won't be able to continue without knowing what that key means. `
-`...I'll have to give up on that, but I'll take a shot at trying to solve it anyway." `
-`"...Just like how the "sweetfish river" isn't necessarily a river with water flowing down it, `
-`it's also doubtful that this "key" is actually something shaped like a key." `
-`"Right. `
-`It might also be a code or a keyword. `
-`...After all, this key isn't something to be stuck into a keyhole. `
-`It's something that selects six people to be sacrifices for the first twilight. `
-`In that sense, we can say for sure that this key isn't being used to open the door to the Golden Land." `
-`"...But what a disturbing key it is. `
-`A key that can choose six human sacrifices..." `
-`"How would a key select anything? `
-`...Do ya spin it like a roulette...?" `
-`"This key indicates a certain group of six people. `
-`...No, we should say it indicates a certain group of six things, `
-`...if this doesn't mean a literal command to offer sacrifices. `
-`For example, it could be an anagram." `
-`"An anagram? `
-`Do you mean playing with letters...?" `
-`"Yes. `
-`I've been thinking about it ever since Rosa started talking about the family tree, `
-`and about how village was a part of Maria-chan's name." `
-`"...It seems that ever since the words "beloved hometown" came up, `
-`Rudolf-san, for example, has assumed that this epitaph points to some coordinates or some other geographical feature, but that might not be the case. `
-`This could be some kind of puzzle, ...or maybe playing with letters." `
-`"...Forgive me, `
-`but how does one play with letters?" `
-`"Oh, well, it's like "sucker merry barrels". `
-`Whaaat do you get when you take out the e's and r's? `
-`Like that. `
-`Well, you were raised well, Natsuhi-san, so you probably don't know." `
-`"...Merry?? Take out the e's and r's, huh? `
+`......Ini...sangat sulit. `
+`...Ini dimulai dengan "orang yang memperoleh kunci", `
+`jadi kau mungkin tidak akan bisa melanjutkan tanpa mengetahui arti kunci itu. `
+`...Aku harus menyerah soal itu, tapi aku akan mencoba memecahkannya juga." `
+`"...Sama seperti bagaimana "sungai sweetfish" tidak selalu berarti sungai dengan air yang mengalir, `
+`Juga diragukan apakah "kunci" ini benar-benar berbentuk seperti kunci.`
+`"Benar.`
+`Mungkin saja itu adalah kode atau kata kunci.`
+`...Lagipula, kunci ini bukanlah sesuatu yang harus dimasukkan ke dalam lubang kunci.`
+`Ini adalah sesuatu yang memilih enam orang untuk dijadikan korban pada senja pertama.`
+`Dalam hal itu, bisa kita pastikan kalau kunci ini tidak digunakan untuk membuka pintu ke Taman Emas." `
+`"...Tapi betapa mengerikannya kunci ini. `
+`Sebuah kunci yang bisa memilih enam korban manusia..." `
+`"Bagaimana mungkin sebuah kunci bisa memilih sesuatu? `
+`...Apakah harus diputar seperti rolet...?" `
+`"Kunci ini menunjuk pada sekelompok enam orang tertentu. `
+`...Tidak, sebaiknya kita katakan menunjuk pada sekelompok enam benda tertentu, `
+`...jika ini tidak berarti perintah harfiah untuk mempersembahkan korban. `
+`Misalnya, bisa jadi itu adalah anagram." `
+`"Anagram? `
+`Maksudmu bermain-main dengan huruf...?" `
+`"Ya. `
+`Aku sudah memikirkannya sejak Rosa mulai membicarakan silsilah keluarga, `
+`dan tentang bagaimana desa menjadi bagian dari nama Maria-chan." `
+`"...Sepertinya sejak kata-kata "kampung halaman tercinta" muncul, `
+`Rudolf-san, misalnya, menganggap kalau epitaf ini menunjuk pada koordinat atau fitur geografis lainnya, tapi mungkin bukan itu masalahnya. `
+`Ini bisa jadi semacam teka-teki, ...atau mungkin permainan huruf." `
+`"...Maaf, `
+`tapi bagaimana cara bermain dengan huruf?" `
+`"Oh, ya, seperti "sucker merry barrels". `
+`Apa yang kau dapatkan kalau kau menghilangkan huruf e dan r? `
+`Seperti itu. `
+`Yah, kau dibesarkan dengan baik, Natsuhi-san, jadi kau mungkin tidak tau." `
+`"...Merry?? Menghilangkan huruf e dan r, ya? `
 `???" `
-`"Stop it. `
-`It is an undignified game, inappropriate for you." `
-`Only Natsuhi didn't get it and had a blank look on her face. `
-`It seemed she'd only guessed that the answer had to be something undignified, `
-`going by Rudolf and Eva's sniggers. `
-`"Ah, ...Natsuhi nee-san, it's something like this. `
-`This is just something from Maria's book of riddles, okay? `
-`There's this thing called a Tanuki Notebook." `
-`"It's a notebook written like a code, with a lot of 'ta's mixed in, `
-`and if you "remove" all of the 'ta's, then the true paragraph pops up. `
-`It's a game like that." `
-`"Ah, ...oh, I see. `
+`"Hentikan. `
+`Ini permainan yang tidak pantas, tidak cocok untukmu." `
+`Hanya Natsuhi yang tidak mengerti dan terlihat bingung. `
+`Sepertinya dia hanya menebak kalau jawabannya pasti sesuatu yang tidak pantas, `
+`melihat tawa tertahan Rudolf dan Eva. `
+`"Ah, ...Natsuhi nee-san, ini seperti ini. `
+`Ini hanya sesuatu dari buku teka-teki Maria. `
+`Ada yang namanya "Buku Catatan Tanuki"." `
+`"Itu adalah buku catatan yang ditulis seperti kode, dengan banyak huruf "ta" yang dicampur, `
+`dan jika kau "menghapus" semua huruf "ta" itu, maka paragraf aslinya akan muncul. `
+`Itu permainan seperti itu." `
+`"Ah, ...oh, aku mengerti. `
 `......??" `
-`Natsuhi finally realized the answer to the undignified riddle Rudolf had posed, and her face grew red as she hung her head in embarrassment. `
-`"......So maybe "kill" actually means "remove" in that sense, right...?" `
-`"Yes. `
-`I also thought that. `
-`It's possible that the key to the Golden Land is a word with six characters." `
-`"In other words, ...the "ta" from the Tanuki Notebook...is actually six characters here...? `
-`Hmmm, ...this is getting complicated..." `
-`"Playing with letters, is it...? `
+`Natsuhi akhirnya menyadari jawaban teka-teki yang tidak pantas yang dilontarkan Rudolf, dan wajahnya memerah saat ia menundukkan kepala karena malu. `
+`"......Jadi mungkin "bunuh" sebenarnya berarti "menghapus" dalam arti itu, kan...?" `
+`"Ya. `
+`Aku juga berpikir begitu. `
+`Mungkin kunci ke Taman Emas adalah kata yang terdiri dari enam karakter." `
+`"Dengan kata lain, ...huruf "ta" dari Buku Catatan Tanuki... sebenarnya terdiri dari enam karakter di sini...? `
+`Hmmm, ...jadi makin rumit..." `
+`"Permainan huruf, ya...? `
 `...Hmmm. `
-`In Japan, it really feels like a child's game, but it's apparently a stylish form of humor among intellectuals in the English world. `
-`...It is easy to imagine that Father was interested in it." `
-`"...But by this point, I quickly lose my ability to understand it. `
-`Up until this part, it may have been filled with mysteries, but it was extremely sequential." `
-`""Sweetfish river", "go down it", "then find the key"...all of that is extremely sequential. `
-`And as a result, we can guess that we gain a six-character key, `
-`...but in that case, we now don't know "what" we kill the six characters from." `
-`"That's right. `
-`Where do we pull the six characters from? `
-`It doesn't tell us." `
-`"...On the second twilight, there are "those who remain". `
-`...Which means that, at the very least, that "something" has a limited number of characters. `
-`You could read it like it's telling you to continue with the remaining characters after the first six characters are removed." `
-`"......And yet, we don't know what this "something" is, even though it should've been shown to us at the beginning. `
-`...Are we wrong even in our assumption that this is playing with letters...?" `
+`Di Jepang, hal ini memang terasa seperti permainan anak-anak, tapi ternyata ini merupakan bentuk humor yang trendi di kalangan intelektual di dunia bahasa Inggris. `
+`...Bisa ditebak kalau Ayah tertarik dengan hal itu." `
+`"...Tapi sampai di sini, aku dengan cepat kehilangan kemampuan untuk memahaminya. `
+`Sampai bagian ini, mungkin dipenuhi misteri, tapi urutannya sangat jelas." `
+`""Sungai Sweetfish", "ikutilah alirannya", "untuk menemukan kunci"...semua itu sangat berurutan. `
+`Jadinya, kita bisa menebak kalau kita mendapatkan kunci berhuruf enam, `
+`...tapi kalau begitu, kita sekarang tidak tau "dari mana" kita mengambil enam karakter tersebut." `
+`"Benar. `
+`Dari mana kita mengambil enam karakter itu? `
+`Itu tidak memberitau kita." `
+`"...Pada senja kedua, ada "mereka yang tersisa". `
+`...Artinya, setidaknya, "sesuatu" itu memiliki jumlah karakter yang terbatas. `
+`Kau bisa membacanya seolah-olah itu menyuruhmu melanjutkan dengan karakter-karakter yang tersisa setelah enam karakter pertama dihilangkan." `
+`"...... Namun, kita tidak tau apa "sesuatu" itu, padahal seharusnya sudah ditunjukkan kepada kita sejak awal. `
+`...Apakah kita salah bahkan dalam asumsi kalau ini permainan huruf...?" `
 `".........Hmmmmm..." `
-`Everyone crossed their arms and fell silent. `
-`It felt like they were about to reach a novel understanding they hadn't managed before, ...but they stumbled just one step short. `
-`Then, Hideyoshi's stomach rumbled heartily. `
-`That silence was broken by laughter. `
-`"Sorry, sorry. `
-`Strangely enough, by spinnin' the gears in my head for a change, my stomach's gone completely empty. `
-`Looks like I can't stand missin' breakfast, ...wahahahahaha." `
+`Semua orang menyilangkan tangan dan terdiam. `
+`Rasanya mereka hampir mencapai pemahaman baru yang belum pernah mereka capai sebelumnya, ...tapi mereka tersandung tepat satu langkah sebelum sampai. `
+`Lalu, perut Hideyoshi berbunyi keras. `
+`Keheningan itu terpecah oleh tawa. `
+`"Maaf, maaf. `
+`Anehnya, karena memutar-mutar otakku untuk sekali ini, perutku jadi benar-benar kosong. `
+`Sepertinya aku tidak bisa melewatkan sarapan, ...wahahahahaha." `
 `"Natsuhi, `
-`isn't there anything to eat here?" `
-`"There should at least be enough set aside for breakfast. `
-`I will prepare it." `
-`"I'm also starving. `
-`And I'll bet those brats above us are the same. `
-`...Still, I doubt there's enough for the 18 people here, much less a full three meals, right?" `
-`"That's right. `
-`It'll be a long journey 'til tomorrow. `
-`Maybe we'd better take a trip back to the mansion and fish around for some canned food or somethin' in the kitchen." `
-`"There's nothing more than crackers and snacks here, but if that will be sufficient, I can get them ready for you all. `
-`But with this many people, there might not be any left for lunch..." `
-`"That will do for now. `
-`Would you mind getting those ready?" `
-`It looked like the men had been taken over with an appetite that stopped all thought. `
-`The atmosphere grew more peaceful, and the epitaph investigation team split up for the time being. `
-`...But Eva kept staring at the paper the epitaph was written on like she was going to burn a hole through it... `
-`"......Playing around with letters was nothing more than a theory of mine. `
-`There's a chance it's mistaken. `
-`Eva-san, don't take it too seriously, okay...?" `
-`"......Thank you. `
-`I'll just keep doing this on my own. `
-`Would you mind leaving me alone?" `
-`Eva spoke coldly. `
-`...Kyrie didn't bother her any more, and instead went to help Natsuhi prepare breakfast. `
+`apakah tidak ada makanan di sini?" `
+`"Setidaknya harus ada cukup persediaan untuk sarapan. `
+`Aku akan menyiapkannya." `
+`"Aku juga lapar sekali. `
+`Dan aku yakin anak-anak nakal di atas sana juga sama. `
+`...Tapi, aku ragu ada cukup untuk 18 orang di sini, apalagi untuk tiga kali makan penuh, kan?" `
+`"Benar. `
+`Perjalanan besok akan panjang. `
+`Mungkin sebaiknya kita kembali ke mansion dan mencari-cari makanan kaleng atau sesuatu di dapur." `
+`"Di sini hanya ada biskuit dan camilan, tapi kalau itu cukup, aku bisa siapkan untuk kalian semua. `
+`Tapi dengan orang sebanyak ini, mungkin tidak akan ada sisa untuk makan siang..." `
+`"Itu sudah cukup untuk sekarang. `
+`Bisakah kau siapkan itu?" `
+`Sepertinya para pria itu sudah dikuasai nafsu makan yang menghentikan segala pikiran. `
+`Suasana menjadi lebih tenang, dan tim penyelidik epitaf itu pun berpisah untuk sementara. `
+`...Tapi Eva terus menatap kertas tempat epitaf itu ditulis seolah-olah dia akan membakarnya hingga bolong... `
+`"......Permainan huruf hanyalah teoriku. `
+`Ada kemungkinan itu salah. `
+`Eva-san, jangan terlalu serius, ya...?" `
+`"......Terima kasih. `
+`Aku akan terus melakukan ini sendiri. `
+`Bisakah kau membiarkanku sendiri?" `
+`Eva berbicara dengan dingin. `
+`...Kyrie tidak mengganggunya lagi, dan malah pergi membantu Natsuhi menyiapkan sarapan. `
 `"Nee-san, `
-`shouldn't we also help prepare breakfast?" `
-`"Then you go help. `
-`I'm busy solving this!" `
-`"S-Sorry... `
-`Th-Then I'll help..." `
-`"......Good grief. `
-`How can you be like that?" `
-`"...Huh?" `
-`"The Ushiromiya Family Headship will be given to the person who solves this epitaph. `
-`It looks like you've given up from the beginning, as if it has nothing to do with you, `
-`but if you can solve it, there's a chance even you'll be able to receive the Headship." `
-`"...This is a chance to steal everything from Nii-san. `
-`Why aren't you taking such a once-in-a-lifetime chance more seriously?" `
-`"...Um, ......umm, ...I..." `
-`Rosa hung her head, unsure as to how she should answer. `
-`...Too late, she regretted carelessly speaking to her sister when she was in a bad mood. `
-`"If you've noticed anything, say so. `
-`Even though Kyrie-san and I were thinking hard, you just kept nodding your head, didn't you? `
-`Come on. `
-`Isn't there anything you've noticed? `
-`Come on!" `
+`bukankah kita juga harus membantu menyiapkan sarapan?" `
+`"Kalau begitu, kau yang bantu saja. `
+`Aku sibuk memecahkan teka-teki ini!" `
+`"M-Maaf... `
+`K-Kalau begitu aku akan membantu..." `
+`"......Astaga. `
+`Kenapa kau bisa begitu?" `
+`"...Hah?" `
+`"Kepemimpinan Keluarga Ushiromiya akan diberikan kepada orang yang bisa memecahkan teka-teki epitaf ini. `
+`Sepertinya kau sudah menyerah sejak awal, seolah-olah ini tidak ada hubungannya denganmu, `
+`tapi jika kau bisa memecahkannya, ada kemungkinan bahkan kau pun bisa mendapatkan Kepemimpinan itu." `
+`"...Ini adalah kesempatan untuk merebut segalanya dari Nii-san. `
+`Kenapa kau tidak menganggap serius kesempatan sekali seumur hidup ini?" `
+`"...Um, ......umm, ...aku..." `
+`Rosa menundukkan kepalanya, tidak yakin bagaimana harus menjawab. `
+`...Terlambat, dia menyesal telah berbicara sembarangan kepada kakaknya saat sedang dalam suasana hati yang buruk. `
+`"Jika kau menyadari sesuatu, katakan saja. `
+`Meskipun Kyrie-san dan aku berpikir keras, kau hanya terus mengangguk-angguk, kan? `
+`Ayo. `
+`Tidak ada yang kamu perhatikan? `
+`Ayolah!" `
 `"......Uh, `
 `......umm, `
 `...... `
-`...Don't...you think this part's strange?" `
-`"...Strange? `
-`What is?" `
-`"Umm, ...this word, Golden Land. `
-`The word Golden Land comes up several times." `
-`"So what? `
-`Do you get some keywords by splitting up the characters in "Golden Land"?" `
-`"Um, umm, that's not it. `
-`......Look, isn't just the tenth twilight strange?" `
-`"...............Huh? `
+`...Kau... tidak merasa bagian ini aneh?" `
+`"...Aneh? `
+`Apa?" `
+`"Umm, ...kata ini, Taman Emas. `
+`Kata Taman Emas muncul beberapa kali." `
+`"Lalu kenapa? `
+`Memangnya kau mendapatkan kata kunci dengan memisahkan karakter-karakter dalam "Taman Emas"?" `
+`"Um, umm, bukan itu. `
+`......Lihat, bukankah hanya senja kesepuluh yang aneh?" `
+`"............... Hah? `
 `......ah." `
-`"Even though they're all written the "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:{p:0:黄金の郷}}). `
-`He explicitly mixed in the character {ruby:no:{p:0:の}}, changing the phrasing. `
-`It vaguely bugged me that it's only said differently here..." `
-`".........ah, umm, ...it's not like it means anything. `
-`This is Father we're talking about. `
-`It could just be a coincidental change in how he said the word." `
+`"Meskipun semuanya ditulis sebagai "Taman Emas" ({ruby:ougonkyou:{p:0:黄金郷}}), entah kenapa, tempat ini saja yang ditulis "Rumah Emas" ({ruby:ougon no sato:{p:0:黄金の郷}}). `
+`Dia secara sengaja mencampurkan karakter {ruby:no:{p:0:の}}, mengubah susunan kalimatnya. `
+`Aku agak merasa aneh karena hanya di sini saja yang disebutkan secara berbeda..." `
+`".........ah, umm, ...bukan berarti itu punya arti apa-apa. `
+`Ini tentang Ayah yang kita bicarakan. `
+`Mungkin itu hanya perubahan kebetulan dalam cara dia mengucapkan kata itu." `
 `".........................................." `
-`".........Boring." `
-`"Oh? What is boring...?" `
-`"......Boring, boring." `
-`"My, my. `
-`What on earth is this child grumbling about?" `
-`"She's probably annoyed by all the tips you gave Battler-sama, Madam." `
-`"...Nooot really. `
-`That doesn't annoy me. `
-`On the contrary, I'm happy to see that useless Battler finally reach a level where he can match me." `
+`"......... Membosankan." `
+`"Oh? Apa yang membosankan...?" `
+`"......Membosankan, membosankan." `
+`"Astaga, astaga. `
+`Apa sih yang dikeluhkan anak ini?" `
+`"Dia mungkin kesal dengan semua petunjuk yang Anda berikan kepada Battler-sama, Nyonya." `
+`"...Gak juga. `
+`Itu tidak menggangguku. `
+`Justru sebaliknya, aku senang melihat Battler yang tak berguna itu akhirnya mencapai level di mana dia bisa menyaingiku." `
 `"Hohohoh... `
-`Did Battler-kun and I get a little too close? `
-`Perhaps us old fogeys had best leave you young'uns alone." `
+`Apakah Battler-kun dan aku jadi terlalu dekat? `
+`Mungkin kami para orang tua ini sebaiknya membiarkan kalian para anak muda sendiri." `
 `"Pu ku ku ku ku..." `
-`When {f:5:Virgilia} and Ronove giggled and cackled, `
-`{f:5:Beatrice}'s irritation meter finally reached its limit. `
-`"Gaah, enough with everyone laughing at me! `
-`Ronove, vanish for a while! `
-`Disappear, disappeeear!" `
-`"Certainly. `
-`Then I shall rest for the time being. `
+`Ketika {f:5:Virgilia} dan Ronove terkekeh, `
+`tingkat kekesalan {f:5:Beatrice} akhirnya mencapai batasnya. `
+`"Gaah, sudah cukup semua orang menertawakanku! `
+`Ronove, menghilanglah sebentar! `
+`Hilanglah, hilanglah!" `
+`"Dimengerti. `
+`Kalau begitu, saya akan beristirahat sejenak. `
 `Pukukukuku..." `
-`Ronove bowed his head, still laughing, and vanished. `
-`After that, all that remained was the grumpy and irritated figure of {f:5:Beatrice}... `
-`and {f:5:Virgilia}, who was coolly enjoying her tea. `
-`"......When you said "{p:1:There are no more than 18 people on this island}", you actually cornered yourself." `
-`"......I knew it... `
-`......I did have this feeling it might be a bit too early... `
-`I suppose that was right after all, wasn't it?" `
-`"If you had led him further astray first, things might have been different, `
-`but as it was, that trump card was a real waste. `
-`You ended up rousing him instead." `
-`In addition to denying the witch, `
-`Battler had possessed a second victory condition, one of explaining everything without suspecting one of the 18. `
-`It was at that point, when he'd been tossed about by two opposing goals, that his heart should have been at its weakest. `
-`However, {f:5:Beatrice} had used the red carelessly, proclaiming that there were no more than 18 people. `
-`...Because of that, Battler had been forced to suspect one of the 18, `
-`......and he had finally begun to build up the resolve he needed to accept that. `
-`Battler was stubborn, `
-`but that was exactly why fissures would run all through him, like breaking china, when he was struck in a fragile spot. `
-`That itself should have been his greatest weak point, but... `
+`Ronove menundukkan kepalanya, masih tertawa, lalu menghilang. `
+`Setelah itu, yang tersisa hanyalah sosok {f:5:Beatrice} yang cemberut dan kesal... `
+`dan {f:5:Virgilia}, yang dengan tenang menikmati tehnya. `
+`"......Saat kau bilang "{p:1:Tidak ada lebih dari 18 orang di pulau ini}", kau sebenarnya menjebak dirimu sendiri." `
+`"......Aku tau... `
+`......Aku memang merasa ini mungkin terlalu dini... `
+`Sepertinya itu benar juga, bukan?" `
+`"Kalau kau sudah menyesatkannya lebih jauh terlebih dahulu, mungkin segalanya akan berbeda, `
+`tapi karena begitu, kartu as itu benar-benar sia-sia. `
+`Kau malah membangunkannya." `
+`Selain menyangkal penyihir, `
+`Battler memiliki syarat kemenangan kedua, yaitu menjelaskan segalanya tanpa mencurigai salah satu dari 18 orang. `
+`Pada saat itulah, ketika dia terombang-ambing oleh dua tujuan yang bertentangan, hatinya seharusnya berada di titik terlemahnya. `
+`Namun, {f:5:Beatrice} telah menggunakan kartu merah dengan sembarangan, menyatakan bahwa tidak ada lebih dari 18 orang. `
+`...Karena itu, Battler terpaksa mencurigai salah satu dari 18 orang itu, `
+`......dan dia akhirnya mulai membangun tekad yang dibutuhkannya untuk menerima hal itu. `
+`Battler memang keras kepala, `
+`tetapi justru itulah sebabnya retakan akan menjalar di seluruh dirinya, seperti porselen yang pecah, ketika dia terkena di titik yang rapuh. `
+`Itu sendiri seharusnya menjadi titik lemahnya yang terbesar, tetapi... `
 `"......Nnnngggg. `
-`...Did I get a little too careless after my complete victory last time...?" `
-`"Yes, you were too careless. `
-`...The last game was a difficult one for Battler-kun, `
-`but it seems this game will become `
-`a difficult one {i:for you}." `
-`"...A broken vase will never return to its original form. `
-`...So, it would be more constructive to think of a next move, rather than regretfully picking up the pieces." `
-`"......However, now that Battler has figured out as much as he has, how should I plot against him...?" `
+`...Apakah aku jadi sedikit terlalu ceroboh setelah kemenangan telakku terakhir kali...?" `
+`"Ya, kau terlalu ceroboh. `
+`...Permainan terakhir itu sulit bagi Battler-kun, `
+`tapi sepertinya permainan ini akan menjadi `
+`sulit {i:bagimu}." `
+`"...Sebuah vas yang pecah takkan pernah kembali ke bentuk aslinya. `
+`... Jadi, akan lebih bermanfaat untuk memikirkan langkah selanjutnya, daripada menyesali sambil memungut pecahannya." `
+`"......Tapi, sekarang Battler sudah mengetahui sebanyak ini, bagaimana aku harus merencanakan strategi melawan dia...?" `
 `"Hohohoh. `
-`Your troubled face is an even better snack than Ronove's cookies." `
+`Wajahmu yang bingung ini adalah camilan yang lebih enak daripada kue Ronove." `
 `"...Uu-. `
-`You and Battler...and even Ronove are treating me like sweets now. `
-`...Even though I'm not sweet at all." `
-`With a shameful, childlike face that she would never have shown in front of Battler, `
-`{f:5:Beatrice} rolled her head around on top of the table. `
-`"......Teacheeer. `
-`......At least gimme a hi-nt." `
+`Kau dan Battler... bahkan Ronove pun memperlakukanku seperti permen sekarang. `
+`...Padahal aku sama sekali tidak manis." `
+`Dengan wajah malu-malu seperti anak kecil yang tidak akan pernah dia tunjukkan di depan Battler, `
+`{f:5:Beatrice} memutar kepalanya di atas meja. `
+`"......Guruuuu. `
+`......Setidaknya kasih aku petunjuk dong." `
 `"Oh? `
-`What kind of hint?" `
-`"If you know some really good move that'll leave Battler speechless and make him wanna accept me... `
-`I won't ask you to say it outright, so, umm, `
-`...even if it's just a hint..." `
-`"Hohohoh, I can't. `
-`I am on Battler-kun's side right now, `
-`so I couldn't teach you something that would give you an advantage." `
-`"...C'mon, don't be so stingy... `
-`Your disciple's in trouble, right...?" `
-`"I seem to remember you brazenly boasting that you had surpassed your teacher." `
+`Petunjuk seperti apa?" `
+`"Kalau kau tau trik jitu yang bisa bikin Battler terdiam dan membuatnya mau menerimaku... `
+`Aku tidak akan minta kau membicarakannya secara langsung, jadi, umm, `
+`...meski hanya sebuah petunjuk..." `
+`"Hohohoh, aku tidak bisa. `
+`Aku sekarang di pihak Battler-kun, `
+`jadi aku tidak bisa mengajarimu sesuatu yang akan memberimu keuntungan." `
+`"...Ayolah, jangan pelit begitu... `
+`Muridmu lagi dalam masalah, kan...?" `
+`“Seingatku, kau pernah dengan berani membanggakan diri kalau kau sudah melampaui gurumu.” `
 `"......Uu-... `
-`Please act like an old person and gimme just a bit of your crafty ideas... `
-`Pleease... `
-`It's mean if you only help Battleeer..." `
-`"My, my. `
-`You're still a spoiled child." `
-`"...But, it's true that I may have given Battler-kun a few too many hints. `
-`It did serve as a scolding to you, `
-`but perhaps it was a little too much support for a fair game." `
-`"Isn't that right, isn't that right...? `
-`Please, Teacheeer, at least just a hint now..." `
-`".........This is only a hint. `
-`Think about what it means by yourself, okay?" `
-`"Yeah, yeah! `
-`I'll think about it myself, so please! `
-`Please, gimme one that'll leave Battler down in the dumps, Teacher." `
-`Considering how she acted like a great and mighty witch in front of Battler, the way she acted when he wasn't around was truly pathetic. `
-`{f:5:Virgilia} sighed at how childish Beato still was, despite all the time that had passed. `
-`"Then just a hint. `
-`...Do you know of Aesop's fable, The North Wind and the Sun?" `
-`"Of course. `
-`It's a story about how the north wind and the sun challenge each other to see who can steal the cloak off a traveler, right?" `
-`"That's right. `
-`Violent, impatient methods aren't necessarily the best decisions in all cases." `
-`"...You don't have to tell me that. `
-`I've already reflected on the mistakes I made when I was too anxious to achieve victory." `
+`Tolong bertingkah seperti orang tua dan berikan aku sedikit saja ide-ide licikmu... `
+`Tolonglah... `
+`Itu kejam kalau kau hanya membantu Battler..." `
+`"Astaga, astaga. `
+`"Kau masih anak manja." `
+`"...Tapi, memang benar aku mungkin telah memberi Battler-kun terlalu banyak petunjuk. `
+`Itu memang bertujuan sebagai teguran bagimu, `
+`tapi mungkin itu sedikit terlalu banyak dukungan untuk permainan yang adil." `
+`"Bukankah begitu, bukankah begitu...? `
+`Tolong, Guru, setidaknya beri satu petunjuk sekarang..." `
+`".........Ini hanya petunjuk. `
+`Pikirkan sendiri apa artinya, oke?" `
+`"Iya, iya! `
+`Aku akan memikirkannya sendiri, jadi tolong! `
+`Tolong, beri aku yang bisa membuat Battler sedih, Guru." `
+`Mengingat bagaimana dia bertingkah seperti penyihir hebat dan perkasa di depan Battler, cara dia bertingkah saat Battler tidak ada sungguh menyedihkan. `
+`{f:5:Virgilia} menghela napas melihat betapa masih kekanak-kanakan Beato, meskipun sudah berlalu begitu lama. `
+`"Kalau begitu, hanya petunjuk saja. `
+`...Apakah kau tau dongeng Aesop, Angin Utara dan Matahari?" `
+`"Tentu saja. `
+`Itu cerita tentang bagaimana angin utara dan matahari saling menantang untuk melihat siapa yang bisa mencuri jubah seorang pengembara, kan?" `
+`"Benar. `
+`Metode yang kasar dan tidak sabar belum tentu keputusan terbaik dalam semua kasus." `
+`"...Kau tidak perlu memberitauku itu. `
+`Aku sudah merenungkan kesalahan yang kubuat saat terlalu terburu-buru ingin meraih kemenangan." `
 `"...... `
-`Think well about what this means. `
-`And furthermore, `
-`...there's one point that Battler seems to be misunderstanding a bit, but he isn't the only one." `
-`"Do you understand the victory conditions of this game?" `
-`"...What else is there, other than making Battler surrender?" `
-`"......See? `
-`You're already wrong there." `
-`"How am I wrong?" `
-`"Your victory isn't making Battler-kun surrender. `
-`...Isn't it making Battler-kun accept your existence?" `
-`"...What's this? `
-`You want me to butter him up, begging him to accept me as a witch?! `
-`How foolish! `
-`I haven't sunk that low!" `
-`Grrrrrrrrrrr... Beato growled like a dog in a bad mood. `
-`{f:5:Virgilia} shrugged her shoulders, snickering at her disciple, who was as short-tempered as ever... `
-`"That is my hint. `
-`For the rest, you'll have to consider deeply on your own. `
-`......In any event, your moves up until now will not work on Battler-kun. `
-`A significant tactical adjustment will probably be required." `
-`"...I don't need you to tell me that. `
-`...I don't have a clue what you mean by the North Wind and the Sun, `
-`but at any rate, I realize I'll have to alter my course. `
-`...I'll introduce a scheme clever enough to surprise even you, Teacher...!" `
+`Pikirkan baik-baik apa artinya ini. `
+`Dan lebih jauh lagi, `
+`...ada satu hal yang sepertinya Battler salah paham sedikit, tapi dia bukan satu-satunya." `
+`"Apakah kau mengerti syarat kemenangan dalam permainan ini?" `
+`"...Apa lagi yang ada, selain membuat Battler menyerah?" `
+`"......Lihat? `
+`Kau sudah salah di situ." `
+`"Di mana kesalahanku?" `
+`"Kemenanganmu bukanlah membuat Battler-kun menyerah. `
+`...Bukankah itu membuat Battler-kun menerima keberadaanmu?" `
+`"...Apa ini? `
+`Kau mau aku menjilatinya, memohon padanya agar menerima aku sebagai penyihir?! `
+`Betapa bodohnya! `
+`Aku tidak semenyedihkan itu!" `
+`Grrrrrrrrrrr... Beato menggeram seperti anjing yang sedang kesal. `
+`{f:5:Virgilia} mengangkat bahu, tertawa kecil melihat muridnya yang masih sama pemarahnya seperti biasa... `
+`"Itu petunjukku. `
+`Selebihnya, kau harus memikirkannya sendiri dengan mendalam. `
+`......Bagaimanapun juga, langkah-langkahmu sampai sekarang tidak akan berhasil pada Battler-kun. `
+`Mungkin diperlukan penyesuaian taktis yang besar." `
+`"...Kau tidak perlu memberitauku itu. `
+`...Aku sama sekali tidak mengerti maksudmu tentang Angin Utara dan Matahari, `
+`tapi bagaimanapun, aku sadar aku harus mengubah arahku. `
+`...Aku akan memperkenalkan rencana yang cukup cerdik yang bahkan bisa mengejutkanmu, Guru...!" `
 `"Hohoho... `
-`I look forward to it. `
-`I wonder how Battler-kun will tackle that. `
-`...I wish you good luck as well." `
-`"After Battler, you mean? `
+`Aku menantikannya. `
+`Aku penasaran bagaimana Battler-kun akan menghadapinya. `
+`...Aku juga mendoakanmu semoga beruntung." `
+`"Setelah Battler, maksudmu? `
 `Hmm..." `
-`"......Are you gonna give up and resign already? `
-`I guess you are that tired. If only you'd just grab a futon and sleep..." `
-`...As my mind grew vague and I pretended to fight my drowsiness, while sinking deeper and deeper into the sofa, `
-`"I" scolded myself. `
-`"...You also dreamed about stealing the position of Family Head from Krauss, right...? `
-`Even though my magic's given you a chance, are you already throwing it away...?" `
-`You could say that, but... `
-`......This riddle is really hard. `
-`Even a wire puzzle would be better. `
-`...At least in that case, you know for sure that it's solvable. `
-`But in the case of this epitaph riddle, we've been given no reason to be sure of that. `
-`...I might just be fighting a useless battle. `
-`...Still hazy, I looked at the notebook I'd been holding the whole time. `
-`It was opened to a page with the epitaph, which I must've stared at hard enough to burn holes in it on so many hundreds of nights, I'd lost count. `
-`...That page...is truly a door. `
-`On the other side lies the "Golden Land", the place I've wanted to drag myself to no matter the effort ever since I was a child, `
-`...and the place I was never able to reach. `
-`Am I touching the door with both hands, `
-`with the book...no, the door right there in front of me, ready to be opened, ...and yet still unable to reach the other side? `
-`"...That's right. `
-`Your hand is already on the door. `
-`Come on, open it with all your strength. `
-`And read the characters written on the door." `
-`"......Open it... `
-`with all my strength. `
-`...Read... `
-`the characters written on the door..." `
-`Strain your eyes. `
-`...See through to the thing beyond the epitaph written in the notebook... `
-`"...The "beloved hometown" definitely won't betray our expectations. `
-`...The only past Father held dear happened during his childhood years." `
-`That's right... `
-`Then what about the "sweetfish river"? `
-`There are several rivers where they swim, and there's reason to doubt that this just refers to one close to the place Father lived. `
-`...If we take out a map and start calculating which rivers with sweetfish were closest, `
-`...things will quickly get vague and we won't be able to narrow it down... `
-`"Didn't you say it yourself? `
-`You said it didn't have to be a river with water flowing down it. `
-`...If the word sweetfish is too complicated, why not forget it...?" `
-`"Think of a river. `
-`A river. `
-`Linking it with a "family tree" wasn't a bad idea. `
-`Try thinking about how to link a river with something else along those lines..." `
-`...It isn't a river? `
-`But where else could sweetfish swim? `
-`Oh, but if we're talking about places sweetfish can swim, then maybe the ocean has something to do with this... `
-`Didn't my husband even say that they go out into the ocean, even though they're river fish...? `
+`"......Apakah kau akan menyerah dan mengundurkan diri begitu saja? `
+`Sepertinya kau memang sudah lelah. Lebih baik kau mengambil futon dan tidur..." `
+`...Saat pikiranku mulai kabur dan aku berpura-pura melawan kantuk, sambil tenggelam semakin dalam ke sofa, `
+`"Aku" menegur diriku sendiri. `
+`"...Kau juga bermimpi merebut posisi Kepala Keluarga dari Krauss, kan...? `
+`Padahal sihirku sudah memberimu kesempatan, apakah kau sudah membuangnya begitu saja...?" `
+`Bisa dibilang begitu, tapi... `
+`......Teka-teki ini benar-benar sulit. `
+`Bahkan teka-teki kawat pun lebih baik. `
+`...Setidaknya dalam kasus itu, kau tau pasti kalau itu bisa dipecahkan. `
+`Tapi dalam kasus teka-teki epitaf ini, kita tidak diberi alasan untuk yakin akan hal itu. `
+`...Mungkin aku hanya sedang berjuang dalam pertempuran yang sia-sia. `
+`...Masih bingung, aku menatap buku catatan yang telah kupegang sepanjang waktu. `
+`Buku itu terbuka di halaman yang berisi epitaf, yang pasti telah kutatap begitu keras hingga seolah-olah bisa membakar lubang di dalamnya selama ratusan malam, hingga aku kehilangan hitungannya. `
+`...Halaman itu... benar-benar sebuah pintu. `
+`Di sisi lain terdapat "Taman Emas", tempat yang ingin kucapai dengan segala cara sejak aku masih kecil, `
+`...dan tempat yang tak pernah bisa kucapai. `
+`Apakah aku menyentuh pintu itu dengan kedua tangan, `
+`bersama buku... tidak, pintu yang ada tepat di depanku, siap untuk dibuka, ...Tapi tetap tak mampu mencapai sisi lain? `
+`"...Benar. `
+`Tanganmu sudah ada di pintu. `
+`Ayo, bukalah dengan segenap tenaga. `
+`Dan bacalah huruf-huruf yang tertulis di pintu." `
+`"......Bukalah... `
+`dengan segenap tenaga. `
+`...Bacalah... `
+`huruf-huruf yang tertulis di pintu..." `
+`Perhatikan dengan seksama. `
+`...Lihatlah apa yang ada di balik tulisan di buku catatan itu... `
+`"..."Kampung tercinta" pasti tidak akan mengecewakan harapan kita. `
+`...Satu-satunya masa lalu yang Ayah sayangi terjadi pada masa kecilnya." `
+`Benar juga... `
+`Lalu bagaimana dengan "sungai sweetfish"? `
+`Ada beberapa sungai tempat ikan-ikan itu berenang, dan ada alasan untuk meragukan kalau ini hanya merujuk pada satu sungai yang dekat dengan tempat Ayah tinggal. `
+`...Jika kita membuka peta dan mulai menghitung sungai mana yang memiliki sweetfish dan paling dekat, `
+`...segala sesuatunya akan segera menjadi kabur dan kita tidak akan bisa mempersempit pilihannya... `
+`"Bukankah kau sendiri yang bilang? `
+`Kau bilang itu tidak harus sungai dengan air yang mengalir. `
+`...Jika kata sweetfish terlalu rumit, mengapa tidak melupakannya saja...?" `
+`"Bayangkan sebuah sungai. `
+`Sebuah sungai. `
+`Mengaitkannya dengan "silsilah" bukanlah ide yang buruk. `
+`Coba pikirkan cara mengaitkan sungai dengan hal lain yang sejenis..." `
+`...Bukan sungai? `
+`Tapi di mana lagi sweetfish bisa berenang? `
+`Oh, tapi kalau kita bicara tentang tempat-tempat di mana sweetfish bisa berenang, mungkin laut ada hubungannya dengan ini... `
+`Bukankah suamiku pernah mengatakan kalau mereka pergi ke laut, meskipun mereka adalah ikan sungai...? `
 `....................................... `
 `.................. `
-`......To the ocean. `
-`............No, `
+`......Ke laut. `
+`............Tidak, `
 `......... `
-`...but...`.........Huh...? `
-`"...Did you notice? `
-`But that's just a faint memory. `
-`There's supposed to be a room for storing books in this building, right? `
-`If you investigate, you can make sure." `
-`...If that's the "sweetfish river"...... `
-`......And if the key might be a six character word... `
-`.........Then could the key actually be resting in that river? `
-`I-I don't know, I don't know. `
-`...Anyway, I have to search in an atlas... `
-`But, even if I know that, I don't know "from what" I should take the six characters... `
-`"...You really don't know? `
-`Think deeply. `
-`......We're pretty smart, so our ideas are solid." `
-`"Don't think of it like it's something as massive as the riddle of the epitaph, but like it's a child's riddle. `
-`...Men are always children, no matter how old they get. `
-`Even if Father has advanced into old age, `
-`that doesn't change the fact that he's essentially a child at heart." `
-`"......Throw away your awe of Father. `
-`...Think of this like it's a worthless, infantile game with riddles, like the ones Maria suddenly brought out on the boat." `
-`...Riddles. `
-`...Worthless, infantile. `
+`...tapi...`.........Hah...? `
+`"...Kau menyadarinya? `
+`Tapi itu hanya kenangan samar. `
+`Seharusnya ada ruangan untuk menyimpan buku di bangunan ini, kan? `
+`Kalau kau menyelidiki, kau bisa memastikan." `
+`...Kalau itu "sungai sweetfish"...... `
+`......Dan kalau kuncinya mungkin berupa kata berhuruf enam... `
+`.........Maka apakah kunci itu sebenarnya berada di sungai itu? `
+`A-Aku tidak tau, aku tidak tahu. `
+`...Pokoknya, aku harus cari di atlas... `
+`Tapi, meski aku tau itu, aku tidak tau "dari mana" aku harus ambil enam karakter itu... `
+`"...Kau beneran tidak tau? `
+`Pikirkanlah dengan mendalam. `
+`......Kita cukup pintar, jadi ide-ide kita kokoh." `
+`"Jangan anggap ini seperti teka-teki epitaf yang rumit, tapi seperti teka-teki anak-anak. `
+`...Pria selalu seperti anak-anak, tak peduli seberapa tua mereka. `
+`Bahkan jika Ayah sudah memasuki usia tua, `
+`itu tidak mengubah fakta kalau dia pada dasarnya masih anak-anak di dalam hatinya." `
+`"......Buang rasa kagummu pada Ayah. `
+`...Anggap saja ini seperti permainan teka-teki yang tidak berguna dan kekanak-kanakan, seperti yang tiba-tiba dibawa Maria di atas perahu." `
+`...Teka-teki. `
+`...Tak berguna, kekanak-kanakan. `
 `............ `
 `.........Huh, ......ah. `
-`...I'm sure that was...what was it...umm, umm... `
-`...I'm sure, if my memory isn't wrong, ...that it's probably the case, umm... `
-`No, I don't have to rely on my vague memory. `
-`I should be able to figure that out immediately by searching the library. `
-`"......We've probably already noticed the answer. `
-`...All that's left is to investigate whether it's correct or not." `
-`"Come on, Eva. `
-`Let's go to the library, making sure no one sees us. `
-`...There, we should find a mountain of thick books that didn't fit in Father's study. `
-`...I'm sure we'll find a book that answers our question. `
-`......Quickly. `
-`This is the first and last chance we'll ever get to make our dreams come true." `
-`When Natsuhi tried to lay a blanket over her, Eva suddenly jumped up. `
-`"...I'm sorry. `
-`It looks like I woke you." `
+`...Aku yakin itu... apa ya... umm, umm... `
+`...Aku yakin, kalau ingatanku tidak salah, ...kemungkinan besar memang begitu, umm... `
+`Tidak, aku tidak perlu mengandalkan ingatanku yang samar-samar. `
+`Aku seharusnya bisa langsung mengetahuinya dengan mencari di perpustakaan. `
+`"......Kita mungkin sudah menyadari jawabannya. `
+`...Yang tersisa sekarang hanyalah menyelidiki apakah itu benar atau tidak." `
+`"Ayo, Eva. `
+`Mari kita pergi ke perpustakaan, pastikan tidak ada yang melihat kita. `
+`...Di sana, kita pasti akan menemukan tumpukan buku-buku tebal yang tidak muat di ruang kerja Ayah. `
+`...Aku yakin kita akan menemukan buku yang menjawab pertanyaan kita. `
+`......Cepat. `
+`Ini adalah kesempatan pertama dan terakhir yang akan kita dapatkan untuk mewujudkan impian kita." `
+`Ketika Natsuhi mencoba meletakkan selimut di atasnya, Eva tiba-tiba melompat bangun. `
+`"...Maaf. `
+`Sepertinya aku membangunkanmu." `
 `"...Eva, `
-`if you're sleepy, don't overdo it. `
-`You rest first." `
-`"...Th-Thank you. `
-`I'm just going to the bathroom for a bit to wash my face." `
-`"You should take it easy and rest. `
-`...You're just gonna make yourself feel worse, you know?" `
-`"I told you I'm fine! `
-`I'll be right back." `
-`After leaving only those words behind, I rapidly left the lobby. `
-`The lobby was partitioned off by a door, so as soon as I went into the corridor, they could no longer see me. `
-`...The library was next to the servant room. `
-`Father always owned a vast book collection, `
-`but ever since he started to become engrossed with his occult hobby, that collection grew even larger, `
-`so that the normal books suitable for a normal study had been forced out as his study overflowed. `
-`This so-called library was mostly used as a storage room for those normal books. `
-`They were all thick, like complete encyclopedias for intellectuals, `
-`but that was very convenient for me, now that I was investigating something. `
-`I entered softly, ...and just in case, I checked the room with my gun readied, making sure that there were no suspicious people there. `
-`Then I locked it from the inside. `
-`I actually wasn't thinking that the murderer might be hiding somewhere. `
-`...What scared me was the thought that one of my siblings might hear what I was investigating. `
-`My heart had started racing before I realized it... `
-`...I was half-asleep just a moment ago, so I didn't realize how significant this thing I noticed was. `
-`But as I gradually became aware, ...my heart started to feel like it was about to explode. `
-`"......I...wonder if any of the other siblings have noticed this..." `
-`I don't think Krauss and Rudolf will notice. `
-`...But I don't know about Kyrie. `
-`She has extraordinarily good intuition. `
-`......And I don't know about Rosa either. `
-`"Rosa's stupid too. `
-`She always has been, incredibly so." `
-`Really...? `
-`I'd say she was wise enough to make you think she was stupid, so that she didn't earn herself unnecessary malice. `
-`"......Here it is. `
-`...I wonder if we'll find it in this one." `
-`I pulled the book out and flipped through the pages... `
+`kalau kau mengantuk, jangan dipaksakan. `
+`Istirahat dulu." `
+`"...T-Terima kasih. `
+`Aku mau ke kamar mandi sebentar untuk cuci muka." `
+`"Kau sebaiknya santai dan istirahat. `
+`...Kau hanya akan membuat dirimu makin parah, loh!" `
+`"Sudah kubilang aku baik-baik saja! `
+`Aku segera kembali." `
+`Setelah meninggalkan kata-kata itu, aku segera keluar dari lobi. `
+`Lobi dipisahkan oleh sebuah pintu, jadi begitu aku masuk ke koridor, mereka tidak bisa lagi melihatku. `
+`...Perpustakaan berada di sebelah ruang pelayan. `
+`Ayah selalu memiliki koleksi buku yang sangat banyak, `
+`tapi sejak dia mulai asyik dengan hobi okultismenya, koleksi itu semakin membesar, `
+`sehingga buku-buku biasa yang cocok untuk ruang belajar biasa terpaksa dipindahkan karena ruang belajarnya sudah penuh. `
+`Perpustakaan yang disebut-sebut ini sebagian besar digunakan sebagai ruang penyimpanan untuk buku-buku biasa itu. `
+`Semua buku itu tebal, seperti ensiklopedia lengkap untuk para intelektual, `
+`tetapi hal itu sangat menguntungkan bagiku, mengingat aku sedang menyelidiki sesuatu. `
+`Aku masuk dengan pelan, ...dan sebagai tindakan pencegahan, aku memeriksa ruangan itu sambil memegang senjata, memastikan tidak ada orang mencurigakan di sana. `
+`Lalu aku menguncinya dari dalam. `
+`Sebenarnya aku tidak berpikir kalau pembunuhnya mungkin bersembunyi di suatu tempat. `
+`...Yang membuatku takut adalah pikiran kalau salah satu saudara kandungku mungkin mendengar apa yang sedang aku selidiki. `
+`Jantungku mulai berdebar kencang sebelum aku menyadarinya... `
+`...Aku baru saja setengah tertidur, jadi aku tidak menyadari betapa pentingnya hal yang aku perhatikan ini. `
+`Tapi saat aku perlahan menyadarinya, ...hatiku mulai terasa seolah-olah akan meledak. `
+`"......Aku... penasaran apakah saudara-saudaraku yang lain juga menyadari ini..." `
+`Aku rasa Krauss dan Rudolf tidak akan menyadarinya. `
+`...Tapi aku tidak tau tentang Kyrie. `
+`Dia punya intuisi yang luar biasa. `
+`......Dan aku juga tidak tau soal Rosa. `
+`"Rosa juga bodoh. `
+`Dia selalu begitu." `
+`Benarkah...? `
+`Menurutku dia cukup bijak untuk membuatmu berpikir dia bodoh, agar dia tidak mendapat kebencian yang tidak perlu. `
+`"...... Ini dia. `
+`...Aku penasaran apakah kita akan menemukannya di buku ini." `
+`Aku mengeluarkan buku itu dan membalik-balik halamannya... `
 `"......Nn. `
-`......So this is... `
+`......Jadi ini adalah... `
 `...... `
-`a "sweetfish river"...?" `
-`I see... `
-`This is what the sweetfish river means. `
-`...Don't dawdle around, research further. `
-`"Y-Yes, I understand... `
-`If you follow the river downstream, you will find a village... `
-`By using the character "{p:0:里}", does he mean a town or something? `
-`That's just an area of dense population, so there could be any number of those..." `
-`Why have you stopped thinking?! `
-`Oh, is this too much work for you? If only you'd just give up... `
-`If only you'd just hand the Ushiromiya Headship over to Kyrie...! `
-`"I-I don't want to... `
-`I will become the Head. `
-`...This is...umm, my first and last chance... `
-`...What is this village? `
-`What does it mean?! `
-`Do you find one if you go down the river...?! `
+`"Sungai sweetfish"...?`
+`Oh, begitu...`
+`Inilah arti dari sungai sweetfish.`
+`...Jangan berlama-lama, selidiki lebih lanjut.`
+`"I-Iya, aku mengerti..."`
+`Jika kau mengikuti aliran sungai ke hilir, kau akan menemukan sebuah desa... `
+`Dengan menggunakan karakter "{p:0:里}", apakah yang dia maksud adalah sebuah kota atau semacamnya? `
+`Itu hanyalah sebuah wilayah dengan kepadatan penduduk yang tinggi, jadi bisa saja ada banyak tempat seperti itu..." `
+`Kenapa kau berhenti berpikir?! `
+`Oh, apakah ini terlalu berat bagimu? Bayangkan kau menyerah begitu saja... `
+`Andai saja kau menyerahkan Kepemimpinan Ushiromiya kepada Kyrie...! `
+`"A-Aku tidak mau... `
+`Aku akan menjadi Kepala Keluarga. `
+`...Ini adalah...umm, kesempatan pertama dan terakhirku... `
+`...Desa apa ini? `
+`Apa artinya?! `
+`Apakah kau akan menemukannya jika kau menyusuri sungai...?! `
 `......Ah, ... `
 `aaaaaaaahhh...!!" `
-`...In the village, look for the shore the two will tell you of. `
+`...Di desa itu, carilah pantai yang akan mereka berdua ceritakan padamu. `
 `...{ruby:shore:{p:0:岸}}. `
-`Get it? `
-`"Uu, ...*gulp*... `
-`I-I-I understand...! `
-`"Shore", ..."shore"......!" `
-`...the pieces that I hadn't been able to understand at all... `
-`...began to *snap*... `
-`*snap*... `
-`into place, all by themselves... `
-`I couldn't even remember to close my open mouth. `
-`...My throat grew completely dry... `
-`Is it...really okay for this to be the answer? `
-`R-Really? `
-`Really...?! `
-`"...But this isn't six characters at all. `
-`...I'm absolutely sure this is the answer, but this doesn't reach six characters at all...!" `
-`Did you stop thinking again? `
-`In that case, think of a way you could read it with six characters. `
-`If you can't think of one, then research it. `
-`...There has to be an answer. `
-`You must not doubt that. `
-`Is believing in that too much for you? If only you'd just cry yourself to sleep, and then you can just give up and die... `
-`"............1, `
+`Mengerti? `
+`"Uu, ...*deg*... `
+`Aku mengerti...! `
+`"Pantai", ..."pantai"......!" `
+`...potongan-potongan yang sama sekali tidak bisa aku pahami... `
+`...mulai *klik*... `
+`*klik*... `
+`terpasang dengan sendirinya... `
+`Aku bahkan tidak ingat untuk menutup mulutku yang terbuka. `
+`... Tenggorokanku menjadi benar-benar kering... `
+`Apakah... benar-benar boleh ini menjadi jawabannya? `
+`B-Benarkah? `
+`Benarkah...?! `
+`"...Tapi ini sama sekali bukan enam karakter. `
+`...Aku benar-benar yakin ini jawabannya, tapi ini sama sekali tidak mencapai enam karakter...!" `
+`Apakah kau berhenti berpikir lagi? `
+`Kalau begitu, pikirkan cara membacanya dengan enam karakter. `
+`Kalau kau tidak bisa memikirkannya, cari tau. `
+`...Pasti ada jawabannya. `
+`Kau tidak boleh meragukannya. `
+`Apakah percaya pada hal itu terlalu berat bagimu? Seandainya saja kau menangis sampai tertidur, lalu kau bisa menyerah dan mati... `
+`"....... .....1, `
 `2, `
 `3, `
 `4, `
 `5, `
 `6... `
 `...Oooh, `
-`...s `
+`...e `
 `- `
-`six characters... `
+`enam huruf... `
 `" `
-`...I- `
-`I found it. `
-`...This... `
-`is... `
-`th- `
-`the key to the Golden Land...!!" `
-`Yes. `
-`This is...the key to the Golden Land. `
-`...The key...to our childhood dreams. `
-`...The only keyhole this key can be stuck in...is that place. `
-`That...has to be what offering the sacrifices means. `
-`I'm sure you get it by now, right......? `
-`"...A-Aaaaaaaaaaaaaaahhh...!!!" `
+`...Aku- `
+`Aku menemukannya. `
+`...Ini... `
+`adalah... `
+`kun- `
+`kunci menuju Taman Emas...!!" `
+`Iya. `
+`INi adalah...kunci menuju Taman Emas. `
+`...Kunci...menuju mimpi masa kecil kita. `
+`...Satu-satunya lubang kunci yang pas...ada di tempat itu. `
+`Itu...pasti yang dimaksud dengan mempersembahkan korban. `
+`Kau pasti sudah mengerti sekarang, kan......? `
+`"...A-Aaaaaaaaaaaaaaahhh...!!!"`

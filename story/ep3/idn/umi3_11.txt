@@ -1,743 +1,743 @@
-`"......This way? `
-`...Go this way......? `
-`They're...inviting me to go this way......" `
+`"......Ke sini? `
+`...Ke arah sini......? `
+`Mereka...mengundangku ke arah sini......" `
 `...!!! `
-`My heart leapt. `
-`...Because there, ......gaping wide, ...was an opened mouth in the eerie darkness. `
-`"...Wh-What's this...? `
-`What is this...?!" `
-`When I strained my eyes, peering into the darkness, I saw something that looked like a light switch. `
-`...In addition, there was a switch with "open" and "close" written on it. `
-`When I resolutely pushed the switch, `
-`rough lights, like you'd find in a coal mine, turned on sporadically, `
-`making a staircase that stretched underground come hazily into view... `
-`Eerily enough, it looked even more gloomy with the lights turned on. `
-`Near the light switch was that "open and close" switch. `
-`...It would probably open or close this, but if the open part happened to be broken, `
-`I might be shut away in this creepy underground area for all eternity... `
-`So for the time being, I didn't touch that switch, `
-`...and as I readied my gun again, I slowly went down the stairs. `
-`The ceiling was very high, so it didn't feel cramped. `
-`On the contrary, it felt as though a cool breeze was blowing upwards, and that creepiness seemed to form a sort of aura... `
-`As I readied my gun and carefully stared forwards, ...I descended the stairs... `
-`The walls, the stairs, the lights...all of them were very old-fashioned. `
-`...It was easy to suspect that this had been built back when the mansion had been constructed on this island. `
-`There were cracks in the ceiling, and water clung to the walls, constantly dripping down. `
-`That water fell into a gutter that had been set up alongside the stairs, then quickly and silently flowed into the underground darkness. `
-`As though it was telling me to go faster... `
-`The staircase kept turning back on itself. `
-`I don't know how far down I've gone, but I think it's much deeper than one floor. `
-`Eventually, ......a rough, metal door showed itself. `
-`And there, characters had been written in a dark red paint. `
-`...They had probably been written a long time ago. `
-`— {p:1:On the tenth twilight, the journey ends, and you shall attain the power of the Golden Land's treasures, once and for the last time.} `
-`My heart, which was already about to explode, jumped about even more as soon as I recognized those deep-red characters... `
-`There's no mistake... `
-`This is the last stop. `
-`......Father's...Golden Land...!! `
-`I calmed my throbbing heart, somehow regained my composure, and readied my gun again. `
-`...But since, in the end, I couldn't open the door with my gun held in both hands... `
-`...I lowered the gun, carefully hid my breathing, and opened the door... `
-`".........Th-This place...is...?!" `
-`My first impression when I saw the room... `
-`was that it might be linked to one of the rooms in the mansion. `
-`That's right, it had exactly the same atmosphere about it as the sealed VIP room on the second floor. `
-`But this was underground, so there were no windows. `
-`There was only the solemn light of a grand chandelier. `
-`But even though it was dimly lit by the faint light, `
-`the quality of the interior was more than enough to take your breath away. `
-`A bed with a canopy, and a rocking chair that looked like it would be comfortable to sit in. `
-`An extravagant sofa and carpet. `
-`The room was like a dream every girl yearns for at least once... `
-`And yet, since it was an underground hidden room with no windows, `
-`it felt more like the hidden house of a witch. `
-`I'd never swallowed the legend of {f:5:Beatrice}, witch of the forest. `
-`However, ...after being shown this room, `
-`...it certainly became hard to doubt that she actually had existed...... `
-`and had lived in this room. `
-`"......Is someone... `
-`...there...?" `
-`Even though I was completely shocked by this room, I carefully... `
-`no, timidly searched the interior with my gun raised. `
-`And, ...at the back of the room, I found it. `
+`Jantungku berdebar kencang. `
+`...Karena di sana, ......terbuka lebar, ...ada sebuah mulut yang terbuka di kegelapan yang menyeramkan. `
+`"...A-Apa ini...? `
+`Apa ini...?!" `
+`Ketika aku menyipitkan mata, menatap ke dalam kegelapan, aku melihat sesuatu yang tampak seperti saklar lampu. `
+`...Selain itu, ada saklar bertuliskan "buka" dan "tutup". `
+`Saat aku dengan memberanikan diri menekan saklar itu, `
+`lampu-lampu redup, seperti yang biasa ditemukan di tambang batu bara, menyala secara dimana-mana, `
+`membuat tangga yang membentang ke bawah tanah tampak samar-samar... `
+`Anehnya, tempat itu justru terlihat lebih suram setelah lampu-lampu itu menyala. `
+`Di dekat saklar lampu itu terdapat saklar bertuliskan "buka" dan "tutup". `
+`...Mungkin saklar itu berfungsi untuk membuka atau menutup tempat ini, tapi kalau bagian "buka" kebetulan rusak, `
+`aku mungkin akan terkurung selamanya di area bawah tanah yang menyeramkan ini... `
+`Jadi, untuk saat ini, aku tidak menyentuh saklar itu, `
+`...dan sambil mempersiapkan senapanku lagi, aku perlahan menuruni tangga. `
+`Langit-langitnya sangat tinggi, jadi tidak terasa sesak. `
+`Justru, rasanya seolah-olah angin sejuk bertiup ke atas, dan kesan menyeramkan itu seolah membentuk semacam aura... `
+`Sambil mempersiapkan senapanku dan menatap ke depan dengan hati-hati, ...aku menuruni tangga... `
+`Dinding, tangga, lampu... semuanya terlihat sangat kuno. `
+`...Bisa ditebak kalau ini dibangun saat mansion ini didirikan di pulau ini. `
+`Ada retakan di langit-langit, dan air menempel di dinding, terus-menerus menetes ke bawah. `
+`Air itu jatuh ke selokan yang dipasang di sepanjang tangga, lalu dengan cepat dan tanpa suara mengalir ke dalam kegelapan bawah tanah. `
+`Seolah-olah air itu menyuruhku untuk bergerak lebih cepat... `
+`Tangga itu terus berbelok-belok. `
+`Aku tidak tau seberapa jauh aku sudah turun, tapi kurasa ini jauh lebih dalam dari satu lantai. `
+`Akhirnya, ......sebuah pintu logam yang kasar muncul. `
+`Dan di sana, ada tulisan yang dibuat dengan cat merah gelap. `
+`...Tulisan itu mungkin sudah ada sejak lama. `
+`— {p:1:Pada senja kesepuluh, di akhir perjalanan, engkau akan memperoleh kekuatan Taman Emas, seklai dan untuk terakhir kalinya.} `
+`Jantungku, yang sudah hampir meledak, berdebar semakin kencang begitu aku mengenali huruf-huruf merah tua itu... `
+`Tidak salah lagi... `
+`Ini adalah perhentian terakhir. `
+`...... Negeri Emas... Ayah...!! `
+`Aku menenangkan hatiku yang berdebar-debar, entah bagaimana berhasil mengendalikan diri, dan kembali menyiapkan senapanku. `
+`...Tapi karena, pada akhirnya, aku tak bisa membuka pintu sambil memegang senapan dengan kedua tangan... `
+`...Aku menurunkan senapan, menahan napas dengan hati-hati, dan membuka pintu... `
+`".........T-Tempat ini...adalah...?!" `
+`Kesan pertamaku saat melihat ruangan itu... `
+`adalah kalau ruangan ini mungkin terhubung dengan salah satu ruangan di dalam mansion. `
+`Benar, suasananya persis sama dengan ruangan VIP yang terkunci di lantai dua. `
+`Tapi ini berada di bawah tanah, jadi tidak ada jendela. `
+`Hanya ada cahaya hangat dari sebuah lampu gantung megah. `
+`Namun, meskipun diterangi oleh cahaya yang redup, `
+`kualitas interiornya lebih dari cukup untuk membuatmu terpesona. `
+`Sebuah tempat tidur dengan kanopi, dan kursi goyang yang tampak nyaman untuk diduduki. `
+`Sofa dan karpet yang mewah. `
+`Ruangan itu bagai mimpi yang didambakan setiap gadis setidaknya sekali seumur hidup... `
+`Tapi, karena itu adalah kamar tersembunyi di bawah tanah tanpa jendela, `
+`suasana di sana lebih mirip rumah tersembunyi penyihir. `
+`Aku tak pernah percaya pada legenda {f:5:Beatrice}, penyihir hutan. `
+`Tapi, ...setelah diperlihatkan kamar ini, `
+`...sangat sulit untuk meragukan kalau dia benar-benar pernah ada...... `
+`dan pernah tinggal di ruangan ini. `
+`"......Apakah ada seseorang... `
+`...di sana...?" `
+`Meskipun aku benar-benar terkejut dengan ruangan ini, aku dengan hati-hati... `
+`tidak, dengan ragu-ragu memeriksa bagian dalam ruangan sambil mengangkat senjataku. `
+`Dan, ...di bagian belakang ruangan, aku menemukannya. `
 `"......Eeek......" `
-`My gasp came out strangely, like a bunny being choked. `
-`...After all, ...after finding something like this, `
-`...no one would be able to stop that kind of stupid voice from leaking out... `
-`"It's here... `
-`...I-It's really here...... `
-`...Father's...gold...!!" `
-`On the opposite side of the canopy bed, it was piled up in a massive heap... `
-`It was a mountain, a mountain of gold ingots!! `
-`Of course, they weren't piled up carelessly in a way that would damage the dignity of this room. `
-`A beautiful scarlet satin weave was laid on the mountain of gold, `
-`creating a beautiful three-colored mix between the red, the gold and the black of the deep darkness... `
-`It was as though, when the witch slept on this bed, `
-`the gold would be a respectful chamberlain waiting on her. `
-`Nobly, refinedly, gracefully, beautifully. `
-`It was attentively piled there with an imposing air... `
-`When I tried to grab a single gold ingot, I was surprised at its weight. `
-`...It was probably about 10 kilograms. `
-`...Just this ingot would probably be worth more than 10 million. `
-`The Ushiromiya family crest, the One-Winged Eagle, was lightly imprinted on it. `
-`It was hard to tell whether it had worn away, or whether the impression had been made carelessly in the first place, `
-`but it was certainly the crest of the One-Winged Eagle. `
-`Just how many ingots were piled up there? `
-`By doing a quick count here and there and judging by the height, there had to be a few hundred at least. `
-`My mind's already gone blank, so I can't do the math well. `
-`...Even a moderate guess would put it above several billion yen. `
-`"That's right, ...of course... `
-`...After all, there's 10 tons of gold, right...? `
-`At the current value, that's more than 20 billion yen of gold...! `
-`...I-I found it...before anyone else. ......I found it!! `
+`Teriakanku keluar dengan aneh, seperti kelinci yang tercekik. `
+`...Lagi pula, ...setelah menemukan sesuatu seperti ini, `
+`...tak ada yang bisa menahan suara konyol seperti itu untuk tidak keluar... `
+`"Ini ada di sini... `
+`...I-Ini benar-benar ada di sini...... `
+`...Emas... Ayah...!!" `
+`Di sisi berlawanan dari tempat tidur berkanopi, emas itu ditumpuk menjadi gundukan raksasa... `
+`Itu adalah gunung, gunung batangan emas!! `
+`Tentu saja, batangan-batangan itu tidak ditumpuk sembarangan sehingga merusak kemegahan ruangan ini. `
+`Sebuah kain sutra merah tua yang indah terbentang di atas gunung emas itu, `
+`menciptakan perpaduan tiga warna yang indah antara merah, emas, dan hitam pekat... `
+`Seolah-olah, ketika penyihir itu tidur di tempat tidur ini, `
+`emas itu akan menjadi pelayan istana yang penuh hormat yang melayaninya. `
+`Dengan mulia, elegan, anggun, dan indah. `
+`Emas itu ditumpuk di sana dengan penuh perhatian dan aura yang megah... `
+`Ketika aku mencoba mengambil satu batangan emas, aku terkejut dengan beratnya. `
+`...Mungkin sekitar 10 kilogram. `
+`...Hanya batangan ini saja mungkin bernilai lebih dari 10 juta. `
+`Lambang keluarga Ushiromiya, Elang Bersayap Satu, tercetak samar di atasnya. `
+`Sulit untuk menentukan apakah cetakannya sudah terhapus, ataukah cetakan itu memang dibuat dengan sembarangan sejak awal, `
+`tetapi itu jelas merupakan lambang Elang Bersayap Satu. `
+`Berapa banyak batangan emas yang menumpuk di sana? `
+`Dengan menghitung sekilas di sana-sini dan menilai dari tingginya, pasti ada setidaknya beberapa ratus. `
+`Pikiranku sudah kosong, jadi aku tidak bisa menghitungnya dengan baik. `
+`...Bahkan perkiraan kasarpun akan menempatkannya di atas beberapa miliar yen. `
+`"Benar, ...tentu saja... `
+`...Lagi pula, ada 10 ton emas, kan...? `
+`Dengan nilai saat ini, itu berarti lebih dari 20 miliar yen emas...! `
+`...A-Aku menemukannya... sebelum orang lain. ......Aku menemukannya!! `
 `Ahaha, wahahahahahahaha, ahahahahahahahahahahahahahahahaha!!" `
-`In front of the mountain of gold, I spread my arms and looked up at the ceiling. `
-`A laugh without a trace of dignity flowed out from my entire body. `
-`I had no intention of laughing in a weird way, `
-`...but, but, I couldn't hold back the happy feeling that was flowing through me. `
-`...My older brother probably wouldn't accept his loss just because I found this gold. `
-`...But from now on, there would be no changing the fact that I had been the one to find it...! `
-`To steal away the Headship of the family, some more subtle bargaining would probably still be required. `
-`But after everything I've gone through until now, that's a completely trivial problem. `
-`Even if I lose out on the Ushiromiya Family Headship, `
-`...I already have 20 billion yen worth of gold!! `
+`Di depan tumpukan emas itu, aku merentangkan kedua tanganku dan menatap langit-langit. `
+`Tawa tanpa sedikit pun rasa malu mengalir dari seluruh tubuhku. `
+`Aku tidak bermaksud tertawa dengan cara yang aneh, `
+`...tapi, tapi, aku tak bisa menahan perasaan bahagia yang mengalir dalam diriku. `
+`...Kakakku mungkin takkan menerima kekalahannya hanya karena aku yang menemukan emas ini. `
+`...Tapi mulai sekarang, tak ada yang bisa mengubah fakta bahwa akulah yang menemukannya...! `
+`Untuk merebut jabatan Kepala Keluarga, mungkin masih diperlukan negosiasi yang lebih halus. `
+`Tapi setelah semua yang telah kualami sampai sekarang, itu hanyalah masalah yang benar-benar sepele. `
+`Bahkan jika aku kehilangan jabatan Kepala Keluarga Ushiromiya, `
+`...aku sudah punya emas senilai 20 miliar yen!! `
 `"Hahahaha, ahahahahaha!! `
-`At times, I've thought that money is such a worthless thing. `
-`I thought there were so many things in this world you can't buy with money. `
-`...But now I see that's just a lie! `
-`Just an excuse that the have-nots make for themselves!!" `
-`"In front of this mountain of gold, I've finally realized something so obvious...!! `
-`By using this money, I can give birth to all the happiness in this world! `
-`With this money, my husband's company is already saved. `
-`We will always be happy as a family. `
-`And I can even leave a vast sum of money to George...!!" `
-`"The rest of the relatives will eventually be ruined and disappear. `
-`At that time, George will use this gold, `
-`and just like Grandfather did, `
-`he will revive the Ushiromiya family's lost honor. `
-`...George is the true successor to the Ushiromiya family!!" `
-`It happened!!! `
-`My wish was granted!! `
-`That dream I have wished for ever since I was born into this world as Ushiromiya Eva...has been granted completely at this very moment...!! `
-`My husband and I will be happy for all eternity. `
-`And I can also give my only son, George, eternal happiness!! `
-`There's no way I'll waste it on foolish pleasures!! `
-`My older brother has chewed the Ushiromiya family to bits, but George and I will revive it! `
-`And that means I truly have succeeded the Ushiromiya Family Headship!! `
-`"I was successful... `
-`I did it, ...honey...and George... `
-`...I...your mother...finally succeeded... `
-`...No one will be able to threaten us now... `
+`Kadang, aku berpikiran kalau uang itu hal yang sangat tidak berharga. `
+`Aku pikir ada begitu banyak hal di dunia ini yang tidak bisa dibeli dengan uang. `
+`...Tapi sekarang aku sadar kalau itu hanyalah kebohongan! `
+`Hanya alasan yang dibuat-buat oleh orang-orang yang tidak punya apa-apa!!" `
+`"Di hadapan tumpukan emas ini, akhirnya aku menyadari sesuatu yang sangat jelas...!! `
+`Dengan menggunakan uang ini, aku bisa mewujudkan semua kebahagiaan di dunia ini! `
+`Dengan uang ini, perusahaan suamiku sudah selamat. `
+`Kami akan selalu bahagia sebagai sebuah keluarga. `
+`Dan aku bahkan bisa mewariskan sejumlah besar uang kepada George...!!" `
+`"Kerabat-kerabat lainnya pada akhirnya akan hancur dan lenyap. `
+`Pada saat itu, George akan menggunakan emas ini, `
+`dan sama seperti yang dilakukan Kakek, `
+`dia akan mengembalikan kehormatan Keluarga Ushiromiya yang telah hilang. `
+`...George adalah pewaris sejati Keluarga Ushiromiya!!" `
+`Itu terjadi!!! `
+`Keinginanku terkabul!! `
+`Mimpi yang telah aku harapkan sejak aku dilahirkan ke dunia ini sebagai Ushiromiya Eva...telah terkabul sepenuhnya pada saat ini juga...!! `
+`Suamiku dan aku akan bahagia selamanya. `
+`Dan aku juga bisa memberikan kebahagiaan abadi kepada putra sulungku, George!! `
+`Tidak mungkin aku akan menyia-nyiakannya untuk kesenangan yang sia-sia!! `
+`Kakak laki-lakiku telah menghancurkan Keluarga Ushiromiya, tapi George dan aku akan menghidupkannya kembali! `
+`Dan itu berarti aku benar-benar telah menggantikan posisi Kepala Keluarga Ushiromiya!! `
+`"Aku berhasil... `
+`Aku berhasil, ...sayang...dan George... `
+`...Aku...ibumu...akhirnya berhasil... `
+`...Tidak ada yang bisa mengancam kita sekarang... `
 `Aaaaaaahhh, waaaaaaaaaaaaaaaaaah!!" `
-`That's right, after this, never again will we be smothered by sad nights. `
-`Congratulations, me. `
-`Congratulations, Ushiromiya Eva. `
-`...Right here, right now, the sad half of our life will have its heart's desire granted. `
-`"It's all thanks to you... `
-`I was given this chance because of your magic. `
-`Because of that chance, I was able to make it here...!" `
-`...Thank you. `
-`But my magic wouldn't have been granted if we both didn't believe in each other. `
-`So, it isn't just the power of my magic. `
-`This is our victory. `
-`Because of that, congratulations, `
-`"us". `
-`"Thank you, me... `
-`Thank you, Ushiromiya Eva... `
-`...I'm glad I didn't give in before now. `
-`I'm glad that I didn't drown in sorrow and forget to keep struggling... `
-`......No, this is my magic. `
-`Our magic! `
-`Your magic was the real thing. `
-`{f:5:Beatrice}, the witch of the forest, is nothing more than an illusion. `
-`You are the real witch, a wielder of real magic. `
-`...That's right. `
-`Right now, you are the Golden Witch, {f:5:Beatrice}!!" `
-`Eva decided to leave for the time being. `
-`When she climbed the stairs again, trying to leave this secret place... `
-`...She saw a creepy, swaying human shadow blocking her path, and her dreamlike state was blown away. `
-`".........Who is it?!" `
-`For an instant, ...she believed that the true master of this room, the real {f:5:Beatrice}, had appeared. `
-`It seemed that the other person was also holding a gun. `
-`The two of them were pointing guns at each other. `
-`And eventually, they each realized who the other was... `
+`Benar sekali, setelah ini, kita tidak akan pernah lagi tercekik oleh malam-malam yang menyedihkan. `
+`Selamat, aku. `
+`Selamat, Ushiromiya Eva. `
+`...Di sini, saat ini juga, separuh hidup kita yang menyedihkan akan mendapatkan apa yang diinginkan hatinya. `
+`"Semua ini berkatmu... `
+`Aku diberi kesempatan ini karena sihirmu. `
+`Berkat kesempatan itu, aku bisa sampai di sini...!" `
+`...Terima kasih. `
+`Tapi sihirku tidak akan terwujud jika kita berdua tidak saling percaya. `
+`Jadi, ini bukan hanya kekuatan sihirku. `
+`Ini adalah kemenangan kita. `
+`Karena itu, selamat, `
+`"kita". `
+`"Terima kasih, aku... `
+`Terima kasih, Ushiromiya Eva... `
+`...Aku senang aku tidak menyerah sebelum ini. `
+`Aku senang aku tidak tenggelam dalam kesedihan dan lupa untuk terus berjuang... `
+`......Tidak, ini adalah sihirku. `
+`Sihir kita! `
+`Sihirmu itu asli. `
+`{f:5:Beatrice}, penyihir hutan itu, tak lebih dari sekadar ilusi. `
+`Kaulah penyihir yang sesungguhnya, penguasa sihir sejati. `
+`...Benar sekali. `
+`Saat ini, kau adalah Penyihir Emas, {f:5:Beatrice}!!" `
+`Eva memutuskan untuk pergi dulu. `
+`Saat dia menaiki tangga lagi, berusaha meninggalkan tempat rahasia ini... `
+`...Dia melihat bayangan manusia yang menyeramkan dan bergoyang-goyang menghalangi jalannya, dan suasana mimpi yang dia rasakan pun sirna. `
+`".........Siapa itu?!" `
+`Sesaat, ...dia yakin bahwa penguasa sejati ruangan ini, {f:5:Beatrice} yang asli, telah muncul. `
+`Tampaknya orang itu juga memegang senjata. `
+`Keduanya saling mengarahkan senjata satu sama lain. `
+`Dan akhirnya, mereka masing-masing menyadari siapa lawan bicaranya... `
 `"......Rosa......?" `
 `"...Nee-san, `
-`...what are you doing in a place like this...?" `
-`"That's my line. `
-`What business do you have in such a place?" `
-`"...I shouldn't have given you that hint, Nee-san. `
-`If I hadn't, I definitely would have been the first to reach this place. `
-`......Too bad." `
-`It seemed that Rosa knew where this staircase went...... `
-`and what was waiting ahead of her. `
-`"You should talk. `
-`......Even though I reached this place before you." `
-`"......I worried too much about the sweetfish river. `
-`The sweetfish part didn't really matter that much at all, did it?" `
-`"That isn't true. `
-`It was an excellent hint, wasn't it? `
-`Well, of course, maybe there was no need for it to be sweetfish. `
-`...But when I heard that sweetfish are fish that go out into the sea, I was able to figure it out." `
-`"...What's inside?" `
-`"Why not see with your own eyes? `
-`It definitely won't betray your expectations." `
+`...apa yang kamu lakukan di tempat seperti ini...?" `
+`"Itu kalimatku. `
+`Apa urusanmu di tempat seperti ini?" `
+`"...Seharusnya aku tidak memberimu petunjuk itu, Nee-san. `
+`Kalau tidak, pasti aku yang pertama sampai di tempat ini. `
+`......Sayang sekali." `
+`Sepertinya Rosa tahu ke mana tangga ini mengarah...... `
+`dan apa yang menantinya di depan. `
+`"Kamu yang harusnya bicara. `
+`......Padahal aku sampai di tempat ini lebih dulu darimu." `
+`"......Aku terlalu khawatir soal sungai ikan sweetfish. `
+`Bagian ikan sweetfish-nya sebenarnya tidak terlalu penting, kan?" `
+`"Itu tidak benar. `
+`Itu petunjuk yang bagus, kan? `
+`Yah, tentu saja, mungkin memang tidak perlu sweetfish. `
+`...Tapi ketika aku mendengar kalau ikan manis adalah ikan yang bermigrasi ke laut, aku bisa menebaknya." `
+`"...Apa yang ada di dalamnya?" `
+`"Kenapa tidak lihat saja dengan mata kepalamu sendiri? `
+`Pasti tidak akan mengecewakan harapanmu." `
 `"...... `
-`...Don't be afraid, Nee-san. `
-`I never had any interest in who becomes the Head. `
-`I don't even care about the Ushiromiya family name. `
-`...Honestly, I actually feel good about you stealing the Headship from Krauss nii-san, `
-`who was always swaggering around because of it." `
-`"......Are you serious?" `
-`"Of course. `
-`I'm the outsider of the Ushiromiya siblings. `
-`...Even if Father had named me as the next Head, `
-`there's no way Nii-san would accept it. `
-`I try not to have such naive dreams." `
+`...Jangan takut, Nee-san. `
+`Aku tidak pernah tertarik siapa yang akan menjadi Kepala Keluarga. `
+`Aku bahkan tidak peduli dengan nama keluarga Ushiromiya. `
+`...Sejujurnya, aku justru merasa senang kau merebut jabatan Kepala Keluarga dari Krauss nii-san, `
+`yang selalu bersikap sombong karena jabatan itu." `
+`"...... Kau serius?" `
+`"Tentu saja. `
+`Aku adalah orang luar di antara saudara-saudara Ushiromiya. `
+`...Bahkan jika Ayah menunjukku sebagai Kepala Keluarga berikutnya, `
+`tidak mungkin Nii-san akan menerimanya. `
+`Aku berusaha untuk tidak memiliki mimpi-mimpi naif seperti itu." `
 `"............" `
-`"Let me see too, Nee-san. `
-`This proof of your victory. `
-`...As long as I receive the proper portion that the siblings agreed upon, `
-`I plan to proactively acknowledge you as the true victor in this "game"." `
-`"......If you shoot me, then you'll have this gold all to yourself, won't you?" `
-`"The same goes for you. `
-`If you shoot me, this gold will all be yours." `
+`"Biarkan aku melihatnya juga, Nee-san. `
+`Bukti kemenanganmu ini. `
+`...Selama aku menerima bagian yang sesuai dengan kesepakatan antar saudara, `
+`Aku berencana untuk secara terbuka mengakuimu sebagai pemenang sejati dalam "permainan" ini.`
+`"......Kalau kau menembakku, maka emas ini akan menjadi milikmu sepenuhnya, kan?"`
+`"Itu juga berlaku untukmu.`
+`Kalau kau menembakku, emas ini akan menjadi milikmu sepenuhnya."`
 `"............" `
-`For a tense moment, the sisters pointed their guns at each other. `
-`Eventually, after they sized up the glint in the other's eyes, they lowered their guns. `
-`...Eva removed her finger from the trigger and held the gun upside-down. `
-`It was a position that she couldn't quickly shoot from. `
-`When she saw that, Rosa held hers the same way. `
-`"...That's right. `
-`That plan of shooting the other and having all the gold to ourselves is attractive for both of us. `
-`...But if one of us suddenly disappeared on this island while it's isolated by the typhoon, there would be a huge uproar. `
-`...If we hid the corpse here, it probably wouldn't be found easily, but we couldn't be sure." `
-`"......No matter how many billion yen worth of gold is on the line, `
-`it isn't worth the risk of committing murder. `
-`On the contrary, that would give Krauss nii-san and the others ammunition to wring us for all we're worth." `
-`"I agree. `
-`...It may have been a blessing in disguise that you're the one who showed up... `
-`instead of Nii-san or Rudolf. `
-`...You're the sibling I trust most." `
-`"......Thank you. `
-`And you're the sibling I trust most, Nee-san." `
+`Selama beberapa saat yang menegangkan, kedua saudari itu saling mengarahkan senjata mereka. `
+`Akhirnya, setelah mereka saling mengamati kilatan di mata satu sama lain, mereka menurunkan senjata mereka. `
+`...Eva melepaskan jarinya dari pelatuk dan memegang senjatanya terbalik. `
+`Itu adalah posisi yang membuatnya tidak bisa menembak dengan cepat. `
+`Saat melihat itu, Rosa memegang senjatanya dengan cara yang sama. `
+`".. .Benar sekali. `
+`Rencana untuk menembak yang lain dan memiliki seluruh emas itu untuk diri kita sendiri memang menarik bagi kita berdua. `
+`...Tapi jika salah satu dari kita tiba-tiba menghilang di pulau ini saat terisolasi oleh topan, pasti akan terjadi keributan besar. `
+`...Jika kita menyembunyikan mayatnya di sini, mungkin tidak akan mudah ditemukan, tapi kita tidak bisa memastikan." `
+`"......Tidak peduli berapa miliar yen nilai emas yang dipertaruhkan, `
+`itu tidak sebanding dengan risiko melakukan pembunuhan. `
+`Justru, itu akan memberi Krauss nii-san dan yang lainnya amunisi untuk memeras kita habis-habisan." `
+`"Aku setuju. `
+`...Mungkin ini berkah tersembunyi bahwa kau yang muncul... `
+`bukan Nii-san atau Rudolf. `
+`...Kau adalah saudara yang paling aku percayai." `
+`"......Terima kasih. `
+`Dan kau adalah saudara yang paling aku percayai, Nee-san." `
 `"............" `
-`"......I want to see the gold too." `
-`"Wanna have a peek? `
-`Now I feel like seeing it again too. `
-`Even though I saw it with my own eyes, it still doesn't feel real. `
-`...Unless I see it together with you and confirm once more that it actually exists, `
-`it feels like the gold will turn to fog and disappear." `
-`Eva started descending the staircase once more. `
-`...However, she didn't carelessly expose her back to Rosa. `
-`Even though, at a glance, it looked like Rosa had lowered her guard, she definitely didn't show any signs of carelessness. `
-`...Then, they reached that room of the witch once more. `
-`Rosa also gasped, stunned speechless by the vast amount of gold... `
-`...Rosa and Eva walked absentmindedly through the rose garden. `
-`They had left the guesthouse secretly, so they had to be careful when they returned. `
-`It was time to snap to it and keep their guards up. `
-`"...Congratulations, Nee-san." `
-`"Thank you." `
-`"You decided it, didn't you Nee-san? `
-`50% goes to the one bearing the title of Successor to the Headship. `
-`...It certainly worked out well for you. `
-`Now, that portion isn't Krauss nii-san's. `
-`...So your share is now 50%, along with a quarter of the rest, for a total of 12.5 billion yen." `
-`"Isn't that incredible? `
-`...2.5 billion is enough for me. `
-`Rudolf nii-san won't complain either. `
-`Krauss nii-san will probably be the only one to complain." `
-`"...Yeah, you're right. `
-`...After all, Nii-san is the de-facto manager of Rokkenjima. `
-`And since the gold was on these premises, `
-`even though I was the first to discover it, things might get complicated if I don't handle it cleverly." `
-`"It won't get complicated. `
-`Didn't we give it our all in that discussion last night with that in mind?" `
-`"......I wonder if it will really go that smoothly. `
-`I've already completely gotten over my excitement. `
-`How we manage everything from here on is the real problem." `
-`"...That's a problem for the new Head of the Ushiromiya family. `
-`A problem for you to enjoy, Nee-san. `
-`It has nothing to do with me." `
-`"Heh, that's some big talk, coming from you..." `
-`"...I'll support you as the second discoverer... `
-`if you'll at least give me the early payment we decided on. `
-`I'd like 150 million yen by March." `
-`"Yes, that will be fine. `
-`...If you support me, I'll graciously pay you that much. `
-`I'm not Nii-san." `
-`"Anyway, why don't we go and shock Nii-san and the others? `
-`Even if we cover up the actual location, I want to see Krauss nii-san's shocked face as soon as I can." `
+`"...... Aku juga ingin melihat emas itu." `
+`"Mau intip sebentar? `
+`Sekarang aku juga pengen melihatnya lagi. `
+`Meskipun sudah melihatnya dengan mata kepalaku sendiri, rasanya masih tidak nyata. `
+`...Kecuali kalau aku melihatnya bersamamu dan memastikan sekali lagi bahwa emas itu memang ada, `
+`rasanya emas itu bakal berubah jadi kabut dan menghilang." `
+`Eva mulai menuruni tangga sekali lagi. `
+`...Namun, dia tidak sembarangan membelakangi Rosa. `
+`Meskipun sekilas terlihat seolah-olah Rosa telah menurunkan kewaspadaannya, dia jelas tidak menunjukkan kelengahan. `
+`...Kemudian, mereka sampai di ruangan penyihir itu sekali lagi. `
+`Rosa pun terkesiap, tercengang hingga tak bisa berkata-kata oleh banyaknya emas... `
+`...Rosa dan Eva berjalan tanpa sadar melintasi taman mawar. `
+`Mereka telah meninggalkan penginapan secara diam-diam, jadi mereka harus berhati-hati saat kembali. `
+`Sudah waktunya untuk segera bersiap dan tetap waspada. `
+`"...Selamat, Nee-san." `
+`"Terima kasih." `
+`"Kau yang memutuskan, bukan, Nee-san? `
+`50% diberikan kepada orang yang memegang gelar Penerus Kepemimpinan. `
+`...Itu tentu saja menguntungkanmu. `
+`Nah, bagian itu bukan milik Krauss nii-san. `
+`...Jadi bagianmu sekarang 50%, ditambah seperempat dari sisanya, dengan total 12,5 miliar yen." `
+`"Bukankah itu luar biasa? `
+`...2,5 miliar sudah cukup bagiku. `
+`Rudolf nii-san juga tidak akan mengeluh. `
+`Krauss nii-san mungkin akan menjadi satu-satunya yang mengeluh." `
+`"...Ya, kau benar. `
+`...Lagipula, Nii-san secara de-facto adalah pengelola Rokkenjima. `
+`Dan karena emas itu ada di lokasi ini, `
+`meski aku yang pertama menemukannya, situasinya bisa jadi rumit kalau aku tidak menanganinya dengan benar." `
+`"Tidak akan jadi rumit. `
+`Bukankah kita sudah berusaha sekuat tenaga dalam diskusi tadi malam dengan mempertimbangkan hal itu?" `
+`"......Aku ragu apakah semuanya akan berjalan semulus itu. `
+`Aku sudah benar-benar melewati fase kegembiraanku. `
+`Bagaimana kita menangani semuanya mulai dari sini adalah masalah yang sebenarnya." `
+`"...Itu adalah masalah bagi Kepala Keluarga Ushiromiya yang baru. `
+`Masalah yang harus kau nikmati, Nee-san. `
+`Itu tidak ada hubungannya denganku." `
+`"Heh, omongan besar sekali, keluar dari mulutmu..." `
+`"...Aku akan mendukungmu sebagai penemu kedua... `
+`asalkan setidaknya kau memberiku pembayaran di muka yang sudah kita sepakati. `
+`Aku ingin 150 juta yen sebelum Maret." `
+`"Ya, itu tidak masalah. `
+`...Kalau kau mendukungku, aku akan dengan senang hati membayarmu sebanyak itu. `
+`Aku bukan Nii-san." `
+`"Pokoknya, kenapa kita tidak pergi dan buat Nii-san dan yang lain kaget? `
+`Meskipun kita menyembunyikan lokasi sebenarnya, aku ingin melihat wajah kaget Krauss nii-san secepat mungkin." `
 `"...... `
-`......Wait a second, Rosa. `
-`Wait a while before telling everyone about it." `
-`".........Huh? `
-`...Why?" `
-`"...You idiot, isn't it obvious? `
-`...This is that haughty Krauss nii-san and that sly Rudolf we're talking about. `
-`Even if we do announce it eventually, it's certainly too early now." `
-`"Unless we carefully investigate how to make our next move, `
-`it's possible that all of the gold we've finally found will be snatched away by Nii-san." `
-`Eva thought she was saying something extremely natural. `
-`...So when she saw Rosa's expression suddenly cloud over, she was a little surprised. `
-`"...What are you unsatisfied about? `
-`You know what kind of a person Krauss nii-san is." `
+`......Tunggu sebentar, Rosa. `
+`Tunggu dulu sebelum memberitahu semua orang tentang hal ini." `
+`".........Hah? `
+`...Kenapa?" `
+`"...kau bodoh, bukankah itu jelas? `
+`...Kita sedang membicarakan Krauss nii-san yang sombong itu dan Rudolf yang licik itu. `
+`Meskipun pada akhirnya kita akan mengumumkannya, sekarang tentu saja masih terlalu dini." `
+`"Kalau kita tidak menyelidiki dengan benar bagaimana langkah selanjutnya, `
+`mungkin saja semua emas yang akhirnya kita temukan itu akan direbut oleh Nii-san." `
+`Eva mengira dia sedang mengatakan sesuatu yang sangat wajar. `
+`...Jadi, ketika dia melihat ekspresi Rosa tiba-tiba mendung, dia sedikit terkejut. `
+`"...Apa yang membuatmu tidak puas? `
+`kau taukan seperti apa orangnya Krauss nii-san." `
 `"...... `
-`Nee-san, that's against the rules." `
-`"What do you mean?" `
-`"...Didn't we make a rule that whoever found the gold would announce it immediately? `
-`If you hesitate, the foundation of the rules will be destroyed, `
-`and that could lead to something worse in the future. `
-`...With Krauss nii-san as crafty as he is, `
-`that violation of the rules will come back to bite you." `
-`"Don't be stupid. `
-`This is Nii-san's island. `
-`And that gold just now wasn't cash. `
-`We're talking about the liquidation of a vast 10 ton mountain, right?" `
-`"It will take a significant amount of time to carry it off and turn it into cash. `
-`And that will only work in Nii-san's favor, since he has practical control over this island. `
-`Don't you even realize that?!" `
-`".........I don't like it when you search out each other's weaknesses like that. `
-`All I want is to reach a clear decision regarding my 2.5 billion portion." `
-`"Of course, if you were to give me 2.5 billion in cash right now, `
-`you'd be free to continue negotiating however you like. `
-`But until I have my share in my own pocket, I will follow the siblings' rules." `
-`"How can you be so naive...? `
-`You don't understand Nii-san's craftiness at all!" `
-`...It wasn't that Rosa didn't understand the craftiness of her older siblings. `
-`In that sense, Rosa more or less understood why Eva was being so cautious. `
-`But in her heart, `
-`she couldn't clear away her suspicion that Eva wanted to keep all of the gold to herself. `
-`...Because she knew that Eva was at least as crafty as her other siblings. `
-`In other words, Rosa wanted to put a stop to any chance Eva had to keep the gold all to herself... `
-`by quickly informing the siblings of the gold's discovery... `
+`Nee-san, itu melanggar aturan." `
+`"Apa maksudmu?" `
+`"...Bukankah kita sudah membuat aturan kalau siapapun yang menemukan emas harus segera mengumumkannya? `
+`Kalau kau ragu, dasar dari aturan itu akan hancur, `
+`dan itu bisa berujung pada hal yang lebih buruk di masa depan. `
+`...Dengan kecerdikan Krauss nii-san, `
+`pelanggaran aturan itu akan menjadi bumerang bagimu." `
+`"Jangan bodoh. `
+`Ini pulau milik Nii-san. `
+`Dan emas tadi bukan uang tunai. `
+`Kita sedang membicarakan likuidasi gunung emas sebesar 10 ton, kan?" `
+`"Butuh waktu yang cukup lama untuk membawanya pergi dan mengubahnya menjadi uang tunai. `
+`Dan itu hanya akan menguntungkan Nii-san, karena dia yang mengendalikan pulau ini secara praktis. `
+`Apa kau tidak menyadari hal itu?!" `
+`".........Aku tidak suka kalau kita saling mencari kelemahan satu sama lain seperti itu. `
+`Yang aku inginkan hanyalah mengambil keputusan yang jelas mengenai bagianku sebesar 2,5 miliar." `
+`"Tentu saja, kalau kau memberiku 2,5 miliar tunai sekarang juga, `
+`kau bebas melanjutkan negosiasi sesukamu. `
+`Tapi sampai bagianku sudah ada di kantongku sendiri, aku akan mengikuti aturan saudara-saudaraku." `
+`"Bagaimana bisa kau begitu naif...? `
+`kau sama sekali tidak memahami kelicikan Nii-san!" `
+`...Bukan berarti Rosa tidak memahami kelicikan kakak-kakaknya. `
+`Dalam hal itu, Rosa kurang lebih memahami mengapa Eva bersikap begitu berhati-hati. `
+`Namun di dalam hatinya, `
+`dia tidak bisa menghilangkan kecurigaannya kalau Eva ingin menyimpan seluruh emas itu untuk dirinya sendiri. `
+`...Karena dia tau kalau Eva setidaknya sama liciknya dengan kakak-kakaknya yang lain. `
+`Dengan kata lain, Rosa ingin menggagalkan setiap kesempatan yang dimiliki Eva untuk menyimpan emas itu sendirian... `
+`dengan segera memberi tahu kakak-kakaknya tentang penemuan emas itu... `
 `"...... `
 `...Rosa, `
-`sorry, but at least listen to me this once." `
-`"......Are you saying that if I don't listen to what you say, you won't be able to get me that 150 million?" `
+`maaf, tapi setidaknya dengarkan aku sekali ini saja." `
+`"......Maksudmu, kalau aku tidak mendengarkan apa yang kau katakan, kau tidak akan bisa memberiku 150 juta itu?" `
 `"...... `
-`...That isn't the way I wanted to say it. `
-`...But if you really need that money, supporting me is a more realistic option. `
-`...If you talk to Nii-san and Rudolf, even the portion that's your natural right might disappear. `
-`You don't want that, do you?" `
+`...Bukan begitu maksudku. `
+`...Tapi kalau kau benar-benar butuh uang itu, mendukungku adalah pilihan yang lebih realistis. `
+`...Kalau kau bicara dengan Nii-san dan Rudolf, bahkan bagian yang seharusnya menjadi hakmu pun bisa hilang. `
+`kau tidak mau itu, kan?" `
 `"............" `
-`For a while, a severe expression that she'd never shown to her sister before rose to Rosa's face. `
-`There wasn't even a trace of her restraint as a younger sister. `
-`...There was just the ruthlessness... `
-`no, the seriousness of a single human arguing about a vast sum of wealth. `
-`Eva made light of it, chuckling. `
-`"...My, my. `
-`How careless we must be to stand around here talking like this, `
-`even though a frightful murder case has just taken place, and the culprit might still be on this island." `
-`"I'm sure it was just the servants playacting. `
-`There were no murders on this island in the first place." `
+`Untuk sesaat, ekspresi tegas yang belum pernah ia tunjukkan kepada kakaknya muncul di wajah Rosa. `
+`Tak ada sedikit pun jejak sikap menahan diri sebagai adik perempuan. `
+`...Yang ada hanyalah ketegasan... `
+`tidak, keseriusan seorang manusia yang sedang memperdebatkan jumlah kekayaan yang sangat besar. `
+`Eva menganggapnya enteng, sambil tertawa kecil. `
+`"...Ya ampun. `
+`Betapa cerobohnya kita berdiri di sini berbicara seperti ini, `
+`padahal kasus pembunuhan yang mengerikan baru saja terjadi, dan pelakunya mungkin masih berada di pulau ini." `
+`"Aku yakin itu hanya sandiwara para pelayan. `
+`Lagipula, tidak ada pembunuhan di pulau ini." `
 `"...Oh? `
-`So, you do think that after all." `
-`"The circumstances surrounding those six deaths shows us that clearly. `
-`A crime from the outside couldn't possibly have created those six closed rooms." `
-`"...Doctor Nanjo said they were all dead, but that was a lie too. `
-`This is all a complicated act that Father cooked up. `
-`All of the servants are just playing dead. `
-`...A murder never occurred in the first place. `
-`There's no way that there's a murderer prowling around." `
+`Jadi, kau memang berpikir begitu." `
+`"Keadaan sekitar keenam kematian itu menunjukkan hal itu dengan jelas. `
+`Sebuah kejahatan dari luar mustahil bisa menciptakan keenam kamar tertutup itu." `
+`"...Dokter Nanjo mengatakan mereka semua sudah mati, tapi itu juga bohong. `
+`Ini semua adalah sandiwara rumit yang dirancang oleh Ayah. `
+`Semua pelayan hanya berpura-pura mati. `
+`...Pembunuhan sama sekali tidak pernah terjadi. `
+`Tidak mungkin ada pembunuh yang berkeliaran di sini." `
 `"...Hah. `
-`I'm surprised you noticed. `
-`You looked pretty scared, so I didn't think you'd figured out so much." `
-`"...I'm good at reading the mood of a situation. `
-`I've got you to thank for training me so well." `
-`That's right. `
-`Come to think of it, now that the servants are "dead", almost everyone on this island is a member of the Ushiromiya family. `
-`As for Nanjo, he proclaimed the "deaths" of the servants, `
-`but when the relatives began to discuss the riddle of the epitaph, he disappeared off to the second floor as if he didn't want to get in the way... `
-`"All of it... `
-`was an act to get us to try and solve that epitaph. `
-`...And that's why... `
-`you need to announce that you're the victor, Nee-san." `
-`"There's no way that burnt corpse was really Father. `
-`...He got a corpse with the right number of toes from somewhere...and went to all the trouble of burning it in that creepy way of his, so we would see it." `
-`"...I'm sure he's hiding somewhere, watching to see how we'll behave. `
-`...I'll bet he already knows you reached the Golden Land, Nee-san." `
-`"...That's why you should announce that you're the winner soon. `
-`I'm sure Father will appear out of nowhere to applaud you and proclaim that you're his successor." `
+`Aku terkejut kau menyadarinya. `
+`kau terlihat cukup ketakutan, jadi aku tidak menyangka kau sudah mengerti sejauh itu." `
+`"...Aku pandai membaca suasana suatu situasi. `
+`Aku harus berterima kasih padamu karena telah melatihku dengan baik." `
+`Benar sekali. `
+`Kalau dipikir-pikir, sekarang setelah para pelayan "mati", hampir semua orang di pulau ini adalah anggota keluarga Ushiromiya. `
+`Adapun Nanjo, dia yang mengumumkan "kematian" para pelayan itu, `
+`tetapi ketika para kerabat mulai mendiskusikan teka-teki tulisan di nisan itu, dia menghilang ke lantai dua seolah-olah tidak ingin mengganggu... `
+`"Semua itu... `
+`hanyalah sandiwara agar kita mencoba memecahkan teka-teki tulisan di nisan itu. `
+`...Dan karena itulah... `
+`kau harus mengumumkan kalau kau adalah pemenangnya, Nee-san." `
+`"Tidak mungkin mayat yang terbakar itu benar-benar Ayah. `
+`...Dia mendapatkan mayat dengan jumlah jari kaki yang tepat dari suatu tempat... dan repot-repot membakarnya dengan cara menyeramkan, agar kita melihatnya." `
+`"...Aku yakin dia bersembunyi di suatu tempat, mengamati bagaimana kita akan bereaksi. `
+`...Aku yakin dia sudah tau kau telah mencapai Taman Emas, Nee-san." `
+`"...Karena itulah kau harus segera mengumumkan kalau kau adalah pemenangnya. `
+`Aku yakin Ayah akan muncul entah dari mana untuk memberi tepuk tangan dan menyatakan kalau kau adalah penerusnya." `
 `"........................" `
-`"...Then again, `
-`...I've still got to pester you for that 150 million, `
-`so I can't stand against you in any way." `
-`"......So you'll listen to what I say...and keep quiet about this to Nii-san and the rest...?" `
-`"............" `
-`"...Make your position clear, `
+`"...Tapi, `
+`...aku masih harus mengganggumu soal 150 juta itu, `
+`jadi aku tidak bisa menentangmu dengan cara apa pun." `
+`"......Jadi, kau akan mendengarkan apa yang kukatakan... dan tidak memberitau Nii-san dan yang lainnya tentang ini...?" `
+`"........ ...." `
+`"...Jelaskan posisimu dengan jelas, `
 `...Rosa." `
-`"......I want to tell them. `
-`We made that rule just last night. `
-`We shouldn't just throw it away." `
-`"Of course, I will announce it in front of the siblings. `
-`...However, I want to closely analyze the situation first. `
-`We've got to carry out 10 tons of gold, convert it into money, `
-`and distribute it fairly." `
-`"...Until I have proof that I can do all that without Nii-san getting in the way, I want some time to think. `
-`I only want to postpone my announcement until then. `
-`......I'm certainly not keeping it secret because I want it all for myself." `
+`"......Aku ingin memberitahu mereka. `
+`Kita baru saja membuat aturan itu tadi malam. `
+`Kita tidak boleh begitu saja mengabaikannya." `
+`"Tentu saja, aku akan mengumumkannya di hadapan para saudara. `
+`...Tapi, aku ingin menganalisis situasi ini dengan cermat terlebih dahulu. `
+`Kita harus mengangkut 10 ton emas, menukarnya menjadi uang, `
+`dan mendistribusikannya secara adil." `
+`"...Sampai aku punya bukti kalau aku bisa melakukan semua itu tanpa Nii-san menghalangi, aku ingin waktu untuk berpikir. `
+`Aku hanya ingin menunda pengumumanku sampai saat itu. `
+`......Aku tentu saja tidak menyembunyikannya karena ingin memilikinya semua untuk diriku sendiri." `
 `"...... `
-`...You'll definitely announce it to everyone sooner or later, right?" `
-`"...Yes, of course. `
-`Even I want to rub it in Nii-san's face as soon as I can." `
-`"......About how much time will you need to think?" `
-`"I won't know that until I've thought about it." `
-`"......Will one night be enough?" `
-`"I can't promise you that it'll take only one night...!" `
-`"Out of respect for you, the Successor, I'll support you for one night. `
-`...This year's family conference will end tomorrow morning, when the typhoon passes and a boat comes to get us. `
-`...That's right, when the seagulls cry. `
-`...I will remain silent until then." `
-`"If you still feel that you need more time to think after that, ...then we'll cross that bridge when we get there, okay? `
-`......I'll support your position `
-`{i:to the best of my ability}." `
-`"...............You...really are cunning, aren't you? `
-`...I'm surprised. `
-`Were you always this resilient?" `
-`"...I guess it's true that women become stronger when they have a child. `
-`I realized that in myself when I had Maria." `
+`...kau pasti akan mengumumkannya kepada semua orang cepat atau lambat, kan?" `
+`"...Ya, tentu saja. `
+`Bahkan aku sendiri ingin memamerkannya ke wajah Nii-san secepat mungkin." `
+`"......Berapa lama kira-kira waktu yang kau butuhkan untuk berpikir?" `
+`"Aku tidak akan tau itu sampai aku memikirkannya." `
+`"......Apakah satu malam cukup?" `
+`"Aku tidak bisa menjanjikan kalau itu hanya akan memakan waktu satu malam...!" `
+`"Sebagai bentuk penghormatan kepadamu, sang Pewaris, aku akan mendukungmu selama satu malam. `
+`...Konferensi keluarga tahun ini akan berakhir besok pagi, saat topan berlalu dan perahu datang menjemput kita. `
+`...Benar, saat burung camar berkicau. `
+`...Aku akan tetap diam sampai saat itu." `
+`"Jika setelah itu kau masih merasa butuh waktu lebih lama untuk berpikir, ...maka kita akan hadapi masalah itu nanti, oke? `
+`......Aku akan mendukung keputusanmu `
+`{i:dengan seluruh kemampuanku}." `
+`"............... kau... benar-benar licik, ya? `
+`...Aku terkejut. `
+`Apakah kau selalu sekuat ini?" `
+`"...Sepertinya memang benar kalau wanita menjadi lebih kuat saat memiliki anak. `
+`Aku menyadari hal itu pada diriku sendiri saat melahirkan Maria." `
 `"...... `
-`Understood. `
-`For the time being, thanks for your cooperation. `
-`...We can talk about tomorrow when it comes." `
-`"Yes, that's right. `
-`...I'm convinced that you'll become a fair-minded successor to the Headship, one who'd never even consider taking all of the gold for herself." `
-`"...Isn't that obvious?! `
-`...I will split the gold evenly among the siblings." `
-`No way. I found it. `
-`Because I...because we solved the riddle of the epitaph! `
-`So this gold is all mine...!! `
-`"I won't give it up to anyone! `
-`I am the Head of the Ushiromiya family! `
-`I am, "I" am!!" `
-`The witch inside Eva claimed exclusive possession in a loud voice. `
-`...Of course, that didn't reach even close to Rosa's ears, and it probably didn't reach Eva's either. `
-`"...Indeed. `
-`I shall acknowledge it. `
-`You are the true Head of the Ushiromiya family, chosen by the witch's epitaph. `
-`Now, I acknowledge it upon my name." `
-`"...Y‐ `
-`You are......? `
-`That outfit... `
-`You couldn't... `
-`actually be... `
+`Baiklah. `
+`Untuk saat ini, terima kasih atas kerjasamanya. `
+`...Kita bisa membicarakannya besok nanti." `
+`"Ya, benar. `
+`...Aku yakin kau akan menjadi penerus jabatan Kepala yang adil, seseorang yang bahkan tidak akan pernah terpikir untuk mengambil semua emas itu untuk dirinya sendiri." `
+`"...Bukankah itu sudah jelas?! `
+`...Aku akan membagi emas ini secara merata di antara saudara-saudaraku." `
+`Tidak mungkin. Aku yang menemukannya. `
+`Karena aku... karena kita telah memecahkan teka-teki nisan itu! `
+`Jadi emas ini semuanya milikku...!! `
+`"Aku tidak akan menyerahkannya kepada siapapun! `
+`Akulah Kepala Keluarga Ushiromiya! `
+`Akulah, "diriku" lah!!" `
+`Penyihir di dalam diri Eva menyatakan kepemilikan eksklusif dengan suara lantang. `
+`...Tentu saja, itu sama sekali tidak sampai ke telinga Rosa, dan mungkin juga tidak sampai ke telinga Eva. `
+`"...Benar sekali. `
+`Aku akan mengakuinya. `
+`Kau adalah Kepala Keluarga Ushiromiya yang sesungguhnya, yang dipilih oleh nisan penyihir itu. `
+`Sekarang, aku mengakuinya atas namaku sendiri." `
+`"...K‐ `
+`Kau adalah......? `
+`Pakaian itu... `
+`Kau tidak mungkin... `
+`benar-benar... `
 `{f:5:Beatrice}...?" `
-`Maybe {f:5:Beatrice} was happy that Eva had called her by her own name. `
-`She cackled cheerfully. `
-`In concert with that laugh, gold butterflies crept up as though a storm of gold dust was spinning around the room, `
-`and the room shone the color of gold... `
-`"Indeed. `
-`I am the Golden Witch, {f:5:Beatrice}. `
-`...*cackle*cackle* There is no need to be so frightened. `
-`I am praising your exploits. `
-`...Truly excellent. `
-`Imagine that you would spectacularly solve that riddle of the epitaph... `
-`It is worthy of my admiration...!" `
-`"...You're the one who sent that letter? `
-`So, I'll inherit all of the gold and the Ushiromiya Family Headship, right...? `
-`You wrote that in your letter. `
-`And I overcame that challenge...!" `
-`"Indeed. `
-`I shall acknowledge it. `
-`Right now, all of the gold piled up here...and everything of the Ushiromiya family...is for you to do with as you please. `
-`After all, from this moment on, you are already the Ushiromiya Family Head." `
-`"...R-Really? `
-`It's true, right? `
-`Right?!" `
-`"Do not be agitated. `
-`I am openly praising you. `
-`As proof, I shall grant you this." `
-`{f:5:Beatrice} took a ring off of her own finger... `
-`and held it out to Eva. `
-`She fearfully accepted it... `
-`...and realized that it was a ring. `
-`"......C‐ `
-`Could...... `
-`this be......" `
-`"Indeed. `
-`This Golden Ring is proof of the Ushiromiya Family Headship, returned to me from Kinzo. `
-`From now on, it is yours. `
-`You may place it on your finger and hold it high before your siblings. `
-`No one should doubt that you have now succeeded the Ushiromiya Family Headship." `
-`Eva stared closely at the ring. `
-`...It certainly wasn't a fake. `
-`...Without a doubt, it was the real thing. `
-`She'd dreamed of receiving this ring someday, `
-`focused on this day over and over again, and it was now finally a certainty. `
-`This ring... `
-`had now designated her as the Head... `
-`and had been handed over to her... `
-`And... `
-`timidly, `
-`...she put it on the middle finger of her left hand... `
-`In that instant, ...she felt a deep emotion welling up inside her that she'd never felt before. `
-`Her mind grew blank. `
-`Both eyes were opened. `
-`That ring...was on her own finger. `
-`Not in a dream, but in reality......! `
-`"That ring is also pleased. `
-`After all, it managed to reach you, one who dreamed of putting it on their finger for so long." `
-`"...The ring... `
-`...Father's... `
-`...ring......!" `
-`"How many nights have you dreamed of putting that on your finger as you have done now? `
-`...The strength of those feelings became your magic and materialized itself. `
-`Now, you are worthy of calling yourself a Great Witch." `
-`"......W-Who are you? `
-`...Are you really...{f:5:Beatrice}...?" `
-`"*cackle*cackle* `
-`I am the Golden Witch, {f:5:Beatrice}! `
-`The Ushiromiya family alchemist! `
-`In accordance with my contract with Kinzo, I will now pass everything on to you. `
-`...All of the gold I entrusted Kinzo with. `
-`And all of the wealth he built up through that. `
-`And the honor and Headship of the Ushiromiya family. `
-`And, I will pass on my power and the title of the Endless Witch." `
-`"...The title... `
-`of the witch..." `
-`"I will pass on all of my magical power...and the titles of the Golden Witch and the Endless Witch. `
-`...Following my Predecessor's example, I will hand over my name, {f:5:Beatrice}, along with that title. `
-`...You may now call yourself by that name!" `
-`Eva gulped. `
-`The chandelier light, which had seemed dim, now felt too bright. `
-`"By my name, I shall now commence the succession of the Golden Witch...!" `
-`The instant {f:5:Beatrice} made that proclamation, everything was buried by a golden sparkle... `
-`and changed into a majestic place that looked like an audience hall. `
-`In the audience hall, there was a crowd of {f:5:Beatrice}'s minions and brethren, `
-`as well as countless gold butterflies celebrating this first succession ceremony in a thousand years. `
-`When she looked, she saw {f:5:Beatrice} in the throne that only the Endless Witch was permitted to sit in, holding a golden staff, `
-`reigning with a dazzling dignity. `
-`Without being ordered by anyone, Eva automatically kneeled, hanging her head... `
-`A goat attendant respectfully handed {f:5:Beatrice} a golden staff in the shape of the One-Winged Eagle. `
-`After {f:5:Beatrice} stood up and received that staff, `
-`she lay the tip of it on Eva's shoulder and spoke. `
-`It was a proclamation one thousand years in coming. `
+`Mungkin {f:5:Beatrice} senang karena Eva memanggilnya dengan namanya sendiri. `
+`Dia terkekeh riang. `
+`Seiring tawa itu, kupu-kupu emas berterbangan seolah badai debu emas berputar-putar di sekeliling ruangan, `
+`dan ruangan itu bersinar dengan warna emas... `
+`"Benar sekali. `
+`Akulah Penyihir Emas, {f:5:Beatrice}. `
+`...*terkekeh*terkekeh* Tidak perlu takut begitu. `
+`Aku memuji pencapaianmu. `
+`...Sungguh luar biasa. `
+`Bayangkan kau berhasil memecahkan teka-teki nisan itu dengan megah... `
+`Itu layak mendapat kekagumanku...!" `
+`"...Kau yang mengirim surat itu? `
+`Jadi, aku akan mewarisi semua emas dan jabatan Kepala Keluarga Ushiromiya, kan...? `
+`Kau menulis itu di suratmu. `
+`Dan aku berhasil mengatasi tantangan itu...!" `
+`"Memang benar. `
+`Aku akan mengakuinya. `
+`Saat ini, semua emas yang menumpuk di sini... dan segala sesuatu milik Keluarga Ushiromiya... adalah milikmu untuk kau gunakan sesukamu. `
+`Lagipula, mulai saat ini, kamu sudah menjadi Kepala Keluarga Ushiromiya." `
+`"...B-Benarkah? `
+`Itu benar, kan? `
+`Benar, kan?!" `
+`"Jangan gelisah. `
+`Aku secara terbuka memujimu. `
+`Sebagai buktinya, aku akan memberimu ini." `
+`{f:5:Beatrice} melepas sebuah cincin dari jarinya sendiri... `
+`dan mengulurkannya kepada Eva. `
+`Dengan rasa takut, Eva menerimanya... `
+`...dan menyadari kalau itu adalah sebuah cincin. `
+`"......M‐ `
+`Mungkinkah...... `
+`ini adalah......" `
+`"Benar. `
+`Cincin Emas ini adalah bukti kepemimpinan Keluarga Ushiromiya, yang dikembalikan kepadaku oleh Kinzo. `
+`Mulai sekarang, cincin ini milikmu. `
+`Kau boleh memakainya di jarimu dan mengangkatnya tinggi-tinggi di hadapan saudara-saudaramu. `
+`Tak seorang pun boleh meragukan kalau kau kini telah menggantikan posisi Kepala Keluarga Ushiromiya." `
+`Eva menatap cincin itu dengan saksama. `
+`...Itu jelas bukan palsu. `
+`...Tidak salah lagi, itu adalah yang asli. `
+`Dia telah memimpikan untuk menerima cincin ini suatu hari nanti, `
+`berfokus pada hari ini berulang kali, dan kini akhirnya menjadi kenyataan. `
+`Cincin ini... `
+`kini telah menobatkannya sebagai Kepala Keluarga... `
+`dan telah diserahkan kepadanya... `
+`Dan... `
+`dengan ragu-ragu, `
+`...dia mengenakannya di jari tengah tangan kirinya... `
+`Pada saat itu, ...dia merasakan emosi yang mendalam membuncah di dalam dirinya, sesuatu yang belum pernah dia rasakan sebelumnya. `
+`Pikirannya menjadi kosong. `
+`Kedua matanya terbuka lebar. `
+`Cincin itu... ada di jarinya sendiri. `
+`Bukan dalam mimpi, tapi di dunia nyata......! `
+`"Cincin itu juga merasa senang. `
+`Lagi pula, cincin itu berhasil sampai padamu, orang yang sudah lama bermimpi untuk mengenakannya di jarimu." `
+`"...Cincin itu... `
+`...cincin... `
+`...Ayah......!" `
+`"Berapa banyak malam yang telah kau habiskan bermimpi mengenakan cincin itu di jarimu seperti yang baru saja kau lakukan? `
+`...Kekuatan perasaan itu menjadi sihirmu dan mewujudkan dirinya sendiri. `
+`Kini, kau layak menyebut dirimu sebagai Penyihir Agung." `
+`"......S-Siapa kau? `
+`...Apakah kau benar-benar...{f:5:Beatrice}...?" `
+`"*terkekeh*terkekeh* `
+`Aku adalah Penyihir Emas, {f:5:Beatrice}! `
+`Ahli alkimia keluarga Ushiromiya! `
+`Sesuai dengan kontrakku dengan Kinzo, kini aku akan mewariskan segalanya kepadamu. `
+`...Seluruh emas yang kuserahkan kepada Kinzo. `
+`Dan seluruh kekayaan yang ia kumpulkan melalui itu. `
+`Serta kehormatan dan kepemimpinan Keluarga Ushiromiya. `
+`Dan, aku akan mewariskan kekuatanku serta gelar Penyihir Tak Terbatas." `
+`"...Gelar... `
+`Penyihir..." `
+`"Aku akan mewariskan seluruh kekuatan sihirku... serta gelar Penyihir Emas dan Penyihir Tak Terbatas. `
+`...Mengikuti teladan Pendahuluku, aku akan menyerahkan namaku, {f:5:Beatrice}, bersama dengan gelar itu. `
+`...Kini kau boleh menyebut dirimu dengan nama itu!" `
+`Eva menelan ludah. `
+`Cahaya lampu gantung, yang tadinya tampak redup, kini terasa terlalu terang. `
+`"Dengan namaku, kini aku akan memulai suksesi Penyihir Emas...!" `
+`Begitu {f:5:Beatrice} mengumandangkan pernyataan itu, segalanya tertutupi oleh kilauan keemasan... `
+`dan berubah menjadi tempat megah yang tampak seperti aula audiensi. `
+`Di dalam aula audiensi itu, terdapat kerumunan pengikut dan saudara-saudara {f:5:Beatrice}, `
+`serta kupu-kupu emas yang tak terhitung jumlahnya yang merayakan upacara suksesi pertama dalam seribu tahun ini. `
+`Ketika ia menengok, ia melihat {f:5:Beatrice} duduk di singgasana yang hanya boleh diduduki oleh Penyihir Tak Terbatas, memegang tongkat emas, `
+`memerintah dengan kemegahan yang mempesona. `
+`Tanpa diperintah oleh siapapun, Eva secara otomatis berlutut, menundukkan kepalanya... `
+`Seorang pelayan berbentuk kambing dengan hormat menyerahkan tongkat emas berbentuk Elang Bersayap Satu kepada {f:5:Beatrice}. `
+`Setelah {f:5:Beatrice} berdiri dan menerima tongkat itu, `
+`ia meletakkan ujung tongkat tersebut di bahu Eva dan berbicara. `
+`Itu adalah pengumuman yang telah dinantikan selama seribu tahun. `
 `"Ushiromiya Eva. `
-`You have spectacularly solved the riddle of the witch's epitaph and reached the Golden Land. `
-`...I praise that accomplishment... `
-`and hand over all of the Endless Magic as well as the titles of the Golden Witch and the Endless Witch." `
-`"From this point forth, you may call yourself by my name, `
+`Kau telah memecahkan teka-teki nisan penyihir dengan luar biasa dan mencapai Taman Emas. `
+`...Aku memuji pencapaian itu... `
+`dan menyerahkan seluruh Sihir Tak Terbatas serta gelar Penyihir Emas dan Penyihir Tak Terbatas." `
+`"Mulai saat ini, kau boleh menyebut dirimu dengan namaku, `
 `{f:5:Beatrice}...! `
-`Come, raise your face. `
-`Then stand and accept this staff...!" `
-`"...I-I am most grateful..." `
-`Eva stood up dizzily and took the magic staff from {f:5:Beatrice}'s hand. `
-`Her hand was trembling slightly. `
-`As soon as she grasped that staff, `
-`...she was wrapped up in the brilliant sparkle of gold. `
-`As though gold butterflies were flowing out from inside of her. `
-`In the instant she succeeded the Golden Witch, Eva felt something in the depths of her soul be reborn. `
-`To describe it in a word, it was energy. `
-`Energy with a gold color. `
-`It felt like she was waking up, `
-`...as though she had been half asleep ever since she had been born and was opening her eyes for the first time. `
-`It felt as though her true eyes inside her eyes were opened for the first time in her life. `
-`"......Indeed. `
-`A fitting and beautiful outfit for the Golden Witch. `
-`Come, you may show yourself to all of these people. `
-`Let them know that the new witch is indeed you...!" `
-`Eva...no, the new {f:5:Beatrice} turned around timidly. `
-`When she did, the witch's minions, which filled the vast audience hall, `
-`honored her with an applause that sounded like the roaring of the sea... `
-`"Come, everyone. `
-`Replace all of the portraits of {f:5:Beatrice} with the new {f:5:Beatrice}! `
-`Lift up words of celebration for the new {f:5:Beatrice}...!!" `
-`"New {f:5:Beatrice}, `
-`congratulations on the succession of the Golden Witch. `
-`...I hope that you will become able to stand on your own as a proud Golden Witch, and as the Endless Witch." `
-`"...Y-Yes, ...I will do my best..." `
-`"I expect a composure befitting the Endless Witch from you, unlike your naughty predecessor. `
+`Ayo, angkat wajahmu. `
+`Kemudian berdirilah dan terimalah tongkat ini...!" `
+`"...A-Aku sangat berterima kasih..." `
+`Eva berdiri dengan sedikit pusing dan mengambil tongkat sihir dari tangan {f:5:Beatrice}. `
+`Tangannya sedikit gemetar. `
+`Begitu dia menggenggam tongkat itu, `
+`...dia diselimuti kilauan emas yang cemerlang. `
+`Seolah-olah kupu-kupu emas mengalir keluar dari dalam dirinya. `
+`Pada saat dia menggantikan posisi Penyihir Emas, Eva merasakan sesuatu di kedalaman jiwanya terlahir kembali. `
+`Untuk menggambarkannya dalam satu kata, itu adalah energi. `
+`Energi berwarna emas. `
+`Rasanya seperti dia baru saja terbangun, `
+`...seolah-olah dia telah setengah tertidur sejak lahir dan baru membuka matanya untuk pertama kalinya. `
+`Rasanya seolah-olah mata sejatinya di dalam matanya terbuka untuk pertama kalinya dalam hidupnya. `
+`"......Benar sekali. `
+`Pakaian yang sangat cocok dan indah untuk Penyihir Emas. `
+`Ayo, tunjukkan dirimu kepada semua orang ini. `
+`Biarkan mereka tau kalau penyihir baru itu memang dirimu...!" `
+`Eva... tidak, {f:5:Beatrice} yang baru itu berbalik dengan malu-malu. `
+`Saat dia melakukannya, para pengikut penyihir, yang memenuhi aula audiens yang luas, `
+`menghormatinya dengan tepuk tangan yang terdengar seperti gemuruh laut... `
+`"Ayo, semuanya. `
+`Gantilah semua potret {f:5:Beatrice} dengan {f:5:Beatrice} yang baru! `
+`Ucapkanlah kata-kata selamat untuk {f:5:Beatrice} yang baru...!!" `
+`"{f:5:Beatrice} yang baru, `
+`selamat atas suksesi sebagai Penyihir Emas. `
+`...Aku harap kau akan mampu berdiri sendiri sebagai Penyihir Emas yang bangga, dan sebagai Penyihir Tak Terbatas." `
+`"...Y-Ya, ...aku akan berusaha sebaik mungkin..." `
+`"Aku mengharapkan ketenangan yang pantas bagi seorang Penyihir Tak Terbatas darimu, tidak seperti pendahulumu yang nakal. `
 `Hohohohohoho." `
-`"Teacheer, we're in the middle of a serious ceremony, so please, enough of that." `
-`"Congratulations on the succession of the Golden Witch, `
-`new {f:5:Beatrice}-sama. `
-`...I am called Ronove. `
-`I am one of the 72 demons permitted to serve the Golden Witch." `
-`"If you are ever inconvenienced in the slightest, `
-`please let me know at once." `
-`"...Th-Thank you..." `
-`"Ronove is rude, but reliable. `
-`If anything confuses you in your new days as a witch, speak to this man, and he should be able to help you." `
-`"......Predecessor {f:5:Beatrice}-sama, `
-`it is a shame that I was not permitted to serve you further, even though we have finally been reunited like this. `
-`...These last thousand years have been very entertaining for me. `
-`You have my deepest gratitude." `
-`"Indeed. `
-`...One thousand years with you wasn't boring. `
-`...Please, take care of the new witch." `
-`"Yes. `
-`I, Ronove, `
-`...will obey the final order `
-`of the former {f:5:Beatrice}." `
-`"You'd better thank me, okay? `
-`I gave my signature to recommend you for the succession of the witch, got it? `
-`In other words, if I hadn't signed, you wouldn't have been able to become a witch. `
-`So thank me a little, okay?!" `
-`"This is the Witch of Certainty, Lady {f:5:Lambdadelta}. `
-`The recommendation of a witch from the senate was required for your succession as an Endless Witch. `
-`Lady {f:5:Lambdadelta} recommended you and became your guardian." `
-`"...Th-Thank you..." `
+`"Guru, kita sedang berada di tengah upacara yang serius, jadi tolong, hentikan itu." `
+`"Selamat atas penobatan Penyihir Emas, `
+`{f:5:Beatrice}-sama yang baru. `
+`...Nama saya Ronove. `
+`Saya adalah salah satu dari 72 iblis yang diizinkan untuk melayani Penyihir Emas." `
+`"Jika suatu saat qnda mengalami ketidaknyamanan sekecil apapun, `
+`tolong segera beri tau saya." `
+`"...T-Terima kasih..." `
+`"Ronove memang kasar, tapi bisa diandalkan. `
+`Jika ada hal yang membingungkanmu di hari-hari awal sebagai penyihir, bicaralah dengan pria ini, dan dia seharusnya bisa membantumu." `
+`"......Pendahulu {f:5:Beatrice}-sama, `
+`sayang sekali saya tidak diizinkan untuk terus melayani anda, meskipun kita akhirnya bisa bersatu kembali seperti ini. `
+`...Seribu tahun terakhir ini sangat menghibur bagi saya. `
+`Saya mengucapkan terima kasih yang sebesar-besarnya." `
+`"Memang. `
+`...Seribu tahun bersamamu tidaklah membosankan. `
+`...Tolong, jaga penyihir baru itu." `
+`"Dimengerti. `
+`Saya, Ronove, `
+`...akan mematuhi perintah terakhir `
+`dari mantan {f:5:Beatrice}." `
+`"Sebaiknya kau berterima kasih padaku. `
+`Aku memberikan tanda tanganku untuk merekomendasikanmu sebagai penerus penyihir itu, mengerti? `
+`Dengan kata lain, kalau aku tidak menandatangani, kau tidak akan bisa menjadi penyihir. `
+`Jadi, berterima kasihlah sedikit padaku, ya?!" `
+`"Dia adalah Penyihir Kepastian, Lady {f:5:Lambdadelta}. `
+`Rekomendasi dari seorang penyihir di senat diperlukan untuk suksesimu sebagai Penyihir Tak Terbatas. `
+`Lady {f:5:Lambdadelta} merekomendasikanmu dan menjadi walimu." `
+`"...T-Terima kasih..." `
 `"...Heeey, Beatooo! `
-`This kid isn't grateful enough! `
-`I think I'll take back that recommendation!" `
-`"A person making these recommendations shouldn't act like a child, right? `
-`If you've signed, make sure you take responsibility." `
-`"Lady {f:5:Lambdadelta} is also the Witch of Certainty. `
-`...The Witch of Certainty prefers to make fate firm, to create a fate of Certainty. `
-`She really liked and highly valued your efforts until today." `
-`"Well, you had that unfortunate childhood, all that unrewarded effort... I can sympathize juuust a bit with that. `
-`It's not like I felt sorry for you or anything, so don't be so full of yourself! `
+`Anak ini kurang bersyukur! `
+`Aku tarik lagi rekomendasi itu!" `
+`"Seseorang yang memberikan rekomendasi seperti ini seharusnya tidak bersikap seperti anak kecil. `
+`Kalau sudah menandatangani, pastikan kau bertanggung jawab." `
+`"Nyonya {f:5:Lambdadelta} juga adalah Penyihir Kepastian. `
+`...Penyihir Kepastian lebih suka memperkuat takdir, untuk menciptakan takdir yang pasti. `
+`Dia benar-benar menyukai dan sangat menghargai usahamu sampai hari ini." `
+`"Yah, kau punya masa kecil yang menyedihkan, semua usaha yang tak pernah dihargai... Aku bisa sedikit bersimpati dengan itu. `
+`Bukan berarti aku kasihan padamu atau apa, jadi jangan terlalu sombong! `
 `Tsu-n!" `
-`"...From my point of view, your succession...well, it was more of a coincidence than a miracle. `
-`It isn't worthy of my recommendation." `
-`"*cackle* `
-`This is Lady {f:5:Bernkastel}. `
-`She's quite hard to please. `
-`Still, you could say that just having her participate in this celebration makes you exceedingly lucky." `
-`"......I only came because this is a rare, once-in-a-millennium event. `
-`And I heard there'd be some good sake." `
-`"New {f:5:Beatrice}-sama, `
-`please, come greet us as well." `
-`"Huh? ...Oh, ...I'm pleased to meet you..." `
-`The Seven Sisters of Purgatory were gathered in a line. `
-`The eldest sister, Lucifer, took a step forward and kneeled. `
-`"This is furniture that serves me. `
-`As a gift to celebrate your inheritance, I will send them to you. `
-`...Once you succeed the position of Golden Witch, you will need to carry out the resurrection ceremony for yourself. `
-`The Seven Sisters of Purgatory perform an essential role in that ceremony. `
-`...They're a villainous bunch, but they serve their purpose. `
-`Have them do whatever you wish." `
-`"We will always be by {f:5:Beatrice}-sama's side. `
-`Please order us to do anything you desire. `
-`We'll accomplish our tasks without fail...!" `
-`Even after that, many nobles and minions visited and offered words of congratulation for the new witch. `
-`As she responded to them confusedly, `
-`she felt as though she was growing light-headed due to lack of oxygen. `
-`...She couldn't tell if this was something real or unreal. `
-`But there was just one thing she could understand. `
-`A feeling of achievement at being permitted to call herself the Golden Witch. `
-`...That alone was a truth she could definitely understand... `
-`"......What...is all this? `
-`Of course, I'm not gonna swallow this story, ...but what in the world does it mean?! `
-`Aunt Eva is the new {f:5:Beatrice}? `
-`Are you saying she's turned into a witch? `
-`...What the hell...?!!" `
-`"I was also surprised. `
-`To think that someone would be able to solve that riddle. `
-`...However, that is the rule. `
-`I must follow it...and pass on the position of Golden Witch and my name." `
-`"It is hardly something to be surprised about. `
-`At the very beginning, you wrote that rule in a letter and announced it. `
-`...Eva-sama was simply the first to be successful. `
-`That is all there is to say." `
-`"...{f:5:Virgilia}, are you there?!" `
-`"Yes, here I am..." `
-`"What does this farce mean?! `
-`Even if this depiction of strange witches showing up one after another is some of her bullshit...! `
-`...Isn't this almost like Aunt Eva turned into a witch?!" `
-`"Calm yourself. `
-`She has simply received the title of "Endless Witch"...and might call herself that in the future. `
-`...This succession ceremony is certainly nothing more than an act to promote that child's "explanation". `
-`Don't fall for the same move over and over again." `
-`"Th-That's right... `
-`That whole grand ceremony was all phony. `
-`But it's at least a fact that Aunt Eva solved the riddle of the epitaph. `
-`...And at the same time, that means she succeeded the Ushiromiya Family Headship." `
-`"...And after getting 10 tons of gold, `
-`...Aunt Eva might as well call herself the "Golden Witch"... ...Is that it...? `
-`Damn, it's as complicated as ever...!!" `
-`"...My, my. `
-`Is a boorish Human unable to comprehend the grandeur of this ceremony? `
-`...Oh, well. `
-`Being unable to read between the lines is what makes you Human. `
-`I pity you, but I do not blame you." `
-`"Damn it... `
-`Don't look at me like you feel sorry for me... `
-`......Still, for the time being, there's something I need to check." `
-`"And that's regarding this younger version of Aunt Eva... `
-`in other words, the definition of this new {f:5:Beatrice}. `
-`...What is that?!" `
-`"Even if I tell of it, you will just persist in your disbelief in magic and witches, correct? `
-`So there's nothing in particular for me to explain. `
-`Feel free to believe in whatever it seems to be to you." `
-`"...What it seems to be to me...?! `
-`Then...then how should I interpret this...?!" `
-`"For now, it might not hurt to view it as a visualization of a separate entity inside Ushiromiya Eva." `
-`"...Of course, you cannot blindly accept that answer, but it is probably a reasonable theory to hold for the time being." `
-`"......I-In other words, I should think of Aunt Eva and her as the same person, right? `
-`...Damn, ...I don't like where this is going..." `
-`"In any case, from now on, my name is no longer {f:5:Beatrice}. `
-`I have passed it on to Ushiromiya Eva. `
-`...Which means that I am nameless! `
-`Battleer, don't you have some name that'd be fitting for me? `
-`I shall accept your recommendation! `
-`How about a name that's refined, full of elegance, and a little cute too, if you can...!" `
-`"...Just "Beato" is good enough for you. `
-`There's probably a big enough difference between Beato and {f:5:Beatrice} to keep people from getting confused." `
+`"...Dari sudut pandangku, suksesimu... yah, itu lebih merupakan kebetulan daripada keajaiban. `
+`Itu tidak layak untuk direkomendasikan olehku." `
+`"*terkekeh* `
+`Dia adalah Lady {f:5:Bernkastel}. `
+`Dia cukup sulit untuk dipuaskan. `
+`Meski begitu, bisa dibilang bahwa kehadirannya dalam perayaan ini saja sudah membuatmu sangat beruntung." `
+`"......Aku datang hanya karena ini adalah acara langka yang terjadi sekali dalam seribu tahun. `
+`Dan aku dengar akan ada sake yang enak." `
+`"{f:5:Beatrice}-sama yang baru, `
+`"Tolong, sapa kami juga." `
+`"Hah? ...Oh, ...Senang bertemu dengan kalian..." `
+`Tujuh Saudari Api Penyucian berbaris rapi. `
+`Saudari tertua, Lucifer, melangkah maju dan berlutut. `
+`"Ini adalah furnitur yang melayaniku. `
+`Sebagai hadiah untuk merayakan warisanmu, aku akan mengirimkannya kepadamu. `
+`...Begitu kau menggantikan posisi Penyihir Emas, kau harus melaksanakan upacara kebangkitan untuk dirimu sendiri. `
+`Tujuh Saudari Api Penyucian memainkan peran penting dalam upacara itu. `
+`...Mereka memang sekelompok penjahat, tapi mereka berguna. `
+`Suruh mereka melakukan apapun yang kau inginkan." `
+`"Kami akan selalu berada di sisi {f:5:Beatrice}-sama. `
+`Silakan perintahkan kami untuk melakukan apapun yang anda inginkan. `
+`Kami akan menyelesaikan tugas kami tanpa gagal...!" `
+`Bahkan setelah itu, banyak bangsawan dan pengikut datang serta menyampaikan ucapan selamat kepada penyihir baru tersebut. `
+`Saat ia menanggapi mereka dengan kebingungan, `
+`ia merasa seolah-olah kepalanya mulai pusing karena kekurangan oksigen. `
+`...Ia tidak bisa membedakan apakah ini nyata atau tidak nyata. `
+`Namun, hanya ada satu hal yang bisa ia pahami. `
+`Perasaan bangga karena diizinkan menyebut dirinya Penyihir Emas. `
+`...Hanya itu saja yang merupakan kebenaran yang pasti bisa ia pahami... `
+`"......Apa...ini semua? `
+`Tentu saja, aku tidak akan begitu saja mempercayai cerita ini, ...tapi apa artinya semua ini?! `
+`Bibi Eva adalah {f:5:Beatrice} yang baru? `
+`Maksudmu dia sudah berubah menjadi penyihir? `
+`...Apa-apaan ini...?!!" `
+`"Aku juga terkejut. `
+`Siapa sangka ada orang yang bisa memecahkan teka-teki itu. `
+`...Namun, itulah aturannya. `
+`Aku harus mematuhinya... dan mewariskan jabatan Penyihir Emas serta namaku." `
+`"Ini bukanlah sesuatu yang perlu dikagetkan. `
+`Sejak awal, kau sudah menulis aturan itu dalam surat dan mengumumkannya. `
+`...Eva-sama hanyalah yang pertama berhasil. `
+`Itu saja yang bisa dikatakan." `
+`"...{f:5:Virgilia}, kau di sana?!" `
+`"Ya, aku di sini..." `
+`"Apa maksud sandiwara ini?! `
+`Bahkan jika penggambaran para penyihir aneh yang muncul satu demi satu ini hanyalah omong kosong darinya...! `
+`...Bukankah ini hampir seperti Bibi Eva berubah menjadi penyihir?!" `
+`"Tenanglah. `
+`Dia hanya menerima gelar "Penyihir Tak Terbatas"... dan mungkin akan menyebut dirinya seperti itu di masa depan. `
+`...Upacara suksesi ini tentu saja tidak lebih dari sekadar sandiwara untuk mempromosikan "penjelasan" anak itu. `
+`Jangan sampai terjebak dalam trik yang sama berulang kali." `
+`"B-Benar juga... `
+`Seluruh upacara megah itu hanyalah tipuan belaka. `
+`Tapi setidaknya fakta kalau Bibi Eva telah memecahkan teka-teki prasasti itu. `
+`...Dan pada saat yang sama, itu berarti dia telah menggantikan posisi Kepala Keluarga Ushiromiya." `
+`"...Dan setelah mendapatkan 10 ton emas, `
+`...Bibi Eva mungkin saja menyebut dirinya sebagai "Penyihir Emas"... ...Begitu saja...? `
+`Sial, ini tetap serumit biasanya...!!" `
+`"...Wah, wah. `
+`Apakah manusia yang kasar ini tidak mampu memahami keagungan upacara ini? `
+`...Yah, sudahlah. `
+`Ketidakmampuan membaca makna tersirat itulah yang membuatmu menjadi manusia. `
+`Aku mengasihanimu, tapi aku tidak menyalahkanmu." `
+`"Sialan... `
+`Jangan menatapku seolah-olah kau mengasihaniku... `
+`...... Tapi, untuk saat ini, ada sesuatu yang perlu aku periksa." `
+`"Dan itu mengenai versi muda Bibi Eva ini... `
+`dengan kata lain, pengertian {f:5:Beatrice} yang baru ini. `
+`...Apa itu?!" `
+`"Bahkan jika aku menceritakannya, kau hanya akan tetap tidak percaya pada sihir dan penyihir, kan? `
+`Jadi, tidak ada yang perlu aku jelaskan secara khusus. `
+`Silakan percaya pada apapun yang menurutmu masuk akal." `
+`"...Apa yang menurutku masuk akal...?! `
+`Lalu... lalu bagaimana aku harus menafsirkan ini...?!" `
+`"Untuk saat ini, mungkin tidak ada salahnya memandangnya sebagai gambaran dari entitas terpisah di dalam Ushiromiya Eva." `
+`"...Tentu saja, kau tidak bisa begitu saja menerima jawaban itu, tapi itu mungkin teori yang masuk akal untuk dipegang sementara waktu." `
+`"......A-Artinya, aku harus menganggap Bibi Eva dan dia sebagai orang yang sama, kan? `
+`...Sial, ...aku tidak suka ke mana arah pembicaraan ini..." `
+`"Bagaimanapun juga, mulai sekarang, namaku bukan lagi {f:5:Beatrice}. `
+`Aku telah menyerahkannya kepada Ushiromiya Eva. `
+`...Artinya, aku jadi tak bernama! `
+`Battleer, apa kau punya nama yang cocok untukku? `
+`Aku akan menerima rekomendasimu! `
+`Bagaimana kalau nama yang anggun, penuh keanggunan, dan sedikit imut juga, kalau bisa...!" `
+`"...Hanya "Beato" saja sudah cukup untukmu. `
+`Mungkin ada perbedaan yang cukup besar antara Beato dan {f:5:Beatrice} sehingga orang-orang tidak akan bingung." `
 `"...N-Nngg. `
-`So, the same old Beato, is it? `
-`It doesn't feel wrong, but it's boring for some reason. `
+`Jadi, tetap Beato seperti biasa, ya? `
+`Rasanya tidak salah, tapi entah kenapa terasa membosankan. `
 `Nggg." `
 `"Pu ku ku ku ku... `
-`They say the temperature of black tea and a woman's heart are difficult to gauge in any era." `
+`Konon, suhu teh hitam dan hati seorang wanita sulit diukur di era manapun." `
 `"......Battler-kun, `
-`at any rate, stay calm from this point onwards. `
-`The fact that we can now tell her and Ushiromiya Eva apart works to our advantage, `
-`compared to the time when that child was still {f:5:Beatrice}." `
-`"...And that's exactly... `
-`...why I like it even less. `
-`...What's she thinking, `
-`that Beato......?" `
-`Over there, the witches formed a long line to bless Aunt Eva, `
-`who had the figure of her younger days and who now possessed the name {f:5:Beatrice}. `
-`It was like a witch's coronation. `
-`The countless gold butterflies flapped their wings, directing this fantastical, gold-sparkling space. `
-`They were all praising her. `
-`As I stared from the distance, `
-`I looked at the newly born {f:5:Beatrice}, who had a slightly embarrassed smile on her face. `
-`...Her expression, which had been lost and confused at first, `
-`seemed to be full of the happiness that she was finally starting to recognize. `
-`That expression didn't look at all like someone laughing insanely while standing before the gold. `
-`There was just the innocence of a person basking in their own joy. `
-`As a person who denied the existence of witches, I couldn't view this witch succession ceremony with a joyful expression and accept her... `
-`...However, when I looked at that innocent smile, `
-`I felt like I wanted to offer my blessings, just for that moment. `
-`It's always beautiful when strong efforts bear fruits and are rewarded. `
-`Aunt Eva, who had always yearned to succeed the Headship, and who had worked hard since her youth without reward, `
-`...had spectacularly taken hold of the chance given to her by the riddle of the epitaph...and had finally gained that position. `
-`How divine is the smile of a person whose childhood dreams have been granted? `
-`I definitely won't accept witches. `
-`But, ...Battler put his hands together, making a small sound. `
-`*clap*. *clap*. `
-`...It didn't reach her ears, ...but it did bless her. `
-`"......Congratulations, Aunt Eva." `
-`You spectacularly solved the riddle of the epitaph before anyone else. `
-`It's your victory without any complaints. `
-`......I won't accept all that about the Golden Witch and so on, but I will accept you as the new Head of the Ushiromiya family, and I'll celebrate that sincerely. `
+`bagaimanapun juga, tetap tenang mulai saat ini. `
+`Fakta kalau kita sekarang bisa membedakan dia dan Ushiromiya Eva menguntungkan kita, `
+`dibandingkan saat anak itu masih {f:5:Beatrice}." `
+`"...Dan karena itulah... `
+`...alasan kenapa aku semakin tidak menyukainya. `
+`...Apa yang dia pikirkan, `
+`Beato itu......?" `
+`Di sana, para penyihir berbaris panjang untuk memberkati Bibi Eva, `
+`yang memiliki penampilan seperti masa mudanya dan kini menyandang nama {f:5:Beatrice}. `
+`Rasanya seperti upacara penobatan seorang penyihir. `
+`Kupu-kupu emas yang tak terhitung jumlahnya mengepakkan sayapnya, mengarahkan ruang fantastis yang berkilauan emas ini. `
+`Mereka semua memujinya. `
+`Saat aku menatap dari kejauhan, `
+`aku memandang {f:5:Beatrice} yang baru saja terlahir, yang memiliki senyuman sedikit malu di wajahnya. `
+`...Raut wajahnya, yang awalnya tampak bingung dan kehilangan arah, `
+`tampaknya kini dipenuhi kebahagiaan yang akhirnya mulai ia sadari. `
+`Raut wajah itu sama sekali tidak terlihat seperti seseorang yang tertawa gila-gilaan saat berdiri di hadapan emas. `
+`Yang terlihat hanyalah kepolosan seseorang yang sedang menikmati kebahagiaannya sendiri. `
+`Sebagai orang yang menyangkal keberadaan penyihir, aku tak bisa menyaksikan upacara suksesi penyihir ini dengan raut wajah gembira dan menerimanya... `
+`...Namun, ketika aku memandang senyuman polos itu, `
+`aku merasa ingin memberikan restuku, setidaknya untuk sesaat itu. `
+`Selalu indah ketika usaha keras membuahkan hasil dan mendapat imbalan. `
+`Bibi Eva, yang selalu mendambakan untuk menjadi Pemimpin, dan yang telah bekerja keras sejak masa mudanya tanpa imbalan, `
+`...telah dengan cermat memanfaatkan kesempatan yang diberikan kepadanya oleh teka-teki nisan itu... dan akhirnya meraih posisi itu. `
+`Betapa indahnya senyuman seseorang yang impian masa kecilnya telah terkabul? `
+`Aku pasti tidak akan menerima penyihir. `
+`Namun, ...Battler menepuk kedua tangannya, menghasilkan suara kecil. `
+`*prok*. *prok*. `
+`...Suara itu tidak sampai ke telinganya, ...tapi itu memberinya berkah. `
+`"......Selamat, Bibi Eva." `
+`Kau berhasil memecahkan teka-teki nisan itu dengan gemilang sebelum orang lain. `
+`Ini adalah kemenangan mutlakmu. `
+`......Aku tidak akan menerima semua omong kosong tentang Penyihir Emas dan sebagainya, tapi aku akan menerimamu sebagai Kepala Keluarga Ushiromiya yang baru, dan aku akan merayakannya dengan tulus. `
 `"......Hmph." `
-`As though urged on by Battler's applause, Beato also clapped. `
-`...It was a slightly odd scene. `
-`Battler and Beato, who opposed each other, were standing side by side and applauding the same person. `
-`"I'm not applauding for a witch. `
-`...I'm clapping for all of Aunt Eva's efforts up until now." `
-`"As am I. `
-`I offer my sincere applause as a blessing to Eva, who spectacularly solved that epitaph." `
+`Seolah terdorong oleh tepuk tangan Battler, Beato pun ikut bertepuk tangan. `
+`...Itu adalah pemandangan yang agak aneh. `
+`Battler dan Beato, yang saling bertentangan, berdiri berdampingan dan memberi tepuk tangan kepada orang yang sama. `
+`"Aku tidak bertepuk tangan untuk seorang penyihir. `
+`...Aku bertepuk tangan untuk semua usaha Bibi Eva sampai saat ini." `
+`"Aku juga. `
+`Aku memberikan tepuk tangan tulusku sebagai berkah bagi Eva, yang berhasil memecahkan teka-teki nisan itu dengan cermat." `
 `"......Hmm. `
-`...I don't like applauding with you. `
-`...But, well, I've decided that I won't worry about it now. `
-`...Divine punishment won't fall on me just because I clap with you every once in a while." `
+`...Aku tidak suka bertepuk tangan bersamamu. `
+`...Tapi, yah, aku sudah memutuskan untuk tidak memikirkannya sekarang. `
+`...Hukuman ilahi tidak akan menimpaku hanya karena aku bertepuk tangan bersamamu sesekali." `
 `"Hmm. `
-`It's not so bad every once in a while. `
-`...Still, it is fun to applaud. `
-`Even though it was Eva who was successful and not me, for some reason, I'm starting to feel happy too." `
-`"That's because blessing someone means the same thing as sympathizing and sharing with them." `
-`"I see. `
-`Then, I have even shared this irrational happy feeling with you. `
-`...Since we are a pair of enemies trying to make each other surrender, it is an odd experience." `
-`"Well, ...just for now, let's have a truce and clap, okay?" `
-`Beato laughed impishly, playing around and applauding even louder, `
-`as though eagerly trying not to lose to Battler as she clapped. `
-`Battler went along with her and clapped even louder. `
-`When he did, as though some ceremony had ended, everyone applauded and highly praised the reborn {f:5:Beatrice}. `
-`It was just as though Battler's and Beato's applause had been the final thing needed for her succession... `
+`Sesekali saja tidak apa-apa. `
+`...Meski begitu, bertepuk tangan itu menyenangkan. `
+`Meskipun yang berhasil adalah Eva, bukan aku, entah kenapa, aku mulai merasa bahagia juga." `
+`"Itu karena memberkati seseorang berarti sama dengan bersimpati dan berbagi dengannya." `
+`"Oh, begitu. `
+`Jadi, aku bahkan telah berbagi perasaan bahagia yang tidak masuk akal ini denganmu. `
+`...Karena kita adalah sepasang musuh yang berusaha membuat satu sama lain menyerah, ini adalah pengalaman yang aneh." `
+`"Yah, ...untuk saat ini saja, mari kita gencatan senjata dan bertepuk tangan, oke?" `
+`Beato tertawa nakal, bercanda dan bertepuk tangan lebih keras lagi, `
+`seolah-olah berusaha keras agar tidak kalah dari Battler saat bertepuk tangan. `
+`Battler mengikuti langkahnya dan bertepuk tangan lebih keras lagi. `
+`Saat ia melakukannya, seolah-olah sebuah upacara telah berakhir, semua orang bertepuk tangan dan memuji {f:5:Beatrice} yang terlahir kembali. `
+`Rasanya seolah-olah tepuk tangan Battler dan Beato itulah hal terakhir yang dibutuhkan untuk suksesi {f:5:Beatrice}... `
