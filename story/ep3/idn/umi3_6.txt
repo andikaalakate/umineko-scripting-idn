@@ -1,235 +1,235 @@
-`"............Well then, `
-`how will this game be resolved? `
-`...You may submit, or you may resist. `
-`...Either way, it will truly be an entertaining banquet worth betting my short remaining life on." `
-`In his dimly lit study, occasionally brightened by lightning, `
-`Kinzo kept mumbling and laughing to himself. `
-`On the antique clock with the intricate design that had been sitting on his desk, `
-`the two overlapping hands tilted to the right and began to slide. `
-`The measure of time that counted up to 24...had returned to 0...and had begun to count back again... `
-`"...Measuring time is a brutal thing. `
-`It drags itself all the way to 24 over the course of a day, and then returns back to 0. `
-`...It certainly did count to 23:59. `
-`However, is it ever able to reach 24:00? `
-`...If you conclude that it returns to 0:00 again without reaching 24, how futile it must all be." `
-`But perhaps a person's life is the same. `
-`You live, aiming for a perfect 24, and in the instant you reach it, you return to 0. `
-`People will probably praise the departed, saying that he did reach 24, but he most certainly did not. `
-`......In the end, he's a 0. `
-`"I am different. `
-`...I will live and reach 24. `
-`That itself is the Golden Land. `
-`...For that is where {f:5:Beatrice} dwells." `
-`Kinzo had been fumbling around with some tarot cards for some time. `
-`It looked as though he was trying to divine his own luck with a contest, doing it over every time he didn't like the result. `
-`The most forbidden action in tarot reading is trying to predict the same thing twice. `
-`To do so ridicules the results of fortune telling... `
-`and also desecrates those beings higher than humans that give revelations through the tarot cards. `
-`However, Kinzo knew. `
-`Tarot cards shouldn't be used twice because...since they're nothing more than a random number generator, `
-`reading them twice will naturally cause a different result to appear. `
-`...Therefore, reading them twice was only forbidden to preserve the mystique of the tarot cards' results. `
-`...However, that didn't mean that Kinzo didn't take tarot reading seriously. `
-`Kinzo's interpretation of tarot reading was done in a completely different way. `
-`That was to repeat the reading, over and over, `
-`without giving up in the slightest, until he reached the result most favorable to him. `
-`The mark he set for this "most favorable result" would vary, `
-`but when he demanded the most favorable result in a strictly literal sense, `
-`it was the same as a simple roulette of luck, where he seeked an arithmetic miracle. `
-`...However, Kinzo used miracles of numbers as the basis of his magical power, so this functioned perfectly well as a magical ritual. `
-`In other words, `
-`until the result he desired appeared perfectly, he would strive to repeat the tarot readings over and over, with conviction, turning the feelings of his heart into prayers, `
-`so that when they reached the heavens, they would be sublimated into results. This was Kinzo's personal magical interpretation. `
-`Therefore, even though Kinzo's tarot cards were no different from those generally used, `
-`the way in which they were used was completely different... `
+`"............Kalau begitu, `
+`bagaimana permainan ini akan diselesaikan? `
+`...Kau boleh menyerah, atau kau boleh melawan. `
+`...Apapun itu, ini benar-benar akan menjadi perjamuan yang menghibur, sepadan untuk dipertaruhkan dengan sisa hidupku yang singkat ini." `
+`Di ruang kerjanya yang remang-remang, yang sesekali diterangi oleh kilat, `
+`Kinzo terus bergumam dan tertawa sendiri. `
+`Pada jam antik dengan desain rumit yang berada di atas mejanya, `
+`kedua jarum yang saling tumpang tindih miring ke kanan dan mulai bergeser. `
+`Ukuran waktu yang menghitung hingga 24...telah kembali ke 0...dan mulai menghitung dari awal lagi... `
+`"...Mengukur waktu adalah hal yang brutal. `
+`Ia menyeret dirinya sendiri hingga ke angka 24 sepanjang hari, dan kemudian kembali lagi ke 0. `
+`...Ia memang benar-benar menghitung hingga 23:59. `
+`Namun, apakah ia pernah bisa mencapai pukul 24:00? `
+`...Kalau kau menyimpulkan kalau ia kembali ke 0:00 lagi tanpa mencapai 24, betapa sia-sianya semua itu." `
+`Namun, mungkin kehidupan seseorang juga sama. `
+`Kau hidup, mengincar angka 24 yang sempurna, dan pada saat kau mencapainya, kau kembali ke 0. `
+`Orang-orang mungkin akan memuji mereka yang telah tiada, mengatakan kalau dia telah mencapai angka 24, tapi dia pastinya tidak mencapainya. `
+`......Pada akhirnya, dia adalah 0. `
+`"Aku berbeda. `
+`...Aku akan hidup dan mencapai angka 24. `
+`Itu adalah Tanah Emas. `
+`...Karena di sanalah {f:5:Beatrice} bersemayam." `
+`Kinzo telah mengutak-atik beberapa kartu tarot selama beberapa waktu. `
+`Sepertinya dia sedang mencoba meramal peruntungannya sendiri dengan sebuah kontes, mengulangnya setiap kali dia tidak menyukai hasilnya. `
+`Tindakan yang paling terlarang dalam pembacaan tarot adalah mencoba memprediksi hal yang sama dua kali. `
+`Melakukan hal itu sama dengan mengejek hasil ramalan... `
+`dan juga menodai makhluk-makhluk yang lebih tinggi dari manusia yang memberikan wahyu melalui kartu tarot. `
+`Namun, Kinzo tau. `
+`Kartu tarot tidak boleh digunakan dua kali karena...karena mereka tidak lebih dari sekadar penghasil angka acak, `
+`membacanya dua kali secara alami akan menyebabkan hasil yang berbeda muncul. `
+`...Oleh karena itu, membacanya dua kali hanyalah dilarang demi menjaga mistik dari hasil kartu tarot tersebut. `
+`...Namun, itu tidak berarti kalau Kinzo tidak menganggap serius pembacaan tarot. `
+`Interpretasi Kinzo terhadap pembacaan tarot dilakukan dengan cara yang sama sekali berbeda. `
+`Yakni dengan mengulang pembacaannya, lagi dan lagi, `
+`tanpa menyerah sedikitpun, sampai dia mencapai hasil yang paling menguntungkan baginya. `
+`Patokan yang ditetapkannya untuk "hasil yang paling menguntungkan" ini bisa bervariasi, `
+`namun ketika dia menuntut hasil yang paling menguntungkan dalam arti harfiah yang sesungguhnya, `
+`itu sama saja dengan rolet keberuntungan sederhana, di mana dia mencari keajaiban aritmatika. `
+`...Namun, Kinzo menggunakan keajaiban angka sebagai dasar kekuatan sihirnya, jadi hal ini berfungsi dengan sangat baik sebagai sebuah ritual sihir. `
+`Dengan kata lain, `
+`sampai hasil yang diinginkannya muncul dengan sempurna, dia akan berjuang untuk mengulang pembacaan tarot lagi dan lagi, dengan penuh keyakinan, mengubah perasaan di hatinya menjadi doa, `
+`sehingga saat doa-doa itu mencapai surga, doa-doa itu akan disublimasikan menjadi hasil. Inilah interpretasi magis pribadi Kinzo. `
+`Oleh karena itu, meskipun kartu tarot Kinzo tidak berbeda dari yang umumnya digunakan, `
+`cara penggunaannya benar-benar berbeda... `
 `"......... `
-`...Tonight...will not go as I thought." `
-`Kinzo stopped his hands for a second. `
-`...He seemed not to be getting the results he wanted. `
-`On the contrary, bad cards that shouldn't show up so often appeared repeatedly... `
-`and continued to interfere with the miracle Kinzo wished for. `
+`...Malam ini...tidak akan berjalan seperti yang kupikirkan." `
+`Kinzo menghentikan tangannya sejenak. `
+`...Sepertinya dia tidak mendapatkan hasil yang diinginkannya. `
+`Sebaliknya, kartu-kartu buruk yang tidak seharusnya sering muncul malah muncul berulang kali... `
+`dan terus mengganggu keajaiban yang Kinzo harapkan. `
 `".........Hmph. `
-`...Is that how it is?" `
-`Kinzo seemed to have received some revelation that was different from normal. `
-`But, judging by the unlucky cards scattered across his desk, it was difficult to imagine that the omen had been a good one... `
-`For a while, Kinzo closed his eyes tightly, pondering something. `
-`Then, as the thunder roared, he made up his mind about something, took the telephone receiver, and dialed. `
-`"......It is I. `
-`Is Genji there? An urgent matter has come up." `
-`"......Haah." `
-`In front of the entrance hall, Shannon's once burning face had been cooled off by the frigid air. `
-`...She had thought... `
-`that George's proposal would surely come sooner or later. `
-`It wasn't as though she hadn't prepared herself mentally. `
-`And she had answered by nodding. `
-`Had she been reckless because of her youth? `
-`Should she have thought about her future more seriously? `
-`I wonder if my immediate reply made him think I'm a cheap girl. `
-`...If I'd at least waited until tomorrow morning, would that at least have shown him I was taking this seriously? `
-`Now that she'd already received the ring from George, Shannon kept fidgeting in embarrassment. `
-`I should've done this, I should've done that. `
-`As she did, she heard the sound of footsteps splashing through puddles. `
-`Shannon immediately chased away the emotions welling up inside her. `
+`...Begitu ya?" `
+`Kinzo tampaknya telah menerima suatu wahyu yang berbeda dari biasanya. `
+`Tapi, jika dinilai dari kartu-kartu sial yang berserakan di mejanya, sulit untuk membayangkan bahwa pertanda itu adalah pertanda baik... `
+`Untuk sesaat, Kinzo menutup matanya rapat-rapat, merenungkan sesuatu. `
+`Kemudian, saat guntur bergemuruh, dia membulatkan tekad tentang sesuatu, mengambil gagang telepon, dan memutar nomor. `
+`"......Ini aku. `
+`Apakah Genji ada di sana? Ada masalah mendesak." `
+`"......Haaaa." `
+`Di depan aula masuk, wajah Shannon yang tadinya terbakar kini telah didinginkan oleh udara yang sangat dingin. `
+`...Dia sempat berpikir... `
+`bahwa lamaran George pasti akan datang cepat atau lambat. `
+`Bukannya dia belum mempersiapkan dirinya secara mental. `
+`Dan dia telah menjawabnya dengan mengangguk. `
+`Apakah dia bertindak gegabah karena usianya yang masih muda? `
+`Haruskah dia memikirkan masa depannya dengan lebih serius? `
+`Aku penasaran apakah jawaban langsungku membuatnya berpikir aku gadis murahan. `
+`...Seandainya aku setidaknya menunggu sampai besok pagi, apakah itu setidaknya akan menunjukkan kepadanya bahwa aku menganggap serius hal ini? `
+`Sekarang setelah dia menerima cincin dari George, Shannon terus gelisah karena malu. `
+`Seharusnya aku melakukan ini, seharusnya aku melakukan itu. `
+`Saat dia melakukannya, dia mendengar suara langkah kaki menciprat di genangan air. `
+`Shannon segera mengusir emosi yang meluap di dalam dirinya. `
 `"...Genji-sama? `
-`And Kanon-kun too...! `
-`I-I'm sorry, I have to go back soon, umm..." `
-`She grew stiff, thinking she'd surely be scolded for spending too much time in her secret lover's meeting with George. `
+`Dan Kanon-kun juga...! `
+`M-Maafkan saya, saya harus segera kembali, umm..." `
+`Dia menjadi kaku, berpikir dia pasti akan dimarahi karena menghabiskan terlalu banyak waktu dalam pertemuan rahasianya bersama George. `
 `"Shannon, `
-`the Master told us to come to the study, saying it was urgent. `
-`Let us hurry." `
-`"...Huh? `
-`Y-Yes, certainly...! `
-`What in the world...?" `
-`"He said he had a premonition of misfortune. `
-`...How convenient for him, considering he's the one who started this ceremony." `
-`"We will enter from the back, so that Gohda doesn't notice us. `
-`Hide your footsteps." `
-`"Yes. `
-`......Nee-san, take care. `
-`You're so noisy." `
-`Kanon was especially good at hiding his footsteps. `
-`...Just like a cat. `
-`He was able to suddenly be there without anyone noticing and leave in the same way. `
-`For example, even though he stepped in puddles, `
-`the sound he made was far smaller than that of the rain hitting them... `
-`Genji also had abilities of that kind. `
-`...Or rather, those servants called furniture were supposed to be like that. `
-`Just like how desks and closets go unnoticed by members of the family, `
-`these servants also held it as a great virtue to just suddenly be there whenever they were needed. `
-`Compared to that, Shannon's footsteps still strongly asserted themselves. `
-`...She was also trying to hide her footsteps, `
-`but compared to Kanon and Genji...well, you could say she was a little more boisterous... `
-`Eventually, they reached the back door, and the three of them entered the mansion. `
-`Immediately, ......they thought they felt something. `
-`It was different from a sense of smell, ...and it seemed to hit the depths of their noses. `
-`...This hard-to-describe sensation, which you might call a sixth sense, allowed them to perceive that something was different than usual. `
+`Grandmaster menyuruh kita untuk datang ke ruang kerja, mengatakan bahwa ini mendesak. `
+`Mari kita bergegas." `
+`"...Hah? `
+`Y-Ya, tentu saja...! `
+`Ada apa ini sebenarnya...?" `
+`"Beliau bilang beliau mendapat firasat buruk. `
+`...Enak sekali ya beliau, mengingat beliaulah yang memulai upacara ini." `
+`"Kita akan masuk dari belakang, agar Gohda tidak menyadari keberadaan kita. `
+`Sembunyikan langkah kakimu." `
+`"Baik. `
+`......Nee-san, berhati-hatilah. `
+`Kau sangat berisik." `
+`Kanon sangat ahli dalam menyembunyikan langkah kakinya. `
+`...Sama seperti seekor kucing. `
+`Dia bisa tiba-tiba berada di sana tanpa ada yang menyadarinya dan pergi dengan cara yang sama. `
+`Misalnya, meskipun dia menginjak genangan air, `
+`suara yang ditimbulkannya jauh lebih kecil dari suara rintik hujan yang menerpanya... `
+`Genji juga memiliki kemampuan semacam itu. `
+`...Atau lebih tepatnya, para pelayan yang disebut furnitur memang seharusnya seperti itu. `
+`Sama seperti bagaimana meja dan lemari tidak diperhatikan oleh anggota keluarga, `
+`para pelayan ini juga menganggapnya sebagai kebajikan besar untuk tiba-tiba ada kapanpun mereka dibutuhkan. `
+`Dibandingkan dengan hal itu, langkah kaki Shannon masih sangat menegaskan keberadaannya. `
+`...Dia juga mencoba menyembunyikan langkah kakinya, `
+`tapi dibandingkan dengan Kanon dan Genji...yah, kau bisa bilang dia sedikit lebih gaduh... `
+`Akhirnya, mereka sampai di pintu belakang, dan mereka bertiga masuk ke dalam mansion. `
+`Seketika itu juga, ......mereka merasa seolah merasakan sesuatu. `
+`Itu berbeda dari indra penciuman, ...dan rasanya seperti menusuk ke bagian terdalam hidung mereka. `
+`...Sensasi yang sulit digambarkan ini, yang mungkin bisa kau sebut sebagai indra keenam, membuat mereka menyadari bahwa ada sesuatu yang berbeda dari biasanya. `
 `"......Genji-sama." `
-`"...Indeed. Let us hurry." `
-`That sensation made it feel as though a tense something was pressing in around them. `
-`Realizing that, the three of them dashed up the stairs, heading for Kinzo's study while still hiding their footsteps. `
-`When they dashed up the stairs, ...that smell of sweet poison particular to Kinzo's study reached their noses. `
+`"...Benar. Mari kita bergegas." `
+`Sensasi itu membuat mereka merasa seolah ada sesuatu yang menegangkan sedang menekan di sekitar mereka. `
+`Menyadari hal itu, mereka bertiga berlari menaiki tangga, menuju ruang kerja Kinzo sambil tetap menyembunyikan langkah kaki mereka. `
+`Saat mereka berlari menaiki tangga, ...aroma racun manis yang khas dari ruang kerja Kinzo mencapai hidung mereka. `
 `".........Nn." `
-`"What is it, Genji-sama...?" `
-`"...The barrier...is dead." `
-`"Huh? `
+`"Ada apa, Genji-sama...?" `
+`"...Penghalangnya...sudah mati." `
+`"Hah? `
 `.........Ah." `
-`After hearing Kanon's words, she looked at the door to the study. `
-`A scorpion pattern was engraved on the doorknob. `
-`A powerful ward against magic. `
-`The final barrier, which protected Kinzo himself. `
-`It had been broken. `
-`Of course, there was no change to the doorknob that the eye could see. `
-`However, those who could understand things people couldn't perceive...were able to recognize that a dramatic change had occurred... `
-`"...Master. `
-`Master...! `
-`It is Genji. `
-`Please open the door." `
-`Genji called in this way after knocking several times, but there was no answer from the study. `
-`"Shannon, guard our backs. `
-`Kanon, search inside the room." `
-`""Yes...!"" `
-`Kanon put his ear against the door, searching for a presence inside the study. `
-`To protect the backs of the pair watching the door, Shannon faced the other way, ready for the unexpected. `
-`"......The Master must be in here. `
-`...But it's too quiet." `
-`"Do you mean to say he's safe?" `
-`"No. `
-`{i:It's too quiet}." `
-`"...Could it......possibly be..." `
-`"Master, `
-`excuse us about the door." `
-`Genji pulled a gold key out of his pocket. `
-`It was the only key to the study that existed, other than the one Kinzo held. `
-`He stuck it in the key hole and turned it heavily. `
-`...At first glance, that seemed to prove that it was a sturdy lock. `
-`However, now that the barrier had been destroyed, `
-`this door might as well have been left open, from the viewpoint of anyone with magical power. `
-`The heavy sound just now meant that the door had now been opened {i:even for humans}. `
-`"...Excuse me." `
-`As Genji respectfully bowed his head, `
-`and Kanon's sense of tension grew tighter, `
-`and Shannon trembled, they entered the study... `
-`They immediately discovered Kinzo's figure. `
-`...He was sitting on the reception sofa so that his back faced them. `
-`Genji noticed the person sitting across from him, and again bowed deeply. `
-`Kanon also noticed that person, `
-`...but he didn't bow his head. `
-`He stood in front of Shannon and spread out his arms, blocking the way to her. `
-`So without even seeing that person's face, Shannon already had a good idea who it was... `
-`"...So, you have come, `
+`Setelah mendengar kata-kata Kanon, dia menatap pintu ruang kerja itu. `
+`Sebuah pola kalajengking terukir di gagang pintu. `
+`Sebuah penangkal yang kuat terhadap sihir. `
+`Penghalang terakhir, yang melindungi Kinzo sendiri. `
+`Itu telah dihancurkan. `
+`Tentu saja, tidak ada perubahan pada gagang pintu yang bisa dilihat oleh mata. `
+`Namun, mereka yang bisa memahami hal-hal yang tidak bisa dirasakan orang biasa...mampu mengenali bahwa sebuah perubahan drastis telah terjadi... `
+`"...Grandmaster. `
+`Grandmaster...! `
+`Ini Genji. `
+`Tolong buka pintunya." `
+`Genji memanggil dengan cara ini setelah mengetuk beberapa kali, tapi tidak ada jawaban dari ruang kerja itu. `
+`"Shannon, jaga bagian belakang kita. `
+`Kanon, periksa bagian dalam ruangan." `
+`""Baik...!"" `
+`Kanon menempelkan telinganya ke pintu, mencari tanda keberadaan seseorang di dalam ruang kerja. `
+`Untuk melindungi punggung kedua orang yang mengawasi pintu itu, Shannon menghadap ke arah sebaliknya, bersiap untuk hal yang tidak terduga. `
+`"......Grandmaster pasti ada di dalam sini. `
+`...Tapi ini terlalu sunyi." `
+`"Maksudmu dia baik-baik saja?" `
+`"Tidak. `
+`{i:Ini terlalu sunyi}." `
+`"...Mungkinkah......jangan-jangan..." `
+`"Grandmaster, `
+`maafkan kami soal pintunya." `
+`Genji mengeluarkan sebuah kunci emas dari sakunya. `
+`Itu adalah satu-satunya kunci ruang kerja yang ada, selain yang dipegang oleh Kinzo. `
+`Dia memasukkannya ke lubang kunci dan memutarnya dengan berat. `
+`...Sekilas, itu seolah membuktikan bahwa itu adalah kunci yang kokoh. `
+`Namun, sekarang setelah penghalangnya hancur, `
+`pintu ini bisa dibilang telah dibiarkan terbuka, dari sudut pandang siapa pun yang memiliki kekuatan sihir. `
+`Suara berat barusan berarti bahwa pintu itu kini telah terbuka {i:bahkan untuk manusia}. `
+`"...Permisi." `
+`Saat Genji menundukkan kepalanya dengan hormat, `
+`dan ketegangan Kanon semakin memuncak, `
+`dan Shannon gemetar, mereka memasuki ruang kerja itu... `
+`Mereka segera menemukan sosok Kinzo. `
+`...Dia sedang duduk di sofa tamu sehingga punggungnya menghadap mereka. `
+`Genji menyadari keberadaan orang yang duduk di seberangnya, dan kembali membungkuk dalam-dalam. `
+`Kanon juga menyadari keberadaan orang itu, `
+`...tapi dia tidak menundukkan kepalanya. `
+`Dia berdiri di depan Shannon dan merentangkan kedua tangannya, menghalangi jalan ke arahnya. `
+`Jadi tanpa perlu melihat wajah orang itu, Shannon sudah bisa menebak siapa dia sebenarnya... `
+`"...Jadi, kau telah datang, `
 `{f:5:Beatrice}-sama." `
-`"Genji, is it? `
-`You came very quickly. `
-`Yes, it is always best when furniture answers to their master's call quickly. `
-`Unlike this person." `
+`"Genji, kan ya? `
+`Kau datang sangat cepat. `
+`Ya, furnitur memang paling baik jika mereka menjawab panggilan tuannya dengan cepat. `
+`Berbeda dengan orang ini." `
 `"...... `
-`...So, Ronove-sama has come as well." `
-`Genji directed his greeting towards the thin darkness behind and to the right of {f:5:Beatrice}, where there shouldn't have been anything. `
-`Even Kanon and Shannon would never have imagined that someone was there. `
-`...However, the darkness responded immediately and praised Genji's eyesight... `
-`"As usual, you don't disappoint. `
-`It has been quite some time. `
-`......Still, you've grown old, haven't you? `
-`Have so many years truly passed you by?" `
-`"My days have been full and satisfying. `
-`...It appears you have been living quite a full life yourself, Ronove-sama." `
-`"Yes. `
-`Thank you. `
-`......And Shannon, it has been a long time since I last saw you as well. `
-`You have grown quite beautiful. `
-`And, it seems that you have grown quite strong. `
-`That is fortunate." `
-`"......Thank you very much." `
-`"...Nee-san, who in the world..." `
-`"This will be our first meeting, Kanon-kun. `
-`...I, Ronove, have been entrusted with the position of {f:5:Beatrice}-sama's head furniture. `
-`...I am an old friend of Genji-san's, `
-`and I am also furniture, just like you. `
-`Although the master I serve is different." `
-`The tense color didn't disappear from Kanon's face in the slightest. `
-`...Depending on the master furniture served, they might be kind or brutal or anything else. `
-`...If this person claimed to be furniture serving the hated {f:5:Beatrice}, `
-`then he must be despicable as well... `
-`"*cackle*cackle*! `
-`It seems I'm thoroughly despised. `
-`It's as though you hate everything that has anything to do with me." `
-`{f:5:Beatrice} openly sneered at Kanon's hate-filled face... `
-`Then, Kanon finally realized. `
-`{f:5:Beatrice} and Kinzo were having a chess game across the reception table. `
-`But Kinzo hadn't even quivered. `
-`He was holding his head with both hands, his eyes closed tight, ...as he contemplated his next move. `
-`...Or was he in anguish...? `
-`"......Master......" `
-`"I have told Kinzo two things. `
-`There was good news and bad news. `
-`...The good news is that he'll have the good fortune of being reunited with me before the ceremony ends. `
-`The bad news is that Kinzo has been selected as the very first sacrifice in the ceremony." `
-`"*cackle*cackle*! `
-`There's absolutely nothing I can do about it. `
-`Because it truly was decided by the fickle roulette." `
-`"...L-Liar. `
-`We know you're just a murderer who kills for fun..." `
-`"Stop it, Kanon-kun..." `
-`"...So, Kinzo, `
-`isn't it about time you decided to accept your loss? `
-`...*cackle* With this, our long contest is at an end, yes?" `
+`...Jadi, Ronove-sama juga telah datang." `
+`Genji mengarahkan sapaannya ke arah kegelapan tipis di belakang dan di sebelah kanan {f:5:Beatrice}, di mana seharusnya tidak ada apa-apa. `
+`Bahkan Kanon dan Shannon tidak akan pernah membayangkan ada seseorang di sana. `
+`...Namun, kegelapan itu segera merespons dan memuji penglihatan Genji... `
+`"Seperti biasa, kau tidak mengecewakan. `
+`Sudah cukup lama. `
+`......Namun, kau sudah bertambah tua, bukan? `
+`Apakah bertahun-tahun benar-benar telah berlalu bagimu?" `
+`"Hari-hari saya selalu penuh dan memuaskan. `
+`...Tampaknya anda sendiri telah menjalani kehidupan yang cukup memuaskan, Ronove-sama." `
+`"Ya. `
+`Terima kasih. `
+`......Dan Shannon, sudah lama juga sejak terakhir kali aku melihatmu. `
+`Kau telah tumbuh menjadi sangat cantik. `
+`Dan, sepertinya kau telah tumbuh menjadi cukup kuat. `
+`Syukurlah." `
+`"......Terima kasih banyak." `
+`"...Nee-san, siapa sebenarnya..." `
+`"Ini akan menjadi pertemuan pertama kita, Kanon-kun. `
+`...Aku, Ronove, telah dipercaya untuk memegang posisi sebagai kepala furnitur {f:5:Beatrice}-sama. `
+`...Aku adalah teman lama Genji-san, `
+`dan aku juga furnitur, sama sepertimu. `
+`Meskipun majikan yang kulayani berbeda." `
+`Raut ketegangan sama sekali tidak menghilang dari wajah Kanon. `
+`...Tergantung pada majikan yang dilayani furnitur, mereka bisa saja bersikap baik, brutal, atau yang lainnya. `
+`...Jika orang ini mengklaim sebagai furnitur yang melayani {f:5:Beatrice} yang dibenci, `
+`maka dia pasti juga keji... `
+`"*terkekeh*terkekeh*! `
+`Sepertinya aku benar-benar dibenci. `
+`Seolah-olah kau membenci segala sesuatu yang ada hubungannya denganku." `
+`{f:5:Beatrice} terang-terangan mencibir wajah Kanon yang dipenuhi kebencian... `
+`Kemudian, Kanon akhirnya menyadari. `
+`{f:5:Beatrice} dan Kinzo sedang bermain catur di meja tamu. `
+`Tapi Kinzo bahkan tidak bergeming. `
+`Dia memegangi kepalanya dengan kedua tangannya, matanya terpejam rapat, ...saat dia merenungkan langkah selanjutnya. `
+`...Ataukah dia sedang dalam penderitaan...? `
+`"......Grandmaster......" `
+`"Aku telah memberitahu Kinzo dua hal. `
+`Ada kabar baik dan kabar buruk. `
+`...Kabar baiknya adalah dia mendapat keberuntungan untuk bersatu kembali denganku sebelum upacara berakhir. `
+`Kabar buruknya adalah Kinzo telah terpilih sebagai tumbal pertama dalam upacara ini." `
+`"*terkekeh*terkekeh*! `
+`Sama sekali tidak ada yang bisa kulakukan soal itu. `
+`Karena itu benar-benar diputuskan oleh rolet yang berubah-ubah." `
+`"...P-Pembohong. `
+`Kami tau kau hanyalah seorang pembunuh yang membunuh demi kesenangan..." `
+`"Hentikan, Kanon-kun..." `
+`"...Jadi, Kinzo, `
+`bukankah sudah saatnya kau memutuskan untuk menerima kekalahanmu? `
+`...*terkekeh* Dengan ini, kontes panjang kita berakhir, kan?" `
 `"............" `
-`At a glance, it was hard to make out the situation on that chaotic chessboard. `
-`...However, judging by Kinzo's anguish and {f:5:Beatrice}'s malicious confidence, `
-`it seemed to be over already... `
-`"......It is unavoidable... `
-`...Perhaps even this could be amusing." `
-`"It is to me too. `
-`...Resolving my contest with you may bring a flood of emotions, but it has already surpassed love and hate. `
-`...It was fun. `
-`These past few decades certainly weren't boring...!" `
-`{f:5:Beatrice} advanced her queen...and made her final move. `
-`...And that... `
-`decided it. `
-`"Checkmate. `
-`......This is my final tribute to you. `
-`Without any reservations, `
-`...sleep." `
+`Sekilas, sulit untuk memahami situasi di atas papan catur yang kacau itu. `
+`...Namun, jika dinilai dari penderitaan Kinzo dan keyakinan {f:5:Beatrice} yang penuh niat jahat, `
+`sepertinya semuanya sudah berakhir... `
+`"......Ini tidak bisa dihindari... `
+`...Mungkin bahkan hal ini bisa menjadi sesuatu yang menghibur." `
+`"Bagiku juga begitu. `
+`...Menyelesaikan kontesku denganmu mungkin membawa luapan emosi, tapi itu sudah melampaui cinta dan benci. `
+`...Ini menyenangkan. `
+`Beberapa dekade terakhir ini pastinya tidak membosankan...!" `
+`{f:5:Beatrice} memajukan ratunya...dan membuat langkah terakhirnya. `
+`...Dan itu... `
+`mengakhiri semuanya. `
+`"Sekakmat. `
+`......Ini adalah penghormatan terakhirku untukmu. `
+`Tanpa keraguan sedikit pun, `
+`...tidurlah." `
 `"Heheheh, `
 `...fuhahaha, `
 `haah `
@@ -239,704 +239,704 @@
 `hah `
 `hah `
 `hah!!" `
-`Kinzo suddenly stood up and laughed, like an opera singer facing a full crowd and spreading his arms, `
-`...as though he had succeeded in a century-long plan. `
-`That laugh... `
-`...spat crimson. `
-`Crimson flames poured out from inside him, `
-`spitting even out of his mouth, ears, and nose, and all at once, his body was wrapped in hellfire... `
-`But Kinzo kept laughing. `
-`The more he laughed, the more the hellfire spewed from his entire body and began to char him... `
-`Those flames became a brilliant light, `
-`which dazzlingly shone on the various magic tools throughout the room, making their distorted shadows dance across the walls. `
-`...Those shadows looked like the dead in hell, watching over Kinzo in ecstasy as he burned... `
-`And, `
-`for one who had made a contract with the witch, `
-`it was an extremely fitting end... `
-`...in accordance with those terms... `
-`After laughing and howling in the roaring flames for a some time, `
-`Kinzo flopped to the ground, as though he was a puppet whose strings had been cut. `
-`Those incredible blazing flames disappeared as though he'd been completely burned up, `
-`and afterwards, nothing remained but a festering and burnt corpse that one could hardly bear to look at... `
-`".........Horrible..." `
+`Kinzo tiba-tiba berdiri dan tertawa, seperti penyanyi opera yang menghadap ke arah penonton yang penuh sesak dan merentangkan kedua tangannya, `
+`...seolah-olah dia telah berhasil dalam rencana yang sudah berlangsung selama satu abad. `
+`Tawa itu... `
+`...menyemburkan warna merah darah. `
+`Api merah darah memancar dari dalam dirinya, `
+`menyembur bahkan dari mulut, telinga, dan hidungnya, dan seketika itu juga, tubuhnya terbungkus dalam api neraka... `
+`Tapi Kinzo terus tertawa. `
+`Semakin dia tertawa, semakin banyak api neraka yang menyembur dari seluruh tubuhnya dan mulai menghanguskannya... `
+`Api itu berubah menjadi cahaya yang menyilaukan, `
+`yang bersinar menyilaukan pada berbagai peralatan sihir di seluruh ruangan, membuat bayangan mereka yang terdistorsi menari-nari di dinding. `
+`...Bayangan-bayangan itu tampak seperti orang mati di neraka, mengawasi Kinzo dalam ekstasi saat dia terbakar... `
+`Dan, `
+`bagi seseorang yang telah membuat kontrak dengan penyihir, `
+`itu adalah akhir yang sangat pantas... `
+`...sesuai dengan persyaratan tersebut... `
+`Setelah tertawa dan melolong di dalam kobaran api yang menderu selama beberapa saat, `
+`Kinzo ambruk ke lantai, seolah-olah dia adalah boneka yang tali-talinya telah diputus. `
+`Kobaran api yang luar biasa itu menghilang seolah-olah dia telah terbakar habis, `
+`dan setelahnya, tidak ada yang tersisa selain mayat yang membusuk dan hangus yang hampir tidak sanggup untuk dilihat... `
+`".........Mengerikan..." `
 `"Hmph. `
-`You should talk. `
-`As if you didn't think that was a fitting way for him to die..." `
-`"...Why have you shown yourself...? `
-`Do you have some business with us...?" `
-`"Stop it, Kanon-kun. `
-`...You mustn't provoke {f:5:Beatrice}-sama." `
-`"It would seem you have them absolutely terrified. `
+`Bisa-bisanya kau bicara begitu. `
+`Seolah-olah kau tidak berpikir itu adalah cara yang pantas baginya untuk mati..." `
+`"...Mengapa kau menampakkan dirimu...? `
+`Apakah kau punya urusan dengan kami...?" `
+`"Hentikan, Kanon-kun. `
+`...Kau tidak boleh memprovokasi {f:5:Beatrice}-sama." `
+`"Sepertinya kau membuat mereka benar-benar ketakutan. `
 `Pu ku ku ku." `
-`"I imagine I'll never get along with Kanon. `
-`Hey, it's not as though I dislike you particularly..." `
-`{f:5:Beatrice} grinned. `
-`Kanon violently averted his gaze, obviously unhappy. `
-`...His reaction was so different from what he wanted to do that it made the witch and her butler laugh. `
+`"Aku membayangkan aku tidak akan pernah akur dengan Kanon. `
+`Hei, bukannya aku secara khusus tidak menyukaimu..." `
+`{f:5:Beatrice} menyeringai. `
+`Kanon dengan kasar memalingkan pandangannya, jelas-jelas tidak senang. `
+`...Reaksinya begitu berbeda dari apa yang ingin dia lakukan sehingga membuat sang penyihir dan kepala pelayannya tertawa. `
 `"Kanon, `
-`...you stand in the presence of {f:5:Beatrice}-sama. `
-`Carefully consider your manner of speech." `
-`"Oh, I care not, Genji. `
-`Let him say what he pleases. `
-`I am gracious." `
-`"...How are you gracious...?!" `
-`"I am always gracious to those who are about to die. `
-`*cackle*cackle*...!" `
-`Kanon was taken aback by that creepy laughter... `
-`{f:5:Beatrice} wasn't here just to take Kinzo's life. `
-`The first twilight required six sacrifices. `
-`Kinzo alone wasn't nearly enough. `
-`...And they'd just casually walked in here... `
-`"*cackle*cackle*cackle*! `
-`Fear not, Kanon. `
-`...It isn't as though you'll be selected as sacrifices just because you came here. `
-`...After all, you were called here because you'd been selected already...!" `
-`"......What......?!" `
-`Their instincts were good enough to spot her meaning instantly... `
-`Six sacrifices were required for the first twilight. `
-`After Kinzo, how many more would you need to add up to six? `
-`...In this mansion, the number five instantly made them think of the number of servants here... `
-`"......Is that...what you desire?" `
-`"Indeed. `
-`...Thank me, furniture. `
-`Tonight, your days of suffering will finally end. `
-`You ought to thank me for coming here to tell you this." `
-`"......Certainly. `
-`If that is your desire." `
+`...kau berdiri di hadapan {f:5:Beatrice}-sama. `
+`Pertimbangkan baik-baik cara bicaramu." `
+`"Oh, aku tidak peduli, Genji. `
+`Biarkan dia mengatakan apa yang dia suka. `
+`Aku ini murah hati." `
+`"...Apanya yang murah hati...?!" `
+`"Aku selalu bermurah hati kepada mereka yang akan segera mati. `
+`*terkekeh*terkekeh*...!" `
+`Kanon terkejut oleh tawa menyeramkan itu... `
+`{f:5:Beatrice} berada di sini bukan hanya untuk mengambil nyawa Kinzo. `
+`Senja pertama membutuhkan enam tumbal. `
+`Kinzo sendiri sama sekali tidak cukup. `
+`...Dan mereka baru saja dengan santai masuk ke sini... `
+`*terkekeh*terkekeh*terkekeh*! `
+`Jangan takut, Kanon. `
+`...Bukannya kalian akan dipilih sebagai tumbal hanya karena kalian datang ke sini. `
+`...Lagipula, kalian dipanggil ke sini karena kalian memang sudah dipilih...!" `
+`"......Apa......?!" `
+`Insting mereka cukup bagus untuk mengetahui maksudnya seketika... `
+`Enam tumbal dibutuhkan untuk senja pertama. `
+`Setelah Kinzo, berapa banyak lagi yang kau butuhkan agar jumlahnya menjadi enam? `
+`...Di mansion ini, angka lima seketika membuat mereka berpikir tentang jumlah pelayan di sini... `
+`"......Apakah itu...yang kau inginkan?" `
+`"Benar sekali. `
+`...Berterimakasihlah padaku, furnitur. `
+`Malam ini, hari-hari penderitaan kalian akhirnya akan berakhir. `
+`Kalian seharusnya berterima kasih padaku karena telah datang ke sini untuk memberitahu kalian hal ini." `
+`"......Tentu saja. `
+`Jika itu adalah keinginan anda." `
 `"...G- `
 `Genji-sama..." `
-`Genji had agreed to the witch's heartless announcement with his usual demeanor, without raising an eyebrow. `
-`"Now that the Master is dead, {f:5:Beatrice}-sama is our master. `
-`Responding to her demands shall be our final duty." `
+`Genji telah menyetujui pengumuman kejam penyihir itu dengan sikapnya yang biasa, tanpa mengangkat alis sedikitpun. `
+`"Sekarang setelah Grandmaster tiada, {f:5:Beatrice}-sama adalah majikan kita. `
+`Memenuhi tuntutannya akan menjadi tugas terakhir kita." `
 `"...Shannon. `
 `Kanon. `
-`You have done well serving until today. `
-`That hard work is now over." `
-`"...As I expected of you, Genji. `
-`As your fellow furniture, I'm proud to have known you." `
+`Kalian telah melayani dengan baik hingga hari ini. `
+`Kerja keras itu sekarang sudah berakhir." `
+`"...Sudah kuduga darimu, Genji. `
+`Sebagai sesama furnitur, aku bangga telah mengenalmu." `
 `"Shannon, `
-`...do you have any objections?" `
-`"...No." `
-`"......I heard that George-sama gave you a ring. `
-`Do you still say...that you have no regrets?" `
-`"Yes. `
-`...That blessing was more than furniture deserves. `
-`...Just receiving the ring has already satisfied my feelings." `
-`Shannon couldn't take quite as much of a philosophical view as Genji. `
-`There probably were regrets left in her heart. `
-`...She probably wanted to spend a little more warm time with the person she cared for, George. `
-`...But she released herself from that. `
-`She took a single deep breath...and a blank expression rose to her face. `
-`"......Very well." `
-`"It does surprise me a tad to find that you've gained such composure, Shannon. `
-`It seems you too have taken a philosophical view as furniture." `
-`"Won't you at least shed some bitter tears for not being able to spend a night with the man you love? `
-`What a boring woman." `
+`...apakah kau memiliki keberatan?" `
+`"...Tidak." `
+`"......Aku dengar kalau George-sama memberimu sebuah cincin. `
+`Apakah kau masih bilang...kalau kau tidak memiliki penyesalan?" `
+`"Ya. `
+`...Berkah itu lebih dari yang pantas didapatkan oleh furnitur. `
+`...Hanya dengan menerima cincin itu saja perasaanku sudah puas." `
+`Shannon tidak bisa bersikap sefilosofis Genji. `
+`Mungkin masih ada penyesalan yang tersisa di hatinya. `
+`...Dia mungkin ingin menghabiskan sedikit lebih banyak waktu yang hangat bersama orang yang dipedulikannya, George. `
+`...Tapi dia melepaskan dirinya dari hal itu. `
+`Dia menarik napas panjang sekali...dan ekspresi kosong muncul di wajahnya. `
+`"......Baiklah." `
+`"Agak mengejutkanku melihatmu mendapatkan ketenangan seperti itu, Shannon. `
+`Sepertinya kau juga telah mengambil pandangan filosofis sebagai furnitur." `
+`"Tidakkah kau setidaknya menitikkan air mata pahit karena tidak bisa menghabiskan satu malam pun dengan pria yang kau cintai? `
+`Benar-benar wanita yang membosankan." `
 `"...... `
-`This feeling cannot be understood by the likes of you, {f:5:Beatrice}-sama. `
-`...If you desire our lives, please accept them. `
-`We will solemnly carry out that duty." `
-`"...Very well. `
-`Excellently put..." `
+`Perasaan ini tidak bisa dipahami oleh orang seperti anda, {f:5:Beatrice}-sama. `
+`...Jika anda menginginkan nyawa kami, tolong terimalah. `
+`Kami akan melaksanakan tugas itu dengan baik." `
+`"...Baiklah. `
+`Kata-kata yang sangat bagus..." `
 `"Pu ku ku ku. `
-`Just the type of person {f:5:Beatrice}-sama can't handle." `
-`"She's been taking such a far-sighted view of things lately. `
-`I must've tormented her too much last time. `
-`Speaking of which, didn't I do the same to Battler? `
+`Tipe orang yang tidak bisa dihadapi oleh {f:5:Beatrice}-sama." `
+`"Dia sudah mengambil pandangan yang begitu jauh ke depan akhir-akhir ini. `
+`Aku pasti terlalu banyak menyiksanya terakhir kali. `
+`Omong-omong, bukankah aku juga melakukan hal yang sama pada Battler? `
 `...Hmmm. `
-`Am I still soft? `
-`Or is the way I corner them lacking? `
-`In any case, she's just no fun." `
-`"......However, it seems you will still entertain me, right? `
+`Apakah aku masih terlalu lembut? `
+`Atau caraku memojokkan mereka masih kurang? `
+`Apapun itu, dia sama sekali tidak menyenangkan." `
+`"......Namun, sepertinya kau masih akan menghiburku, kan? `
 `Kanooon?" `
 `"......Kanon-kun..." `
 `"........." `
-`Compared to the two who had taken a far-sighted approach, ...there was a painful anguish on Kanon's face. `
-`Kanon was still far too young to accept his demise `
-`after being told of it by a suddenly appearing witch... `
+`Dibandingkan dengan dua orang yang telah mengambil pandangan jauh ke depan itu, ...ada penderitaan yang menyakitkan di wajah Kanon. `
+`Kanon masih terlalu muda untuk menerima kematiannya `
+`setelah diberitahu tentang hal itu oleh penyihir yang tiba-tiba muncul... `
 `"...Kanon. `
-`I hate boredom more than anything. `
-`And the fact that the other two have obediently accepted their deaths isn't amusing at all. `
-`...So, I hope you don't betray my expectations." `
-`"......Are you trying to make me your plaything...?" `
-`Kanon realized that he was being provoked. `
-`...However, no matter how furiously anger spurred him on, his opponent was a witch. `
-`He was furniture. `
-`He hadn't had a chance of victory from the beginning. `
-`But the witch was expecting that he'd struggle in vain and writhe around, `
-`and was even looking forward to it... `
-`...Just thinking about that was frustrating enough to get his blood boiling. `
-`Was disappointing the witch by refusing to resist, like the other two, `
-`the only way he could strike back at her...? `
-`"Eldest of the Seven Sisters of Purgatory, Lucifer. `
-`Arise." `
-`"...Lucifer of Pride, right here." `
+`Aku benci kebosanan lebih dari apapun. `
+`Dan fakta bahwa dua orang lainnya dengan patuh menerima kematian mereka sama sekali tidak menghibur. `
+`...Jadi, kuharap kau tidak mengkhianati ekspektasiku." `
+`"......Apakah kau mencoba menjadikanku mainanmu...?" `
+`Kanon menyadari bahwa dia sedang diprovokasi. `
+`...Namun, tidak peduli seberapa hebat amarah memacunya, lawannya adalah seorang penyihir. `
+`Dia adalah furnitur. `
+`Dia tidak memiliki peluang untuk menang sejak awal. `
+`Tapi penyihir itu mengharapkan dia akan berjuang sia-sia dan meronta-ronta, `
+`dan bahkan menantikan hal itu... `
+`...Memikirkan hal itu saja sudah cukup membuat frustrasi hingga membuat darahnya mendidih. `
+`Apakah mengecewakan penyihir itu dengan menolak untuk melawan, seperti dua orang lainnya, `
+`adalah satu-satunya cara dia bisa membalasnya...? `
+`"Anak tertua dari Tujuh Saudari Api Penyucian, Lucifer. `
+`Bangkitlah." `
+`"...Lucifer sang Kesombongan, hadir di sini." `
 `"Kanon, `
-`it would be far too cruel to force furniture to fight a witch. `
-`No matter how much anger spurs you on, you would have no hope in a battle without a chance of success. `
-`Of course, such a battle would be boring for me as well." `
-`"...So, let it be furniture against furniture. `
-`Why not resolve it with a battle between you two? `
-`That should be enough to allow you some hope for victory, right...?" `
+`akan terlalu kejam untuk memaksa furnitur melawan seorang penyihir. `
+`Tidak peduli seberapa besar amarah memacumu, kau tidak akan punya harapan dalam pertarungan tanpa peluang sukses. `
+`Tentu saja, pertarungan semacam itu juga akan membosankan bagiku." `
+`"...Jadi, biarkan furnitur melawan furnitur. `
+`Mengapa tidak menyelesaikannya dengan pertarungan di antara kalian berdua? `
+`Itu seharusnya cukup untuk memberimu sedikit harapan untuk menang, kan...?" `
 `"......... `
-`...Forgive me, {f:5:Beatrice}-sama, `
-`but how could I be inferior to this good-for-nothing furniture? `
-`As if this cutie would have any chance against me... `
+`...Maafkan saya, {f:5:Beatrice}-sama, `
+`tapi bagaimana bisa saya lebih rendah dari furnitur tak berguna ini? `
+`Seolah-olah si manis ini punya kesempatan melawanku... `
 `Heheheheheheheheheheheheh." `
 `"............Nng." `
-`"Prove that you can defeat my furniture, the Seven Stakes of Purgatory. `
-`If you manage to win through, `
-`......let us see. `
-`I will let you select the five who will escape becoming one of the 13 sacrifices. `
-`I will welcome the five you recommend into the Golden Land without any conditions. `
-`...How about that?" `
-`Kanon understood that he was being provoked. `
-`...However, the witch's offer was very tempting. `
-`By this point, `
-`Kanon couldn't care less about this evil ceremony the witch and the rest were trying to carry out. `
-`...On the contrary, it was much more important that he remain alive so that he could be invited to the Golden Land... `
-`and have his wish granted by {f:5:Beatrice} there... `
-`"You cried, saying you'd had enough of being furniture, right...? `
-`I shall grant your desire. `
-`I shall give you that human body you wanted so much, you cried yourself to sleep. `
-`What do you say...? `
-`That way, you and Jessica could be together, yes? `
-`Ooh, just perfect. `
-`You may recommend that Jessica and yourself be invited to the Golden Land." `
-`"...If you alone finding happiness isn't a satisfying solution for you, `
-`then you can add in Shannon and George, the one she loves... `
-`If you're worried about duty, then you can also add Genji. `
+`"Buktikan bahwa kau bisa mengalahkan perabotanku, Tujuh Pasak Api Penyucian. `
+`Jika kau berhasil menang, `
+`......gimana ya. `
+`Aku akan membiarkanmu memilih lima orang yang akan lolos dari menjadi salah satu dari 13 tumbal. `
+`Aku akan menyambut lima orang yang kau rekomendasikan ke Tanah Emas tanpa syarat apapun. `
+`...Bagaimana dengan itu?" `
+`Kanon mengerti bahwa dia sedang diprovokasi. `
+`...Namun, tawaran penyihir itu sangat menggiurkan. `
+`Pada titik ini, `
+`Kanon tidak peduli lagi dengan upacara jahat yang sedang coba dilakukan oleh penyihir itu dan yang lainnya. `
+`...Sebaliknya, jauh lebih penting baginya untuk tetap hidup agar dia bisa diundang ke Tanah Emas... `
+`dan agar keinginannya dikabulkan oleh {f:5:Beatrice} di sana... `
+`"Kau menangis, mengatakan kau sudah muak menjadi furnitur, kan...? `
+`Aku akan mengabulkan keinginanmu. `
+`Aku akan memberimu tubuh manusia yang sangat kau inginkan itu, hingga kau menangis sampai tertidur. `
+`Bagaimana menurutmu...? `
+`Dengan begitu, kau dan Jessica bisa bersama, kan? `
+`Ooh, sungguh sempurna. `
+`Kau boleh merekomendasikan agar Jessica dan dirimu sendiri diundang ke Tanah Emas." `
+`"...Jika kau menemukan kebahagiaan sendirian bukanlah solusi yang memuaskan untukmu, `
+`maka kau bisa menambahkan Shannon dan George, orang yang dicintainya... `
+`Jika kau khawatir tentang tugas, maka kau juga bisa menambahkan Genji. `
 `Hoh! `
-`That's five people. `
-`Isn't that enough, Kanon? `
-`......With this much of a reward, ...*cackle*cackle*cackle*! `
-`...You won't let me get bored, will you...?" `
-`"...She's just playing with you. `
-`There is no need to listen to her." `
-`"...I-I don't like it. `
-`Are you okay with this, Nee-san?!" `
-`{f:5:Beatrice} couldn't hide her evil smile at those words. `
-`"I don't like it. `
-`I want to be happy! `
-`I've had enough of being furniture. `
-`I want to become human...and have normal love...! `
-`I want to know that...the ocean is blue, like you!" `
-`"......How young. `
-`I'm jealous." `
-`"That's why I like the young ones. `
-`...Genji, Shannon, stay back. `
-`Kanon, Lucifer, forward." `
-`"As you command." `
+`Itu lima orang. `
+`Bukankah itu cukup, Kanon? `
+`......Dengan hadiah sebanyak ini, ...*terkekeh*terkekeh*terkekeh*! `
+`...Kau tidak akan membiarkanku bosan, kan...?" `
+`"...Dia hanya mempermainkanmu. `
+`Tidak perlu mendengarkannya." `
+`"...A-Aku tidak menyukainya. `
+`Apakah kau baik-baik saja dengan ini, Nee-san?!" `
+`{f:5:Beatrice} tidak bisa menyembunyikan senyum jahatnya mendengar kata-kata itu. `
+`"Aku tidak menyukainya. `
+`Aku ingin bahagia! `
+`Aku sudah muak menjadi furnitur. `
+`Aku ingin menjadi manusia...dan memiliki cinta yang normal...! `
+`Aku ingin tahu kalau...lautan itu biru, sepertimu!" `
+`"......Betapa mudanya. `
+`Aku jadi iri." `
+`"Itulah sebabnya aku menyukai yang muda. `
+`...Genji, Shannon, mundurlah. `
+`Kanon, Lucifer, majulah." `
+`"Sesuai perintah anda." `
 `"............" `
 `"...Hehheheheheheheheheheheh. `
-`I don't like it. `
-`...That way you look down on me, `
-`as if {f:5:Beatrice}-sama would be impossible, but with me at least you'd have a chance. `
-`...I really don't like it." `
-`That was probably humiliating for Lucifer. `
-`...But at the same time, she was also happy...that she was lucky enough to have this adorable prey all to herself... `
-`"......Come, furniture of the witch. `
-`......Don't think that you can look down on me forever...!" `
-`"So, Battler. `
-`Isn't this a fun show? `
-`*cackle*cackle*!" `
-`"......Dammit. `
-`Another weird thing's happening... `
-`Like I'd ever believe in a magic battle...!" `
-`"Look, look, don't turn your eyes away, look at it. `
-`Look, look, look! `
-`It's magic, it's furniture, `
-`no matter how much you try to deny me and magic, `
-`look, look, look, look, look!" `
-`"If you've got all this happening right in front of you, it'd be a waste to miss it, don't you thiiiiiink? `
-`Look, look, look, `
-`just stop thinking, `
-`magic exists! `
-`This is fantasy! `
-`Don't close your eyes, `
-`look closely, `
-`look, look, look, look!!" `
-`"Dammit, dammit, dammit, dammit... `
-`I won't accept witches, I won't accept magic...! `
-`But, if it's being done right in the open like that, what am I supposed to say?! `
-`......Damn, dammiiiiit!" `
-`"Come now, don't turn away, look closely, okaaaaaay?? `
-`Magic exists, this is fantasy, so stop playing detective. `
-`I know your secret, you actually don't really like to think things through, right?? `
-`Then just stop, stoooop, *cackle*cackle*! `
-`Look, look, it's gotta be fantasy, gotta be fantasy, kihhihihyahyahhyahhyahhyahhyahhyaaaaaahhh!!" `
-`"Shut up, shut up, shut uuuuuuuuuuup...!!! `
-`Don't talk to meeeeeeee...!!" `
-`"......This guy's getting stubborn. `
-`...Won't you apologize and crawl on the ground right now for being so conceited that you thought you could beat me...? `
-`If you did, I wouldn't mind forgiving you, okay...?" `
-`"Then you wouldn't have to have your skin ripped off while you're still alive... `
-`or get lashed all over your body as you squirm until you die. `
+`Aku tidak menyukainya. `
+`...Cara kau meremehkanku itu, `
+`seolah-olah mengalahkan {f:5:Beatrice}-sama adalah hal yang mustahil, tapi denganku setidaknya kau punya kesempatan. `
+`...Aku benar-benar tidak menyukainya." `
+`Hal itu mungkin memalukan bagi Lucifer. `
+`...Tapi pada saat yang sama, dia juga merasa senang...kalau dia cukup beruntung untuk memiliki mangsa yang menggemaskan ini untuk dirinya sendiri... `
+`"......Majulah, furnitur penyihir. `
+`......Jangan pikir kau bisa meremehkanku selamanya...!" `
+`"Jadi, Battler. `
+`Bukankah ini pertunjukan yang menyenangkan? `
+`*terkekeh*terkekeh*!" `
+`"......Sialan. `
+`Hal aneh lainnya terjadi... `
+`Mana mungkin aku percaya pada pertarungan sihir...!" `
+`"Lihat, lihat, jangan palingkan matamu, lihatlah. `
+`Lihat, lihat, lihat! `
+`Ini sihir, ini furnitur, `
+`tidak peduli seberapa keras kau mencoba menyangkal keberadaanku dan sihir, `
+`lihat, lihat, lihat, lihat, lihat!" `
+`"kalau semua ini terjadi tepat di depanmu, akan sangat sia-sia kalau kau melewatkannya, bukankaaaaaah begitu? `
+`Lihat, lihat, lihat, `
+`berhentilah berpikir, `
+`sihir itu ada! `
+`Ini adalah fantasi! `
+`Jangan tutup matamu, `
+`lihatlah baik-baik, `
+`lihat, lihat, lihat, lihat!!" `
+`"Sialan, sialan, sialan, sialan... `
+`Aku tidak akan menerima penyihir, aku tidak akan menerima sihir...! `
+`Tapi, kalau hal itu dilakukan terang-terangan seperti itu, apa yang harus aku katakan?! `
+`......Sial, sialaaaaaaan!" `
+`"Ayolah, jangan berpaling, lihatlah baik-baik, yaaaaaa?? `
+`Sihir itu ada, ini adalah fantasi, jadi berhentilah bermain detektif. `
+`Aku tau rahasiamu, kau sebenarnya tidak terlalu suka berpikir panjang, kan?? `
+`Kalau begitu berhentilah, berhentilaaaah, *terkekeh*terkekeh*! `
+`Lihat, lihat, ini pasti fantasi, pasti fantasi, kihhihihyahyahhyahhyahhyahhyahhyaaaaaahhh!!" `
+`"Diam, diam, diiaaaaaaaam...!!! `
+`Jangan bicara padakuuuuuuuu...!!" `
+`"......Orang ini mulai keras kepala. `
+`...Tidakkah kau mau meminta maaf dan merangkak di tanah sekarang juga karena terlalu sombong berpikir kau bisa mengalahkanku...? `
+`kalau kau melakukannya, aku tidak keberatan memaafkanmu, oke...?" `
+`Maka kulitmu tidak perlu dirobek saat kau masih hidup... `
+`atau dicambuk di sekujur tubuhmu saat kau menggeliat kesakitan sampai mati. `
 `Hehheheheheheheheh!" `
-`"You're a cutie, so apologize... `
-`If you do, I'll finish you off so, so gently, while it still feels great..." `
-`"Be silent, furniture of the witch. `
-`...I have no intention of speaking with you." `
-`"...S-So you're saying you think nothing of me...? `
-`Hehhheheheheheheheheh, that disrespectful gaze of yours... `
-`...is really ticking me offff!!" `
+`"Kau ini manis, jadi meminta maaflah... `
+`kalau kau melakukannya, aku akan menghabisimu dengan saaangat, sangat lembut, selagi masih terasa nikmat..." `
+`"Diamlah, furnitur penyihir. `
+`...Aku tidak punya niat untuk berbicara denganmu." `
+`"...J-Jadi kau bilang kau tidak menganggapku apa-apa...? `
+`Hehhheheheheheheheheh, tatapanmu yang tidak sopan itu... `
+`...benar-benar membuatku kesaaaaal!!" `
 `"......Kanon-kun........." `
 `"............" `
-`"...Isn't he stronger than he was against Satan?" `
-`"This is why humans are so frightening. `
-`In fact, sometimes they even become witches and treat demons as butlers." `
+`"...Bukankah dia lebih kuat daripada saat dia melawan Satan?" `
+`"Inilah sebabnya mengapa manusia begitu menakutkan. `
+`Bahkan, terkadang mereka malah menjadi penyihir dan memperlakukan iblis sebagai kepala pelayan." `
 `"Pu ku ku ku ku! `
-`So, which should I cheer on?" `
-`"...Are you... `
-`...saying this guy's on par with me...?!" `
-`"......Don't look down on me. `
-`As long as you have that pride, you'll never defeat me." `
-`"Y-Y- `
-`You speak of Lucifer, the eldest of the Seven Sisters of Purgatory, and say that I cannot win?! `
-`H-How conceited!!" `
-`"...Wha........." `
-`Kanon was desperately trying to stay alive, and he had a strong desire to become human. `
-`But Lucifer didn't feel anything stronger than a slight desire to play. `
-`...So, that led to an inevitable result. `
-`It was a result that could be reached by the power of humans. `
-`...The power of the heart. `
-`"......That's as far as you go. `
-`You cannot win against me." `
-`The glowing red curve extended straight out from Kanon's arm, `
-`...pointing at Lucifer's throat, just beneath the tip of her chin... `
-`"...Wh- `
-`What is this...?! `
-`How could I... `
-`...There must be some mistake..." `
-`As she ground her teeth in irritation, she tried to deny the truth right before her eyes. `
-`...But no matter how much she believed in her own superiority, it didn't change the facts right in front of her. `
+`Jadi, siapa yang harus kudukung?" `
+`"...Apakah kau... `
+`...bilang orang ini setara denganku...?!" `
+`"......Jangan meremehkanku. `
+`Selama kau memiliki kesombongan itu, kau tidak akan pernah mengalahkanku." `
+`"K-K- `
+`Kau mebicarakan Lucifer, anak tertua dari Tujuh Saudari Api Penyucian, dan kau bilang aku tidak bisa menang?! `
+`B-Betapa sombongnya!!" `
+`"...Apa........." `
+`Kanon berusaha mati-matian untuk tetap hidup, dan dia memiliki keinginan yang kuat untuk menjadi manusia. `
+`Tapi Lucifer tidak merasakan apapun yang lebih kuat daripada sedikit hasrat untuk bermain. `
+`...Jadi, hal itu mengarah pada hasil yang tak terelakkan. `
+`Itu adalah hasil yang bisa dicapai oleh kekuatan manusia. `
+`...Kekuatan hati. `
+`"......Hanya seginilah batasmu. `
+`Kau tidak bisa menang melawanku." `
+`Lengkungan merah yang menyala itu memanjang lurus dari lengan Kanon, `
+`...mengarah ke tenggorokan Lucifer, tepat di bawah ujung dagunya... `
+`"...A- `
+`Apa ini...?! `
+`Bagaimana bisa aku... `
+`...Pasti ada semacam kesalahan..." `
+`Sambil menggertakkan giginya karena kesal, dia berusaha menyangkal kebenaran tepat di depan matanya. `
+`...Tapi tidak peduli seberapa besar dia percaya pada superioritasnya sendiri, hal itu tidak mengubah fakta tepat di depannya. `
 `"Hoh. `
-`...Well done, Kanon. `
-`Wonderful, you haven't bored me. `
-`...How pitiful my furniture is compared to that. `
-`*cackle*cackle*!" `
+`...Kerja bagus, Kanon. `
+`Luar biasa, kau tidak membuatku bosan. `
+`...Betapa menyedihkannya furnitur dibandingkan dengan itu. `
+`*terkekeh*terkekeh*!" `
 `"...Lucifer, `
-`you are boring Milady. `
-`Was this opponent really too much for you to handle...?" `
-`"I'm disappointed, eldest of the Seven Staaakes. `
+`kau membuat Nyonya bosan. `
+`Apakah lawan ini benar-benar terlalu berat untuk kau tangani...?" `
+`"Aku kecewa, anak tertua dari Tujuh Pasaaak. `
 `Hahihihihihihihihihihihi...!" `
-`It would have seemed like mere rebuke to an outsider. `
-`However, furniture serving the witch knew what kind of severe treatment was promised by that rebuke... `
-`and understood what had been left unsaid... `
+`Hal itu mungkin tampak seperti sekadar teguran bagi orang luar. `
+`Namun, furnitur yang melayani penyihir itu tahu hukuman berat macam apa yang dijanjikan oleh teguran itu... `
+`dan memahami apa yang tidak diucapkan... `
 `"Waaaaaaaaaaaaahh!! `
-`You...good for nothing furnituuuuuuuuuuuuure!!!" `
-`She howled. `
-`...Abandoning her last bit of pride, she made her body explode, exposing her true form. `
-`That form was a demon stake, which bounced off the walls surrounding the room... `
-`"How could you shame me so much?!! `
-`Kill, kill, kill, kill!! `
-`You blockhead! `
-`Even though you can't even follow my movements anymore!! `
-`I won't play around anymore, I'm seriously mad, I'll pierce your heart in one blow!! `
-`I'll plow right through you, make a fountain of bright-red blood reach the ceiling!! `
-`Diiiiiiiiiiiiiiiiiiiiiiiiiiiiieeee!!" `
+`Kau...furnitur yang tak bergunnaaaaaaaaaaaa!!!" `
+`Dia melolong. `
+`...Meninggalkan sisa harga dirinya yang terakhir, dia membuat tubuhnya meledak, memperlihatkan wujud aslinya. `
+`Wujud itu adalah pasak iblis, yang memantul dari dinding-dinding yang mengelilingi ruangan itu... `
+`"Bagaimana bisa kau sangat mempermalukanku?!! `
+`Bunuh, bunuh, bunuh, bunuh!! `
+`Dasar bodoh! `
+`Meskipun kau bahkan tidak bisa lagi mengikuti gerakanku!! `
+`Aku tidak akan main-main lagi, aku benar-benar marah, aku akan menembus jantungmu dalam satu serangan!! `
+`Aku akan menembus lurus melewati tubuhmu, membuat air mancur darah merah terang mencapai langit-langit!! `
+`Matiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!" `
 `"K-Kanon-kun......!!" `
-`After flying about wildly for some time, with a speed approaching the limits of what a human eye could follow, `
-`Lucifer flew at Kanon's heart... `
-`She could tell that it was Kanon's blood by the sweet taste of it. `
-`...But she quickly noticed one thing. `
-`...She hadn't pierced his heart... `
+`Setelah terbang liar kesana kemari selama beberapa saat, dengan kecepatan yang mendekati batas dari apa yang bisa diikuti mata manusia, `
+`Lucifer melesat ke arah jantung Kanon... `
+`Dia bisa mengetahui bahwa itu adalah darah Kanon dari rasa manisnya. `
+`...Tapi dia segera menyadari satu hal. `
+`...Dia tidak menembus jantungnya... `
 `"......Hoh. `
-`*cackle*cackle*!" `
-`"This is why humans are frightening. `
-`...Would you like some black tea?" `
-`"I am fine for now. `
-`This is so amusing, I don't even need any...!" `
+`*terkekeh*terkekeh*!" `
+`"Inilah sebabnya mengapa manusia begitu menakutkan. `
+`...Apakah anda mau teh hitam?" `
+`"Aku tidak butuh untuk saat ini. `
+`Ini sangat menghibur, aku bahkan tidak membutuhkannya...!" `
 `"...K... `
 `......Kanon-kun......" `
-`"You were arrogant again... `
-`...I told you that you wouldn't be able to defeat me..." `
-`The floor was stained with dripping blood. `
-`...It really was Kanon's blood, `
-`...but it wasn't flowing out of his chest. `
-`Kanon had sacrificed his own left hand to protect his heart... `
-`Lucifer was arrogant. `
-`Even though she'd been given enough time to realize that this was an opponent capable of cornering her, `
-`in her pride, she had believed him to be worthless. `
-`She had gotten careless. `
-`...So, just as she had announced, she had aimed for his chest, trying to pierce his heart. `
-`Because she was arrogant, she hadn't even thought of aiming for somewhere other than the place she had announced. `
-`...No, maybe she had thought about it a little. `
-`...However, her pride would not allow her to aim for a different spot. `
-`After all, she was... `
-`...Lucifer of Pride. `
-`Kanon, withstanding the pain, `
-`grasped the demon stake sticking deep into his left hand strongly with his right hand... `
-`and pulled it out... `
-`When she heard the sound of breaking bones and even more blood dripping down, `
-`Shannon looked away reflexively. `
-`There was an air hole in the back of the pierced hand so big, you could clearly see through to the other side... `
-`Kanon's face was filled with pain, `
-`...but right now, `
-`he had won, without a doubt. `
-`The demon stake he was gripping with his right hand turned back into Lucifer again... `
-`...So that Kanon was now gripping exactly where her neck was. `
+`"Kau sombong lagi... `
+`...Aku sudah bilang padamu bahwa kau tidak akan bisa mengalahkanku..." `
+`Lantai itu ternoda oleh darah yang menetes. `
+`...Itu benar-benar darah Kanon, `
+`...tapi itu tidak mengalir keluar dari dadanya. `
+`Kanon telah mengorbankan tangan kirinya sendiri untuk melindungi jantungnya... `
+`Lucifer itu sombong. `
+`Meskipun dia telah diberi cukup waktu untuk menyadari bahwa ini adalah lawan yang mampu memojokkannya, `
+`dalam kesombongannya, dia menganggapnya tidak berharga. `
+`Dia menjadi ceroboh. `
+`...Jadi, tepat seperti yang telah dia katakan, dia mengincar dadanya, mencoba menembus jantungnya. `
+`Karena dia sombong, dia bahkan tidak terpikir untuk mengincar tempat lain selain tempat yang telah dia katakan. `
+`...Tidak, mungkin dia sempat memikirkannya sedikit. `
+`...Namun, harga dirinya tidak akan membiarkannya mengincar titik yang berbeda. `
+`Lagipula, dia adalah... `
+`...Lucifer sang Kesombongan. `
+`Kanon, sambil menahan rasa sakit, `
+`menggenggam kuat pasak iblis yang menancap dalam di tangan kirinya dengan tangan kanannya... `
+`lalu mencabutnya... `
+`Ketika dia mendengar suara tulang yang patah dan lebih banyak lagi darah yang menetes, `
+`Shannon memalingkan muka secara refleks. `
+`Ada lubang di punggung tangan yang tertusuk itu, begitu besar sampai kau bisa melihat tembus ke sisi sebaliknya... `
+`Wajah Kanon dipenuhi rasa sakit, `
+`...tapi saat ini, `
+`dia telah menang, tanpa keraguan lagi. `
+`Pasak iblis yang digenggamnya dengan tangan kanannya berubah kembali menjadi Lucifer... `
+`...Sehingga Kanon kini menggenggam tepat di bagian lehernya. `
 `".........Ga, `
 `......gu, `
 `............" `
-`"...It's my victory, `
+`"...Ini kemenanganku, `
 `......{f:5:Beatrice}." `
-`Kanon didn't hold back at all with the hand gripping Lucifer's throat. `
-`...She had challenged him again after their fight had already been decided. `
-`Kanon had no obligation to be considerate. `
-`But even so, Kanon released the witch's furniture. `
-`...Was it his naive humanism, his pity for another furniture, `
-`or a final bit of respect to the witch? `
-`In any case, when she was released, Lucifer fell face-down on the ground, `
-`wretching and moaning over the pain in her throat... `
-`"Spectacular, Kanon. `
-`...Your great efforts have proven the correctness of some of Kinzo's research." `
-`Ronove was clapping his hands. `
-`...To Kanon, who had won at great cost and had a wound on his left hand that wouldn't close, Ronove's applause only felt like mockery. `
-`"...All possibilities dwell within the human heart, was it? `
-`......My, my, this is why humans are frightening! `
-`Well done, Kanon. `
-`You were victorious. `
-`Spectacular!" `
+`Kanon sama sekali tidak menahan diri dengan tangannya yang menggenggam tenggorokan Lucifer. `
+`...Dia telah menantangnya lagi setelah pertarungan mereka sudah diputuskan. `
+`Kanon tidak punya kewajiban untuk berbelas kasih. `
+`Namun meskipun begitu, Kanon melepaskan furnitur penyihir itu. `
+`...Apakah itu karena rasa kemanusiaannya yang naif, rasa kasihannya pada sesama furnitur, `
+`atau sedikit rasa hormat terakhir kepada sang penyihir? `
+`Apapun itu, saat dia dilepaskan, Lucifer jatuh tertelungkup di tanah, `
+`muntah-muntah dan mengerang karena rasa sakit di tenggorokannya... `
+`"Luar biasa, Kanon. `
+`...Upayamu yang hebat telah membuktikan kebenaran dari beberapa penelitian Kinzo." `
+`Ronove bertepuk tangan. `
+`...Bagi Kanon, yang telah menang dengan bayaran mahal dan memiliki luka di tangan kirinya yang tak kunjung menutup, tepuk tangan Ronove hanya terasa seperti ejekan. `
+`"...Semua kemungkinan bersemayam di dalam hati manusia, begitukah? `
+`......Ya ampun, inilah sebabnya mengapa manusia itu menakutkan! `
+`Kerja bagus, Kanon. `
+`Kau telah menang. `
+`Luar biasa!" `
 `"...Haah, `
 `...haah, `
 `...haah..." `
-`"Are you okay?! `
+`"Apakah kau baik-baik saja?! `
 `Kanon-kun..." `
-`Shannon ran up to him and wrapped a handkerchief around his left hand, which was still spraying blood. `
-`"That was incredible, Kanon! `
-`Truly incredible. `
-`Even I was hoping, at least a little, for an upset. `
-`That you didn't let me down makes you truly splendid furniture. `
-`*cackle*cackle*! `
-`I think better of you now. `
-`I honestly think better of you!" `
-`"...Y-You haven't forgotten our promise, right, `
+`Shannon berlari menghampirinya dan membalutkan sapu tangan di tangan kirinya, yang masih menyemburkan darah. `
+`"Itu luar biasa, Kanon! `
+`Benar-benar luar biasa. `
+`Bahkan aku berharap, setidaknya sedikit, akan adanya kejutan. `
+`Fakta bahwa kau tidak mengecewakanku membuatmu menjadi furnitur yang benar-benar luar biasa. `
+`*terkekeh*terkekeh*! `
+`Aku jadi lebih menghargaimu sekarang. `
+`Sejujurnya aku jadi lebih menghargaimu!" `
+`"...K-Kau belum melupakan janji kita, kan, `
 `...{f:5:Beatrice}...?" `
-`"Indeed. `
-`Of course I haven't forgotten. `
-`Witches and demons may be inhumane. `
-`However, we are much more noble than humans when it comes to keeping promises." `
-`"I will not go back on my word. `
-`I guaranteed that if you won, `
-`I would give you the right to decide the five people who will escape becoming the 13 sacrifices." `
+`"Tentu saja. `
+`Tentu saja aku belum lupa. `
+`Penyihir dan iblis mungkin saja tidak manusiawi. `
+`Namun, kami jauh lebih mulia daripada manusia dalam hal menepati janji." `
+`"Aku tidak akan menarik kembali kata-kataku. `
+`Aku menjamin bahwa jika kau menang, `
+`aku akan memberimu hak untuk memutuskan lima orang yang akan lolos dari menjadi 13 tumbal." `
 `"...B-{f:5:Beatrice}-sama, `
-`it's not like I've, lo... `
+`bukan berarti saya telah, ka... `
 `higi!!" `
-`When {f:5:Beatrice} waved her pipe, heaven and earth turned over just for Lucifer. `
-`...So, as a horribly natural result, she "fell" onto the ceiling. `
-`The ceiling doesn't seem that high to people standing on the floor. `
-`...However, people who fall on it upside-down and head-first usually don't agree... `
-`"Milady, `
-`isn't that a little much?" `
-`"*cackle*cackle*! `
-`Perhaps you are right. `
-`I suppose I'll forgive her." `
-`{f:5:Beatrice} waved her pipe again. `
-`When she did, the magic that had been effecting Lucifer was released. `
-`...So, as a horribly natural result, this time she "fell" properly, back onto the floor. `
+`Ketika {f:5:Beatrice} mengayunkan pipanya, langit dan bumi berbalik hanya untuk Lucifer. `
+`...Jadi, sebagai akibat alami yang mengerikan, dia "jatuh" ke langit-langit. `
+`Langit-langit tidak terlihat setinggi itu bagi orang-orang yang berdiri di lantai. `
+`...Namun, orang-orang yang jatuh ke sana secara terbalik dengan kepala lebih dulu biasanya tidak sependapat... `
+`"Nyonya, `
+`bukankah itu sedikit berlebihan?" `
+`*terkekeh*terkekeh*! `
+`Mungkin kau benar. `
+`Kurasa aku akan memaafkannya." `
+`{f:5:Beatrice} mengayunkan pipanya lagi. `
+`Saat dia melakukannya, sihir yang telah memengaruhi Lucifer dilepaskan. `
+`...Jadi, sebagai akibat alami yang mengerikan, kali ini dia "jatuh" dengan semestinya, kembali ke lantai. `
 `"Agah......!!" `
 `...gghh... `
 `............u, `
 `{f:5:Beatrice}-sama, `
-`...f-forgive me......" `
-`"What are you so afraid of? `
-`I have already forgiven you, haven't I? `
-`*cackle*! `
-`So, Kanon. `
-`Shall we continue?" `
-`"......Continue what? `
-`...You aren't saying you want me to finish her, are you...?!" `
-`"Ah, no, no. `
-`It isn't over yet, right?" `
-`"......What isn't? `
-`...Stop dodging the question...!!" `
-`"I did promise to you your reward, didn't I? `
-`If you could defeat my furniture, {i:the Seven Stakes of Purgatory}, riiiiiiight?" `
-`"Come, arise, the Seven Stakes of Purgatory. `
-`The six younger sisters of the worthless elder sister!" `
+`...m-maafkan saya......" `
+`"Apa yang sangat kau takutkan? `
+`Aku sudah memaafkanmu, bukan? `
+`*terkekeh*! `
+`Jadi, Kanon. `
+`Haruskah kita lanjutkan?" `
+`"......Lanjutkan apa? `
+`...Kau tidak sedang bermaksud memintaku untuk menghabisinya, kan...?!" `
+`"Ah, tidak, tidak. `
+`Ini belum berakhir, kan?" `
+`"......Apanya yang belum? `
+`...Berhentilah mengelak dari pertanyaan...!!" `
+`"Aku memang menjanjikan hadiah kepadamu, bukan? `
+`Jika kau bisa mengalahkan furniturku, {i:Tujuh Pasak Api Penyucian}, kaaaaan?" `
+`"Ayo, bangkitlah, Tujuh Pasak Api Penyucian. `
+`Enam adik perempuan dari kakak perempuan yang tak berguna!" `
 `""""""Kyahhahahahahahahahahahahaha!!"""""" `
-`The air split with shrill laughter, `
-`and as a golden splash scattered about, the remaining six Sisters of Purgatory showed themselves... `
-`All the Seven Sisters of Purgatory were here, after Kanon was able to defeat one only by sacrificing his left arm... `
-`By now, Kanon regretted his thoughtlessness in accepting the witch's challenge. `
-`...He had been foolish to assume that a game against a witch would be on an even footing...! `
-`"......Laaame. `
-`Onee-sama, why are you crawling on the floor?" `
-`"Y-You people......... `
+`Udara terbelah oleh tawa melengking, `
+`dan saat percikan emas bertebaran, enam Saudari Api Penyucian yang tersisa menampakkan diri mereka... `
+`Seluruh Tujuh Saudari Api Penyucian ada di sini, setelah Kanon baru bisa mengalahkan salah satunya hanya dengan mengorbankan lengan kirinya... `
+`Kini, Kanon menyesali kecerobohannya dalam menerima tantangan penyihir itu. `
+`...Dia terlalu bodoh berasumsi bahwa permainan melawan seorang penyihir akan berjalan seimbang...! `
+`"......Payaaah. `
+`Onee-sama, kenapa kau merangkak di lantai?" `
+`"K-Kalian......... `
 `nnnggh..." `
-`"I told you, Onee-sama's useless. `
-`Even though she acts like she's so great just because she's the oldest, that's only on the outside." `
-`"Yeah, seriously! `
-`Lucifer onee-sama, your disgraceful behavior will damage the reputation of us all! `
-`Know your shame! `
-`You novice!" `
+`"Sudah kubilang, Onee-sama itu tidak berguna. `
+`Meskipun dia bertingkah seolah dia begitu hebat hanya karena dia yang tertua, itu cuma di luarnya saja." `
+`"Ya, sungguh! `
+`Lucifer onee-sama, perilakumu yang memalukan akan merusak reputasi kita semua! `
+`Tau malulah! `
+`Dasar pemula!" `
 `"......Nng, ......gggh..." `
-`"Kanon-kuuun, that was totally awesome. `
-`But don't get cocky, okay? `
-`Lucifer onee-sama brags all the time, but she's no big deal compared to the rest of us sisters." `
-`"...That's why I'm always saying Lucifer-nee shouldn't do anything. `
-`Just let her keep bragging all the time. `
-`After all, those of us with talent can handle all the tough jobs." `
-`"What are you gonna do, Onee-sama? `
-`Out of respect for your pride, `
-`we were planning to stay out of your way, in the hopes that you'd challenge him again in that beat-up body of yours..." `
-`"...But Kanon-kun sure is strong, right? `
-`Right now, no matter how much you struggle, there's no way you could win, right...?" `
-`"...Y- `
-`You people......" `
-`"*cackle*cackle*! `
-`My, my, you sisters are always so lively. `
-`Is this any time to fight amongst yourselves? `
-`It's only together that you're the Seven Stakes of Purgatory, correct? `
-`Now, play nice and execute the tasks I give you. `
-`And swiftly, okay?" `
-`"Hey, Lucifer onee-sama, `
-`if you wanna borrow the power of your little sisters, `
-`...then say it, okay? `
-`We wanna hear you ask us for help with your own mouth." `
-`"Nng...... Do you plan to mock me even more......?!" `
-`"‘I, the foolish— `
-`weak, `
-`ugly, `
-`and shameful... `
-`...Lucifer, the eldest sister, beg my younger sisters to save me'. `
-`......C'mon, let's hear it. `
-`If you let us hear that, we'll save you. `
-`That's a deal, right? `
-`Everyone?!" `
-`"...You... `
-`...b- `
-`bitch..." `
-`The Seven Sisters of Purgatory unanimously closed in on their worthless sister. `
-`Abusing her. `
-`...Even Kanon, who had been fighting for his life until a second ago, couldn't bear to look at it... `
-`"A-As if... `
-`...as if I... `
-`could say... `
-`something like that..." `
-`"Quickly now. `
-`Clearly, we won't make any progress here with you alone. `
-`Hurry up, let the Seven Sisters strike Kanon." `
+`"Kanon-kuuun, itu tadi benar-benar luar biasa. `
+`Tapi jangan besar kepala, ya? `
+`Lucifer onee-sama selalu membual, tapi dia bukan apa-apa dibandingkan dengan kami saudari yang lain." `
+`"...Itulah sebabnya aku selalu bilang Lucifer-nee tidak usah melakukan apa-apa. `
+`Biarkan saja dia terus membual sepanjang waktu. `
+`Lagi pula, kami yang berbakat ini bisa menangani semua pekerjaan sulit." `
+`"Apa yang akan kau lakukan, Onee-sama? `
+`Demi menghormati harga dirimu, `
+`kami berencana untuk tidak ikut campur, dengan harapan kau akan menantangnya lagi dengan tubuhmu yang babak belur itu..." `
+`"...Tapi Kanon-kun memang kuat, kan? `
+`Sekarang ini, tidak peduli seberapa keras kau berjuang, tidak mungkin kau bisa menang, kan...?" `
+`"...K- `
+`Kalian......" `
+`"*terkekeh*terkekeh*! `
+`Ya ampun, kalian para saudari selalu saja penuh semangat. `
+`Apakah ini saat yang tepat untuk bertengkar di antara kalian sendiri? `
+`Hanya saat bersamalah kalian menjadi Tujuh Pasak Api Penyucian, benar? `
+`Sekarang, bermainlah yang manis dan laksanakan tugas-tugas yang kuberikan pada kalian. `
+`Dan dengan cepat, oke?" `
+`"Hei, Lucifer onee-sama, `
+`jika kau ingin meminjam kekuatan adik-adikmu, `
+`...maka katakanlah, oke? `
+`Kami ingin mendengar kau meminta bantuan kami dengan mulutmu sendiri." `
+`"Nng...... Apakah kalian berencana mengejekku lebih jauh lagi......?!" `
+`"‘Aku, si bodoh— `
+`lemah, `
+`jelek, `
+`dan memalukan... `
+`...Lucifer, kakak perempuan tertua, memohon kepada adik-adikku untuk menyelamatkanku'. `
+`......Ayo, mari kita dengar. `
+`Jika kau membiarkan kami mendengarnya, kami akan menyelamatkanmu. `
+`Itu kesepakatannya, kan? `
+`Semuanya?!" `
+`"...Kau... `
+`...l- `
+`lonte..." `
+`Tujuh Saudari Api Penyucian secara serempak mendekati saudari mereka yang tak berguna. `
+`Menghinanya. `
+`...Bahkan Kanon, yang telah berjuang demi nyawanya hingga sedetik yang lalu, tidak sanggup melihatnya... `
+`"M-Mana mungkin... `
+`...mana mungkin aku... `
+`bisa mengatakan... `
+`hal semacam itu..." `
+`"Cepatlah. `
+`Jelas, kita tidak akan membuat kemajuan apapun di sini jika hanya denganmu. `
+`Cepatlah, biarkan Tujuh Saudari menyerang Kanon." `
 `"Pu ku ku ku... `
-`My, my, what is the matter, Lucifer? `
-`This is an order from Milady, is it not?" `
-`"......How cruel." `
-`After grinding her teeth over and over after hearing her sisters' curses, `
-`......Lucifer trembled all over... `
-`and answered her sisters' request... `
-`"......I-I, the foolish, `
-`...weak, `
-`......ugly... `
+`Ya ampun, ada apa, Lucifer? `
+`Ini adalah perintah dari Nyonya, kan?" `
+`"......Betapa kejamnya." `
+`Setelah menggertakkan giginya berulang kali sesudah mendengar makian saudari-saudarinya, `
+`......Lucifer gemetar di sekujur tubuhnya... `
+`dan menjawab permintaan saudari-saudarinya... `
+`"......A-Aku, si bodoh, `
+`...lemah, `
+`......jelek... `
 `...whaa...!" `
-`"And shameful!!" `
-`"Sh‐...shameful, `
-`...Lucifer, the eldest sister, `
-`...beg... `
+`"Dan memalukan!!" `
+`"Me-...memalukan, `
+`...Lucifer, kakak perempuan tertua, `
+`...memohon... `
 `......whaaaaaaaaaaaaaa!! `
 `Uwaaaaaaaaaaaaaaaaa...!!" `
-`The girl known as Pride was finally unable to endure the words she was saying... `
-`and broke down crying. `
-`However, the six younger sisters kept giggling coldheartedly. `
-`"Wait a sec! `
-`Don't try to trick us by crying! `
-`You haven't finished saying iiit!" `
-`"That should be enough. `
-`Come, sisters, let us display our power." `
-`"I won't be satisfied 'til I hear the whole thing, okay?! `
-`C'mon, c'mon, Onee-sama, keep going!" `
-`"That's enough! `
-`Come on, this shame effects us all! `
-`We won't let them leave here alive!" `
-`"Okay, how should we play with this pitiful furniture? `
-`Any wonderful plans?" `
-`"Ye-s, yes! `
-`Beelze thiiinks the seven of us shooould get along and split Kanon up between us!" `
-`"Good idea. `
-`...That way all of the sisters can get along." `
-`"Then I'll take the head! `
-`I'll leave the limbs and guts to you all!!" `
-`"No, no, noooooooooooo!! `
-`I get the heeead!!" `
-`"There's no way that promise'll mean anything, right?! `
-`First one there wins!" `
+`Gadis yang dikenal sebagai Kesombongan itu akhirnya tidak sanggup menahan kata-kata yang diucapkannya... `
+`dan meledak dalam tangisan. `
+`Namun, keenam adik perempuan itu terus cekikikan tanpa perasaan. `
+`"Tunggu sebentar! `
+`Jangan mencoba menipu kami dengan menangis! `
+`Kau belum selesai mengatakannyaaaa!" `
+`"Itu sudah cukup. `
+`Ayo, saudari-saudari, mari kita tunjukkan kekuatan kita." `
+`"Aku tidak akan puas sampai aku mendengar semuanya, oke?! `
+`Ayo, ayo, Onee-sama, lanjutkan!" `
+`"Cukup! `
+`Ayolah, rasa malu ini memengaruhi kita semua! `
+`Kita tidak akan membiarkan mereka pergi dari sini hidup-hidup!" `
+`"Oke, bagaimana kita harus bermain dengan furnitur yang menyedihkan ini? `
+`Ada rencana yang bagus?" `
+`"Ya, ya! `
+`Beelze pikiiir kita bertujuh haruuus akur dan membagi Kanon di antara kita!" `
+`"Ide yang bagus. `
+`...Dengan begitu semua saudari bisa akur." `
+`"Kalau begitu aku akan mengambil kepalanya! `
+`Aku akan menyerahkan anggota tubuh dan isi perutnya pada kalian semua!!" `
+`"Tidak, tidak, tidaaaaaaaaaaak!! `
+`Aku yang mendapatkan kepalanyaaaa!!" `
+`"Mana mungkin janji itu ada artinya, kan?! `
+`Yang sampai lebih dulu yang menang!" `
 `"Hihihihihi!! `
-`Kanon-kun, if you've got any ideas for how we should kill you, just tell us, okay? `
-`The Seven Sisters'll kill you in an aaawesome way!" `
-`"............Damn..." `
+`Kanon-kun, jika kau punya ide bagaimana kami harus membunuhmu, beri tahu kami saja, oke? `
+`Tujuh Saudari akan membunuhmu dengan cara yang luaaaaar biasa!" `
+`"............Sial..." `
 `"...Aaarrrrrrgggh!! `
-`You've shamed me so deeply!! `
-`Slicing you into eight pieces won't be enough!! `
-`I'll slice you into a hundred pieces!! `
-`Here we go, everyone!!" `
-`""""""Yeees, Onee-sama! `
+`Kau telah mempermalukanku begitu dalam!! `
+`Mengirismu menjadi delapan bagian tidak akan cukup!! `
+`Aku akan mengirismu menjadi seratus bagian!! `
+`Ayo kita mulai, semuanya!!" `
+`""""""Yaa, Onee-sama! `
 `Kyahhahahahahahaha!!"""""" `
-`The seven of them burst at once. `
-`They had no intention of playing or boasting. `
-`This time, they would genuinely follow their master's order. `
-`...Take Kanon down. Swiftly! `
-`The Seven Sisters jumped around the room faster than the eye could see, examining how they could best kill Kanon. `
-`They tortured Kanon with their cruel giggles, sometimes making a close pass at him. `
-`...They kept scraping his arms, shoulders, and cheeks, `
-`gradually carving red letters into his body... `
-`At that moment, Shannon dashed up behind him, holding on to him so that she blocked the way to his body at least a little. `
+`Mereka bertujuh melesat secara bersamaan. `
+`Mereka tidak punya niat untuk bermain-main atau membual. `
+`Kali ini, mereka benar-benar akan mengikuti perintah majikan mereka. `
+`...Jatuhkan Kanon. Dengan cepat! `
+`Tujuh Saudari melompat ke seluruh ruangan lebih cepat dari yang bisa dilihat mata, memeriksa bagaimana mereka bisa membunuh Kanon dengan cara terbaik. `
+`Mereka menyiksa Kanon dengan cekikikan kejam mereka, terkadang melesat di dekatnya. `
+`...Mereka terus menggores lengan, bahu, dan pipinya, `
+`secara bertahap mengukir huruf-huruf merah ke tubuhnya... `
+`Pada saat itu, Shannon berlari ke belakangnya, memeganginya sehingga dia menghalangi jalan ke tubuhnya setidaknya sedikit. `
 `"{nobreak:{m:-5:—}—}Kh......!!" `
 `"Ah......?!" `
-`At the same time, a red cylinder wrapped around the two of them, like a beam of light sent from heaven. `
-`That cylinder repelled the evil ones who tormented Kanon... `
-`"Whaaaat?!! `
-`You're me-an! `
-`This has nothing to do with yo-u!" `
-`"Ah, I see. `
-`You must want to play with us." `
+`Pada saat yang sama, sebuah silinder merah membungkus mereka berdua, seperti sinar cahaya yang dikirim dari surga. `
+`Silinder itu memukul mundur makhluk-makhluk jahat yang menyiksa Kanon... `
+`"Apaaaaan?!! `
+`Kau ja-hat! `
+`Ini tidak ada hubungannya denganmu!" `
+`"Ah, begitu. `
+`Kau pasti ingin bermain dengan kami." `
 `"Kyaha! `
-`Then I'll take i-t! `
-`All mine!!" `
+`Kalau begitu aku akan mengambilnya! `
+`Semuanya milikku!!" `
 `"{f:5:Beatrice}-sama, `
-`can we take Shannon as our prey...?" `
+`bolehkah kami menjadikan Shannon sebagai mangsa kami...?" `
 `"Hmm? `
-`Aah, I don't mind, do as you like. `
-`It seems Kanon alone won't be enough to satisfy your gluttony." `
-`"You have our deepest gratitude. `
-`Come on, I'll make you regret coming out uninvited!" `
-`"I'll turn you into scraps of meat so unrecognizable, you won't be able to tell which is which, `
-`mix you and mix you and mince you into hamburgers!" `
-`"Idiot, breaking that barrier should come first, right?! `
-`Don't let your gluttony get in the way of your job!" `
-`""""Yees, Onee-sama!!"""" `
+`Aah, aku tidak keberatan, lakukan sesuka kalian. `
+`Sepertinya Kanon sendirian tidak akan cukup untuk memuaskan kerakusan kalian." `
+`"Kami sangat berterima kasih padamu. `
+`"Ayo, aku akan membuatmu menyesal karena keluar tanpa diundang!" `
+`"Aku akan mengubahmu menjadi potongan-potongan daging yang sangat tak berwujud, kau tidak akan bisa membedakan mana yang mana, `
+`mencampurmu dan mencampurmu dan mencincangmu menjadi hamburger!" `
+`"Bodoh, menghancurkan penghalang itu harus didahulukan, kan?! `
+`Jangan biarkan kerakusanmu menghalangi pekerjaanmu!" `
+`""""Yaa, Onee-sama!!"""" `
 `"Gu......uuu......!!" `
-`As a horribly natural first action, the Seven Sisters began to destroy the barrier Shannon had created. `
-`...Shannon's barrier certainly was strong. `
-`It was powerful enough to impress even {f:5:Beatrice}. `
-`...With its strength, frail furniture would turn to dust just by touching it, `
-`and it was firm, like a tree with deep roots. `
-`But no matter how big a tree gets, it will eventually surrender to a saw or a hatchet. `
-`For the Seven Sisters, "chopping down" Shannon's barrier would be annoying, but not impossible. `
+`Sebagai tindakan pertama yang secara alami mengerikan, Tujuh Saudari mulai menghancurkan penghalang yang diciptakan Shannon. `
+`...Penghalang Shannon memang kuat. `
+`Itu cukup kuat untuk membuat bahkan {f:5:Beatrice} terkesan. `
+`...Dengan kekuatannya, furnitur yang rapuh akan berubah menjadi debu hanya dengan menyentuhnya, `
+`dan itu kokoh, seperti pohon dengan akar yang dalam. `
+`Namun tidak peduli seberapa besarnya sebuah pohon, pada akhirnya ia akan menyerah pada gergaji atau kapak. `
+`Bagi Tujuh Saudari, "menebang" penghalang Shannon akan menyebalkan, tapi bukan hal yang mustahil. `
 `"Hnf......!!" `
-`A sound like beetles jumping about grew even fiercer and filled the room. `
-`The red barrier began to be cut up and eroded away as though with an hatchet, a saw...no, a chainsaw by now... `
-`"......How foolish. `
-`Even though you must know that your barrier can't fully protect you from these girls. `
-`Why...?" `
-`"......Because I couldn't overlook it." `
-`As Shannon covered Kanon, who was already at his limits, sprawled on the floor, she spoke back resolutely. `
-`"If you hadn't barged in uninvited, I would have given you a death like sleep. `
-`Why have you gone to all the trouble of exposing yourself before the Seven Sisters? `
-`...Not all deaths are the same. `
-`A cruel death will cause you far more anguish than merely dying. `
-`*cackle*cackle*cackle*!" `
-`"......Go ahead, do as you like. `
-`Just as you always do what you want, I did what I wanted." `
+`Suara seperti kumbang yang melompat-lompat menjadi semakin ganas dan memenuhi ruangan. `
+`Penghalang merah itu mulai terpotong dan terkikis seolah-olah oleh kapak, gergaji...tidak, sebuah gergaji mesin saat ini... `
+`"......Betapa bodohnya. `
+`Padahal kau pasti tau kalau penghalangmu tidak bisa sepenuhnya melindungimu dari gadis-gadis ini. `
+`Kenapa...?" `
+`"......Karena aku tidak bisa mengabaikannya." `
+`Sambil Shannon menutupi Kanon, yang sudah berada di batasnya, terkapar di lantai, dia membalas dengan tegas. `
+`"Jika kau tidak menerobos masuk tanpa diundang, aku akan memberimu kematian seperti tidur. `
+`Mengapa kau bersusah payah menampakkan dirimu di hadapan Tujuh Saudari? `
+`...Tidak semua kematian itu sama. `
+`Kematian yang kejam akan memberimu penderitaan yang jauh lebih besar daripada sekadar mati. `
+`*terkekeh*terkekeh*terkekeh*!" `
+`"......Silakan, lakukan sesukamu. `
+`Sama seperti kau yang selalu melakukan apa yang kau inginkan, aku melakukan apa yang aku inginkan." `
 `"......... `
 `...Hmmmm. `
-`At any rate, you're not quite amusing at the present moment. `
-`Romance is most interesting when you're wondering whether it will succeed or not." `
-`"Once it does succeed, a woman is like salmon who has finished laying its eggs. `
-`I have already tired of you." `
-`"Thank you. `
-`No words from a witch would make me happier." `
+`Apa pun itu, kau tidak terlalu menghibur saat ini. `
+`Romansa paling menarik saat kau bertanya-tanya apakah itu akan berhasil atau tidak." `
+`"Begitu berhasil, seorang wanita menjadi seperti salmon yang telah selesai bertelur. `
+`Aku sudah bosan denganmu." `
+`"Terima kasih. `
+`Tidak ada kata-kata dari seorang penyihir yang akan membuatku lebih bahagia." `
 `"...Hehehehhihihahaha. `
-`Then, at least in the end, let me see you die in a truly entertaining manner. `
-`Seven Sisters, can you hear me?! `
-`Kill Shannon in a way that shows me the limits of brutality!!" `
+`Kalau begitu, setidaknya pada akhirnya, biarkan aku melihatmu mati dengan cara yang benar-benar menghibur. `
+`Tujuh Saudari, bisakah kalian mendengarku?! `
+`Bunuh Shannon dengan cara yang menunjukkan kepadaku batas-batas kebrutalan!!" `
 `".........Shannon..." `
-`"...My apologies. `
-`In the end, I wasn't able to reach your level, Genji-sama." `
-`"......You're an idiot, Nee-san... `
-`If you'd just let me be, ...then you might not have had to meet a horrible end..." `
-`"No, it's fine. `
-`...I received a ring from George-sama and lived as a woman. `
-`I have protected you and lived as a sister. `
-`With this, my life is complete, with no regrets." `
-`"...Nnnngyaaaaaaaaaaahhhh, you're pissing me off. `
-`That philosophical take really is irritating!! `
-`Like I said, you're furniture, you don't even smell like a humaaaaaan!!" `
-`"Look at me, {i:I} am human!! `
-`Don't spout off philosophical crap, like you're more complete than I am, you furnituuuuuuuuuuure!!" `
-`"......How ugly. `
-`Are those regrets...what you truly are?" `
-`"They aren't regreeeeeets, this is called living!! `
-`What's this about not minding if you die, just because you were given a ring?! `
-`Aaaaah, I can't understand it, it's incomprehensible, disappointing, outrageous, stunning, and it's all useleeeeeeeesss!!" `
-`"...Milady, perhaps you're acting a tad undignified." `
-`"Shut up, furniture!! `
-`Shannooooonn, do you think I'll let you die so easilyyyyyyyyyyy?! `
-`Now's the time to bite your tooooooongue!!" `
-`"......How pitiful. `
-`If you can see yourself reflected in my eyes, `
-`then shudder at your own ugliness." `
-`"Fear not, `
-`once I've crushed you up, you'll be much more ugly even while you still liiiiiiiive!!!" `
-`At that time, ......Genji softly entered the red barrier. `
-`Perhaps that barrier didn't block those without ill intent. `
-`Then, ...Genji gently held her from behind... `
-`and covered her eyes with his right hand. `
+`"...Maafkan aku. `
+`Pada akhirnya, aku tidak bisa mencapai levelmu, Genji-sama." `
+`"......Kau ini bodoh, Nee-san... `
+`Seandainya kau membiarkanku saja, ...maka kau mungkin tidak harus menemui akhir yang mengerikan..." `
+`"Tidak, tidak apa-apa. `
+`...Aku menerima sebuah cincin dari George-sama dan hidup sebagai seorang wanita. `
+`Aku telah melindungimu dan hidup sebagai seorang kakak. `
+`Dengan ini, hidupku telah lengkap, tanpa penyesalan." `
+`"...Nnnngyaaaaaaaaaaahhhh, kau membuatku kesal. `
+`Pandangan filosofis itu benar-benar menyebalkan!! `
+`Seperti yang kubilang, kau ini furnitur, kau bahkan tidak berbau seperti manusiiaaaaaa!!" `
+`"Lihat aku, {i:aku} adalah manusia!! `
+`Jangan melontarkan omong kosong filosofis, seolah kau lebih utuh dariku, dasar furnituuuuuur!!" `
+`"......Betapa buruk rupanya. `
+`Apakah penyesalan itu...adalah dirimu yang sebenarnya?" `
+`"Itu bukanlah penyesalaaaaaaan, ini yang namanya hidup!! `
+`Apa-apaan ini tentang tidak keberatan jika kau mati, hanya karena kau diberi cincin?! `
+`Aaaaah, aku tidak bisa memahaminya, ini tidak dapat dimengerti, mengecewakan, keterlaluan, mengejutkan, dan semuanya sia-siaaaaaaaa!!" `
+`"...Nyonya, mungkin anda bertindak sedikit kurang anggun." `
+`"Diam, furnitur!! `
+`Shannooooonn, apa kau pikir aku akan membiarkanmu mati begitu mudaaaahnyyyyyyaaaaaa?! `
+`Sekaranglah saatnya untuk menggigit lidaaaaaahmuuu!!" `
+`"......Betapa menyedihkannya. `
+`Jika kau bisa melihat dirimu sendiri terpantul di mataku, `
+`maka bergidiklah pada keburukanmu sendiri." `
+`"Jangan takut, `
+`setelah aku menghancurkanmu, kau akan menjadi jauh lebih buruk rupa bahkan saat kau masih hiduuuuuup!!!" `
+`Pada saat itu, ......Genji dengan lembut memasuki penghalang merah itu. `
+`Mungkin penghalang itu tidak menghalangi mereka yang tanpa niat jahat. `
+`Kemudian, ...Genji mendekapnya dengan lembut dari belakang... `
+`dan menutupi matanya dengan tangan kanannya. `
 `"......Genji-sama..." `
-`"You've already done enough... `
-`......Go to sleep before me." `
-`"......Yes. `
-`......Thank you very much, Genji-sama..." `
-`"......Indeed." `
-`After that, Genji softly pressed his left hand near her collarbone... `
-`...As he did, eminating from that area... `
-`a crimson stain gently spread out. `
-`When Genji removed his hand, `
-`......bright-red, fresh blood oozed out of there. `
-`It only happened for the first instant, and it was shaped like a crimson rose... `
-`And when he removed his right hand covering her face, `
-`......there was a peaceful expression there, as though she was sleeping. `
-`......And she fell softly, `
-`...silently, `
-`......and slept. `
-`Her soul had already been sent to a world where the malicious witch and her furniture could not reach her, `
-`no matter how evilly they tortured her... `
-`This scene left {f:5:Beatrice} and the Seven Sisters stunned. `
-`...Only Ronove wore a mysterious smile. `
-`Then, Genji leaned over Kanon, who was crouching on the floor. `
-`"......You did well. `
-`You should sleep now too." `
+`"Kau sudah berjuang dengan cukup... `
+`......Tidurlah sebelumku." `
+`"......Ya. `
+`......Terima kasih banyak, Genji-sama..." `
+`"......Tentu." `
+`Setelah itu, Genji dengan lembut menekan tangan kirinya di dekat tulang selangkanya... `
+`...Saat dia melakukannya, memancar dari area itu... `
+`sebuah noda merah darah menyebar dengan lembut. `
+`Ketika Genji menyingkirkan tangannya, `
+`......darah segar berwarna merah terang merembes keluar dari sana. `
+`Itu hanya terjadi pada detik pertama, dan bentuknya seperti mawar merah darah... `
+`Dan ketika dia menyingkirkan tangan kanan yang menutupi wajahnya, `
+`......ada ekspresi damai di sana, seolah-olah dia sedang tidur. `
+`......Dan dia terjatuh dengan lembut, `
+`...tanpa suara, `
+`......dan tertidur. `
+`Jiwanya telah dikirim ke dunia di mana penyihir jahat dan perabotannya tidak bisa mencapainya, `
+`tidak peduli seberapa jahat mereka menyiksanya... `
+`Adegan ini membuat {f:5:Beatrice} dan Tujuh Saudari tercengang. `
+`...Hanya Ronove yang menyunggingkan senyum misterius. `
+`Kemudian, Genji membungkuk di atas Kanon, yang sedang meringkuk di lantai. `
+`"......Kau berjuang dengan baik. `
+`Kau juga harus tidur sekarang." `
 `"............ `
-`......Yes. `
-`Thank you very much, Genji-sama." `
-`Just as he had done with Shannon, he softly covered Kanon's eyes with his hand, `
-`then gently pressed the area around Kanon's collarbone with his other hand. `
-`...And when his hand was removed with the lightness of a feather, `
-`...there was a crimson rose there. `
-`But that rose shape quickly turned into the stain of bright-red blood pouring out... `
-`"...Wh- `
-`What is...that...?" `
-`"...What a boring person. `
-`...Even though it's so fun to poke the balloon of life with a needle so that it forcefully explodes." `
-`"Spectacular, Genji. `
-`......You truly are furniture." `
-`"...Thank you very much. `
-`...Well then, {f:5:Beatrice}-sama, Ronove-sama. `
-`With this as my final task, allow me to rest." `
+`......Ya. `
+`Terima kasih banyak, Genji-sama." `
+`"Sama seperti yang telah dilakukannya pada Shannon, dia dengan lembut menutup mata Kanon dengan tangannya, `
+`kemudian dengan lembut menekan area di sekitar tulang selangka Kanon dengan tangan yang satunya. `
+`...Dan ketika tangannya disingkirkan dengan seringan bulu, `
+`...ada mawar merah darah di sana. `
+`Tapi bentuk mawar itu dengan cepat berubah menjadi noda darah merah terang yang mengalir keluar... `
+`"...A- `
+`Apa...itu...?" `
+`"...Dasar orang yang membosankan. `
+`...Padahal sangat menyenangkan menusuk balon kehidupan dengan jarum agar ia meledak dengan kuat." `
+`"Luar biasa, Genji. `
+`......Kau benar-benar furnitur." `
+`"...Terima kasih banyak. `
+`...Kalau begitu, {f:5:Beatrice}-sama, Ronove-sama. `
+`Dengan ini sebagai tugas terakhir saya, izinkan saya beristirahat." `
 `"......Tch. `
-`Damn you, snatching away my fun. `
-`Why don't I take all the thrashing and mashing I wanted to do to them... `
-`and give it to you instead??" `
-`{f:5:Beatrice} faced him with an unsatisfied expression, `
-`but Ronove spoke quietly to Genji with a soothing smile. `
-`"You have worked hard. `
-`You are my greatest servant. `
-`...As a final gift, I shall bestow upon you a peaceful sleep fitting for all the labors you have performed." `
-`"What?! `
-`Wait, it's not your place to...!" `
-`When Ronove snapped his fingers, `
-`...Genji slumped to the floor like a puppet with its strings cut. `
-`...Suddenly, and yet gently. `
-`He crumpled, falling into a sleep that no witch could call him back from... `
-`It was as filled with kindness as the sleep he had given Shannon and Kanon... `
-`"...What was that, Ronove? `
-`...What a boring anticlimax." `
-`"Are you not a mighty Great Witch, Milady? `
-`What happened here is hardly worthy of your concern. `
-`...It isn't like you, to let the provocation of someone like Shannon get to you." `
+`Sialan kau, merenggut kesenanganku. `
+`Kenapa aku tidak mengambil semua pukulan dan hantaman yang ingin kulakukan pada mereka... `
+`dan memberikannya kepadamu saja??" `
+`{f:5:Beatrice} menghadapnya dengan ekspresi tidak puas, `
+`tapi Ronove berbicara dengan pelan kepada Genji dengan senyuman yang menenangkan. `
+`"Kau telah bekerja keras. `
+`Kau adalah pelayanku yang terhebat. `
+`...Sebagai hadiah terakhir, aku akan menganugerahkan kepadamu tidur yang damai yang pantas untuk semua kerja keras yang telah kau lakukan." `
+`"Apa?! `
+`Tunggu, itu bukan kapasitasmu untuk...!" `
+`Ketika Ronove menjentikkan jarinya, `
+`...Genji merosot ke lantai seperti boneka yang tali-talinya terputus. `
+`...Tiba-tiba, namun dengan lembut. `
+`Dia rebah, jatuh ke dalam tidur yang tidak bisa dipanggil kembali oleh penyihir manapun... `
+`Itu dipenuhi dengan kebaikan seperti tidur yang telah dia berikan kepada Shannon dan Kanon... `
+`"...Apa itu tadi, Ronove? `
+`...Sungguh anti-klimaks yang membosankan." `
+`"Bukankah kau adalah Penyihir Agung yang perkasa, Nyonya? `
+`Apa yang terjadi di sini hampir tidak layak untuk dikhawatirkan. `
+`...Tidak seperti dirimu, membiarkan provokasi seseorang seperti Shannon memengaruhimu." `
 `"............ `
 `...Hmm." `
-`What was it that had {f:5:Beatrice} so irritated? `
-`...Was she still unable to remove the thorn of Shannon's words? `
-`Ronove laughed lightly, as though lamenting the complexity of humanity and a woman's heart, and ordered the Seven Sisters to go. `
-`...After all, there were still two sacrifices left for the first twilight. `
-`The Seven Sisters disappeared in ecstasy... `
+`Apa sebenarnya yang membuat {f:5:Beatrice} begitu jengkel? `
+`...Apakah dia masih belum bisa melepaskan duri dari kata-kata Shannon? `
+`Ronove tertawa kecil, seolah meratapi rumitnya kemanusiaan dan hati seorang wanita, dan memerintahkan Tujuh Saudari untuk pergi. `
+`...Bagaimanapun juga, masih ada dua tumbal lagi yang tersisa untuk senja pertama. `
+`Tujuh Saudari itu menghilang dalam ekstasi... `
