@@ -4,7 +4,7 @@
 `Dingin. `
 `Sakit. `
 `Rosa perlahan kembali sadar... `
-`Hal pertama yang terlintas dibenaknya...lebih baik jika dia tidak kembali sadar. `
+`Hal pertama yang terlintas di benaknya...lebih baik jika dia tidak kembali sadar. `
 `Lagi pula, dengan tubuhnya yang kedinginan dan terluka seperti ini, ...kesadaran hanya menambah rasa sakit. `
 `Dia seperti tertidur di lantai es dalam kegelapan, berbaring dengan waktu yang cukup lama. `
 `...Aaah, aku selalu mengingatkan hal ini pada diriku. `
@@ -16,7 +16,7 @@
 `...Jika aku melihat ke cermin, aku yakin ada kerutan di wajahku. `
 `Aku yakin hanya memijatnya tidak akan membuat kerutan itu hilang, `
 `tapi aku meraba sisi wajahku yang sakit, mencoba meredakan rasa sakitnya... `
-`...Aku penasaran......ini dimana. `
+`...Aku penasaran......ini di mana. `
 `Aku kira tempat ini gelap gulita, tapi tampaknya tidak. `
 `Lagi pula, Aku bisa melihat tubuhku sendiri. `
 `...Aku yakin, ada sumber cahaya di sini, `
@@ -399,7 +399,7 @@
 `Aku hanya sedih padamu jika kamu memprioritaskanku dengan cara mengorbankan kebersamaanmu dengan putrimu." `
 `"............ `
 `...Apa kamu sudah baikan dengan istrimu? `
-`......Sepertinya kamu udah lama berantam dengannya." `
+`......Sepertinya kamu udah lama bertengkar dengannya." `
 `"Aku tidak ingin membicarakan tentang istriku. `
 `Sama seperti kamu yang tidak ingin bicara tentang putrimu." `
 `"...Aku yakin menurutmu perempuan single yang mempunyai anak itu merepotkan." `

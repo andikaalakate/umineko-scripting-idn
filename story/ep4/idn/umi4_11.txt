@@ -455,7 +455,7 @@
 `*kekeh*kekeh*! `
 `Wahhahahahahaha!!" `
 `Sekejap, Kinzo tertawa, dan matanya melotot. `
-`Ketika dia berbicara tentang {f:5:Beatrice}, sangat retoris dan gila
+`Setiap kali berbicara tentang {f:5:Beatrice}, dia selalu begitu fasih dan diliputi obsesi gila......`
 `"Anak-anak bodoh seperti kalian hanyalah berkhayal!! `
 `Seolah kalian tidak pernah ada sejak awal!! `
 `Menghilang! Bangun!! `
@@ -1158,7 +1158,7 @@
 `Tapi gaya berpakaian akhir-akhir ini lebih terbuka. `
 `Sepertinya aku akan memesan juga...!" `
 `"Kalau untukmu, Riiche, aku merekomendasikan Ali-Gray, <Alice and the Graveyard>. `
-`Kapan-kapan ayo ke 666 untuk melihat-lihat pakaian. `
+`Kapan-kapan ayo ke {c:86EF9C:666} untuk melihat-lihat pakaian. `
 `Kamu harus mampir ke dunia roh sekali-kali." `
 `"Ketika permainan ini selesai, aku akan mampir. `
 `*kekeh*kekeh*!" `

@@ -240,7 +240,7 @@
 `He prided himself on his thorough knowledge of all literature related to Rokkenjima, and he looked bewildered at this binding that he hadn't seen before... `
 `Ignoring him, Ange silently flipped through the pages, opened to one of them, and showed him. `
 `On that page was a handwritten paragraph beginning with "To my beloved witch apprentice". `
-`...And at the end, there was a signature in katakana that said...{f:5:Beatrice}. `
+`...And at the end, there was a signature in {ruby:{ruby:katakana:capitals}:capitals} that said...{f:5:Beatrice}. `
 `"Th-This is......?" `
 `The instant he glanced at it, `
 `his face went pale. `

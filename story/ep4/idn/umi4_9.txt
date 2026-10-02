@@ -316,7 +316,7 @@
 `And her head was swimming from hunger. `
 `The policeman noticed that, and it was decided that he'd listen to her story as they ate in the police box. `
 `...Maria was taken to the police box. `
-`She had her oden heated in a microwave oven, and even salty rice cakes and hot tea were brought out for her. `
+`She had her oden heated in a microwave oven, and even {ruby:shio daifuku:{ruby:shio daifuku:salty rice cakes}} and hot tea were brought out for her. `
 `She had been told not to talk to policemen, `
 `...but after being asked about Sakutaro, she responded, starting to feel that this wasn't a bad person. `
 `...And anyway, she wouldn't be able to return home now, so she didn't know what to do. `

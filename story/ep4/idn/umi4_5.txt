@@ -795,7 +795,7 @@
 `‘Uryu-! `
 `I'm a lion cub! `
 `Ro-, ro-, ...uryu-!’ `
-`"Sakutaro is a lion cub, but he's still a kid, so he can't roar sometimes. `
+`"Sakutaro is a lion cub, but he's still a kid, so he can't say {ruby:roar:gaooo} sometimes. `
 `Uryuuryuuryu{p:0:♪}" `
 `‘Uryuuryuuryu-!’ `
 `Gazing at Maria, who was playing around with Sakutaro by the table loaded with tea, {f:5:Beatrice} let out a sigh of admiration. `

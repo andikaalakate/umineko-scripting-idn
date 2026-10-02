@@ -13,7 +13,7 @@
 ` Meski begitu, apakah pria itu masih murung?" `
 ` "Murung...?" `
 ` "Hmm, ya, begitulah. `
-` ...Bukankah pria itu terlalu mudah percaya untuk usianya?"` 
+` ...Bukankah pria itu terlalu mudah percaya untuk usianya?"`
 ` "Sepertinya begitu. `
 ` Anda bisa menyebut itu sebagai daya tariknya. `
 ` Pu ku ku..." `
@@ -102,7 +102,7 @@
 ` Apakah kamu masih merajuk di pagi hari ini?!?!`
 ` Permainan yang baru akan segera dimulai loh, bersemangatlah, mari kita pergiiiiiiii!!"`
 ` ...Dia membanting pintu tersebut.`
-` Seperti pelari maraton yang tergambar di kotak karamel tertentu,`
+` Seperti pelari maraton yang tergambar di {c:86EF9C:kotak karamel tertentu},`
 ` dengan tangan terangkat tinggi dan senyum ceria yang konyol,`
 ` ...Beato pun muncul.`
 ` Untuk berbagai alasan, bendera-bendera dari seluruh dunia dan confetti yang berserakan di mana-mana, melengkapi dengan sempurna penampilan pembuka yang megah ini.`
@@ -165,7 +165,7 @@
 ` sekarang aku sangat memahami itu.`
 ` ...Jadi, jangan pernah coba-coba menipuku soal itu lagi."`
 ` "\*terkekeh-kekeh\*! `
-` Meski kau bilang begitu, tapi karena aku sudah tahu kelemahanmu, aku akan......”` 
+` Meski kau bilang begitu, tapi karena aku sudah tahu kelemahanmu, aku akan......”`
 ` Beato mengira mereka masih bercanda, ...tetapi nada itu sudah menghilang dari raut wajah Battler sejak beberapa saat yang lalu.`
 ` Beato merasa seolah-olah matanya seperti permukaan teh hitam yang sudah mendingin...`
 ` "Kau dengar aku?`

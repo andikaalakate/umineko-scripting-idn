@@ -203,7 +203,7 @@
 `The greedier our master is, the more our worth will increase." `
 `"More importantly, Ange-samaa! `
 `We've finally got 10 people gathered heeere!" `
-`"We planned to have everyone play shiritori or something!" `
+`"We planned to have everyone play {c:86EF9C:shiritori} or something!" `
 `"If you lose, there's a punishment game! `
 `Let me nibble your eeears!" `
 `"Come on, is hunger the only thing inside that head of yours?!" `
@@ -234,9 +234,9 @@
 `"...It's rare for a word that ends like that to come up." `
 `"Then I'm first!! `
 `I'll do a word starting with "ryu"! `
-`Ryuuzu (watch crown)!" `
+` A {ruby:ryuuzu:"watch ste~m"}!"`
 `"I wanted to go first! `
-`"Ryuuto" (lute) would've been wonderful!" `
+` {ruby:ryuuto:"Lute"} would have been so much more wonderful!"`
 `""Zu"? `
 `Feels like we keep getting tough ones. `
 `...Wait a sec, what order are we going in? `
@@ -249,7 +249,7 @@
 `It's fast-talking shiritori!" `
 `"Then I'll go! `
 `"Zucchini"! `
-`"Ninniku itame" (garlic stir-fry)! `
+` {ruby:ninniku itame:"Garlic stir‐fry"}!`
 `"Mekabu with pasta"! `
 `All of them delicious! `
 `Kyaha, I said three of them!" `
@@ -260,13 +260,13 @@
 `Minus one point!! `
 `Let's start from "me"." `
 `"Then I'll go. `
-`"Meringue"-!" `
+` {ruby:merenge:"Meringue"~!"}`
 `‘"Ge"?? `
 `...U-U- `
 `Uryu-!’ `
-`""Gesuidou" (Drainage system), `
-`"umetatechi" (reclaimed land), `
-`"chikashitsu" (basement). `
+`"{ruby:gesuidou:‘Drainage system’},`
+` {ruby:umetatechi:"reclaimed land"},`
+` {ruby:chikashitsu:"basement"}.`
 `How'd you like them apples?" `
 `"Onee-sama, those are all pretty crummy words, *giggle*!" `
 `"S-So what? Then why don't you try following up with something refined!! `

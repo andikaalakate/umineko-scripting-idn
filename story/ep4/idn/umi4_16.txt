@@ -1163,7 +1163,7 @@
 `"...Confirming Battle Regulations. `
 `Requesting permission to fire at the escapees." `
 `"Do it...! `
-`Kill them, kiii-!! `
+` Kill them! {ruby:Grrrr:Kiiiiii}!!`
 `Gapgapgap, `
 `gap, `
 `gya!!!" `
@@ -1737,7 +1737,7 @@
 `And I...a-actually have a childhood friend, ...and I'm gonna marry her when I got hooooome!!! `
 `"Gyaaaaaaaaahh!!! `
 `Nooooooooooo!! `
-`Stop tripping all those loser flaaaaaaaaaaags!! `
+` Don't trip so many {c:86EF9C:loser flaaaaaa{-}a{-}a{-}a{-}aags}!!"`
 `You can't handle that punch, dodge iiiiiiiiiit!!" `
 `It happened the instant before the two crashed and their punches crossed. `
 `"You fool, {f:5:Virgilia}. `

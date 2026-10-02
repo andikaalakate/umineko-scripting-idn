@@ -855,7 +855,7 @@
 `Even if I wouldn't be able to win easily, I believed that in a game repeating endlessly, a miracle would eventually occur. `
 `...After all, I had certain willpower on my side, an unwavering desire to win with certainty. `
 `...However, I've now lost that miracle completely. `
-`And, that certain willpower resides in Battler, ...leaving me certainly without even a one-in-a-million chance at a miracle. `
+`And, that certain willpower resides in Battler, ...leaving {ruby:watashi:me} certainly without even a one-in-a-million chance at a miracle. `
 `No, perhaps I should say with no {i:miracles or certainty}...... `
 `I will have no victory...and no end through a tie. `
 `......The only resolution permitted is... `

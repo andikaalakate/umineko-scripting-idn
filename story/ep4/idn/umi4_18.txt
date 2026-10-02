@@ -71,7 +71,7 @@
 `Look's like she wasn't some mademoiselle." `
 `"But one day, *bang*, all coming and going to and from Kuwadorian suddenly stopped. `
 `That was about 30 years ago, `
-`...so around Showa 43 (1968), I think." `
+`...so around {ruby:Showa 43:1968}, I think." `
 `"*bang*? `
 `You mean suddenly?" `
 `"...We came to the Hidden Side on a set schedule to carry food and trash back and forth. `

@@ -65,8 +65,7 @@
 ` Lagi-lagi. `
 ` ...Entah seseorang menghilangkan lembaranku, atau mereka sengaja tidak memberitahuku soal itu. `
 ` Tapi aku tak tahu siapa yang berada di balik semua itu. `
-` Pada akhirnya, menganggap ini sebagai kelalaianku sendiri akan menyelesaikan semuanya dengan lebih cepat... 
-`
+` Pada akhirnya, menganggap ini sebagai kelalaianku sendiri akan menyelesaikan semuanya dengan lebih cepat...`
 ` "Setelah kamu mengisinya, masukkan sendiri ke kotak kuesioner di ruang OSIS. `
 ` Kelas kita adalah satu-satunya yang belum menyerahkan semua kuesioner hingga kemarin." `
 ` Saat aku menundukkan kepala sambal mendengar teguran ketua kelas, `
@@ -312,7 +311,7 @@
 ` Maria onee-chan sudah memberinya nama Sakutaro, meskipun dia belum menerimanya. `
 ` Hari ini, dia sangat menantikan untuk bertemu Sakutaro daripada hari ulang tahunnya sendiri. `
 ` Bibi Rosa mengelola perusahaan desain pakaian. `
- `Sepertinya itu adalah merek tertentu. `
+`Sepertinya itu adalah merek tertentu. `
 ` ...Apa namanya, Anti-Rosa...? `
 ` Sepertinya slogan mereka adalah “Aku tidak bisa memaafkan diriku yang kemarin”. `
 ` ...Sayangnya, aku belum pernah bertemu seserorang yang mengetahui nama brand tersebut. `
@@ -637,12 +636,12 @@
 ` Sakutaro sangat bisa diandalkan!" `
 ` "Uryu. `
 ` Kalau Maria takut dengan hantu, aku sebagai singa akan memberanikan diri untuk mengusirnya. `
-` Uryu-, rooar." `
+` Uryu-, {ruby:ngaum:gaooo}." `
 ` Mereka begitu dekat sampai-sampai aku jadi sedikit iri. `
 ` Seharusnya, aku yang sekarang sudah lebih tua daripada Maria onee-chan saat itu. `
 ` Tetapi Maria onee-chan memang benar-benar kakak perempuanku, dan aku masih belum bisa menyamai levelnya. `
 ` ...Andai saja aku punya teman dekat seperti Sakutaro. `
-` "Maria san Sakutaro adalah teman dekat Ange kan? `
+` "Tetapi Maria dan Sakutaro {i:adalah} teman dekatmu! `
 ` Kami akan selalu ada di sisimu. `
 ` Hanya saja sihirmu yang lemah, membuatmu tidak bisa mendapati kami sebelum membuka buku harianku." `
 `"...Mendapati? `

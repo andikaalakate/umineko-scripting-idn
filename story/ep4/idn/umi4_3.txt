@@ -543,7 +543,7 @@
 `"True. `
 `But this is a journey for my own self-satisfaction. `
 `...Once that's over, I'll just throw my hands up and go over to the Sumadera family. `
-`...Didn't Aunt Kasumi say something about how she wanted to serve me some matcha? `
+`...Didn't Aunt Kasumi say something about how she wanted to serve me some {ruby:powdered tea:matcha}? `
 `Maybe she'll serve me tea as I kneel on sharp wooden blocks, clutching stones or something." `
 `"Damn that sounds freaky, hyahhahahaha...!" `
 `"My apologies, we lost sight of them... `
@@ -562,7 +562,7 @@
 `".........*cackle*cackle* `
 `...Hohohohoho...!!" `
 `With her back still facing Okonogi, she laughed softly, but with an increasingly shrill and hateful tone, using that as a substitute for a sharp parting remark. `
-`Just as she stopped laughing, her features suddenly changed to look like a demon's, `
+`Just as she stopped laughing, her features suddenly changed to look that of a {ruby:hannya:demon}, `
 `but because her back was facing him, Okonogi couldn't see that expression. `
 `Okonogi watched her go, laughing coolly. `
 `His secretary whispered over his shoulder. `
