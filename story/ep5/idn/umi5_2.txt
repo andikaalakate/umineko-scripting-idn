@@ -131,8 +131,8 @@
 `Sudah tahu jawabannya?! `
 `Kalau begitu, ayo, bagaimana jawabanmu, Battler? `
 `Kinzo hanya berjalan-jalan santai. `
-`Kenapa tidak bertingkah seperti biasanya dan mulai memegangi kepala sambil berteriak "INI TIDAK MASUK AKAL!!"...? `
-`Ayo, pakai jurus lamamu "SEMUA INI SIA-SIA", lalu lontarkan satu bantahan omong kosong andalanmu." `
+`Kenapa tidak bertingkah seperti biasanya dan mulai memegangi kepala sambil berteriak "{i:ini sama sekali tidak masuk akal!!}"...?`
+` Ayo, pakai kalimat andalanmu "{i:sama sekali percuma!}" lalu perdengarkan bantahan gilamu yang biasa itu padaku."`
 `"Tidak mungkin manusia yang seharusnya sudah mati bisa berjalan-jalan, kan? `
 `Apa ini semua karena virus tak dikenal bernama Sindrom Rokkenjima yang menyebabkan delusi massal? `
 `Atau karena sisik dari jenis kupu-kupu misterius yang hanya hidup di Rokkenjima bersifat halusinogen?! `
@@ -381,7 +381,7 @@
 `"...Jadi ini patis... `
 `Aku mengira ini semacam kue panggang manis..." `
 `Tampaknya Natsuhi, tanpa menyadari rasanya yang pedas mirip kari, langsung tersedak begitu memasukkannya ke mulut. `
-`Kalau digambarkan dengan istilah Jepang, rasanya seperti pangsit goreng berisi kentang tumbuk berbumbu kari. `
+`Kalau digambarkan dengan istilah Jepang, rasanya seperti {ruby:pangsit goreng:age‐gyoza} berisi kentang tumbuk berbumbu kari.`
 `Sebagai hidangan rumahan, kemungkinan besar anak-anak akan menyukainya. `
 `Namun, bagi Natsuhi yang mengira pendamping teh pasti manis, ini terasa cukup mengejutkan. `
 `"Kau tidak tahu? `
@@ -389,7 +389,7 @@
 `Teh hitam selalu cocok dengan kue kering. `
 `Oh, tapi cokelat juga enak. `
 `Teh Jepang harus ditemani yokan kacang manis, meski kombu asin juga cocok. `
-`Teh Cina cocok dengan pangsit Cina. `
+` Dengan teh Cina, ada {ruby:pangsit Cina:xiaolongbao}.`
 `Walaupun aku juga suka kue bulan." `
 `"...Aku terkejut. `
 `Pengetahuanmu tentang berbagai budaya luas sekali, bukan?" `
@@ -742,8 +742,8 @@
 `karena {f:5:Lambdadelta}, sang Game Master dan {i:pendongeng}, menafsirkannya seperti itu." `
 `"Jika kau bisa menatap adegan ini tanpa sedikit pun cinta pada Natsuhi, kau tidak akan melihat ilusi seperti itu. `
 `...Itulah sebabnya, dengan mataku, yang kulihat hanyalah Natsuhi sendirian, meminum tehnya dalam keheningan." `
-`Tanpa cinta, ia tidak bisa "terlihat". `
-`Karena cinta tidak ada, ia tidak bisa "terlihat". `
+`Tanpa cinta, kebenaran tak akan {y:1:‘terlihat’}{n:1:terlihat}.`
+` Karena cinta tidak ada, kebenaran tak akan {y:1:‘terlihat’}{n:1:terlihat}.`
 `"Kau sedang melihat lamunan siang yang diperlihatkan Natsuhi pada kita. `
 `...{f:5:Beatrice} tidak ada di sana." `
 `"............Ugh......" `

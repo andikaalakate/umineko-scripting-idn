@@ -287,7 +287,7 @@
 `...it might create a new baffling murder case, like an extension of the one that occurred this morning. `
 `"......Th-That might actually turn out for the better. `
 `...Perhaps this is a good chance to confront the culprit directly..." `
-`Natsuhi had some experience with using a naginata, though only casually. `
+`Natsuhi had some experience with using a {ruby:Japanese polearm:naginata}, though only casually.`
 `Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely. `
 `As she was now, she had no realistic chance of challenging a man with malicious intent and winning. `
 `"............" `

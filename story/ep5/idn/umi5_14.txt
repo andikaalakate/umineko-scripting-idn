@@ -1986,7 +1986,7 @@
 `fInished{f:5:fINisHed}fiNiSHedfinIshed{f:5:FiNishED}!" `
 `"<Die the {f:5:death}>! `
 `{n}<Sentence to {f:5:death}>!! `
-`{n}<Great equalizer is the {f:5:death}>}!!" `
+` <Great equalizer is the DEATH>}!!"`
 `With that, the trial for the 5th game ended. `
 `The detective, Furudo Erika, accused the culprit, Ushiromiya Natsuhi. `
 `There are three riddles that the detective must explain. `

@@ -93,7 +93,7 @@
 `...is giving us an incredible challenge, one that might even surpass all the mysteries throughout the world and throughout history. `
 `...Of course, everyone realized that long ago, right...? `
 `If you like mystery, Christie's a must-read. `
-`If you're Japanese, then it's only natural that you've read Shimada Souji's works all the way through. `
+`Dan tidak perlu dikatakan lagi bahwa pembaca Jepang mana pun pasti sudah membaca tuntas karya-karya genre {c:86EF9C:Shin‐Honkaku}.`
 `...Are you sure you've been reading enough, everyone? `
 `*giggle*giggle*, *cackle*cackle*cackle*......" `
 `".........It's useless." `
@@ -1284,7 +1284,7 @@
 `checkcheckcheckcheckcheckcheckcheckc{f:5:heck}{f:5:finished}FINIShedFInisHED{f:5:finishEd}{f:5:fiNIshed}fiNISHEDFINIShEd{f:5:FiNished}FINISHed `
 `{n}<Die the {f:5:death}!> `
 `{n}<Sentence to {f:5:death}!> `
-`{n}<Great Equalizer is the {f:5:death}!!>}" `
+` <Great equalizer is the DEATH>}!!"`
 `No locations would work against Dlanor by this point. `
 `Dlanor took Beato's final desperate onslaught head on, `
 `turning everything back with a far stronger power of denial! `

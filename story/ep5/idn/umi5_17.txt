@@ -1070,7 +1070,7 @@
 `{p:1:During that one hour, you were in the dining hall of the mansion}!! `
 `{p:2:Therefore, it was impossible for you to commit the crimes}!" `
 `"{p:1:It has not been specified that the time of death was during the single hour after midnight}. `
-`{p:2:Therefore, it's possible that the crimes didn't occur between midnight and {nobr:1 a.m.}...!" `
+` {p:2:Therefore, it's possible that the crimes didn't occur between midnight and {nobr:1 a.m.}...!} "`
 `"I'll speak exclusively about the murders in the cousins' room! `
 `{p:1:It is impossible for the crime to have been committed in the cousins' room between 1 a.m. and the time of the crime's discovery}!!" `
 `"Dlanor, now!!!" `
@@ -1195,7 +1195,7 @@
 `"D-Dlanoooooooooooorrrr!!!!" `
 `"{p:1:Knox's 2nd!! `
 `It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}! `
-`If you intend on showing that Kinzo has died with the red truth, I demand that you present evidence of a human truth supporting such a {f:5:statement}}...!" `
+` If you intend on showing that Kinzo has died with the red truth, I demand that you present evidence of a {y:0:Human}{n:0:human} truth supporting such a {f:5:statement}}...!"`
 `"...Forgive me, damn geezer." `
 `"Overcome it, Battler. `
 `Don't let my corpse stop you...!!" `

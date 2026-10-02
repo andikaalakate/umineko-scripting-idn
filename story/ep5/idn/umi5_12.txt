@@ -253,8 +253,8 @@
 `"{p:1:Knox's 2nd: `
 `It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}. `
 `We cannot use that red truth {f:5:directly}. `
-`However, I gave Cornelia, who was protecting the window, `
-`the red truth that "{p:1:the window was never opened after it started {f:5:raining}}"." `
+`Namun, kebenaran merah bahwa {p:1:"jendela tidak pernah dibuka setelah hujan mulai turun"}...`
+`telah kuberikan kepada Cornelia, yang bertugas menjaga jendela."`
 `"Boom. `
 `...That's checkmate. `
 `......Why didn't that girl use that trump card...?" `
@@ -548,7 +548,7 @@
 `{p:1:Krauss, Natsuhi, and Genji did not even touch that letter}! `
 `"...Oho? `
 `Then, `
-`{p:2:when Shannon and Kanon came in to serve tea, who was the last Human to enter the dining hall...? `
+`{p:2:when Shannon and Kanon came in to serve tea, who was the last {y:0:Human}{n:0:human} to enter the dining hall...?`
 `Let's say it was Kanon. `
 `Wouldn't it be easy if Kanon, the last person in, secretly dropped the letter there when he closed the door}?" `
 `"{p:1:Not a single person in the dining hall—no, there's a simpler way to say it. `
@@ -590,7 +590,7 @@
 `or else a sound that could be misidentified as a knock}." `
 `"Please, allow me to speak. `
 `{p:1:At 24:00, except for Krauss, Natsuhi, and Genji in the second floor corridor, `
-`and all of the people in the dining hall, no other Humans existed inside the mansion}." `
+` and all of the people in the dining hall, no other {y:0:Human}{n:0:human}s existed inside the mansion}."`
 `"Please, allow me to speak. `
 `{p:1:In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked, `
 `where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}." `

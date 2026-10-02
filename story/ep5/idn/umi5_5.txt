@@ -539,7 +539,7 @@
 `On the first twilight, kill the six characters that are the key. `
 `............On the first twilight. `
 `"...In other words, ...by the time we reach the first twilight, some string of characters already exists? `
-`That might be a set of Japanese characters, `
+`Tapi {ruby:malam pertama:{p:0:第一の晩}} hanya terdiri dari empat karakter.`
 `but knowing Grandfather's tastes, could it be something in English? `
 `"The first twilight" has more than six characters, `
 `even though the Japanese phrase has just four ({p:0:第一の晩}). `
@@ -739,17 +739,17 @@
 `"The tenth twilight...? `
 `What about it?" `
 `"Well, `
-`......at the end here, it says you'll receive the Golden Land's four treasures "once and for the last time", right?" `
+`.........kata "Tanah Emas" ({ruby:ougonkyou:{p:0:黄金郷}}) muncul beberapa kali, kan?"`
 `"Yeah, it does." `
 `"Why mention that you're reaching the Golden Land just once, and then say it's for the last time? `
-`It's almost as though he's repeating the same thing twice. `
+`Kanji "Kampung Halaman" ({ruby:kyou/sato:{p:0:郷}}) dipisahkan.`
 `I've just been wondering whether he had some reason for putting it like that." `
 `".........You're right. `
 `...Like you said, `
-`there's got to be a more straightforward way of saying that." `
+`Di tempat lain, semuanya tertulis "Tanah Emas" ({ruby:ougonkyou:{p:0:黄金郷}})..."`
 `That line should've been a key part of the riddle, `
 `where you wouldn't expect the writer to waste words needlessly... `
-`Could it have been done for some special purpose...? `
+`Kupikir-pikir apakah kata "Kampung Halaman" ({ruby:kyou/sato:{p:0:郷}}) memiliki makna khusus.........`
 `............... `
 `"Still, ...you and that Erika-chan girl are incredible. `
 `Your minds really are flexible. `
