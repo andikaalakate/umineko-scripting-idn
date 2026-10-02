@@ -344,7 +344,7 @@
 `aku akan bisa menunjukkan dalam sekejap bahwa setiap satu dari miliaran orang dalam ras manusia adalah bodoh. `
 `Dalam kurang dari satu detik, aku bisa menyelesaikan pembuktian bahwa seluruh umat manusia lebih bodoh dariku!!" `
 `"Itu benar-benar QED terkuat dan tercepat di dunia, `
-`"Hempel's Raven"` 
+`"Hempel's Raven"`
 `ini!" `
 `"Ar-......Argumen yang konyol......!!!" `
 `"Itu adalah langkah yang sangat, sangat mudah. `
@@ -398,7 +398,7 @@
 `...Mengerti?" `
 `Mereka membalas logika terpelintirku dengan sesuatu yang bahkan lebih terpelintir. `
 `Jadi satu-satunya hal yang bisa membalas itu...akan menjadi logika terpelintir yang bahkan lebih gila...! `
-"Hmm, aku mengerti. `
+`"Hmm, aku mengerti.`
 `......Bahkan kalau aku entah bagaimana berhasil membuktikan alibi untuk orang ke-19, `
 `begitu itu kulakukan, kau akan memikirkan orang ke-20 dan mengklaim bahwa dialah pelakunya. `
 `Dengan mengulanginya tanpa henti, kau akan membuatku terus mencari alibi mereka untuk selama-lamanya. `
@@ -869,4 +869,3 @@
 `Tolong, tenangkan dirimu..." `
 `"............" `
 `Sampai Rosa berhasil menenangkan napasnya yang terengah-engah, ...tak seorang pun bisa mengucapkan sepatah kata pun... `
-

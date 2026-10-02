@@ -56,7 +56,7 @@
 `...Dan sekarang dia menantang Aniki secara langsung. `
 `Tidak aneh dia menjadi tegang." `
 `"Jadi, Eva memang sudah lama memiliki hubungan yang buruk dengan Krauss nii-san...?" `
-`"Bukankah dia sudah membicarakannya? '
+`"Bukankah dia sudah membicarakannya?`
 `Mereka berdua terus saja bertengkar." `
 `"Dia tidak pernah membicarakan soal masalalunya, bahkan jika aku bertanya. `
 `...Dia mungkin tidak ingin mengingatnya." `
@@ -64,7 +64,7 @@
 `Nilai-nilainya juga cukup bagus. `
 `Dibandingkan dengan itu, milik Aniki biasa saja. `
 `...Fakta sederhana bahwa dia ada saja sudah cukup menjadi tekanan, tapi dia terus memamerkan hal itu dan itu membuatnya terpojok." `
-`"...Si bodoh itu... 
+`"...Si bodoh itu...`
 `Kenapa membuatnya terpojok secara terbuka seperti itu? `
 `Aku tidak akan menyebut itu cerdas." `
 `"Hahaha, memang. `
@@ -122,16 +122,16 @@
 `"Maksudku bukan seperti itu. `
 `Berbicara dengan seorang wanita yang tidak berpendidikan itu melelahkan dan tidak ada artinya. `
 `...Namun, seorang wanita akan lebih merepotkan ketika mereka terlalu pintar. `
-'Aku yakin bahwa seorang wanita yang seagresif dan tegas sepertimu akan membawa banyak kesulitan bagi suaminya masa depan`
-"Apa kamu berusaha mengatakan bahwa seorang wanita harus menikah dan bersembunyi dibalik bayangan suaminya? `
+`"Aku yakin bahwa seorang wanita yang seagresif dan tegas sepertimu akan membawa banyak kesulitan bagi suaminya di masa depan."`
+`"Apa kamu berusaha mengatakan bahwa seorang wanita harus menikah dan bersembunyi di balik bayangan suaminya?`
 `Itu bukan urusanmu!" `
 `"Meskipun kamu adalah adik perempuanku, aku bisa mengagumimu karena rasa hormat yang kamu miliki untuk Ayah dan keinginanmu untuk menjadi anak perempuan yang pantas baginya. `
 `Bahkan aku bisa merasakan rasa hormat terhadap perasaan mulia seperti itu." `
 `"Itu menjijikan. `
-`Apa maksudnya "perasaan mulia"? `
-`Aku menyebut itu sebagai gaya bahasa yang berlebihan, berasal darimu. `
+`Apa maksudnya dengan {ruby:formal:watashi} ini?`
+`Padahal sampai kemarin kau masih selalu menyebut dirimu {ruby:kasual:ore}.`
 `Apa kamu sudah menganggap dirimu sebagai kepala keluarga?" `
-`"Keputusan bahwa aku harus menggantikan jabatan kepemimpinan sudah ditetapkan sejak awal. `
+`"Sudah diputuskan sejak awal bahwa {i:{ruby:watashi:aku}} yang akan mewarisi kepemimpinan ini.`
 `Tapi, sepertinya kamu masih terjebak dalam ilusi bahwa kamu mungkin akan menjadi kepala keluarga, karena itulah usaha yang sia-sia dan ceroboh yang telah kamu lakukan selama ini." `
 `"Usaha yang ceroboh...?! `
 `Apa itu sangat aneh jika aku mengatakan bahwa aku ingin kuliah?!" `
@@ -340,7 +340,7 @@
 `Sampah. `
 `Pecundang. `
 `Jika saja kamu menyerah dan mati saja..." `
-'Meskipun dia melihatku sebagai anak kecil, dia tetaplah diriku yang lain. `
+`Meskipun dia berwujud diriku di masa kecil, dia tetaplah diriku yang lain.`
 `...Lidahnya tajam karena itu milikku. `
 `"...Mendengar hal itu membuatku sangat marah, bahkan dari diriku sendiri. `
 `Kamu tidak berhak berbicara tentangku seperti itu." `

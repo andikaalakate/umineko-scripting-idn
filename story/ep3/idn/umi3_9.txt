@@ -107,12 +107,12 @@
 `bukan agar kalian mencoba menangkapku. `
 `Jika kalian tidak memecahkan teka-teki itu, jumlah korban yang malang akan semakin bertambah. `
 `Akan lebih bijaksana jika kau menghabiskan waktu untuk memecahkan teka-teki nisan itu, daripada mencariku. `
-`Jika tak ada yang bisa memecahkan teka-teki itu, tidak ada yang akan selamat.} `
+`{n}{n}Jika tak ada yang bisa memecahkan teka-teki itu, tidak ada yang akan selamat.}`
 `{e:070:Jika muncul seseorang yang secara ajaib bisa memecahkannya, aku akan memberinya seluruh emas Taman Emas, `
 `kepemimpinan Keluarga Ushiromiya, dan seluruh kekuasaanku. `
 `Akulah yang mewarisi kepemimpinan Keluarga Ushiromiya setelah Kinzo-sama. `
 `Aku menantikan siapa yang akan mewarisi kepemimpinan itu setelahku. `
-`——Penyihir Emas, {f:5:Beatrice}.} `
+`{n}{n}{nobreak:{m:-3:—}—}——Penyihir Emas, {f:5:Beatrice}.}`
 `...Teka-teki nisan itu adalah... yang itu. `
 `Nisan aneh yang ditulis di potret penyihir yang dipajang di aula mansion. `
 `Kakeklah yang memerintahkan agar itu ditulis, `

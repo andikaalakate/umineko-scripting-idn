@@ -148,7 +148,7 @@
 `Anak-anak nakal. `
 `...Kau tidak kebetulan teman anak itu, kan...?" `
 `"...Apa-apaan......nenek tua ini...?!`
-"Pasti ada kesalahan!! `
+`"Pasti ada kesalahan!!`
 `Lagi sekali!!" `
 `"...Kenapa dia bisa melawan kita?!" `
 `"Minggir! `
@@ -638,4 +638,3 @@
 `kamu tidak perlu berpikir, kamu bisa dengan patuh mengatakan “Maaf, {f:5:Beatrice}-sama”! `
 `Lihat, lihat, coba katakan, "Maaf, {f:5:Beatrice}-sama", coba katakan, katakan, katakan, jangan malu, `
 `kukikikikakkakakahhyahhyaaaah hahhahhahahhhahahhyaaahh!!" `
-

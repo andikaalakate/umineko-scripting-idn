@@ -163,7 +163,7 @@
 `Mereka ikan air tawar, tapi bisa hidup di laut? `
 `Aku tidak tau itu. `
 `Aku kira ikan sungai tidak bisa hidup di laut." `
-`"Dan mereka disebut sweetfish karena memiliki aroma yang sedap. `
+`"Ikan ayu juga disebut {ruby:kougyo:{p:0:香魚}} (ikan beraroma) karena memiliki aroma yang harum.`
 `Aku belum pernah memakannya, tapi aku dengar rasanya sangat lezat jika dipanggang dengan garam." `
 `"Apa itu, Natsuhi-san?! `
 `Kau belum pernah makan sweetfish panggang garam?! `
@@ -287,7 +287,7 @@
 `Ini hanya sesuatu dari buku teka-teki Maria. `
 `Ada yang namanya "Buku Catatan Tanuki"." `
 `"Itu adalah buku catatan yang ditulis seperti kode, dengan banyak huruf "ta" yang dicampur, `
-`dan jika kau "menghapus" semua huruf "ta" itu, maka paragraf aslinya akan muncul. `
+`dan jika kau "{ruby:nuki:menghapus}" semua huruf "ta" itu, maka kalimat aslinya akan muncul.`
 `Itu permainan seperti itu." `
 `"Ah, ...oh, aku mengerti. `
 `......??" `
@@ -653,8 +653,8 @@
 `Inilah arti dari sungai sweetfish.`
 `...Jangan berlama-lama, selidiki lebih lanjut.`
 `"I-Iya, aku mengerti..."`
-`Jika kau mengikuti aliran sungai ke hilir, kau akan menemukan sebuah desa... `
-`Dengan menggunakan karakter "{p:0:里}", apakah yang dia maksud adalah sebuah kota atau semacamnya? `
+`Jika kau menyusuri sungai ke hilir, kau akan menemukan sebuah desa ({ruby:sato:{p:0:里}})...`
+`{ruby:sato:{p:0:里}} itu maksudnya kota atau desa, kan?`
 `Itu hanyalah sebuah wilayah dengan kepadatan penduduk yang tinggi, jadi bisa saja ada banyak tempat seperti itu..." `
 `Kenapa kau berhenti berpikir?! `
 `Oh, apakah ini terlalu berat bagimu? Bayangkan kau menyerah begitu saja... `

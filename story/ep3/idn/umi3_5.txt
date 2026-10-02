@@ -129,8 +129,8 @@
 `"...Benar. `
 `Seperti yang kau bayangkan, ini jauh di dalam hutan Rokkenjima. `
 `Sebuah rumah tersembunyi yang tidak dapat ditemukan dari dunia luar. `
-`Namanya adalah Kuwadorian (Pondok Sembilan Burung)." `
-`"...Kalau dipikir-pikir, aku dengar nama asli guesthouse adalah Toraian (Pondok Tamu). `
+`Namanya adalah {ruby:Pondok Sembilan Burung:Kuwadorian}."`
+`"...Kalau dipikir-pikir, kudengar nama asli guesthouse itu adalah {ruby:Pondok Tamu:Toraian}.`
 `...Aku mengerti, selera penamaannya mirip. `
 `...Jadi, kau adalah selir Kakek, yang tinggal di sini secara rahasia. `
 `Bukankah begitu?!" `
@@ -255,7 +255,7 @@
 `"......... `
 `...Hmph." `
 `Ketika aku mulai bersikap dingin, Beato tampaknya tidak mudah patah semangat. `
-Tentu saja, ekspresinya masih tidak tau malu, `
+`Tentu saja, ekspresinya masih tidak tahu malu...`
 `tapi dalam ekspresinya yang sangat mudah dipahami itu, `
 `aku merasa bisa menangkap sekilas kesepian atas kegagalanku menemukan cerita masa lalunya menarik. `
 `...Entah mengapa, reaksi halus itu membuatnya tampak menyedihkan, `
@@ -1086,7 +1086,7 @@ Tentu saja, ekspresinya masih tidak tau malu, `
 `Apakah ada akuarium di sana?" `
 `"Tidak, tidak ada akuarium di pulau ini. `
 `Tapi seharusnya banyak ikan di laut." `
-"Begitu ya. `
+`"Begitu ya.`
 `Jadi ada ikan. `
 `Ada...umm, paus dan lumba-lumba dan penguin, seperti yang kau bicarakan?" `
 `"Tidak, kau harus pergi ke akuarium untuk melihat yang itu. `
@@ -1337,7 +1337,7 @@ Tentu saja, ekspresinya masih tidak tau malu, `
 `Jadi maksudmu semua pembunuhan mengerikan di pulau ini adalah upacara aneh?!' `
 `Aku memang punya firasat kalau ini mungkin terjadi... `
 `Tapi aku tidak bisa hanya mendengar itu dari seorang penyihir dan iblis lalu berkata "Oh, benarkah?" dan menerimanya begitu saja! `
-"Ada 18 orang di Rokkenjima. `
+`"Ada 18 orang di Rokkenjima.`
 `13 di antaranya ditawarkan sebagai korban, lima dibiarkan hidup. `
 `Kemudian aku bangkit kembali. `
 `...Dengan kata lain, peluang Kinzo dapat bertemuku lagi kemungkinan sekitar satu banding tiga. `
@@ -1418,4 +1418,3 @@ Tentu saja, ekspresinya masih tidak tau malu, `
 `"Ya, itu seharusnya cocok untukmu, mari kita lakukan itu. `
 `Aku sekarang sepenuhnya menyadari jenis serangan apa yang paling lemah bagimu! `
 `*terkekeh*terkekeh*terkekeh* Hihihihihihihihihihi!!" `
-

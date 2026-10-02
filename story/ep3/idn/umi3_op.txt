@@ -4,7 +4,7 @@
 `Jadi, takut aku tidak sengaja menghancurkan keindahannya yang rapuh, `
 `Aku selalu diberi perintah yang ketat untuk tidak pernah menyentuhnya. `
 `...Tapi hal tersebut malah membuat aku ingin menyentuhnya. `
-Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya memberikan rasa kehormatan yang tak terlukiskan. `
+`Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya memberikan rasa kehormatan yang tak terlukiskan.`
 `...Aku selalu ingin merasakan bagaimana mennyentuh vas seperti itu.`
 ``Namun, ...seperti yang dikatakan Kakek, itu adalah sesuatu yang tidak boleh disentuh. `
 `Sesuatu yang seindah ini seharusnya tidak pernah disentuh. `
@@ -41,7 +41,7 @@ Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya member
 `...Hohohoho, membayangkan bagaimana dia akan menghukummu membuat aku pun takut{f:5:Beatrice}." `
 `Kakek adalah orang yang sangat menakutkan.`
 `Dan jika kamu gagal mengikuti perintahnya sekali saja, dia akan marah besar, dengan amarah yang bahkan membuat malaikat jatuh di neraka gemetar. `
-`Karena aku tahu itu sampai ke tulang-tulangku, aku tidak bisa berbuat apa-apa selain gemetar dan menangis... ` 
+`Karena aku tahu itu sampai ke tulang-tulangku, aku tidak bisa berbuat apa-apa selain gemetar dan menangis... `
 `"Aku tidak memiliki sihir yang bisa mengumpulkan air matamu yang jatuh, Tuan putri,  `
 `tapi jika kamu membutuhkan sihir yang akan mencegah Tuan memarahimu, aku mungkin bisa melakukan sesuatu." `
 `"B-Benarkah...?" `
@@ -55,7 +55,7 @@ Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya member
 `"Jika itu yang Anda inginkan, Tuan Putri. `
 `...Maka serahkan padaku, {f:5:Beatrice}." `
 `Ketika dia mengulurkan jari telunjuknya, seekor kupu-kupu emas mendarat dengan lembut di sana dan berubah bentuk menjadi tongkat kesayangannya.  `
-`Tetapi itu pun sudah cukup untuk memberiku sedikit gambaran tentang kekuatan sihir {f:5:Beatrice} yang hebat dan mengagumkan.` 
+`Tetapi itu pun sudah cukup untuk memberiku sedikit gambaran tentang kekuatan sihir {f:5:Beatrice} yang hebat dan mengagumkan.`
 `Dia menunjuk tongkatnya ke vas yang pecah, dan, seperti lagu pengantar tidur anak-anak, dia mulai mengucapkan kata-kata sihir...  `
 `"Ayo, coba tutup matamu. `
 `Dan coba ingat.  `
@@ -196,7 +196,7 @@ Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya member
 `"Diam, dasar sampah! `
 `Kalau kau terus melahapnya seperti anjing kelaparan, tentu saja dia akan langsung hancur, sehebat apa pun {f:5:Beatrice}-sama menyembuhkannya." `
 `"Kamu yang paling merusaknya,  Satan-nee. `
-`Kau tidak tahu apa artinya menahan diri." 
+`Kau tidak tahu apa artinya menahan diri."`
 `"Maafkan aku, {f:5:Beatrice}-sama. `
 `Maafkan adik-adikku yang bodoh." `
 `“Perbaiki dia cepat cepatttt!” `
@@ -294,7 +294,7 @@ Terlihat ringan... namun begitu elegan sehingga sekilas saja memandangnya member
 `"Ugwaahh......!!" `
 `"Waaah!! `
 `Aku juga, aku juga! `
-`Aku akan pukul bahunya, oke?!"
+`Aku akan pukul bahunya, oke?!"`
 `"Ga...hahh......!!" `
 `"Keh... `
 `Kalian kan saudara? Mainlah dengan baik satu sama lain, oke...? `

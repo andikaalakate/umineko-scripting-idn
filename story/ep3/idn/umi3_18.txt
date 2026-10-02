@@ -221,7 +221,7 @@
 `Penamu menggeliat seperti cacing. `
 `*kekeh*kekeh*kekeh*kekeh*kekeh*...!" `
 `"Kamu seharusnya bilang...! `
-`Jangan menulis menggunakan {c:86EF9C:katakana}! `
+`Jangan ditulis dengan {c:86EF9C:{ruby:katakana:huruf kapital}} begitu!`
 `{f:5:Beatrice} adalah nama yang keren, jadi tulislah dengan huruf sambung! `
 `Kamu membuat pena dan namamu menangis!" `
 `"Di-Diam, di sekolah, bukankah mereka mengatakan tidak boleh menggunakan huruf sambung saat ujian?" `
@@ -375,9 +375,9 @@
 `"...Maaf, Battleer. `
 `Ini sangat menyenangkan. `
 `...Tentu saja, aku hanya melakukan apa yang Guruku katakan, tapi lihatlah hasilnya sebagus apa!" `
-`"Tampaknya, jika kamu langsung menunjukkan sifat yang keras dan kejam, dan berubah menjadi tidak kompeten dan lembek di saat yang benar, kamu bisa memicu letupan pada gejolak emosimu , kaann?" `
-`"Aku telah mendengar penjahat yang memulai sebagai seseorang yang penuh kasih sayang lalu tiba-tiba berubah menjadi aneh adalah hal yang tren sekarang, kan? `
-`Bahkan aku mempelajari banyak manga, anime, dan galge yang sedang populer, kan?" `
+`"Kudengar, setelah bersikap {ruby:tsuntsun:ketus} dan sekejam-kejamnya, lalu bersikap sedikit canggung dan {ruby:dere:manis}, tingkat kesukaanmu bakal melonjak drastis, kan?"`
+`"Kudengar penjahat yang bersikap {ruby:dere:manis} lalu menjadi {ruby:yan:gila} sedang sangat populer belakangan iniiiii...!`
+`Begini-begini juga, aku sudah banyak belajar dari manga, anime, dan {c:86EF9C:galge} yang sedang populer akhir-akhir ini, tahu?"`
 `"Dan untukmu, seperti yang diharapkan, dengan "tangisan palsu", dan kamu luluh!! `
 `Hihhyahhahhahahahahahahahahahahahaha, i-diot, orang yang sangat naif!! `
 `Aku menyebut ini "the North Wind and the Sun Strategy". `

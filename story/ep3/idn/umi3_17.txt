@@ -689,7 +689,7 @@
 `"Letakkan tanganmu di dinding di sebelah kananmu, dan terus ikuti itu." `
 `"...Aku akan membawamu ke ruangan yang aman." `
 `"............Jika aku pergi ke sana," `
-`"...apakah kamu akan... "
+`"...apakah Kanon-kun akan...`
 `pergi, Kanon-kun...?" `
 `"............" `
 `{n}Kanon tidak menjawab. `
@@ -1582,7 +1582,7 @@
 `{f:5:Beatrice} mendaratkan kakinya di aula yang direkonstruksi, `
 `mendekati mayat Kyrie, dan berjalan berkeliling, mengamati.. `
 `"-Aku benar-benar tidak tahu apa-apa dalam bertarung di pihak Manusia... `
-`......Kita perlu menemukan bukti, kan...? `    
+`......Kita perlu menemukan bukti, kan...? `
 `...Lalu apa yang harus kucari?" `
 `"Penyihir Agung {f:5:Beatrice} berlutut dan merangkak! `
 `Dan dia bahkan menggeledah mayat? `
