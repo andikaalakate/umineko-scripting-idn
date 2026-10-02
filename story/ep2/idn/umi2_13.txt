@@ -467,7 +467,7 @@
 `"...S-Siapa sebenarnya itu..." `
 `Genji mengambil pisau dengan desain klasik dari kotak alat tulis di dekat papan catur. `
 `...Itu adalah pembuka surat yang biasa dipakai untuk membuka amplop tagihan dan surat pengiriman. `
-*...Tapi itu tetaplah pisau. `
+`...Tapi pada dasarnya itu tetaplah pisau.`
 `Jadi bilahnya bisa melukai seseorang... `
 `Genji menyembunyikannya di lengan bajunya. `
 `Lalu, dia sendiri mendekati pintu belakang, memberi anggukan pada Gohda. `
@@ -503,7 +503,7 @@
 `...Rosa-sama......" `
 `"...Kumohon tunggu! `
 `Kanon-san bilang...tidak Rosa-sama..." `
-`"...Wh-What do you mean, Kanon-kun...?!" `
+`"...A-Apa maksudmu, Kanon-kun...?!"`
 `"......Bukan waktunya untuk itu. `
 `Ayo bawa dia ke ruangan pelayan. `
 `Kumasawa, jangan katakan pada Rosa-sama dulu. `

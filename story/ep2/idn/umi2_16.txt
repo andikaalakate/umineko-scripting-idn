@@ -303,7 +303,7 @@
 `Sejenak, Aku menatapnya dari koridor, tersadar aku sudah menunggu cukup lama, dan masuk ke ruang tamu. `
 `...Jika dia tidak memercayai siapapun kecuali yang telah mati, kenapa dia tidak membunuh semuanya dengan senjata di tangannya? `
 `Lalu, pada akhirnya, dia akan menyadari kalau dia sendiri adalah serigala. `
-`...Then she can just blast through the head of the final wolf and close the curtain on this insane murder drama... `
+`{n}...Dan kemudian dia bisa menembak menembus kepala serigala terakhir, lalu menutup tirai dari drama pembunuhan gila ini...`
 `Saat aku berpikir tentang itu, Aku kembali ke sofa di tempatku sebelumnya, `
 `meletakkan kedua kakiku di meja... `
 `...Ketika aku mencoba melakukan itu, Aku menemukan sesuatu dan berhenti menggerakan kakiku. `

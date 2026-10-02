@@ -96,7 +96,7 @@
 `Tahu apa?! `
 `Oktober merupakan waktu dimana kekuatan dari para penyihir dan iblis berada di puncak kejayaannya! `
 `Kihihihihihihihi, aku yakin {f:5:Beatrice} akan datang!" `
-`"Lalu, kita akan marshmallow bersama, and she'll bring me to the Golden Land with her! `
+`"Lalu, kami akan makan permen marshmallow bersama, dan beliau akan membawa Maria ke Tanah Emas bersamanya!`
 `We'll sing magical songs together, mempelajari mantra sihir bersama, mempelajari cara membuat lingkaran sihir bersama! `
 `Kemudian, kita akan mencari tahu rahasia dari aksara kuno, dan aku akan menjadi penyihir yang agung, secepatnya!" `
 `"Wah, wah, bukankah itu menakjubkan. `
@@ -166,7 +166,7 @@
 `"Bukankah udah ku katakan... `
 `kepadamu... `
 `untuk berhenti...`
-' membicarakan... `
+`mengatakan...`
 `tentang penyihir?!! `
 `Kenapa kau, `
 `kau, kau!!!" `

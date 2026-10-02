@@ -288,13 +288,13 @@
 `Shannon ragu apakah aman untuk melanjutkan percakapan ini, tapi {f:5:Beatrice} melanjutkan dengan sendirinya, mengabaikan Shannon. `
 `"Lagi pula, memiliki kontrak, dan aturan-aturan yang tepat. `
 `Berbagai prosedur tercampur aduk, tapi...yah, untuk menghargai antusiasmenya, Aku dengan senang hati menerima kontraknya. `
-`...Lalu, Aku memberikannya segunung emas
+`...Lalu, Aku memberikannya segunung emas."`
 `"Dan kemudian Tuan...menggunakan emas itu, dan sukses dalam bisnis...dan mengembangkan kekayaannya hingga seperti sekarang ini." `
 `"Tepat. bakatnya dalam sihir sangat sedikit, tapi sepertinya dia punya bakat dalam bisnis, dan judi. `
 `...Atau mungkin karena keberanian, dan kegilaannya yang membuatnya mengambil resiko untuk seluruh taruhan yang tak masuk akal. `
 `...Kegilaan terkadang bertindak seperti kekuatan sihir. `
 `Begitu, Jika kamu melihat seperti itu, mungkin tidak adil mengatakan kalau dia sama sekali tidak memiliki bakat sihir. `
-`*kekeh*kekeh*..." ` 
+`*kekeh*kekeh*..." `
 `Shannon merasa dia sedang melamun. `
 `Ketika semua orang di keluarga Ushiromiya tahu cerita tentang bagaimana Kinzo mengidolakan ilmu hitam, memanggil seorang penyihir, dan menerima emas itu, pada kenyataannya, itu hanya ocehan yang tidak dipercayai siapapun. `
 `Dan sekarang, Shannon mendapatkan konfirmasi langsung oleh penyihir itu sendiri... `
@@ -524,7 +524,7 @@
 `...Tapi saat Shannon menutup matanya dan tersenyum, dia menggelengkan kepalanya sedikit. `
 `"Bagiku warnanya biru tua." `
 `"...Apa itu maksudmu? `
-`Seperti bagaimana orang Jepang menggunakan kata "biru" untuk merujuk pada lampu lalu lintas berwarna hijau?" `
+` Seperti {c:86EF9C:menggunakan kata {ruby:biru:"{i:ao}"} untuk lampu lalu lintas berwarna hijau}?"`
 `"Tidak. `
 `...Laut itu biru tua. `
 `Jika aku mengerti dan kamu tidak, `

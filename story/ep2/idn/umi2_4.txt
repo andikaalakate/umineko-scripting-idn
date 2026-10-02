@@ -469,7 +469,7 @@
 `Krauss-sama dan yang lainnya mungkin akan membahas masalah warisan Tuan Besar tahun ini juga. `
 `....Ketika mereka bersemangat membicarakan emas si penyihir, tidak heran jika penyihir itu sendiri muncul, kan?" `
 `"Kumasawa-san, `
-`...Kurasa kamu berhenti dan dipekerjakan kembali, tapi kamu sudah di sini selama Genji-san, kan
+`...Kurasa kamu berhenti dan dipekerjakan kembali, tapi kamu sudah di sini selama Genji-san, kan?`
 `...Kamu tahu lebih banyak...tentang {f:5:Beatrice}, kan?" `
 `"......Siapa yang tahu? `
 `Hohohoh... `
@@ -485,7 +485,7 @@
 `"...Namun, aku bisa mengatakan ini." `
 `"...Apa?" `
 `"......Pada zaman dulu, Rokkenjima ditakuti, dan disebut "{ruby:Pulau Kacang Azuki:Azukijima}". `
-`"Azuki" merupakan bentuk rusak dari "Akujiki" dan sebenarnya disebut "Akujikishima" (Pulau Hawa Jahat). Begitulah yang diceritakan di antara para nelayan." `
+`Konon menurut para nelayan, "Azuki" adalah pelafalan keliru dari "Akujiki", dan sebenarnya pulau itu dinamai "{ruby:Pulau Pelahap Jahat:Akujikijima}"."`
 `"Aku pernah dengar tentang itu sebelumnya. `
 `Katanya, ada banyak batu karang dan bangkai kapal di sekitar sini, jadi para nelayan takut dan menjauh sebisa mungkin, kan?" `
 `"...Roh-roh jahat menetap di Akujikishima dan terus memakan jiwa manusia sejak zaman dulu. `

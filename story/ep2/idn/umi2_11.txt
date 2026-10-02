@@ -666,7 +666,7 @@
 `"Ya, benar. `
 `...Ada apa, {f:5:Beatrice}-sama? `
 `Wajahmu terlihat agak pucat sejak tadi, huh...?" `
-`"...Orang-orang terdekatku biasa memanggilku {ruby:bay-ah-tow:Beato}. `
+`"...Orang-orang terdekatku terkadang memanggilku Beato.`
 `Panggil saja Beato." `
 `"Sekarang giliranmu, Beato. `
 `Giliran sang Penyihir Emas! `

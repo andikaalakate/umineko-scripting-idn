@@ -256,7 +256,7 @@
 `...Mereka semua berjuang dengan rasa panik melawan perasaan mengerikan yang mencengkeram hati mereka. `
 `"...Nii-san...? `
 `......Nee-san......?" `
- `Selama dia berjalan melalui altar, dia memanggil kembali, tetapi masih tidak ada respon. `
+`Selama dia berjalan melalui altar, dia memanggil kembali, tetapi masih tidak ada respon. `
 `...Benar, ...untuk sekarang, Rosa sangat yakin. `
 `...Dia yakin bahwa itu semua bukanlah boneka, `
 `{i:tetapi mereka sendiri}...! `
@@ -338,7 +338,7 @@
 `Aaaaaaaaaaaaaah, aku takut! Apa yang baru saja aku injak? Aku bahkan tidak berani melihat bagian bawah kakiku!! `
 `Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa!!! `
 `...Apa ini... mengapa ada pesta Halloween yang mengerikan...!!! `
- `Dari jauh, terlihat benar-benar indah, fantastis, dan menyenangkan. `
+`Dari jauh, terlihat benar-benar indah, fantastis, dan menyenangkan. `
 `Tapi dari dekat, mengerikan, menjijikkan, dan entah bagaimana terlihat indah...!! `
 `“Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!” `
 `Pikiran liar Rosa berusaha sekuat tenaga untuk melepaskan diri dari tenggorokannya dengan suara keras yang bukan teriakan maupun raungan... `
@@ -377,7 +377,7 @@
 `Kemana mereka pergi?" `
 `"Ruangan pelayan dan dapur kosong. `
 `...Apa yang sedang terjadi?" `
-`"Uu-uu-uu-!! 
+`"Uu-uu-uu!!`
 `Mama!! `
 `Dimana Mama?!! `
 `Suratku! `
@@ -420,7 +420,7 @@
 `Jessica berteriak ke arah lorong, dan akhirnya, jawaban pun datang. `
 `Suara itu berasal dari lorong masuk. `
 `"Aku bisa mendengarmu. `
- `...Apakah sesuatu sedang terjadi?" `
+`...Apakah sesuatu sedang terjadi?" `
 `"Itu adalah Dokter Nanjo. `
 `...Terima kasih tuhan. `
 `Sepertinya, semua orang kecuali kita belum menghilang dari pulau ini." `
@@ -535,7 +535,7 @@
 `"{i:Oleh karena itu, kita tidak dapat mengesampingkan kemungkinan bahwa mayat palsu disiapkan untuk menciptakan alibi.}" `
 `"{i:Selama kemungkinan tersebut tidak dibantah, teori bahwa pelaku merupakan manusia masih bisa dibuat!!}"" `
 `"Apa katamuuuuuu...?!!" `
- `"*terkekeh-kekeh*kikikikikikikikikikikikikikikikikikikiki!! `
+`"*terkekeh-kekeh*kikikikikikikikikikikikikikikikikikikiki!! `
 `Jadi, Battler, apakah boleh menyerahkan pemeriksaan mayat kepada Nanjo? `
 `Bukankah dalam novel misteri, dokter yang melakukan pemeriksaan semacam itu biasanya menjadi kaki tangan?" `
 `"Kalau begitu, jangan serahkan pemeriksaan itu kepadanya. Lakukan sendiri. `

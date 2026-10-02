@@ -130,7 +130,7 @@
 `"T-T-Tidak, umm, anu, `
 `......errr." `
 `"..............." `
-Seluruh rasa percaya diri dan usaha yang telah dia bangun dengan berlatih di depan cermin semalaman hilang dalam waktu sekitar lima detik... `
+`Seluruh rasa percaya diri dan usaha yang telah dia bangun dengan berlatih di depan cermin semalaman hilang dalam waktu sekitar lima detik...`
 `Wajah Jessica memerah dan dia menundukkan kepala. `
 `Melihat itu, Kanon menghela nafas. `
 `...Jessica mengira dia sedang dibuat kesal olehnya, dan wajahnya pun memucat. `
@@ -208,12 +208,12 @@ Seluruh rasa percaya diri dan usaha yang telah dia bangun dengan berlatih di dep
 `"...Aku merasa kayaknya aku mengganggu. `
 `Apakah aku menjadi beban?" `
 `"A-A-Aku bilang juga, tidak mungkin!!" `
-`"...Tolong bilang kapan saja kalau aku mulai mengganggu..." `
+`"...Jika {ruby:boku:aku} mengganggu, beri tahu saja kapan pun..."`
 `((Kyaa, tidak mungkiiin, dia menyebut dirinya "boku"!!!!)) `
 `"Ahiiiiiiiii, t-tentu aja nggak mungkin kamu mengganggu, Kanon-kun!!" `
 `(((Kyaaaaaa, dia memanggil pacarnya "kun"!!!))) `
 `"...Apa yang ingin anda perintahkan padaku, Nona?" `
-`(((Omigoood, dia nyuruh pacarnya manggil dia Milady, kayak kepala pelayan, omg!!!))) `
+`(((Ya ampun, dia menyuruhnya memanggil "Nona", seperti pelayan, {ruby:omg:ktkr}!!!)))`
 `"Tidak boleeeeeeh, hari ini jangan panggil aku Nona!!" `
 `".........B-Begitu ya? `
 `Sesuai keinginanmu, Jessica-sama." `
