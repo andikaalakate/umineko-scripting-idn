@@ -85,7 +85,7 @@
 `Tidak, tunggu, `
 `...apakah ada tempat di sekitar sana dengan nama yang mengandung 'pantai' atau {ruby:kishi:{p:0:岸}}?" `
 `"Ummm, `
-`...saya dengar ada tempat bernama Sogakishi di Odawara." `
+`...saya dengar ada tempat bernama {ruby:Sogakishi:{p:0:曽我岸}} di Odawara."`
 `"Hah?! `
 `Wow, `
 `kau tahu banyak juga ya! `
@@ -274,7 +274,7 @@
 `Satu-satunya perbedaan adalah di pulau ini disebut penyihir. `
 `Tentu saja, berjalan sendirian di mansion mewah dan luas saat malam bisa cukup menyeramkan. `
 `Pulau ini pun sepi dari manusia. `
-`Mansion-nya besar dan berangin, kalau malam hari hujan petir pasti suasananya menyeramkan. ` 
+`Mansion-nya besar dan berangin, kalau malam hari hujan petir pasti suasananya menyeramkan. `
 `"Selain itu, beberapa pelayan juga pernah melihat api hantu dan kupu-kupu berkilauan menari-nari. `
 `...Kanon-kun juga pernah melihat sesuatu seperti itu saat dia patroli malam. `
 `Dan akhir-akhir ini, para pelayan sering bicara tentang suara langkah kaki aneh yang terdengar di dalam mansion sekitar tengah malam. `

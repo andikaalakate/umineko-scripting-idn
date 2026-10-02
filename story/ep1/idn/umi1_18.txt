@@ -145,7 +145,7 @@
 `...Jika pelakunya manusia, bagaimana cara mereka melakukannya...?" `
 `"...Itu... `
 `...ya, `
-sulit membayangkan bagaimana cara mereka melakukan hal sekejam itu. `
+`sulit membayangkan bagaimana cara mereka melakukan hal sekejam itu. `
 `Namun itu kan gudang dari kebun mawar, bukan? `
 `Aku yakin ada banyak alat yang aneh disana. `
 `Sebut saja mereka menggunakan semacam alat elektrik seperti penggiling dan gergaji listrik." `
@@ -304,7 +304,7 @@ sulit membayangkan bagaimana cara mereka melakukan hal sekejam itu. `
 `Bagaimana manusia dapat melakukannya? `
 `Maksudku, secara praktik? `
 `Aku tebak kamu akan mengatakan "aku tidak bisa memikirkannya ekarang" atau "dengan semacam alat". ...Menggunakan kata-kata abstrak untuk menghindari topik." `
-`"...Yang sangat ingin tah, Battler. `
+`"...Yang sangat ingin kutahu, Battler. `
 `Mengapa kamu tidak percaya pada {f:5:Beatrice}? `
 `Dia itu ada, jadi mengapa kamu tidak percaya?" `
 `"Karena dia tidak "ada"! `
@@ -420,7 +420,7 @@ sulit membayangkan bagaimana cara mereka melakukan hal sekejam itu. `
 `"...Heh. `
 `Tiba-tiba langsung ke poin utama, ya? `
 `...Apakah itu berarti trik yang kau gunakan sangat kau banggakan? `
-`Nyonya {i:pelaku sesungguhnya? `
+` Nona {i:Pelaku Sebenarnya}?"`
 `Dengan goyangan pipa emasnya, `
 `asap lembut berwarna-warni keluar dari ujungnya. `
 `Asap itu dengan cepat menyelimuti sekitar mereka, `

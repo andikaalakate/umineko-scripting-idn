@@ -1,5 +1,5 @@
-`"Kapal bergoncang keras."`
-`"Sepertinya kita sudah merapat di pelabuhan."`
+`Kapal bergoncang keras.`
+`Sepertinya kita sudah merapat di pelabuhan.`
 `{n}Nahkoda kapal keluar dan melompat ke dermaga dengan tali tambat.`
 `Seorang pria besar berbaju tuksedo menunggu kami di sana dengan wajah ramah tersenyum.`
 `...Aku tidak mengenalnya, tapi dari pakaiannya, kutebak dia adalah pelayan rumah utama keluarga Ushiromiya.`

@@ -35,7 +35,7 @@
 `...Dari sudut pandangmu, kekuatanku hanyalah kekuatan sepele. `
 `Ini jelas hanya pujian kosong." `
 `"...Anggap saja ini sanjungan sebagai ganti biaya tinggal di sini. `
-`...Aku adalah pengelana yang kabur, melintasi Fragmen, terus berlari dari kebosanan. `
+`...Aku adalah pengelana yang kabur, melintasi {ruby:kakera:fragmen}, terus berlari dari kebosanan.`
 `...Aku hanya mampir karena kudengar kau memulai sesuatu yang menarik. `
 `Tak perlu khawatir, aku akan pergi begitu kau tak lagi menarik." `
 `"*kekeh*kekeh*...! `

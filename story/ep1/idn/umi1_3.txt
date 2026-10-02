@@ -368,8 +368,8 @@
 ` Tinggimu berapa?"`
 `"Sekitar 180 cm, kurasa?"`
 ` Tidak, tunggu, kau melewatkan momenmu, seharusnya kau langsung bilang "Apa kerjamu cuma makan?!"`
-`"Hah?"
-` ......Ahh, *cekikikan*, maaf."
+`"Hah?"`
+` ......Ahh, *cekikikan*, maaf."`
 `Setelah beberapa saat, dia tertawa kecil, tapi sepertinya dia tidak begitu mengerti apa yang seharusnya ditertawakannya.`
 `Wanita ini adalah Bibi Natsuhi ({p:0:夏妃}).`
 `Dia adalah istri putra tertua keluarga, yang berarti dia adalah istri kakak laki-laki ayahku.`
